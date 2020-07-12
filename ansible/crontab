@@ -27,3 +27,13 @@ MAILTO=root
 # * * * * * user-name command to be executed
 #0 9 * * * root /home/sg5414/cronjontestfolder/test1/test.sh
 #30 2 * * * root ansible-playbook /home/sg5414/covid-internet-controls/ansible/deploy.yml
+#16 5 * * * sg5414 /home/sg5414/covid-internet-controls/query_worker_trigger_term_script.sh
+
+0 1 * * 0 root ansible-playbook /home/sg5414/covid-internet-controls/ansible/deploy.yml
+0 5 * * 0 root /home/sg5414/covid-internet-controls/query_worker_multiple_targets.sh
+0 11 * * 0 root /home/sg5414/covid-internet-controls/query_worker_trigger_term_script.sh
+
+
+
+
+
