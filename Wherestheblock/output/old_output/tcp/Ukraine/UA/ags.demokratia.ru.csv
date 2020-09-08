@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ags.demokratia.ru,0,"traceroute to ags.demokratia.ru (31.31.205.163), 30 hops max, 60 byte packets
+"
+ags.demokratia.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.320 ms  0.303 ms  0.287 ms
+"
+ags.demokratia.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.666 ms  0.534 ms  0.634 ms
+"
+ags.demokratia.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.876 ms  15.870 ms  15.849 ms
+"
+ags.demokratia.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.215 ms  17.236 ms  17.221 ms
+"
+ags.demokratia.ru,5," 5  * * *
+"
+ags.demokratia.ru,6," 6  * * *
+"
+ags.demokratia.ru,7," 7  * * *
+"
+ags.demokratia.ru,8," 8  ns1.domainparking.int.reg.ru (31.31.205.163)  18.111 ms  17.428 ms  17.443 ms
+"

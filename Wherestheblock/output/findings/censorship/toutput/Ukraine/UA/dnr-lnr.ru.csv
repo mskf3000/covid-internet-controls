@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+dnr-lnr.ru,0,"traceroute to dnr-lnr.ru (87.236.19.96), 30 hops max, 60 byte packets
+"
+dnr-lnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.408 ms  0.397 ms  0.389 ms
+"
+dnr-lnr.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  19.942 ms  18.280 ms  17.509 ms
+"
+dnr-lnr.ru,3," 3  bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  28.228 ms  27.316 ms bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  23.942 ms
+"
+dnr-lnr.ru,4," 4  cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  24.643 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.835 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  24.181 ms
+"
+dnr-lnr.ru,5," 5  * * *
+"
+dnr-lnr.ru,6," 6  m2.vader1.beget.com (87.236.19.96)  26.090 ms  26.029 ms  29.773 ms
+"

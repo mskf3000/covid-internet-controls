@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+megatfile.cc,0,"traceroute to megatfile.cc (185.165.168.122), 50 hops max, 60 byte packets
+"
+megatfile.cc,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.383 ms  0.371 ms  0.355 ms
+"
+megatfile.cc,2," 2  dtel-ix.balcan-ix.net (193.25.180.254)  29.311 ms  29.310 ms  29.300 ms
+"
+megatfile.cc,3," 3  * * *
+"
+megatfile.cc,4," 4  buc-ird-01gw.voxility.net (109.163.235.157)  45.424 ms  45.563 ms  45.750 ms
+"
+megatfile.cc,5," 5  buc-ird-01c.voxility.net (109.163.235.50)  42.284 ms  42.327 ms  42.397 ms
+"
+megatfile.cc,6," 6  buc-ird-27sw.voxility.net (109.163.235.182)  41.987 ms  42.129 ms  42.477 ms
+"
+megatfile.cc,7," 7  buc-ird-46sw.voxility.net (93.114.40.162)  41.869 ms * *
+"
+megatfile.cc,8," 8  185.165.168.122 (185.165.168.122)  41.647 ms  41.842 ms  41.753 ms
+"

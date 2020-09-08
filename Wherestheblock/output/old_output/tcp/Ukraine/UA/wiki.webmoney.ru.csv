@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+wiki.webmoney.ru,0,"traceroute to wiki.webmoney.ru (91.227.52.227), 30 hops max, 60 byte packets
+"
+wiki.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.351 ms  0.356 ms
+"
+wiki.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.485 ms  2.159 ms  0.507 ms
+"
+wiki.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.909 ms  15.903 ms  15.925 ms
+"
+wiki.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.908 ms  15.926 ms  15.912 ms
+"
+wiki.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.232 ms  17.066 ms  17.102 ms
+"
+wiki.webmoney.ru,6," 6  91.227.52.227 (91.227.52.227)  16.896 ms  16.800 ms  16.797 ms
+"

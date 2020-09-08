@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+1c.ru,0,"traceroute to 1c.ru (185.12.152.144), 30 hops max, 60 byte packets
+"
+1c.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.273 ms  0.300 ms
+"
+1c.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  4.790 ms  4.787 ms  4.797 ms
+"
+1c.ru,3," 3  * * *
+"
+1c.ru,4," 4  reconn.msk.cloud-ix.net (31.28.19.55)  16.860 ms  16.838 ms  16.843 ms
+"
+1c.ru,5," 5  195.209.44.58 (195.209.44.58)  22.441 ms  22.441 ms  22.429 ms
+"
+1c.ru,6," 6  185.12.152.144 (185.12.152.144)  22.762 ms  16.747 ms  23.292 ms
+"

@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+segodnya.ua,0,"traceroute to segodnya.ua (91.231.1.1), 50 hops max, 60 byte packets
+"
+segodnya.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.373 ms  0.359 ms  0.373 ms
+"
+segodnya.ua,2," 2  dtel-ix.mgukraine.com (193.25.181.85)  0.555 ms  0.492 ms  0.533 ms
+"
+segodnya.ua,3," 3  91.231.1.1 (91.231.1.1)  0.682 ms  0.697 ms  0.690 ms
+"

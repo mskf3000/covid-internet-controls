@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+goo.ne.jp,0,"traceroute to goo.ne.jp (153.254.147.65), 50 hops max, 60 byte packets
+"
+goo.ne.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.344 ms  0.327 ms  0.334 ms
+"
+goo.ne.jp,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.933 ms  1.011 ms  1.054 ms
+"
+goo.ne.jp,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.002 ms  17.029 ms  17.066 ms
+"
+goo.ne.jp,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.154 ms  18.292 ms  18.363 ms
+"
+goo.ne.jp,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.597 ms  18.774 ms  18.663 ms
+"
+goo.ne.jp,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  284.271 ms  284.749 ms  284.670 ms
+"
+goo.ne.jp,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.717 ms  46.743 ms  46.685 ms
+"
+goo.ne.jp,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  117.974 ms  117.968 ms  117.978 ms
+"
+goo.ne.jp,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  183.879 ms  182.351 ms  180.407 ms
+"
+goo.ne.jp,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  291.994 ms  290.167 ms  283.846 ms
+"
+goo.ne.jp,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  295.550 ms  285.528 ms  285.620 ms
+"
+goo.ne.jp,12,"12  ae-1.a00.tokyjp05.jp.bb.gin.ntt.net (129.250.4.26)  297.110 ms ae-0.a00.tokyjp05.jp.bb.gin.ntt.net (129.250.4.6)  285.901 ms  285.969 ms
+"
+goo.ne.jp,13,"13  xe-0-0-22-2.a00.tokyjp05.jp.ce.gin.ntt.net (61.213.145.182)  284.561 ms  294.971 ms  302.752 ms
+"
+goo.ne.jp,14,"14  * * *
+"
+goo.ne.jp,15,"15  * * *
+"
+goo.ne.jp,16,"16  * * *
+"
+goo.ne.jp,17,"17  * * *
+"
+goo.ne.jp,18,"18  * * *
+"
+goo.ne.jp,19,"19  * * *
+"
+goo.ne.jp,20,"20  * * *
+"
+goo.ne.jp,21,"21  * * *
+"
+goo.ne.jp,22,"22  * * *
+"
+goo.ne.jp,23,"23  * * *
+"
+goo.ne.jp,24,"24  * * *
+"
+goo.ne.jp,25,"25  * * *
+"
+goo.ne.jp,26,"26  * * *
+"
+goo.ne.jp,27,"27  * * *
+"
+goo.ne.jp,28,"28  * * *
+"
+goo.ne.jp,29,"29  * * *
+"
+goo.ne.jp,30,"30  * * *
+"
+goo.ne.jp,31,"31  * * *
+"
+goo.ne.jp,32,"32  * * *
+"
+goo.ne.jp,33,"33  * * *
+"
+goo.ne.jp,34,"34  * * *
+"
+goo.ne.jp,35,"35  * * *
+"
+goo.ne.jp,36,"36  * * *
+"
+goo.ne.jp,37,"37  * * *
+"
+goo.ne.jp,38,"38  * * *
+"
+goo.ne.jp,39,"39  * * *
+"
+goo.ne.jp,40,"40  * * *
+"
+goo.ne.jp,41,"41  * * *
+"
+goo.ne.jp,42,"42  * * *
+"
+goo.ne.jp,43,"43  * * *
+"
+goo.ne.jp,44,"44  * * *
+"
+goo.ne.jp,45,"45  * * *
+"
+goo.ne.jp,46,"46  * * *
+"
+goo.ne.jp,47,"47  * * *
+"
+goo.ne.jp,48,"48  * * *
+"
+goo.ne.jp,49,"49  * * *
+"
+goo.ne.jp,50,"50  * * *
+"

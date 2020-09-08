@@ -1,0 +1,37 @@
+URL,TTL,Response_Message
+cones.tv,0,"traceroute to cones.tv (216.104.165.14), 30 hops max, 60 byte packets
+"
+cones.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.423 ms  0.411 ms  0.405 ms
+"
+cones.tv,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.187 ms  1.228 ms  1.283 ms
+"
+cones.tv,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.653 ms  17.617 ms  17.363 ms
+"
+cones.tv,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.897 ms  22.645 ms  22.867 ms
+"
+cones.tv,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.673 ms  30.732 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.515 ms
+"
+cones.tv,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.669 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.685 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.760 ms
+"
+cones.tv,7," 7  be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.485 ms be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.239 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.850 ms
+"
+cones.tv,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  115.679 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.132 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  115.552 ms
+"
+cones.tv,9," 9  be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.646 ms  115.724 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.761 ms
+"
+cones.tv,10,"10  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.302 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.582 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.519 ms
+"
+cones.tv,11,"11  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  148.290 ms be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  134.030 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  150.464 ms
+"
+cones.tv,12,"12  be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  164.829 ms  166.737 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  185.432 ms
+"
+cones.tv,13,"13  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  185.409 ms  190.817 ms be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  190.763 ms
+"
+cones.tv,14,"14  be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  190.799 ms  190.768 ms be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  190.761 ms
+"
+cones.tv,15,"15  te0-0-2-0.nr11.b021802-1.san01.atlas.cogentco.com (154.24.28.242)  190.748 ms  190.734 ms te0-0-2-3.nr11.b021802-1.san01.atlas.cogentco.com (154.24.28.250)  195.868 ms
+"
+cones.tv,16,"16  te0-0-2-3.nr11.b021802-1.san01.atlas.cogentco.com (154.24.28.250)  195.829 ms 38.104.122.222 (38.104.122.222)  195.824 ms te0-0-2-0.nr11.b021802-1.san01.atlas.cogentco.com (154.24.28.242)  195.829 ms
+"
+cones.tv,17,"17  star.clikme.co (216.104.165.14)  195.771 ms 38.104.122.222 (38.104.122.222)  195.746 ms star.clikme.co (216.104.165.14)  195.791 ms
+"

@@ -1,0 +1,408 @@
+URL,TTL,Message
+citilink.ru,1,
+citilink.ru,2,
+citilink.ru,3,
+citilink.ru,4,
+citilink.ru,5,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 04 Dec 2018 14:52:24 GMT
+ETag: ""5c0694a8-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,6,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,7,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 25 Jun 2019 12:19:45 GMT
+ETag: ""5d121161-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,8,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 25 Jun 2019 12:19:45 GMT
+ETag: ""5d121161-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,9,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,10,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 04 Dec 2018 14:52:24 GMT
+ETag: ""5c0694a8-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,11,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 04 Dec 2018 14:52:24 GMT
+ETag: ""5c0694a8-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,12,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,13,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 25 Jun 2019 12:19:45 GMT
+ETag: ""5d121161-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,14,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,15,"HTTP/1.1 200 OK
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Type: text/html; charset=windows-1251
+Content-Length: 612
+Connection: keep-alive
+Keep-Alive: timeout=15
+Last-Modified: Tue, 25 Jun 2019 12:19:45 GMT
+ETag: ""5d121161-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+citilink.ru,16,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,17,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,18,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,19,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,20,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,21,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,22,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,23,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,24,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,25,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:19 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,26,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:20 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,27,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:20 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,28,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:20 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"
+citilink.ru,29,"HTTP/1.1 404 Not Found
+Server: QRATOR
+Date: Thu, 23 Jan 2020 08:08:20 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+
+"

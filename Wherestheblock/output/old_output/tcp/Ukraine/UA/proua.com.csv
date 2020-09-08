@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+proua.com,0,"traceroute to proua.com (94.237.88.197), 30 hops max, 60 byte packets
+"
+proua.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.372 ms  0.360 ms  0.354 ms
+"
+proua.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.934 ms  0.974 ms  1.010 ms
+"
+proua.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.815 ms  18.112 ms  18.145 ms
+"
+proua.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  19.010 ms  19.059 ms  19.101 ms
+"
+proua.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.337 ms  24.403 ms  24.505 ms
+"
+proua.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.760 ms  29.704 ms  30.105 ms
+"
+proua.com,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  30.187 ms  30.128 ms  30.164 ms
+"
+proua.com,8," 8  149.6.141.62 (149.6.141.62)  29.896 ms  29.891 ms  29.940 ms
+"
+proua.com,9," 9  * * *
+"
+proua.com,10,"10  * * *
+"
+proua.com,11,"11  * * *
+"
+proua.com,12,"12  94-237-88-197.de-fra1.upcloud.host (94.237.88.197)  30.428 ms  29.990 ms  29.964 ms
+"

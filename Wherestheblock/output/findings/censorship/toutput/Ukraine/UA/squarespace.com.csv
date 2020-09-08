@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+squarespace.com,0,"traceroute to squarespace.com (198.49.23.176), 30 hops max, 60 byte packets
+"
+squarespace.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.238 ms  0.260 ms  0.299 ms
+"
+squarespace.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.282 ms  1.409 ms  0.563 ms
+"
+squarespace.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  26.523 ms  19.448 ms  26.489 ms
+"
+squarespace.com,4," 4  193.203.0.236 (193.203.0.236)  20.767 ms  20.762 ms  19.423 ms
+"
+squarespace.com,5," 5  po110.bs-b.sech-vie.netarch.akamai.com (23.57.104.245)  19.663 ms  19.729 ms po110.bs-a.sech-vie.netarch.akamai.com (23.57.104.243)  19.428 ms
+"
+squarespace.com,6," 6  a72-52-1-179.deploy.static.akamaitechnologies.com (72.52.1.179)  19.953 ms  19.900 ms  19.793 ms
+"
+squarespace.com,7," 7  ae120.access-a.sech-vie.netarch.akamai.com (23.57.104.249)  19.555 ms ae121.access-a.sech-vie.netarch.akamai.com (23.57.104.251)  19.449 ms ae120.access-a.sech-vie.netarch.akamai.com (23.57.104.249)  19.528 ms
+"
+squarespace.com,8," 8  * * *
+"
+squarespace.com,9," 9  * * *
+"
+squarespace.com,10,"10  a209-200-169-222.deploy.static.akamaitechnologies.com (209.200.169.222)  122.055 ms a209-200-169-128.deploy.static.akamaitechnologies.com (209.200.169.128)  156.197 ms a209-200-168-148.deploy.static.akamaitechnologies.com (209.200.168.148)  121.102 ms
+"
+squarespace.com,11,"11  198.49.23.176 (198.49.23.176)  120.303 ms  119.852 ms  125.029 ms
+"

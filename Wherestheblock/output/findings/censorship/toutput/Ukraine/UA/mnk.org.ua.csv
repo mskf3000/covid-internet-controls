@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mnk.org.ua,0,"traceroute to mnk.org.ua (188.166.12.115), 30 hops max, 60 byte packets
+"
+mnk.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.270 ms  0.285 ms  0.320 ms
+"
+mnk.org.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.576 ms  0.521 ms  0.514 ms
+"
+mnk.org.ua,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.459 ms  35.967 ms  35.968 ms
+"
+mnk.org.ua,4," 4  digital-ocean-ams-peering.fiord.net (62.140.243.19)  36.031 ms  36.267 ms  38.839 ms
+"
+mnk.org.ua,5," 5  138.197.250.77 (138.197.250.77)  36.541 ms 138.197.250.75 (138.197.250.75)  36.589 ms 138.197.250.77 (138.197.250.77)  36.899 ms
+"
+mnk.org.ua,6," 6  * * *
+"
+mnk.org.ua,7," 7  mnk.org.ua (188.166.12.115)  36.364 ms  36.398 ms  37.276 ms
+"

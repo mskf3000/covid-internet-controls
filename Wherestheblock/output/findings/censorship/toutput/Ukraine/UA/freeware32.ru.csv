@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+freeware32.ru,0,"traceroute to freeware32.ru (104.27.142.213), 30 hops max, 60 byte packets
+"
+freeware32.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.340 ms  0.376 ms
+"
+freeware32.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.138 ms  1.019 ms  1.051 ms
+"
+freeware32.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.727 ms  18.724 ms  18.745 ms
+"
+freeware32.ru,4," 4  149.6.50.74 (149.6.50.74)  19.175 ms  19.170 ms  19.138 ms
+"
+freeware32.ru,5," 5  104.27.142.213 (104.27.142.213)  18.459 ms  18.539 ms  18.456 ms
+"

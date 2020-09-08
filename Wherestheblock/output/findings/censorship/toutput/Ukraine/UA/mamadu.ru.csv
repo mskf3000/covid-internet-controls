@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mamadu.ru,0,"traceroute to mamadu.ru (90.156.201.103), 30 hops max, 60 byte packets
+"
+mamadu.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.865 ms  0.881 ms  0.876 ms
+"
+mamadu.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.867 ms *  0.887 ms
+"
+mamadu.ru,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  21.992 ms  21.994 ms  21.979 ms
+"
+mamadu.ru,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.727 ms  19.823 ms  19.712 ms
+"
+mamadu.ru,5," 5  * * *
+"
+mamadu.ru,6," 6  fe.shared.masterhost.ru (90.156.201.103)  19.114 ms  19.956 ms  19.945 ms
+"

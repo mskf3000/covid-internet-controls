@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+shutterstock.com,0,"traceroute to shutterstock.com (75.2.58.105), 50 hops max, 60 byte packets
+"
+shutterstock.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.537 ms  1.517 ms  1.585 ms
+"
+shutterstock.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.613 ms  0.600 ms  0.584 ms
+"
+shutterstock.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.718 ms  28.707 ms  26.281 ms
+"
+shutterstock.com,4," 4  amazon-fra-peering.fiord.net (62.140.243.51)  28.701 ms  31.281 ms amazon-fra-peering.fiord.net (62.140.243.53)  31.323 ms
+"
+shutterstock.com,5," 5  54.239.106.140 (54.239.106.140)  31.502 ms 54.239.106.30 (54.239.106.30)  29.331 ms 54.239.106.96 (54.239.106.96)  29.090 ms
+"
+shutterstock.com,6," 6  a0b8838bbcb103e9f.awsglobalaccelerator.com (75.2.58.105)  116.885 ms  116.982 ms  114.060 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+alexhost.ru,0,"traceroute to alexhost.ru (95.213.197.69), 30 hops max, 60 byte packets
+"
+alexhost.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.335 ms  0.319 ms  0.332 ms
+"
+alexhost.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.135 ms  16.106 ms  16.812 ms
+"
+alexhost.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  19.694 ms  19.591 ms  19.511 ms
+"
+alexhost.ru,4," 4  57.msk.net.selectel.ru (188.93.17.57)  17.911 ms  19.780 ms  16.699 ms
+"
+alexhost.ru,5," 5  bloha.ru (95.213.197.69)  16.690 ms  17.020 ms  20.752 ms
+"

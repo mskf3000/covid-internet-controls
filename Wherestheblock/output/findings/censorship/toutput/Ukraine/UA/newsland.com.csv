@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+newsland.com,0,"traceroute to newsland.com (104.27.171.220), 30 hops max, 60 byte packets
+"
+newsland.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.311 ms  0.341 ms
+"
+newsland.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.519 ms  2.514 ms  2.459 ms
+"
+newsland.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.825 ms  18.823 ms  18.859 ms
+"
+newsland.com,4," 4  149.6.50.74 (149.6.50.74)  19.414 ms  20.052 ms  20.043 ms
+"
+newsland.com,5," 5  104.27.171.220 (104.27.171.220)  18.532 ms  18.545 ms  18.461 ms
+"

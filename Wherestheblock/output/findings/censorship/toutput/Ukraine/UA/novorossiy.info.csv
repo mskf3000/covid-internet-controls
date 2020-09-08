@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+novorossiy.info,0,"traceroute to novorossiy.info (5.101.152.78), 30 hops max, 60 byte packets
+"
+novorossiy.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.273 ms  0.309 ms
+"
+novorossiy.info,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.405 ms  17.129 ms  20.505 ms
+"
+novorossiy.info,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  24.813 ms  24.467 ms  23.689 ms
+"
+novorossiy.info,4," 4  cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  23.873 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  25.287 ms  25.192 ms
+"
+novorossiy.info,5," 5  * * *
+"
+novorossiy.info,6," 6  m2.furs2.beget.ru (5.101.152.78)  26.731 ms  28.329 ms  26.974 ms
+"

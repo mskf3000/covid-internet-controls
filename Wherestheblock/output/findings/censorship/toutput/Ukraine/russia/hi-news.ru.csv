@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+hi-news.ru,0,"traceroute to hi-news.ru (104.26.13.91), 50 hops max, 60 byte packets
+"
+hi-news.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.317 ms  0.332 ms  0.360 ms
+"
+hi-news.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.931 ms  1.059 ms  1.047 ms
+"
+hi-news.ru,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.907 ms  1.090 ms  0.837 ms
+"
+hi-news.ru,4," 4  149.6.191.138 (149.6.191.138)  5.215 ms  5.205 ms  9.914 ms
+"
+hi-news.ru,5," 5  104.26.13.91 (104.26.13.91)  0.524 ms  0.525 ms  0.519 ms
+"

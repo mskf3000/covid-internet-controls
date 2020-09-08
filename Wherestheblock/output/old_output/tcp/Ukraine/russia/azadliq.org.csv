@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+azadliq.org,0,"traceroute to azadliq.org (23.14.94.45), 50 hops max, 60 byte packets
+"
+azadliq.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.294 ms  0.294 ms
+"
+azadliq.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.571 ms  0.514 ms  0.554 ms
+"
+azadliq.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.639 ms  28.645 ms  26.205 ms
+"
+azadliq.org,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  29.270 ms  31.570 ms  29.295 ms
+"
+azadliq.org,5," 5  a23-14-94-45.deploy.static.akamaitechnologies.com (23.14.94.45)  31.373 ms  28.868 ms  30.906 ms
+"

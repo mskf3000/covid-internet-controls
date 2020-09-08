@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+03.ru,0,"traceroute to 03.ru (88.212.202.50), 50 hops max, 60 byte packets
+"
+03.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.320 ms  0.315 ms
+"
+03.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.586 ms  0.577 ms  0.600 ms
+"
+03.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.924 ms  15.923 ms  15.918 ms
+"
+03.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.157 ms  17.177 ms  17.139 ms
+"
+03.ru,5," 5  87.kiae-sw.exepto.ru (88.212.192.200)  28.573 ms  25.773 ms  26.382 ms
+"
+03.ru,6," 6  * * *
+"
+03.ru,7," 7  host150.rax.ru (88.212.202.50)  16.465 ms  18.683 ms  17.258 ms
+"

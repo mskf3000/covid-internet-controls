@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+blog.ru,0,"traceroute to blog.ru (209.190.163.46), 30 hops max, 60 byte packets
+"
+blog.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.330 ms  0.325 ms
+"
+blog.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.623 ms  0.619 ms  0.653 ms
+"
+blog.ru,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.919 ms  30.910 ms  30.898 ms
+"
+blog.ru,4," 4  * * *
+"
+blog.ru,5," 5  ae-0-11.bar2.Cleveland1.Level3.net (4.69.136.186)  126.065 ms  125.238 ms ae-8-14.bar2.Cleveland1.Level3.net (4.69.135.122)  125.513 ms
+"
+blog.ru,6," 6  EXPEDIENT.bar2.Cleveland1.Level3.net (4.53.198.42)  137.030 ms  137.095 ms  137.149 ms
+"
+blog.ru,7," 7  et-1-0-0.151-core1.expedient.com (216.130.12.194)  138.866 ms  137.338 ms  138.767 ms
+"
+blog.ru,8," 8  irb-4038.151-core2.expedient.com (66.230.78.150)  140.147 ms  137.769 ms  137.588 ms
+"
+blog.ru,9," 9  et-1-0-0.152-core2.expedient.com (209.221.26.118)  139.467 ms  139.584 ms  138.328 ms
+"
+blog.ru,10,"10  et-0-2-0.acm-core1.expedient.com (66.230.78.193)  142.003 ms  142.060 ms  141.891 ms
+"
+blog.ru,11,"11  66.230.78.238 (66.230.78.238)  141.123 ms  142.382 ms  141.325 ms
+"
+blog.ru,12,"12  66.230.79.42 (66.230.79.42)  150.485 ms  149.421 ms  150.490 ms
+"
+blog.ru,13,"13  xe-0-3-0.1sc-node.expedient.com (216.230.108.246)  151.647 ms  151.563 ms  151.679 ms
+"
+blog.ru,14,"14  et-3-0-0.tdp-core1.expedient.com (66.230.78.249)  152.540 ms  152.808 ms  152.865 ms
+"
+blog.ru,15,"15  ae2.tdp-core2.expedient.com (66.230.79.10)  153.524 ms  152.129 ms  153.516 ms
+"
+blog.ru,16,"16  ten2-3-1.cab-core.expedient.com (66.230.79.6)  159.783 ms  159.471 ms  158.256 ms
+"
+blog.ru,17,"17  209.190.163.46 (209.190.163.46)  159.228 ms  158.139 ms  159.413 ms
+"
+blog.ru,18,"18  209.190.163.46 (209.190.163.46)  159.706 ms  159.958 ms  159.402 ms
+"
+blog.ru,19,"19  209.190.163.46 (209.190.163.46)  159.978 ms  159.561 ms  158.325 ms
+"

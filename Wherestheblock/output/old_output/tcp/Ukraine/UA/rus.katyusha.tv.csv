@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+rus.katyusha.tv,0,"traceroute to rus.katyusha.tv (217.16.26.102), 30 hops max, 60 byte packets
+"
+rus.katyusha.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.351 ms  0.328 ms  0.351 ms
+"
+rus.katyusha.tv,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.713 ms  0.702 ms  0.569 ms
+"
+rus.katyusha.tv,3," 3  10.11.12.17 (10.11.12.17)  1.086 ms  0.800 ms  5.437 ms
+"
+rus.katyusha.tv,4," 4  * * *
+"
+rus.katyusha.tv,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.970 ms  0.996 ms  1.259 ms
+"
+rus.katyusha.tv,6," 6  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  22.362 ms  28.699 ms  21.996 ms
+"
+rus.katyusha.tv,7," 7  GW-MasterHost.retn.net (87.245.255.143)  18.498 ms  18.367 ms  18.263 ms
+"
+rus.katyusha.tv,8," 8  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  20.288 ms * *
+"
+rus.katyusha.tv,9," 9  new.1tv.com (217.16.26.102)  18.743 ms  18.633 ms  18.383 ms
+"

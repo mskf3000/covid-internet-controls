@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+hospital.playland.ru,0,"traceroute to hospital.playland.ru (74.119.194.23), 30 hops max, 60 byte packets
+"
+hospital.playland.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.291 ms  0.323 ms
+"
+hospital.playland.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.626 ms  0.591 ms  0.666 ms
+"
+hospital.playland.ru,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.835 ms  29.951 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.132 ms
+"
+hospital.playland.ru,4," 4  et-0-0-13.cr10-fra2.ip4.gtt.net (213.254.225.245)  36.753 ms  36.737 ms  36.732 ms
+"
+hospital.playland.ru,5," 5  ae16.cr4-was1.ip4.gtt.net (89.149.139.133)  117.361 ms  118.587 ms  117.328 ms
+"
+hospital.playland.ru,6," 6  inforelay-gw.p4.gtt.net (216.221.158.246)  121.789 ms  120.269 ms  120.252 ms
+"
+hospital.playland.ru,7," 7  cr2.iad1.atlanticmetro.net (66.231.176.45)  122.587 ms  123.884 ms  123.874 ms
+"
+hospital.playland.ru,8," 8  ae7-4.cr1.iad3.atlanticmetro.net (205.251.126.101)  120.268 ms  120.335 ms  121.543 ms
+"
+hospital.playland.ru,9," 9  bundle-ether301.cr4.iad3.atlanticmetro.net (67.208.76.1)  124.262 ms  124.296 ms  123.251 ms
+"
+hospital.playland.ru,10,"10  67.23.108.65 (67.23.108.65)  124.381 ms  124.427 ms  124.406 ms
+"
+hospital.playland.ru,11,"11  tomilov.info (74.119.194.23)  122.890 ms  122.732 ms  122.139 ms
+"

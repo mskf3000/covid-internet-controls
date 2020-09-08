@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+bloomberg.com,0,"traceroute to bloomberg.com (69.187.24.15), 30 hops max, 60 byte packets
+"
+bloomberg.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.313 ms  0.341 ms
+"
+bloomberg.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.045 ms  1.502 ms  1.559 ms
+"
+bloomberg.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.292 ms  17.339 ms  17.382 ms
+"
+bloomberg.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.743 ms  22.779 ms  22.825 ms
+"
+bloomberg.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.979 ms  31.039 ms  31.038 ms
+"
+bloomberg.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.590 ms  39.592 ms  39.583 ms
+"
+bloomberg.com,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.702 ms  140.797 ms  140.957 ms
+"
+bloomberg.com,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  141.031 ms  140.967 ms  141.032 ms
+"
+bloomberg.com,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.945 ms  139.760 ms  139.740 ms
+"
+bloomberg.com,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.237 ms  140.343 ms  140.326 ms
+"
+bloomberg.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.311 ms  140.273 ms  140.237 ms
+"
+bloomberg.com,12,"12  be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  139.977 ms  140.103 ms  139.707 ms
+"
+bloomberg.com,13,"13  verizon.ord03.atlas.cogentco.com (154.54.11.82)  131.044 ms  131.051 ms  131.049 ms
+"
+bloomberg.com,14,"14  0.ae13.GW14.NYC1.ALTER.NET (140.222.235.127)  136.866 ms  136.911 ms  136.955 ms
+"
+bloomberg.com,15,"15  bloomberg-gw.customer.alter.net (157.130.250.210)  136.665 ms  136.679 ms  136.624 ms
+"
+bloomberg.com,16,"16  * * *
+"
+bloomberg.com,17,"17  69.187.24.5 (69.187.24.5)  137.080 ms  137.072 ms  137.042 ms
+"
+bloomberg.com,18,"18  69.187.24.15 (69.187.24.15)  138.887 ms  138.737 ms  138.740 ms
+"

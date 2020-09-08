@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+kerch.com,0,"traceroute to kerch.com (208.91.197.27), 50 hops max, 60 byte packets
+"
+kerch.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.600 ms  2.584 ms  2.621 ms
+"
+kerch.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.586 ms  0.582 ms  0.574 ms
+"
+kerch.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.607 ms  28.664 ms  26.339 ms
+"
+kerch.com,4," 4  * * *
+"
+kerch.com,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  28.452 ms  28.487 ms  31.005 ms
+"
+kerch.com,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  153.941 ms  156.485 ms  153.856 ms
+"
+kerch.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  152.825 ms  155.339 ms  155.319 ms
+"
+kerch.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  153.119 ms  161.820 ms  159.691 ms
+"
+kerch.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  153.860 ms  153.900 ms  156.391 ms
+"
+kerch.com,10,"10  * * *
+"
+kerch.com,11,"11  * * *
+"
+kerch.com,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  173.272 ms  173.248 ms  178.583 ms
+"
+kerch.com,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  153.100 ms  158.529 ms  155.860 ms
+"
+kerch.com,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  152.997 ms  152.911 ms  152.642 ms
+"
+kerch.com,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  153.037 ms  152.954 ms  152.584 ms
+"
+kerch.com,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  155.502 ms  152.969 ms  155.553 ms
+"
+kerch.com,17,"17  64.125.192.114.IPYX-082035-002-ZYO.above.net (64.125.192.114)  144.924 ms  147.372 ms  147.342 ms
+"
+kerch.com,18,"18  208.91.197.27 (208.91.197.27)  155.757 ms  156.394 ms  155.762 ms
+"

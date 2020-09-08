@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+diaspora.iatp.org.ua,0,"traceroute to diaspora.iatp.org.ua (89.184.75.213), 30 hops max, 60 byte packets
+"
+diaspora.iatp.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.020 ms  1.000 ms  1.025 ms
+"
+diaspora.iatp.org.ua,2," 2  mirohost-1-ix.giganet.ua (185.1.62.13)  0.611 ms  0.573 ms  0.609 ms
+"
+diaspora.iatp.org.ua,3," 3  * * *
+"
+diaspora.iatp.org.ua,4," 4  ez634.mirohost.net (89.184.75.213)  0.610 ms  0.604 ms  0.546 ms
+"

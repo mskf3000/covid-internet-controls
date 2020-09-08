@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+souq.com,0,"traceroute to souq.com (108.128.55.241), 30 hops max, 60 byte packets
+"
+souq.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.288 ms  0.320 ms
+"
+souq.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.598 ms  0.596 ms  0.587 ms
+"
+souq.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.223 ms  26.223 ms  26.198 ms
+"
+souq.com,4," 4  amazon-fra-peering.fiord.net (62.140.243.51)  28.763 ms  28.756 ms  28.757 ms
+"
+souq.com,5," 5  54.239.106.8 (54.239.106.8)  27.923 ms  27.141 ms  27.915 ms
+"
+souq.com,6," 6  54.239.106.17 (54.239.106.17)  28.915 ms  28.840 ms  28.826 ms
+"
+souq.com,7," 7  * * *
+"
+souq.com,8," 8  52.93.135.198 (52.93.135.198)  49.095 ms  49.149 ms  49.107 ms
+"
+souq.com,9," 9  52.93.133.228 (52.93.133.228)  49.263 ms  48.926 ms  48.910 ms
+"
+souq.com,10,"10  54.239.41.122 (54.239.41.122)  48.847 ms  49.374 ms  49.374 ms
+"
+souq.com,11,"11  * * *
+"
+souq.com,12,"12  52.93.6.136 (52.93.6.136)  49.512 ms  49.528 ms  49.159 ms
+"
+souq.com,13,"13  52.93.101.39 (52.93.101.39)  48.696 ms  48.716 ms  48.234 ms
+"
+souq.com,14,"14  52.93.101.14 (52.93.101.14)  49.999 ms  50.030 ms  50.029 ms
+"
+souq.com,15,"15  52.93.7.51 (52.93.7.51)  48.537 ms  48.494 ms  48.421 ms
+"
+souq.com,16,"16  * * *
+"
+souq.com,17,"17  * * *
+"
+souq.com,18,"18  * * *
+"
+souq.com,19,"19  * * *
+"
+souq.com,20,"20  * * *
+"
+souq.com,21,"21  * * *
+"
+souq.com,22,"22  * * *
+"
+souq.com,23,"23  * * *
+"
+souq.com,24,"24  * * *
+"
+souq.com,25,"25  * * *
+"
+souq.com,26,"26  * * *
+"
+souq.com,27,"27  * * *
+"
+souq.com,28,"28  * * *
+"
+souq.com,29,"29  * * *
+"
+souq.com,30,"30  * * *
+"

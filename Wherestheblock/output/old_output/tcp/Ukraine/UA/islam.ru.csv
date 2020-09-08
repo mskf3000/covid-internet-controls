@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+islam.ru,0,"traceroute to islam.ru (5.101.152.234), 30 hops max, 60 byte packets
+"
+islam.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.506 ms  0.471 ms  0.463 ms
+"
+islam.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  20.255 ms  20.253 ms  20.241 ms
+"
+islam.ru,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  24.973 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  27.945 ms  28.169 ms
+"
+islam.ru,4," 4  cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.540 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  23.949 ms  24.676 ms
+"
+islam.ru,5," 5  * * *
+"
+islam.ru,6," 6  ssl.dirac10.beget.com (5.101.152.234)  28.119 ms  26.282 ms  25.454 ms
+"

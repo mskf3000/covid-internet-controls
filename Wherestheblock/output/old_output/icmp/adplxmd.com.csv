@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+adplxmd.com,0,"traceroute to adplxmd.com (103.224.182.251), 30 hops max, 60 byte packets
+"
+adplxmd.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.404 ms  0.396 ms  0.443 ms
+"
+adplxmd.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.073 ms  2.580 ms  2.591 ms
+"
+adplxmd.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.944 ms  16.952 ms  17.022 ms
+"
+adplxmd.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.452 ms  22.460 ms  22.525 ms
+"
+adplxmd.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.597 ms  30.634 ms  30.634 ms
+"
+adplxmd.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.802 ms  39.729 ms  39.731 ms
+"
+adplxmd.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.060 ms  114.974 ms  115.052 ms
+"
+adplxmd.com,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.967 ms  118.413 ms  118.448 ms
+"
+adplxmd.com,9," 9  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  121.768 ms  121.607 ms  121.675 ms
+"
+adplxmd.com,10,"10  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  132.566 ms  132.594 ms  132.583 ms
+"
+adplxmd.com,11,"11  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  149.029 ms  149.268 ms  149.087 ms
+"
+adplxmd.com,12,"12  be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  162.832 ms  162.633 ms  162.491 ms
+"
+adplxmd.com,13,"13  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  170.716 ms  170.557 ms  170.472 ms
+"
+adplxmd.com,14,"14  be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  180.845 ms  180.728 ms  180.687 ms
+"
+adplxmd.com,15,"15  te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  182.957 ms  182.794 ms  182.849 ms
+"
+adplxmd.com,16,"16  38.140.111.58 (38.140.111.58)  182.385 ms  182.359 ms  182.387 ms
+"
+adplxmd.com,17,"17  sw03-san.trellian.com (103.224.213.253)  181.018 ms  180.989 ms  181.051 ms
+"
+adplxmd.com,18,"18  lb-182-251.above.com (103.224.182.251)  180.920 ms  180.929 ms  180.988 ms
+"

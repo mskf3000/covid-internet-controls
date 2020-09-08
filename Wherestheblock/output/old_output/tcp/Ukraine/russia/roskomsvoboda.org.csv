@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+roskomsvoboda.org,0,"traceroute to roskomsvoboda.org (104.20.61.117), 50 hops max, 60 byte packets
+"
+roskomsvoboda.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.324 ms  0.373 ms
+"
+roskomsvoboda.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.837 ms  0.879 ms  0.973 ms
+"
+roskomsvoboda.org,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.919 ms  0.957 ms  0.905 ms
+"
+roskomsvoboda.org,4," 4  149.6.191.138 (149.6.191.138)  1.174 ms  1.216 ms  1.211 ms
+"
+roskomsvoboda.org,5," 5  104.20.61.117 (104.20.61.117)  0.601 ms  0.534 ms  0.717 ms
+"

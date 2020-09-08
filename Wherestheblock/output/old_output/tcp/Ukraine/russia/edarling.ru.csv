@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+edarling.ru,0,"traceroute to edarling.ru (2.21.89.33), 50 hops max, 60 byte packets
+"
+edarling.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.310 ms  0.328 ms
+"
+edarling.ru,2," 2  185.1.50.201 (185.1.50.201)  0.545 ms  0.476 ms  0.527 ms
+"
+edarling.ru,3," 3  a2-21-89-33.deploy.static.akamaitechnologies.com (2.21.89.33)  0.389 ms  0.359 ms  0.382 ms
+"

@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+business-channel4.com,0,"traceroute to business-channel4.com (208.91.197.46), 30 hops max, 60 byte packets
+"
+business-channel4.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.888 ms  0.875 ms  0.938 ms
+"
+business-channel4.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.789 ms  0.859 ms  0.861 ms
+"
+business-channel4.com,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.118 ms  30.127 ms  30.135 ms
+"
+business-channel4.com,4," 4  * * *
+"
+business-channel4.com,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  30.557 ms  30.605 ms  30.619 ms
+"
+business-channel4.com,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  155.795 ms  155.814 ms  155.764 ms
+"
+business-channel4.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  158.896 ms  158.896 ms  158.894 ms
+"
+business-channel4.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  154.798 ms  154.773 ms  154.783 ms
+"
+business-channel4.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  155.708 ms  155.698 ms  155.811 ms
+"
+business-channel4.com,10,"10  * * *
+"
+business-channel4.com,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  164.989 ms  161.848 ms  161.871 ms
+"
+business-channel4.com,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  155.056 ms  155.150 ms  155.166 ms
+"
+business-channel4.com,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  155.489 ms  156.363 ms  156.357 ms
+"
+business-channel4.com,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  154.968 ms  156.177 ms  155.022 ms
+"
+business-channel4.com,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  155.020 ms  155.030 ms  155.057 ms
+"
+business-channel4.com,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  156.239 ms  156.255 ms  156.310 ms
+"
+business-channel4.com,17,"17  64.125.192.114.IPYX-082035-002-ZYO.above.net (64.125.192.114)  156.662 ms  156.667 ms  156.668 ms
+"
+business-channel4.com,18,"18  208.91.197.46 (208.91.197.46)  155.139 ms  155.144 ms  160.177 ms
+"

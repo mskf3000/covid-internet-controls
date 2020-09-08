@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+yadumayu.ru,0,"traceroute to yadumayu.ru (82.202.173.152), 30 hops max, 60 byte packets
+"
+yadumayu.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.671 ms  5.656 ms  5.639 ms
+"
+yadumayu.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.804 ms  16.116 ms  16.092 ms
+"
+yadumayu.ru,3," 3  * * *
+"
+yadumayu.ru,4," 4  10.0.9.165 (10.0.9.165)  17.720 ms  17.707 ms 10.0.9.181 (10.0.9.181)  19.564 ms
+"
+yadumayu.ru,5," 5  10.0.91.1 (10.0.91.1)  17.448 ms  17.655 ms  19.048 ms
+"
+yadumayu.ru,6," 6  ddos-guard.net (185.129.101.75)  19.191 ms  20.697 ms  19.201 ms
+"
+yadumayu.ru,7," 7  172.17.23.17 (172.17.23.17)  17.673 ms  19.959 ms  18.041 ms
+"
+yadumayu.ru,8," 8  core.webdc.ru (92.63.108.98)  32.494 ms  31.968 ms  31.775 ms
+"
+yadumayu.ru,9," 9  vlan123.dci (82.202.174.121)  16.786 ms  17.167 ms  17.573 ms
+"
+yadumayu.ru,10,"10  centrex.ru (82.202.173.152)  18.614 ms  16.876 ms  18.346 ms
+"

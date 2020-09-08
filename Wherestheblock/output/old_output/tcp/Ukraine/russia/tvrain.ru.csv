@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+tvrain.ru,0,"traceroute to tvrain.ru (178.248.236.23), 50 hops max, 60 byte packets
+"
+tvrain.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.117 ms  2.103 ms  2.158 ms
+"
+tvrain.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.659 ms  0.656 ms  0.647 ms
+"
+tvrain.ru,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  20.845 ms  20.884 ms  20.876 ms
+"
+tvrain.ru,4," 4  GW-Xtend.retn.net (87.245.253.194)  20.783 ms  20.763 ms  20.838 ms
+"
+tvrain.ru,5," 5  178.248.236.23 (178.248.236.23)  20.692 ms  20.725 ms  20.710 ms
+"

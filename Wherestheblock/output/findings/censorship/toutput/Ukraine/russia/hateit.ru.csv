@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+hateit.ru,0,"traceroute to hateit.ru (195.88.208.57), 50 hops max, 60 byte packets
+"
+hateit.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.339 ms  0.369 ms  0.401 ms
+"
+hateit.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.537 ms  0.524 ms  0.558 ms
+"
+hateit.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.762 ms  17.698 ms  17.691 ms
+"
+hateit.ru,4," 4  gw.ipserver.su (62.140.245.78)  16.184 ms  16.172 ms  16.154 ms
+"
+hateit.ru,5," 5  208-57.static.spheral.ru (195.88.208.57)  16.369 ms  16.224 ms  16.302 ms
+"

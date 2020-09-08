@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+azattyq.org,0,"traceroute to azattyq.org (2.16.181.56), 50 hops max, 60 byte packets
+"
+azattyq.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.303 ms  0.359 ms
+"
+azattyq.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.184 ms  1.165 ms  1.110 ms
+"
+azattyq.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.204 ms  26.168 ms  26.301 ms
+"
+azattyq.org,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  29.501 ms  31.764 ms  31.972 ms
+"
+azattyq.org,5," 5  a2-16-181-56.deploy.static.akamaitechnologies.com (2.16.181.56)  28.804 ms  32.522 ms  28.417 ms
+"

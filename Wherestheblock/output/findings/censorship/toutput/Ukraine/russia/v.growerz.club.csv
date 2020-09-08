@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+v.growerz.club,0,"traceroute to v.growerz.club (104.18.54.226), 50 hops max, 60 byte packets
+"
+v.growerz.club,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.252 ms  0.283 ms  0.322 ms
+"
+v.growerz.club,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.864 ms  0.923 ms  0.991 ms
+"
+v.growerz.club,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.986 ms  9.142 ms  9.194 ms
+"
+v.growerz.club,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.931 ms  11.926 ms  11.953 ms
+"
+v.growerz.club,5," 5  149.14.58.106 (149.14.58.106)  12.678 ms  12.163 ms  12.653 ms
+"
+v.growerz.club,6," 6  104.18.54.226 (104.18.54.226)  11.826 ms  11.621 ms  11.670 ms
+"

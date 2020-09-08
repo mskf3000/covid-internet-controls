@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+rodina.ru,0,"traceroute to rodina.ru (185.22.62.250), 30 hops max, 60 byte packets
+"
+rodina.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.328 ms  0.373 ms
+"
+rodina.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  1.092 ms  1.069 ms  1.113 ms
+"
+rodina.ru,3," 3  * * *
+"
+rodina.ru,4," 4  mastertel.msk.cloud-ix.net (31.28.19.122)  21.667 ms  21.582 ms  21.603 ms
+"
+rodina.ru,5," 5  217-67-176-54.in-addr.mastertelecom.ru (217.67.176.54)  17.012 ms  22.299 ms  17.042 ms
+"
+rodina.ru,6," 6  * * *
+"
+rodina.ru,7," 7  185-22-62-250.flops.ru (185.22.62.250)  17.121 ms  18.235 ms  24.300 ms
+"

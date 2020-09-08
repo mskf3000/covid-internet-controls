@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+hrights.ru,0,"traceroute to hrights.ru (185.32.57.118), 50 hops max, 60 byte packets
+"
+hrights.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.276 ms  0.308 ms  0.337 ms
+"
+hrights.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.795 ms  18.769 ms  18.778 ms
+"
+hrights.ru,3," 3  megagroup.w-ix.ru (193.106.112.231)  29.721 ms  29.720 ms  29.856 ms
+"
+hrights.ru,4," 4  0-0-2.11.edge.rtn.m.oml.ru (185.32.56.55)  29.122 ms  29.118 ms  29.106 ms
+"
+hrights.ru,5," 5  irb.63.core.rtn.m.oml.ru (185.32.56.33)  28.819 ms  28.842 ms  28.805 ms
+"
+hrights.ru,6," 6  * * *
+"
+hrights.ru,7," 7  185.32.57.118 (185.32.57.118)  27.112 ms  27.058 ms  28.344 ms
+"

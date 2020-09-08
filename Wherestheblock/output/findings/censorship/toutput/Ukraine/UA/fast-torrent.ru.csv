@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+fast-torrent.ru,0,"traceroute to fast-torrent.ru (5.45.71.49), 30 hops max, 60 byte packets
+"
+fast-torrent.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.296 ms  0.342 ms
+"
+fast-torrent.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.902 ms  0.963 ms  0.996 ms
+"
+fast-torrent.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.145 ms  17.155 ms  17.176 ms
+"
+fast-torrent.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.567 ms  22.333 ms  22.556 ms
+"
+fast-torrent.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.795 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.566 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.784 ms
+"
+fast-torrent.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.631 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.616 ms  39.474 ms
+"
+fast-torrent.ru,7," 7  be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  39.947 ms  39.831 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  39.689 ms
+"
+fast-torrent.ru,8," 8  * * 149.11.39.188 (149.11.39.188)  57.221 ms
+"
+fast-torrent.ru,9," 9  185.8.179.40 (185.8.179.40)  50.241 ms *  50.220 ms
+"
+fast-torrent.ru,10,"10  185.8.177.33 (185.8.177.33)  107.763 ms 185.8.177.35 (185.8.177.35)  107.349 ms 185.8.177.33 (185.8.177.33)  107.968 ms
+"
+fast-torrent.ru,11,"11  37.252.14.10 (37.252.14.10)  41.404 ms  42.192 ms  42.175 ms
+"
+fast-torrent.ru,12,"12  5.45.71.49 (5.45.71.49)  42.129 ms  39.664 ms  41.872 ms
+"

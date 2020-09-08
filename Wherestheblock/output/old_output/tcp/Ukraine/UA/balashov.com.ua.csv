@@ -1,0 +1,7 @@
+URL,TTL,Response_Message
+balashov.com.ua,0,"traceroute to balashov.com.ua (178.20.158.212), 30 hops max, 60 byte packets
+"
+balashov.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.321 ms  0.319 ms  0.310 ms
+"
+balashov.com.ua,2," 2  d944928.freehost.com.ua (178.20.158.212)  0.225 ms  0.279 ms  0.311 ms
+"

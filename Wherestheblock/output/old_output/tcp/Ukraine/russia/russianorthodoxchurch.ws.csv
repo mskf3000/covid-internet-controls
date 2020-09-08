@@ -1,0 +1,35 @@
+URL,TTL,Response_Message
+russianorthodoxchurch.ws,0,"traceroute to russianorthodoxchurch.ws (67.225.198.64), 50 hops max, 60 byte packets
+"
+russianorthodoxchurch.ws,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.268 ms  0.319 ms
+"
+russianorthodoxchurch.ws,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.971 ms  1.012 ms  1.085 ms
+"
+russianorthodoxchurch.ws,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.143 ms  17.140 ms  17.161 ms
+"
+russianorthodoxchurch.ws,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.422 ms  22.399 ms  22.625 ms
+"
+russianorthodoxchurch.ws,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.904 ms  30.797 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.686 ms
+"
+russianorthodoxchurch.ws,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.805 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.605 ms  39.658 ms
+"
+russianorthodoxchurch.ws,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.767 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  140.318 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.719 ms
+"
+russianorthodoxchurch.ws,8," 8  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  139.657 ms be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.933 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  135.365 ms
+"
+russianorthodoxchurch.ws,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.376 ms  135.428 ms be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.528 ms
+"
+russianorthodoxchurch.ws,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.410 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  139.664 ms be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.248 ms
+"
+russianorthodoxchurch.ws,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.366 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.128 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.309 ms
+"
+russianorthodoxchurch.ws,12,"12  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  135.689 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  139.708 ms be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  135.375 ms
+"
+russianorthodoxchurch.ws,13,"13  38.32.96.98 (38.32.96.98)  135.344 ms  136.038 ms lw-dc2-core1-nexus-eth3-19.rtr.liquidweb.com (209.59.157.224)  145.420 ms
+"
+russianorthodoxchurch.ws,14,"14  lw-dc2-core1-nexus-eth3-19.rtr.liquidweb.com (209.59.157.224)  148.290 ms  143.775 ms  148.300 ms
+"
+russianorthodoxchurch.ws,15,"15  lw-dc2-dist4.rtr.liquidweb.com (209.59.157.99)  147.772 ms  147.333 ms  143.154 ms
+"
+russianorthodoxchurch.ws,16,"16  dove.orthodoxws.com (67.225.198.64)  147.035 ms  145.756 ms  148.291 ms
+"

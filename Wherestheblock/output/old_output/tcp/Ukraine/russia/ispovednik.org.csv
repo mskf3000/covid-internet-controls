@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ispovednik.org,0,"traceroute to ispovednik.org (104.18.54.212), 50 hops max, 60 byte packets
+"
+ispovednik.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.356 ms  0.350 ms
+"
+ispovednik.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.333 ms  1.320 ms  1.381 ms
+"
+ispovednik.org,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.397 ms  9.470 ms  9.625 ms
+"
+ispovednik.org,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  12.348 ms  12.334 ms  12.356 ms
+"
+ispovednik.org,5," 5  149.14.58.106 (149.14.58.106)  12.582 ms  12.524 ms  13.193 ms
+"
+ispovednik.org,6," 6  104.18.54.212 (104.18.54.212)  11.950 ms  11.897 ms  11.782 ms
+"

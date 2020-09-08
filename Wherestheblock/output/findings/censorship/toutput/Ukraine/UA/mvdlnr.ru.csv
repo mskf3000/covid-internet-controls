@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+mvdlnr.ru,0,"traceroute to mvdlnr.ru (213.159.210.14), 30 hops max, 60 byte packets
+"
+mvdlnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.416 ms  1.398 ms  1.437 ms
+"
+mvdlnr.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.569 ms  0.541 ms  0.539 ms
+"
+mvdlnr.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.730 ms  17.317 ms  18.096 ms
+"
+mvdlnr.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.488 ms  16.487 ms  16.144 ms
+"
+mvdlnr.ru,5," 5  * * 10.0.9.41 (10.0.9.41)  18.982 ms
+"
+mvdlnr.ru,6," 6  10.0.9.41 (10.0.9.41)  17.793 ms ddos-guard.net (185.129.101.75)  20.063 ms 10.0.9.41 (10.0.9.41)  17.936 ms
+"
+mvdlnr.ru,7," 7  172.17.23.17 (172.17.23.17)  18.678 ms  19.017 ms  19.959 ms
+"
+mvdlnr.ru,8," 8  172.17.23.17 (172.17.23.17)  17.477 ms  17.594 ms  17.581 ms
+"
+mvdlnr.ru,9," 9  uranus-56.hoztnode.net (185.146.158.127)  18.300 ms  19.170 ms core.webdc.ru (92.63.108.98)  16.969 ms
+"
+mvdlnr.ru,10,"10  uranus-56.hoztnode.net (185.146.158.127)  17.122 ms mvdlnr.ru (213.159.210.14)  18.369 ms  20.050 ms
+"

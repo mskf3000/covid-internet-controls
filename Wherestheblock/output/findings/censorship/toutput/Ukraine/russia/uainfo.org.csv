@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+uainfo.org,0,"traceroute to uainfo.org (104.28.21.218), 50 hops max, 60 byte packets
+"
+uainfo.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.896 ms  4.870 ms  4.856 ms
+"
+uainfo.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.933 ms  0.863 ms  4.800 ms
+"
+uainfo.org,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.985 ms  8.889 ms  8.915 ms
+"
+uainfo.org,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.774 ms  12.207 ms  12.217 ms
+"
+uainfo.org,5," 5  149.14.58.106 (149.14.58.106)  12.619 ms  12.593 ms  12.581 ms
+"
+uainfo.org,6," 6  104.28.21.218 (104.28.21.218)  11.560 ms  11.684 ms  16.033 ms
+"

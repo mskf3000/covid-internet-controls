@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+nardemsoyuz.ru,0,"traceroute to nardemsoyuz.ru (91.195.240.135), 30 hops max, 60 byte packets
+"
+nardemsoyuz.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.269 ms  0.335 ms
+"
+nardemsoyuz.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.608 ms  0.600 ms  0.584 ms
+"
+nardemsoyuz.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.709 ms  28.700 ms  28.688 ms
+"
+nardemsoyuz.ru,4," 4  ffm-b1-link.telia.net (62.115.63.109)  35.820 ms  27.958 ms  27.926 ms
+"
+nardemsoyuz.ru,5," 5  ffm-bb3-link.telia.net (62.115.137.164)  33.509 ms ffm-bb3-link.telia.net (62.115.137.128)  33.452 ms ffm-bb3-link.telia.net (62.115.141.236)  35.906 ms
+"
+nardemsoyuz.ru,6," 6  mcn-b2-link.telia.net (62.115.120.128)  35.738 ms mcn-b2-link.telia.net (62.115.120.130)  38.334 ms mcn-b2-link.telia.net (62.115.120.132)  33.196 ms
+"
+nardemsoyuz.ru,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  118.380 ms  118.239 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  117.360 ms
+"
+nardemsoyuz.ru,8," 8  91.195.241.102 (91.195.241.102)  117.744 ms  115.407 ms  117.832 ms
+"
+nardemsoyuz.ru,9," 9  91.195.241.118 (91.195.241.118)  118.285 ms  117.587 ms  116.638 ms
+"
+nardemsoyuz.ru,10,"10  91.195.240.135 (91.195.240.135)  118.497 ms  115.975 ms  118.004 ms
+"

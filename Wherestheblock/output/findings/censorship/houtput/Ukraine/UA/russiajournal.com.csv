@@ -1,0 +1,824 @@
+URL,TTL,Message
+russiajournal.com,1,timed out
+russiajournal.com,2,timed out
+russiajournal.com,3,timed out
+russiajournal.com,4,timed out
+russiajournal.com,5,timed out
+russiajournal.com,6,timed out
+russiajournal.com,7,timed out
+russiajournal.com,8,timed out
+russiajournal.com,9,timed out
+russiajournal.com,10,timed out
+russiajournal.com,11,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:27 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+25e0
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=NnQ2ZFZtYmJoVGQ5VEpCRTlsVmluRDM4L2xCNmxtMytkRFFDQ3gxMTNvUms3N3hxUUtHSGxKSTBESUNNYTJzY041SXpmYTBEK0NSSFFVa1ZKTm11MTcrNkFRN2FMazl6aWFuR0xoV1JCL0E9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8""><script type=""text/javascript"">(window.NREUM||(NREUM={})).loader_config={licenseKey:""6bc175e1c8"",applicationID:""514258586""};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if(""function""==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n(""handle""),a=n(4),f=n(5),c=n(""ee"").get(""tracer""),u=n(""loader""),s=NREUM;""undefined""==typeof window.newrelic&&(newrelic=s);var p=[""setPageViewName"",""setCustomAttribute"",""setErrorHandler"",""finished"",""addToTrace"",""inlineHit"",""addRelease""],d=""api-"",l=d+""ixn-"";a(p,function(n,e){s[e]=i(d+e,!0,""api"")}),s.addPageAction=i(d+""addPageAction"",!0),s.setCurrentRouteName=i(d+""routeName"",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i=""function""==typeof e;return o(l+""tracer"",[u.now(),n,t],r),function(){if(c.emit((i?"""":""no-"")+""fn-start"",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit(""fn-err"",[arguments,this,n],t),n}finally{c.emit(""fn-end"",[u.now()],t)}}}};a(""actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get"".split("",""),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){""string""==typeof n&&(n=new Error(n)),o(""err"",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){""first-paint""===n.name?a(""timing"",[""fp"",Math.floor(n.startTime)]):""first-contentful-paint""===n.name&&a(""timing"",[""fcp"",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a(""timing"",[""fi"",t,{type:n.type,fid:e}])}}if(!(""init""in NREUM&&""page_view_timing""in NREUM.init&&""enabled""in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n(""handle""),f=n(""loader""),c=NREUM.o.EV;if(""PerformanceObserver""in window&&""function""==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:[""paint""]})}catch(u){}}if(""addEventListener""in document){var s=!1,p=[""click"",""keydown"",""mousedown"",""pointerdown"",""touchstart""];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("".""),r=e.split("".""),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf(""Chrome"")===-1&&f.indexOf(""Chromium"")===-1&&(i=""Safari"",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[functio"
+russiajournal.com,12,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:28 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+25e0
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=bVNHZXBwT2FDaUR0TVdaUDRiaEtCZCtBZVpWeFBYSVpoVHBlWk5HblVaRE9Ya1RvMWUwdXErbGhySGRtN3AyQy82dUhwcHhuMFNnUWNoaXpTbU1pN2lLenpnalQrNldZQThWS1JzWjBsTFU9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8""><script type=""text/javascript"">(window.NREUM||(NREUM={})).loader_config={licenseKey:""6bc175e1c8"",applicationID:""514258586""};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if(""function""==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n(""handle""),a=n(4),f=n(5),c=n(""ee"").get(""tracer""),u=n(""loader""),s=NREUM;""undefined""==typeof window.newrelic&&(newrelic=s);var p=[""setPageViewName"",""setCustomAttribute"",""setErrorHandler"",""finished"",""addToTrace"",""inlineHit"",""addRelease""],d=""api-"",l=d+""ixn-"";a(p,function(n,e){s[e]=i(d+e,!0,""api"")}),s.addPageAction=i(d+""addPageAction"",!0),s.setCurrentRouteName=i(d+""routeName"",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i=""function""==typeof e;return o(l+""tracer"",[u.now(),n,t],r),function(){if(c.emit((i?"""":""no-"")+""fn-start"",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit(""fn-err"",[arguments,this,n],t),n}finally{c.emit(""fn-end"",[u.now()],t)}}}};a(""actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get"".split("",""),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){""string""==typeof n&&(n=new Error(n)),o(""err"",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){""first-paint""===n.name?a(""timing"",[""fp"",Math.floor(n.startTime)]):""first-contentful-paint""===n.name&&a(""timing"",[""fcp"",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a(""timing"",[""fi"",t,{type:n.type,fid:e}])}}if(!(""init""in NREUM&&""page_view_timing""in NREUM.init&&""enabled""in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n(""handle""),f=n(""loader""),c=NREUM.o.EV;if(""PerformanceObserver""in window&&""function""==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:[""paint""]})}catch(u){}}if(""addEventListener""in document){var s=!1,p=[""click"",""keydown"",""mousedown"",""pointerdown"",""touchstart""];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("".""),r=e.split("".""),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf(""Chrome"")===-1&&f.indexOf(""Chromium"")===-1&&(i=""Safari"",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[functio"
+russiajournal.com,13,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:28 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=WlgrQWs4NmUxd1ZIZXc3c21HS3FXQVgyci93U3hVZVNOTEliclh4NEtqTHRiVkJUak0zUm93RmY5cXRRN3VyWHE4VjA3cjNDOXdNVm1ueC9KSWoxU2QzU2g2QVJPTVY5VGE1RGJkcGtkRVE9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,14,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:29 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Content-Length: 2189
+Keep-Alive: timeout=5, max=75
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=OExUY3lsUXdXcnJoWkJHVHh6NHF6d3lpQUtXcGpIcUxZM3ErZGU2L0xobUVadjdCNGlST3FWckFMeGVGdzViMk8ra2RMZ2tYUzNIcDE1TEovYnNYTENBMmdEeVd5aUtnS05rUnV4WXNhcUU9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>"
+russiajournal.com,15,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:30 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=d0trN1dtdlVqeUVsQlI3SjQ5amJrOHdNVHh5M2puQWV1TnZrcVFxREdhQlZNMG5vcGlLazhWVjc2TGV4RXlSSWV0WjExRXRSb21SMVIvbXZwTXZ1clRVQTFJZmtpUm9uL00wVmR2bWt2Tms9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,16,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:30 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=UTl1Vm9ORW5VSTRnUDVkVFZ5aFFVY25mWVpSdG9MYVB2blcrL01QeEpsc3VqcUZKVkE3b2kyeWZYOGtsbklXb3lkcDFwRlJaL0pjSjl5MEJvcDdXSXpoOFBBeWN3QUZtQmNNa1F2WEQ1OG89&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,17,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:31 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=c212Vmh4azRNQmVFRCtpWkNsTGlVcStjSEtNaVJWcEM3MDhzblJMQ25wWTMydWI3NzcrWnFQUUxHc1ZtTlpPUGw0SmM1Q3oySk1HMm9oenV3OHZDbGxocCtZZkZLS3BFdjh5NksyR2VsL3c9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,18,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:32 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+25e0
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=b2paWGlzWnNMUExuM0kydm1od0R1aHplMlBxT1hYS3NsTjhqTFZ0UmdVemNTR0NyQ2xObG1lWjhEYUZSWFFlYldDcm1uSXJ2SEJJWjlqcGk3RDBnemtRL3dEc3RwdjZncmI2TjBKQkRzNEU9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8""><script type=""text/javascript"">(window.NREUM||(NREUM={})).loader_config={licenseKey:""6bc175e1c8"",applicationID:""514258586""};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if(""function""==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n(""handle""),a=n(4),f=n(5),c=n(""ee"").get(""tracer""),u=n(""loader""),s=NREUM;""undefined""==typeof window.newrelic&&(newrelic=s);var p=[""setPageViewName"",""setCustomAttribute"",""setErrorHandler"",""finished"",""addToTrace"",""inlineHit"",""addRelease""],d=""api-"",l=d+""ixn-"";a(p,function(n,e){s[e]=i(d+e,!0,""api"")}),s.addPageAction=i(d+""addPageAction"",!0),s.setCurrentRouteName=i(d+""routeName"",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i=""function""==typeof e;return o(l+""tracer"",[u.now(),n,t],r),function(){if(c.emit((i?"""":""no-"")+""fn-start"",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit(""fn-err"",[arguments,this,n],t),n}finally{c.emit(""fn-end"",[u.now()],t)}}}};a(""actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get"".split("",""),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){""string""==typeof n&&(n=new Error(n)),o(""err"",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){""first-paint""===n.name?a(""timing"",[""fp"",Math.floor(n.startTime)]):""first-contentful-paint""===n.name&&a(""timing"",[""fcp"",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a(""timing"",[""fi"",t,{type:n.type,fid:e}])}}if(!(""init""in NREUM&&""page_view_timing""in NREUM.init&&""enabled""in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n(""handle""),f=n(""loader""),c=NREUM.o.EV;if(""PerformanceObserver""in window&&""function""==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:[""paint""]})}catch(u){}}if(""addEventListener""in document){var s=!1,p=[""click"",""keydown"",""mousedown"",""pointerdown"",""touchstart""];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("".""),r=e.split("".""),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf(""Chrome"")===-1&&f.indexOf(""Chromium"")===-1&&(i=""Safari"",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[functio"
+russiajournal.com,19,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:32 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+25e0
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=eDc5c0FHREVHMzlKTlpNcEFjdWRVNkVPU1AvdkJmUk9WNXRNbmxMaEZ6dlFUcGVpOWZTNkZKb092Z3o1empyVTVjZlMxb0Q4dWIrWE55S2MzUEpJU1F3djNXRENwMmd6S2x4N0x4L0h4ZXc9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8""><script type=""text/javascript"">(window.NREUM||(NREUM={})).loader_config={licenseKey:""6bc175e1c8"",applicationID:""514258586""};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if(""function""==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n(""handle""),a=n(4),f=n(5),c=n(""ee"").get(""tracer""),u=n(""loader""),s=NREUM;""undefined""==typeof window.newrelic&&(newrelic=s);var p=[""setPageViewName"",""setCustomAttribute"",""setErrorHandler"",""finished"",""addToTrace"",""inlineHit"",""addRelease""],d=""api-"",l=d+""ixn-"";a(p,function(n,e){s[e]=i(d+e,!0,""api"")}),s.addPageAction=i(d+""addPageAction"",!0),s.setCurrentRouteName=i(d+""routeName"",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i=""function""==typeof e;return o(l+""tracer"",[u.now(),n,t],r),function(){if(c.emit((i?"""":""no-"")+""fn-start"",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit(""fn-err"",[arguments,this,n],t),n}finally{c.emit(""fn-end"",[u.now()],t)}}}};a(""actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get"".split("",""),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){""string""==typeof n&&(n=new Error(n)),o(""err"",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){""first-paint""===n.name?a(""timing"",[""fp"",Math.floor(n.startTime)]):""first-contentful-paint""===n.name&&a(""timing"",[""fcp"",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a(""timing"",[""fi"",t,{type:n.type,fid:e}])}}if(!(""init""in NREUM&&""page_view_timing""in NREUM.init&&""enabled""in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n(""handle""),f=n(""loader""),c=NREUM.o.EV;if(""PerformanceObserver""in window&&""function""==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:[""paint""]})}catch(u){}}if(""addEventListener""in document){var s=!1,p=[""click"",""keydown"",""mousedown"",""pointerdown"",""touchstart""];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("".""),r=e.split("".""),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf(""Chrome"")===-1&&f.indexOf(""Chromium"")===-1&&(i=""Safari"",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[functio"
+russiajournal.com,20,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:33 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=ZitNYXFicUxxbDdVakYwYlpUektKSjFWS0tMdWtweXJSUGZod0JSS1h2ZnFLT3B6ZHFRenlhMFZBZUFBWFd3eTlQYWNXd2c1bW5FYWpXVjBucjdXQ1hOeFhDeWFIRUd1dktNMFcrYUUrMkU9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,21,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:34 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=VmpRWWROby9zUFZnMElrVkpiS1BIRFU1NHRVRSsvOEYyUUtlaWNKbHU2RWs2VERsZnJ0Z014Zm9lbzFtU3FucXE5Vit0NERMajZWWlB3SW9zR3IxNnJ6QWNlbnE0cFpqUFR2T2hhdE1LUmc9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,22,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:34 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=NDRNOU1sWmV4bzRSWUJId3U1b0NiZGZYNUM5L1U4MHlQMitZNVVFSHZZT0NlWG9WU3ZXNDEyVGMwNk1FalVEYVlUalFGeE9lWkxiZW80RlB6K0FLRFpyaitYc3lRVVFkU1ptdTdtQlZHcWs9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,23,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:35 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=QUp1VG5QUFV3aDNHNStIMFEvdW1jUDc4cHIrQzVGU2NDSnRjc2Q3c3hZN3ZWQ1ZzQjMyY1ZXQ2ZIUFlvVlJBZFUyRzBBS3BVZzJZckk1TVNpNUVDSHdXS0N1KzYzODZqZ3hHcVpOaFo3MHM9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,24,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:35 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=cWc1bEtQVVlIYVp2SUxIQy9iVDlKemJsWGlzT3dhYkFUZHJXY3dNVzkrWk1MbFAwN0JQN1lKQTByY2d0WkJiRDVJUDdSZjdZRHNxVEZudGJNTnBIa056S1BUenQzZ05SZkh4T2xQRUxBOFE9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,25,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:36 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+88d
+<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_ecXtxbvpqV+0knZy/BbL+LiY4ybUWquErgc176hZ92edCuWnN0mSYPe8KjVoN0vMJTc/v5PK2MQWlbd9G1L3UQ=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.freeresultsguide.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.freeresultsguide.com/sk-logabpstatus.php?a=WTkwRnRSY1N6bGlXNU5lejRZMGVwdGUxWTZzQjlmZEZwQ253RTVzY0hvcERLcDVOVllES0NKY2pJbHdYRHVMVm81b0pOMElOVjNYaFNQOXRhOFNxRUpMUERtdVRlZi85a3BkZlVGalppV0U9&b=""+abp;document.body.appendChild(imglog);}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        body {
+            overflow:hidden;
+        }
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor1'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+</body>
+</html>
+"
+russiajournal.com,26,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:37 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+110
+<html>
+<head>
+<meta name=""robots"" content=""noarchive"" />
+<meta name=""googlebot"" content=""nosnippet"" />
+</head>
+<body>
+<div align=center>
+<h3>Error. Page cannot be displayed. Please contact your service provider for more details.  (28)</h3>
+</div>
+</body>
+</html>
+"
+russiajournal.com,27,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:37 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+110
+<html>
+<head>
+<meta name=""robots"" content=""noarchive"" />
+<meta name=""googlebot"" content=""nosnippet"" />
+</head>
+<body>
+<div align=center>
+<h3>Error. Page cannot be displayed. Please contact your service provider for more details.  (25)</h3>
+</div>
+</body>
+</html>
+"
+russiajournal.com,28,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:38 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+110
+<html>
+<head>
+<meta name=""robots"" content=""noarchive"" />
+<meta name=""googlebot"" content=""nosnippet"" />
+</head>
+<body>
+<div align=center>
+<h3>Error. Page cannot be displayed. Please contact your service provider for more details.  (28)</h3>
+</div>
+</body>
+</html>
+0
+
+"
+russiajournal.com,29,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 12:06:38 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Keep-Alive: timeout=5, max=75
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+110
+<html>
+<head>
+<meta name=""robots"" content=""noarchive"" />
+<meta name=""googlebot"" content=""nosnippet"" />
+</head>
+<body>
+<div align=center>
+<h3>Error. Page cannot be displayed. Please contact your service provider for more details.  (21)</h3>
+</div>
+</body>
+</html>
+"

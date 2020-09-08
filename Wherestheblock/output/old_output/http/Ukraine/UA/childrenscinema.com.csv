@@ -1,0 +1,60 @@
+URL,TTL,Message
+childrenscinema.com,1,
+childrenscinema.com,2,
+childrenscinema.com,3,
+childrenscinema.com,4,
+childrenscinema.com,5,
+childrenscinema.com,6,
+childrenscinema.com,7,
+childrenscinema.com,8,
+childrenscinema.com,9,
+childrenscinema.com,10,"HTTP/1.1 302 Found
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 11
+date: Wed, 22 Jan 2020 21:15:53 GMT
+location: http://survey-smiles.com
+server: nginx
+set-cookie: sid=5f951570-3d5c-11ea-bf5e-11beacd6538a; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 00:30:00 GMT; max-age=2147483647; HttpOnly
+
+Redirecting"
+childrenscinema.com,11,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Wed, 22 Jan 2020 21:15:53 GMT
+server: nginx
+set-cookie: sid=5fa362a6-3d5c-11ea-a8df-11be61901207; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 00:30:00 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTczNDk1MywiaWF0IjoxNTc5NzI3NzUzLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm01NDFkdHNoZTJnOG8zaTgwaTYxOGMiLCJuYmYiOjE1Nzk3Mjc3NTMsInRzIjoxNTc5NzI3NzUzOTE0Mjk4fQ.Lpu3UTlI9ll2Ve0hMxySMxyrwsvTMP3CemLtaLI7fyA&sid=5fa362a6-3d5c-11ea-a8df-11be61901207');</script></body></html>"
+childrenscinema.com,12,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Wed, 22 Jan 2020 21:15:53 GMT
+server: nginx
+set-cookie: sid=5fb0b56e-3d5c-11ea-9fd6-11be9f536b5f; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 00:30:01 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTczNDk1NCwiaWF0IjoxNTc5NzI3NzU0LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm01NDFlMzdhN2UxOTZhMGMwaXMzNDQiLCJuYmYiOjE1Nzk3Mjc3NTQsInRzIjoxNTc5NzI3NzU0MDAzODE1fQ.CIzttswF3_xLCz9JtwFP2oDyAwtcjUTNWs3plne7kMQ&sid=5fb0b56e-3d5c-11ea-9fd6-11be9f536b5f');</script></body></html>"
+childrenscinema.com,13,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Wed, 22 Jan 2020 21:15:53 GMT
+server: nginx
+set-cookie: sid=5fbe7b72-3d5c-11ea-8eae-11be42775ba5; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 00:30:01 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTczNDk1NCwiaWF0IjoxNTc5NzI3NzU0LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm01NDFlOGtjZTc2NW9icWMwaHVsNGoiLCJuYmYiOjE1Nzk3Mjc3NTQsInRzIjoxNTc5NzI3NzU0MDk0NTA5fQ.unEfppvHe0yCJfcHD8ci84I6ndYTVjBwqPwr9r-gxN0&sid=5fbe7b72-3d5c-11ea-8eae-11be42775ba5');</script></body></html>"
+childrenscinema.com,14,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Wed, 22 Jan 2020 21:15:56 GMT
+server: nginx
+set-cookie: sid=619c291c-3d5c-11ea-8eed-11be27c447bd; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 00:30:04 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTczNDk1NywiaWF0IjoxNTc5NzI3NzU3LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm01NDFrMzg5MzgzcDM1aDAwaW1mbWYiLCJuYmYiOjE1Nzk3Mjc3NTcsInRzIjoxNTc5NzI3NzU3MjI1NTA1fQ.BNs6vEgALpRZIb4WNdpr-FjowJmJz5t2RyyNairn60s&sid=619c291c-3d5c-11ea-8eed-11be27c447bd');</script></body></html>"

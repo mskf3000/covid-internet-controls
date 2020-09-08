@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+velesova-sloboda.org,0,"traceroute to velesova-sloboda.org (50.63.202.69), 30 hops max, 60 byte packets
+"
+velesova-sloboda.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.315 ms  0.340 ms
+"
+velesova-sloboda.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.103 ms  1.099 ms  0.764 ms
+"
+velesova-sloboda.org,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.690 ms  29.700 ms  29.687 ms
+"
+velesova-sloboda.org,4," 4  * * *
+"
+velesova-sloboda.org,5," 5  * * *
+"
+velesova-sloboda.org,6," 6  4.28.83.74 (4.28.83.74)  165.428 ms  171.291 ms  167.265 ms
+"
+velesova-sloboda.org,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  166.005 ms  167.052 ms  165.987 ms
+"
+velesova-sloboda.org,8," 8  ip-50-63-202-69.ip.secureserver.net (50.63.202.69)  165.981 ms * *
+"

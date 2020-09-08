@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ligazn.ru,0,"traceroute to ligazn.ru (91.232.132.185), 30 hops max, 60 byte packets
+"
+ligazn.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.336 ms  0.360 ms  0.401 ms
+"
+ligazn.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.061 ms  17.426 ms  16.795 ms
+"
+ligazn.ru,3," 3  as20764.ix.dataix.ru (178.18.224.44)  21.123 ms  18.162 ms  18.747 ms
+"
+ligazn.ru,4," 4  81.27.254.37.rascom.as20764.net (81.27.254.37)  18.445 ms  16.167 ms  16.916 ms
+"
+ligazn.ru,5," 5  185.30.97.185 (185.30.97.185)  21.083 ms  21.077 ms  21.066 ms
+"
+ligazn.ru,6," 6  mail.blago.info (91.232.132.185)  16.239 ms  18.727 ms  16.420 ms
+"

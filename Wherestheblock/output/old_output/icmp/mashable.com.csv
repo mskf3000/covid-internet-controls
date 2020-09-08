@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mashable.com,0,"traceroute to mashable.com (95.101.20.17), 30 hops max, 60 byte packets
+"
+mashable.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.439 ms  0.434 ms  0.432 ms
+"
+mashable.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.566 ms  0.566 ms  0.561 ms
+"
+mashable.com,3," 3  ae4-100-xcr1.kiv.cw.net (194.221.103.1)  2.074 ms  2.118 ms  2.193 ms
+"
+mashable.com,4," 4  ae15-xcr1.fix.cw.net (195.2.30.145)  26.504 ms  26.507 ms  26.667 ms
+"
+mashable.com,5," 5  ae5-xcr1.mlu.cw.net (195.2.10.246)  34.642 ms  34.684 ms  34.685 ms
+"
+mashable.com,6," 6  as20940-gw-mlu.cw.net (195.2.19.18)  35.180 ms  35.118 ms  35.639 ms
+"
+mashable.com,7," 7  a95-101-20-17.deploy.static.akamaitechnologies.com (95.101.20.17)  34.566 ms  34.988 ms  34.975 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+annacasino.ru,0,"traceroute to annacasino.ru (104.31.77.103), 30 hops max, 60 byte packets
+"
+annacasino.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.319 ms  0.338 ms
+"
+annacasino.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.318 ms  0.557 ms  0.549 ms
+"
+annacasino.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  28.518 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.035 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  28.534 ms
+"
+annacasino.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.988 ms  15.971 ms cloudflare-peering.fiord.net (80.77.167.7)  18.557 ms
+"
+annacasino.ru,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  18.527 ms  18.512 ms  16.560 ms
+"
+annacasino.ru,6," 6  104.31.77.103 (104.31.77.103)  17.591 ms  16.881 ms  16.526 ms
+"

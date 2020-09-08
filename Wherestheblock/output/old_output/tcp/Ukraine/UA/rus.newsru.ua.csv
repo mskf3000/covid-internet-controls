@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+rus.newsru.ua,0,"traceroute to rus.newsru.ua (91.234.32.10), 30 hops max, 60 byte packets
+"
+rus.newsru.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.403 ms  4.375 ms  4.393 ms
+"
+rus.newsru.ua,2," 2  MaximumaNet-ix.giganet.ua (185.1.62.52)  0.554 ms  0.578 ms  0.566 ms
+"
+rus.newsru.ua,3," 3  gw.thehost.com.ua (91.196.149.36)  1.276 ms  1.247 ms  1.298 ms
+"
+rus.newsru.ua,4," 4  s4.thehost.com.ua (91.234.32.10)  1.425 ms  1.100 ms  1.423 ms
+"

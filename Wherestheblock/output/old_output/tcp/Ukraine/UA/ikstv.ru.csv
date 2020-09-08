@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ikstv.ru,0,"traceroute to ikstv.ru (134.0.116.36), 30 hops max, 60 byte packets
+"
+ikstv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.293 ms  0.284 ms  0.314 ms
+"
+ikstv.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.492 ms  0.548 ms  0.541 ms
+"
+ikstv.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.893 ms  15.889 ms  15.878 ms
+"
+ikstv.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.254 ms  17.293 ms  17.287 ms
+"
+ikstv.ru,5," 5  * * *
+"
+ikstv.ru,6," 6  172.16.71.11 (172.16.71.11)  17.000 ms  16.631 ms  16.928 ms
+"
+ikstv.ru,7," 7  89.108.69.168 (89.108.69.168)  16.456 ms  16.456 ms  16.430 ms
+"
+ikstv.ru,8," 8  134-0-116-36.cloudvps.regruhosting.ru (134.0.116.36)  17.382 ms  17.603 ms  16.838 ms
+"

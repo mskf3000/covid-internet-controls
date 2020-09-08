@@ -1,0 +1,719 @@
+URL,TTL,Message
+marketgid.com,1,timed out
+marketgid.com,2,timed out
+marketgid.com,3,timed out
+marketgid.com,4,timed out
+marketgid.com,5,timed out
+marketgid.com,6,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,7,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,8,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"
+marketgid.com,9,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,10,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"
+marketgid.com,11,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,12,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,13,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,14,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,15,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"
+marketgid.com,16,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,17,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,18,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"
+marketgid.com,19,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,20,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,21,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:15 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"
+marketgid.com,22,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,23,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"
+marketgid.com,24,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,25,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,26,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,27,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,28,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p>For online documentation and support please refer to
+<a href=""http://nginx.org/"">nginx.org</a>.<br/>
+Commercial support is available at
+<a href=""http://nginx.com/"">nginx.com</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+"
+marketgid.com,29,"HTTP/1.1 200 OK
+Server: nginx/1.17.3
+Date: Thu, 23 Jan 2020 01:09:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Wed, 14 Aug 2019 09:57:16 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: ""5d53dafc-264""
+Accept-Ranges: bytes
+
+"

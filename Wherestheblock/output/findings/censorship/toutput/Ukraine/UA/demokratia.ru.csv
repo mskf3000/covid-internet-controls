@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+demokratia.ru,0,"traceroute to demokratia.ru (31.31.205.163), 30 hops max, 60 byte packets
+"
+demokratia.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.781 ms  0.805 ms  0.836 ms
+"
+demokratia.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.478 ms  0.611 ms  0.584 ms
+"
+demokratia.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.923 ms  15.915 ms  15.903 ms
+"
+demokratia.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.389 ms  17.373 ms  17.353 ms
+"
+demokratia.ru,5," 5  * * *
+"
+demokratia.ru,6," 6  * * *
+"
+demokratia.ru,7," 7  * * *
+"
+demokratia.ru,8," 8  ns1.domainparking.int.reg.ru (31.31.205.163)  16.653 ms  16.591 ms  18.789 ms
+"

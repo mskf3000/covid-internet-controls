@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+eurasia.amnesty.org,0,"traceroute to eurasia.amnesty.org (104.18.164.96), 50 hops max, 60 byte packets
+"
+eurasia.amnesty.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.333 ms  0.304 ms  0.279 ms
+"
+eurasia.amnesty.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.114 ms  1.183 ms  1.218 ms
+"
+eurasia.amnesty.org,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.102 ms  1.139 ms  1.118 ms
+"
+eurasia.amnesty.org,4," 4  149.6.191.138 (149.6.191.138)  1.584 ms  1.531 ms  1.567 ms
+"
+eurasia.amnesty.org,5," 5  104.18.164.96 (104.18.164.96)  0.614 ms  0.592 ms  0.574 ms
+"

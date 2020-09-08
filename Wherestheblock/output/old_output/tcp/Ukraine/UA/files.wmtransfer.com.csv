@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+files.wmtransfer.com,0,"traceroute to files.wmtransfer.com (91.227.52.173), 30 hops max, 60 byte packets
+"
+files.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.394 ms  0.378 ms  0.408 ms
+"
+files.wmtransfer.com,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.565 ms  0.476 ms  0.543 ms
+"
+files.wmtransfer.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.107 ms  15.910 ms  15.896 ms
+"
+files.wmtransfer.com,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.868 ms  15.866 ms  15.857 ms
+"
+files.wmtransfer.com,5," 5  88.210.48.237 (88.210.48.237)  17.274 ms  17.183 ms  17.088 ms
+"
+files.wmtransfer.com,6," 6  91.227.52.173 (91.227.52.173)  16.376 ms  16.455 ms  16.448 ms
+"

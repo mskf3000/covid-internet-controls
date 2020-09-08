@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+alexey-pichugin.ru,0,"traceroute to alexey-pichugin.ru (213.189.197.202), 30 hops max, 60 byte packets
+"
+alexey-pichugin.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.755 ms  4.745 ms  4.764 ms
+"
+alexey-pichugin.ru,2," 2  * * *
+"
+alexey-pichugin.ru,3," 3  178.18.225.226.ix.dataix.ru (178.18.225.226)  19.709 ms  19.037 ms  19.653 ms
+"
+alexey-pichugin.ru,4," 4  ost-l3sw-1-vlan404.msk.zenon.net (213.189.212.71)  17.566 ms  17.511 ms  18.126 ms
+"
+alexey-pichugin.ru,5," 5  axx202.distributed.zenon.net (213.189.197.202)  17.096 ms  16.885 ms  17.281 ms
+"

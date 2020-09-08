@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+nkj.ru,0,"traceroute to nkj.ru (5.101.114.108), 50 hops max, 60 byte packets
+"
+nkj.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.393 ms  0.382 ms  0.375 ms
+"
+nkj.ru,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  1.134 ms  0.665 ms  0.654 ms
+"
+nkj.ru,3," 3  77.88.211.129 (77.88.211.129)  0.582 ms  0.576 ms  0.568 ms
+"
+nkj.ru,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  64.594 ms  64.586 ms  64.570 ms
+"
+nkj.ru,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  33.572 ms  33.656 ms  33.598 ms
+"
+nkj.ru,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  62.955 ms  62.451 ms  62.419 ms
+"
+nkj.ru,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  31.911 ms  31.898 ms  31.837 ms
+"
+nkj.ru,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.168 ms  33.162 ms  33.198 ms
+"
+nkj.ru,9," 9  * * *
+"
+nkj.ru,10,"10  m.nkj.ru (5.101.114.108)  33.720 ms  35.044 ms  34.892 ms
+"

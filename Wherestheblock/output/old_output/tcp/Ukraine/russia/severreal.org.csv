@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+severreal.org,0,"traceroute to severreal.org (23.14.94.37), 50 hops max, 60 byte packets
+"
+severreal.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.334 ms  0.321 ms  0.357 ms
+"
+severreal.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.609 ms  0.640 ms  0.591 ms
+"
+severreal.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.317 ms  28.666 ms  26.266 ms
+"
+severreal.org,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  28.951 ms  32.358 ms  29.010 ms
+"
+severreal.org,5," 5  a23-14-94-37.deploy.static.akamaitechnologies.com (23.14.94.37)  30.890 ms  31.358 ms  31.361 ms
+"

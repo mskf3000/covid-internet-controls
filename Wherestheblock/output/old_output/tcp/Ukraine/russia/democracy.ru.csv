@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+democracy.ru,0,"traceroute to democracy.ru (104.28.22.233), 50 hops max, 60 byte packets
+"
+democracy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.309 ms  0.348 ms
+"
+democracy.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.129 ms  1.005 ms  1.188 ms
+"
+democracy.ru,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.853 ms  8.947 ms  8.939 ms
+"
+democracy.ru,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.964 ms  11.957 ms  11.918 ms
+"
+democracy.ru,5," 5  149.14.58.106 (149.14.58.106)  12.150 ms  12.513 ms  13.022 ms
+"
+democracy.ru,6," 6  104.28.22.233 (104.28.22.233)  11.882 ms  11.830 ms  11.688 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+dni.ru,0,"traceroute to dni.ru (88.212.234.150), 30 hops max, 60 byte packets
+"
+dni.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.288 ms  0.306 ms
+"
+dni.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.541 ms  0.522 ms  0.511 ms
+"
+dni.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.886 ms  15.892 ms  15.946 ms
+"
+dni.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.299 ms  16.257 ms  17.041 ms
+"
+dni.ru,5," 5  188.42.148.77 (188.42.148.77)  18.017 ms  17.552 ms  16.769 ms
+"
+dni.ru,6," 6  se-mo01-l15-r1.servers.com (188.42.176.85)  16.984 ms  16.869 ms  18.742 ms
+"
+dni.ru,7," 7  88.212.234.150 (88.212.234.150)  16.292 ms  16.323 ms  16.235 ms
+"
+dni.ru,8," 8  88.212.234.150 (88.212.234.150)  16.271 ms  16.250 ms  16.208 ms
+"

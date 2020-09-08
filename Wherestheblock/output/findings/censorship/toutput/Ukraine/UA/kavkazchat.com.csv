@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+kavkazchat.com,0,"traceroute to kavkazchat.com (91.237.66.110), 30 hops max, 60 byte packets
+"
+kavkazchat.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.284 ms  0.326 ms
+"
+kavkazchat.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.547 ms  0.666 ms  0.658 ms
+"
+kavkazchat.com,3," 3  ae1-1.RT.TC1.STO.SE.retn.net (87.245.232.51)  29.106 ms  29.117 ms  29.107 ms
+"
+kavkazchat.com,4," 4  netnod-ix-ge-a-sth-1500.portlane.net (194.68.123.194)  41.372 ms netnod-ix-ge-b-sth-1500.portlane.net (194.68.128.194)  43.234 ms netnod-ix-ge-a-sth-1500.portlane.net (194.68.123.194)  41.479 ms
+"
+kavkazchat.com,5," 5  be-3.cr2.sto2.se.portlane.net (80.67.4.143)  42.449 ms  42.437 ms be-1.cr2.sto1.se.portlane.net (80.67.4.227)  40.843 ms
+"
+kavkazchat.com,6," 6  be-1.pe3.sto1.se.portlane.net (80.67.4.137)  41.200 ms be-2.pe3.sto1.se.portlane.net (80.67.4.133)  40.846 ms be-1.pe3.sto1.se.portlane.net (80.67.4.137)  41.126 ms
+"
+kavkazchat.com,7," 7  te-0-0-0-0.vbdc-cr4.glesys.net (80.67.0.132)  42.498 ms  42.482 ms  42.512 ms
+"
+kavkazchat.com,8," 8  te-0-1-0-0.fbg-cr2.glesys.net (46.21.96.129)  43.203 ms  43.623 ms  43.258 ms
+"
+kavkazchat.com,9," 9  te-2-1.fbg-pe2.glesys.net (193.108.196.89)  42.527 ms  42.285 ms  42.254 ms
+"
+kavkazchat.com,10,"10  et-1-47.fbg-ar1.glesys.net (185.39.145.162)  42.722 ms  42.431 ms  42.635 ms
+"
+kavkazchat.com,11,"11  91.237.66.110 (91.237.66.110)  42.318 ms  42.869 ms  42.837 ms
+"

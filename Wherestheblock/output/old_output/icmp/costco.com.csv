@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+costco.com,0,"traceroute to costco.com (170.167.117.81), 30 hops max, 60 byte packets
+"
+costco.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.409 ms  0.389 ms  0.387 ms
+"
+costco.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.571 ms  0.619 ms  0.533 ms
+"
+costco.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.679 ms  28.678 ms  28.674 ms
+"
+costco.com,4," 4  * * *
+"
+costco.com,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  32.348 ms  32.266 ms  32.252 ms
+"
+costco.com,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  179.006 ms  178.885 ms  178.875 ms
+"
+costco.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  178.864 ms  178.854 ms  178.803 ms
+"
+costco.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  178.835 ms  178.972 ms  178.956 ms
+"
+costco.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  178.929 ms  178.924 ms  179.013 ms
+"
+costco.com,10,"10  * ae0.cs3.lhr11.uk.eth.zayo.com (64.125.29.118)  179.807 ms *
+"
+costco.com,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  179.011 ms  178.962 ms  180.184 ms
+"
+costco.com,12,"12  * ae3.cs3.ord2.us.eth.zayo.com (64.125.29.209)  180.607 ms  179.894 ms
+"
+costco.com,13,"13  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  183.705 ms  183.709 ms  183.706 ms
+"
+costco.com,14,"14  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  179.972 ms  178.871 ms  178.831 ms
+"
+costco.com,15,"15  209.66.92.98.IPYX-149781-ZYO.zip.zayo.com (209.66.92.98)  183.248 ms  183.224 ms  183.220 ms
+"
+costco.com,16,"16  * * *
+"
+costco.com,17,"17  * * *
+"
+costco.com,18,"18  * * *
+"
+costco.com,19,"19  * * *
+"
+costco.com,20,"20  * * *
+"
+costco.com,21,"21  * * *
+"
+costco.com,22,"22  * * *
+"
+costco.com,23,"23  * * *
+"
+costco.com,24,"24  * * *
+"
+costco.com,25,"25  * * *
+"
+costco.com,26,"26  * * *
+"
+costco.com,27,"27  * * *
+"
+costco.com,28,"28  * * *
+"
+costco.com,29,"29  * * *
+"
+costco.com,30,"30  * * *
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+loveplanet.ru,0,"traceroute to loveplanet.ru (185.134.204.226), 30 hops max, 60 byte packets
+"
+loveplanet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.494 ms  2.481 ms  2.472 ms
+"
+loveplanet.ru,2," 2  * * *
+"
+loveplanet.ru,3," 3  as199599.ix.dataix.ru (178.18.224.113)  20.745 ms  19.216 ms  18.395 ms
+"
+loveplanet.ru,4," 4  190-230-9-185.host.cirex.ru (185.9.230.190)  20.236 ms  20.059 ms  20.211 ms
+"
+loveplanet.ru,5," 5  185.134.204.226 (185.134.204.226)  21.041 ms  18.813 ms  18.296 ms
+"

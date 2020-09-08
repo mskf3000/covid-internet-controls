@@ -1,0 +1,43 @@
+URL,TTL,Response_Message
+okpz.freeservers.com,0,"traceroute to okpz.freeservers.com (64.136.20.36), 50 hops max, 60 byte packets
+"
+okpz.freeservers.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.180 ms  1.164 ms  1.149 ms
+"
+okpz.freeservers.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.136 ms  1.125 ms  1.110 ms
+"
+okpz.freeservers.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.013 ms  17.052 ms  17.085 ms
+"
+okpz.freeservers.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.484 ms  22.452 ms  22.492 ms
+"
+okpz.freeservers.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.531 ms  30.534 ms  30.526 ms
+"
+okpz.freeservers.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  40.455 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.736 ms  39.698 ms
+"
+okpz.freeservers.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  122.889 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  122.891 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  122.875 ms
+"
+okpz.freeservers.com,8," 8  be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)  122.849 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.474 ms be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)  117.720 ms
+"
+okpz.freeservers.com,9," 9  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.533 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.862 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.659 ms
+"
+okpz.freeservers.com,10,"10  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.448 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  133.846 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.472 ms
+"
+okpz.freeservers.com,11,"11  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  131.384 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  150.585 ms be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  150.455 ms
+"
+okpz.freeservers.com,12,"12  be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  166.651 ms  164.602 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  147.908 ms
+"
+okpz.freeservers.com,13,"13  be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  174.903 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  170.614 ms be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  161.451 ms
+"
+okpz.freeservers.com,14,"14  be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  171.912 ms be2931.ccr41.lax01.atlas.cogentco.com (154.54.44.86)  186.501 ms be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  183.919 ms
+"
+okpz.freeservers.com,15,"15  be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  181.353 ms be2536.rcr21.las02.atlas.cogentco.com (154.54.82.26)  190.699 ms be2543.rcr21.las02.atlas.cogentco.com (154.54.7.162)  189.067 ms
+"
+okpz.freeservers.com,16,"16  be2536.rcr21.las02.atlas.cogentco.com (154.54.82.26)  190.354 ms be2910.rcr21.b020508-1.las02.atlas.cogentco.com (154.24.24.150)  192.142 ms be2543.rcr21.las02.atlas.cogentco.com (154.54.7.162)  188.930 ms
+"
+okpz.freeservers.com,17,"17  be2910.rcr21.b020508-1.las02.atlas.cogentco.com (154.24.24.150)  191.284 ms 38.142.169.2 (38.142.169.2)  198.569 ms  190.902 ms
+"
+okpz.freeservers.com,18,"18  v80.new-core1.vgs.untd.com (216.225.128.110)  191.530 ms  189.680 ms  190.243 ms
+"
+okpz.freeservers.com,19,"19  v1203.leaf2.vgs.untd.com (64.136.1.126)  193.368 ms  193.434 ms  191.177 ms
+"
+okpz.freeservers.com,20,"20  64.136.20.36 (64.136.20.36)  188.830 ms v1203.leaf2.vgs.untd.com (64.136.1.126)  190.848 ms 64.136.20.36 (64.136.20.36)  191.728 ms
+"

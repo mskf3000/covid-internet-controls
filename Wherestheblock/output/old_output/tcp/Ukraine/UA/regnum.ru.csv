@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+regnum.ru,0,"traceroute to regnum.ru (178.248.237.127), 30 hops max, 60 byte packets
+"
+regnum.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.554 ms  0.564 ms  0.559 ms
+"
+regnum.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.617 ms  0.614 ms  0.607 ms
+"
+regnum.ru,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  20.820 ms  20.812 ms  20.813 ms
+"
+regnum.ru,4," 4  GW-Xtend.retn.net (87.245.253.194)  20.742 ms  20.805 ms  20.798 ms
+"
+regnum.ru,5," 5  * 178.248.237.127 (178.248.237.127)  20.719 ms  20.740 ms
+"

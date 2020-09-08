@@ -1,0 +1,65 @@
+URL,TTL,Response_Message
+namarsh.ru,0,"traceroute to namarsh.ru (34.235.210.147), 50 hops max, 60 byte packets
+"
+namarsh.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.249 ms  4.237 ms  4.280 ms
+"
+namarsh.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.872 ms  0.985 ms  0.884 ms
+"
+namarsh.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.369 ms  17.345 ms  17.376 ms
+"
+namarsh.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.390 ms  22.299 ms  22.413 ms
+"
+namarsh.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.557 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.537 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.556 ms
+"
+namarsh.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.626 ms  39.817 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.325 ms
+"
+namarsh.ru,7," 7  be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.592 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.784 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.006 ms
+"
+namarsh.ru,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  115.746 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.817 ms  118.281 ms
+"
+namarsh.ru,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  118.840 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.091 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.570 ms
+"
+namarsh.ru,10,"10  38.140.106.162 (38.140.106.162)  119.582 ms  118.184 ms  118.172 ms
+"
+namarsh.ru,11,"11  52.93.31.47 (52.93.31.47)  122.658 ms * 52.93.31.45 (52.93.31.45)  114.686 ms
+"
+namarsh.ru,12,"12  52.93.4.48 (52.93.4.48)  113.491 ms 52.93.4.42 (52.93.4.42)  110.924 ms 52.93.4.18 (52.93.4.18)  111.029 ms
+"
+namarsh.ru,13,"13  * * 52.93.4.36 (52.93.4.36)  110.979 ms
+"
+namarsh.ru,14,"14  * 54.240.229.153 (54.240.229.153)  119.070 ms  119.092 ms
+"
+namarsh.ru,15,"15  * * *
+"
+namarsh.ru,16,"16  * * *
+"
+namarsh.ru,17,"17  * * *
+"
+namarsh.ru,18,"18  * * *
+"
+namarsh.ru,19,"19  * * *
+"
+namarsh.ru,20,"20  * * *
+"
+namarsh.ru,21,"21  * * *
+"
+namarsh.ru,22,"22  * * *
+"
+namarsh.ru,23,"23  * * *
+"
+namarsh.ru,24,"24  * * *
+"
+namarsh.ru,25,"25  52.93.28.74 (52.93.28.74)  117.054 ms 52.93.28.114 (52.93.28.114)  117.412 ms 52.93.28.78 (52.93.28.78)  117.233 ms
+"
+namarsh.ru,26,"26  52.93.28.114 (52.93.28.114)  118.879 ms 52.93.28.76 (52.93.28.76)  115.872 ms 52.93.28.118 (52.93.28.118)  115.778 ms
+"
+namarsh.ru,27,"27  * * *
+"
+namarsh.ru,28,"28  * * *
+"
+namarsh.ru,29,"29  * * *
+"
+namarsh.ru,30,"30  * * *
+"
+namarsh.ru,31,"31  ec2-34-235-210-147.compute-1.amazonaws.com (34.235.210.147)  116.418 ms  118.557 ms *
+"

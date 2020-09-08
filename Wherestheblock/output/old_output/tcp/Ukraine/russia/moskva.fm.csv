@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+moskva.fm,0,"traceroute to moskva.fm (5.149.254.118), 50 hops max, 60 byte packets
+"
+moskva.fm,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.292 ms  0.280 ms  0.316 ms
+"
+moskva.fm,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.885 ms  0.935 ms  1.050 ms
+"
+moskva.fm,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.985 ms  17.060 ms  17.285 ms
+"
+moskva.fm,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.234 ms  22.234 ms  22.222 ms
+"
+moskva.fm,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.493 ms  30.680 ms  30.525 ms
+"
+moskva.fm,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.735 ms  39.360 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.628 ms
+"
+moskva.fm,7," 7  be2755.rcr21.ams08.atlas.cogentco.com (130.117.48.58)  39.897 ms  39.493 ms be2756.rcr21.ams08.atlas.cogentco.com (130.117.48.130)  39.846 ms
+"
+moskva.fm,8," 8  * * *
+"
+moskva.fm,9," 9  5.149.254.118 (5.149.254.118)  39.315 ms  39.401 ms  39.365 ms
+"

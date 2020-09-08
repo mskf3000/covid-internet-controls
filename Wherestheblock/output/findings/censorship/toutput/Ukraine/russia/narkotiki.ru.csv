@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+narkotiki.ru,0,"traceroute to narkotiki.ru (90.156.201.89), 50 hops max, 60 byte packets
+"
+narkotiki.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.490 ms  1.473 ms  1.488 ms
+"
+narkotiki.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.849 ms  0.823 ms  0.822 ms
+"
+narkotiki.ru,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  21.352 ms  21.004 ms  21.374 ms
+"
+narkotiki.ru,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.784 ms  19.815 ms  21.182 ms
+"
+narkotiki.ru,5," 5  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  21.703 ms * *
+"
+narkotiki.ru,6," 6  fe.shared.masterhost.ru (90.156.201.89)  21.357 ms  19.869 ms  19.175 ms
+"

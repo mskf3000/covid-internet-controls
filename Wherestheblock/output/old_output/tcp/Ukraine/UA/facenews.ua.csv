@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+facenews.ua,0,"traceroute to facenews.ua (213.239.218.136), 30 hops max, 60 byte packets
+"
+facenews.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.337 ms  0.358 ms
+"
+facenews.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.566 ms  0.557 ms  0.667 ms
+"
+facenews.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  40.908 ms  40.908 ms  40.900 ms
+"
+facenews.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  40.891 ms  40.899 ms  40.876 ms
+"
+facenews.ua,5," 5  core0.fra.hetzner.com (213.239.252.10)  40.888 ms core1.fra.hetzner.com (213.239.245.125)  40.873 ms core0.fra.hetzner.com (213.239.252.10)  40.870 ms
+"
+facenews.ua,6," 6  core12.nbg1.hetzner.com (213.239.245.253)  40.856 ms  61.806 ms core12.nbg1.hetzner.com (213.239.252.26)  61.799 ms
+"
+facenews.ua,7," 7  ex9k1.dc1.nbg1.hetzner.com (213.239.203.222)  61.833 ms  61.819 ms ex9k1.dc1.nbg1.hetzner.com (213.239.203.226)  61.583 ms
+"
+facenews.ua,8," 8  static.213-239-218-136.clients.your-server.de (213.239.218.136)  61.534 ms  34.009 ms  35.586 ms
+"

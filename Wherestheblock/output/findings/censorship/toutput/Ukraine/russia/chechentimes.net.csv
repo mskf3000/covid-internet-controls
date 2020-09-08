@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+chechentimes.net,0,"traceroute to chechentimes.net (61.203.218.98), 50 hops max, 60 byte packets
+"
+chechentimes.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.328 ms  0.309 ms  0.372 ms
+"
+chechentimes.net,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.154 ms  2.486 ms  2.476 ms
+"
+chechentimes.net,3," 3  xe000-4.RT.BBT.TYO.JP.retn.net (87.245.232.23)  142.995 ms  143.034 ms  143.023 ms
+"
+chechentimes.net,4," 4  as7679.ix.jpix.ad.jp (210.171.224.147)  188.582 ms 210.173.176.240 (210.173.176.240)  170.031 ms as7679.ix.jpix.ad.jp (210.171.224.147)  188.559 ms
+"
+chechentimes.net,5," 5  61.203.193.133 (61.203.193.133)  187.979 ms  187.957 ms 61.203.193.137 (61.203.193.137)  234.453 ms
+"
+chechentimes.net,6," 6  61.203.193.74 (61.203.193.74)  188.945 ms 61.203.193.78 (61.203.193.78)  189.534 ms 61.203.193.74 (61.203.193.74)  188.808 ms
+"
+chechentimes.net,7," 7  61.203.195.78 (61.203.195.78)  185.672 ms  185.675 ms 61.203.195.74 (61.203.195.74)  185.689 ms
+"
+chechentimes.net,8," 8  210.191.66.94 (210.191.66.94)  188.668 ms  188.179 ms  188.149 ms
+"
+chechentimes.net,9," 9  61.203.218.98 (61.203.218.98)  186.038 ms  186.515 ms  188.941 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+c-inform.info,0,"traceroute to c-inform.info (136.243.66.123), 30 hops max, 60 byte packets
+"
+c-inform.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.298 ms  0.292 ms
+"
+c-inform.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.563 ms  0.646 ms  0.692 ms
+"
+c-inform.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.680 ms  26.204 ms  28.602 ms
+"
+c-inform.info,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.218 ms  31.213 ms  31.205 ms
+"
+c-inform.info,5," 5  core5.fra.hetzner.com (213.239.224.218)  33.103 ms core0.fra.hetzner.com (213.239.252.10)  29.792 ms core4.fra.hetzner.com (213.239.245.85)  31.645 ms
+"
+c-inform.info,6," 6  core24.fsn1.hetzner.com (213.239.224.253)  33.738 ms core24.fsn1.hetzner.com (213.239.229.78)  39.980 ms core24.fsn1.hetzner.com (213.239.224.253)  33.607 ms
+"
+c-inform.info,7," 7  ex9k2.dc12.fsn1.hetzner.com (213.239.203.190)  39.725 ms ex9k2.dc12.fsn1.hetzner.com (213.239.203.194)  40.025 ms  39.964 ms
+"
+c-inform.info,8," 8  static.123.66.243.136.clients.your-server.de (136.243.66.123)  35.446 ms  35.526 ms  35.862 ms
+"

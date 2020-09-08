@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+deep21.sitecity.ru,0,"traceroute to deep21.sitecity.ru (5.9.2.172), 30 hops max, 60 byte packets
+"
+deep21.sitecity.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.012 ms  1.996 ms  2.017 ms
+"
+deep21.sitecity.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.615 ms  0.624 ms  0.656 ms
+"
+deep21.sitecity.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.636 ms  28.669 ms  26.153 ms
+"
+deep21.sitecity.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.510 ms  28.505 ms  31.299 ms
+"
+deep21.sitecity.ru,5," 5  core0.fra.hetzner.com (213.239.252.10)  31.149 ms core1.fra.hetzner.com (213.239.245.125)  34.149 ms core5.fra.hetzner.com (213.239.224.218)  56.761 ms
+"
+deep21.sitecity.ru,6," 6  core23.fsn1.hetzner.com (213.239.252.38)  36.950 ms core23.fsn1.hetzner.com (213.239.224.249)  33.424 ms  37.964 ms
+"
+deep21.sitecity.ru,7," 7  ex9k1.dc7.fsn1.hetzner.com (213.239.229.234)  33.737 ms ex9k1.dc7.fsn1.hetzner.com (213.239.229.238)  36.002 ms ex9k1.dc7.fsn1.hetzner.com (213.239.229.234)  33.481 ms
+"
+deep21.sitecity.ru,8," 8  static.172.2.9.5.clients.your-server.de (5.9.2.172)  35.557 ms  35.917 ms  32.996 ms
+"

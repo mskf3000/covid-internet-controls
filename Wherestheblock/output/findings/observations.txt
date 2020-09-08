@@ -1,0 +1,18 @@
+1. No IP information from HTTP and TLS traceroute result. We can watch return hop IP from Wireshark but not sure about how to collect some information from socket class.
+2. TLS traceroute is getting aborted after 6-7 URLs. syslog show some DNS issue. Need to debug that.
+3. Some Url don't exist now. So, there is no results correspond to them.
+4. The path length from different traceroute programs is varying. Like UDP and ICMP traceroute are not reaching to destination whereas HTTP, TCP, and lft traceroute reaching the destination. Need to look into that.
+5. Time out message with varying TTL is an error from the socket API point of view. You need to add a try/catch block to capture the message or error. Ukraine's results can be seen from Github or from VPS itself.
+6. Traceback (most recent call last):
+  File "HTTP_traceroute.py", line 29, in <module>
+    c.connect(url)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 111] Connection refused
+root@ubuntu:~/Wherestheblock/HTTP_traceroute# 
+7.   File "HTTP_traceroute.py", line 38, in <module>
+    my_list.append([row["URL"],x,str(c.recv(4096))])
+socket.error: [Errno 104] Connection reset by peer
+
+
+

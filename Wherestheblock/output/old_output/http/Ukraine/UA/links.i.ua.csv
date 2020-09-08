@@ -1,0 +1,1444 @@
+URL,TTL,Message
+links.i.ua,1,timed out
+links.i.ua,2,timed out
+links.i.ua,3,timed out
+links.i.ua,4,timed out
+links.i.ua,5,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:10 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,6,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:04 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,7,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+i"
+links.i.ua,8,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,9,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:10 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,10,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:04 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,11,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,12,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,13,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:10 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+i"
+links.i.ua,14,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+i"
+links.i.ua,15,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:04 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,16,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:10 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,17,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:10 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+i"
+links.i.ua,18,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:10 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,19,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,20,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,21,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+i"
+links.i.ua,22,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:04 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,23,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,24,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,25,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,26,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,27,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+i"
+links.i.ua,28,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"
+links.i.ua,29,"HTTP/1.1 404 Not Found
+Date: Thu, 23 Jan 2020 00:38:11 GMT
+Server: Apache/1.3.42 (Unix) mod_deflate/1.0.21
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=windows-1251
+
+971
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><title>404, I.UA</title>
+<meta http-equiv=""content-type"" content=""text/html; charset=windows-1251"" />
+<style type=""text/css"" media=""all"">
+body { background: #fff; font-size: .84em;}
+body * {font-family: Arial, sans-serif;color: #000;}
+div {position: absolute; width: 480px; left: 50%; margin-left: -240px; top: 20%; z-index: 1;}
+img {width: 100px; height: 50px; margin: 0 20px 30px -12px; float: left;}
+h1, h2 {font-weight: normal;margin: 0; padding: 0; color: #bbb;}
+h1 {font-size: 1.87em;}
+h2 {font-size: 1em;}
+h2, p {padding-bottom: 1em;}
+p {clear: both;}
+a:visited {color: #777;}
+noscript {font-size: .85em;}
+#bmcounter {position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden; }
+</style>
+<script type=""text/javascript"" src=""//i3.i.ua/js/i/autoload.js?ver=1.690""></script>
+<script type=""text/javascript"">(new Image()).src='//h.holder.com.ua/s?b1585&s3908&tz&a40111&r'+Math.random();</script>
+</head>
+<body>
+<div id=""bmcounter"">
+<script type=""text/javascript"" language=""javascript""><!--
+iS='<img src=""//r.i.ua/s?u1&p0&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie=""b=b; path=/"";if(iD.cookie)iS+='&c1';
+try{
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++""&w""+screen.width+'&h'+screen.height;
+}catch(e){}
+iT=iR=iD.referrer.replace(/^.*\/\//, '');iH=window.location.href.replace(/^.*\/\//, '');
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+iS+='&r'+escape(iH);
+iD.write(iS+'"" border=""0"" width=""1"" height=""1"" />');
+bmQ='//c.bigmir.net/?s134156&t6&n'+Math.random();
+bmD=document;
+if(bmD.cookie)bmQ+='&c1';
+try{
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+""&r""+bmS.width;
+}catch(e){}
+bmF = bmD.referrer.replace(/^.*\/\//, '');
+if(bmF.indexOf('.i.ua')==-1)bmQ+='&f'+escape(bmF);
+UtilLite.addEvent(window, 'load', function () {
+	var img = dge('bmcounter').appendChild(dce('IMG'));
+	img.border=0;
+	img.width=1;
+	img.height=1;
+	img.src=bmQ;
+});
+
+function ILoadScript(src){var t='script',gt=iD.createElement(t),s=iD.getElementsByTagName(t)[0];gt.setAttribute('async','async');gt.src=src; s.parentNode.insertBefore(gt,s);}
+var pp_gemius_identifier = new String('zaqaCKOZ4_pxD3bwj4hcpseCnO4wwNfh3MTiaF2w8JX.P7
+637
+');
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending"

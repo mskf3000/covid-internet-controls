@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+xxiveklnr.su,0,"traceroute to xxiveklnr.su (193.228.160.40), 30 hops max, 60 byte packets
+"
+xxiveklnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.278 ms  0.272 ms
+"
+xxiveklnr.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.618 ms  0.798 ms  0.791 ms
+"
+xxiveklnr.su,3," 3  10.11.12.17 (10.11.12.17)  2.053 ms  0.924 ms  2.039 ms
+"
+xxiveklnr.su,4," 4  * * *
+"
+xxiveklnr.su,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.108 ms  1.969 ms  1.996 ms
+"
+xxiveklnr.su,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  19.387 ms  19.414 ms  19.426 ms
+"
+xxiveklnr.su,7," 7  GW-Telematika.retn.net (87.245.239.187)  26.164 ms  26.225 ms  26.187 ms
+"
+xxiveklnr.su,8," 8  193.228.160.40 (193.228.160.40)  25.680 ms  25.604 ms  41.244 ms
+"

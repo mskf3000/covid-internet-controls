@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+komtv.org,0,"traceroute to komtv.org (87.236.16.33), 30 hops max, 60 byte packets
+"
+komtv.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.308 ms  1.319 ms  1.340 ms
+"
+komtv.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  8.425 ms  0.693 ms  8.383 ms
+"
+komtv.org,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.247 ms  30.283 ms  30.253 ms
+"
+komtv.org,4," 4  * * *
+"
+komtv.org,5," 5  87.236.16.33 (87.236.16.33)  28.739 ms  27.989 ms  27.997 ms
+"

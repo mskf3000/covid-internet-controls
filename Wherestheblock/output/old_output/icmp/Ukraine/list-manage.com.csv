@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+list-manage.com,0,"traceroute to list-manage.com (205.201.132.96), 30 hops max, 60 byte packets
+"
+list-manage.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.354 ms  0.378 ms
+"
+list-manage.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.645 ms  0.648 ms  0.679 ms
+"
+list-manage.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  20.428 ms  20.454 ms  20.454 ms
+"
+list-manage.com,4," 4  193.203.0.236 (193.203.0.236)  19.603 ms  19.598 ms  19.613 ms
+"
+list-manage.com,5," 5  po110.bs-b.sech-vie.netarch.akamai.com (23.57.104.245)  19.681 ms  19.798 ms  19.837 ms
+"
+list-manage.com,6," 6  a72-52-1-187.deploy.static.akamaitechnologies.com (72.52.1.187)  19.977 ms  19.793 ms  19.946 ms
+"
+list-manage.com,7," 7  ae121.access-a.sech-vie.netarch.akamai.com (23.57.104.251)  19.767 ms  19.825 ms  19.813 ms
+"
+list-manage.com,8," 8  * * *
+"
+list-manage.com,9," 9  * * *
+"
+list-manage.com,10,"10  * * *
+"
+list-manage.com,11,"11  * * *
+"
+list-manage.com,12,"12  * * *
+"
+list-manage.com,13,"13  * * *
+"
+list-manage.com,14,"14  * * *
+"
+list-manage.com,15,"15  * * *
+"
+list-manage.com,16,"16  * * *
+"
+list-manage.com,17,"17  * * *
+"
+list-manage.com,18,"18  * * *
+"
+list-manage.com,19,"19  a209-200-171-218.deploy.static.akamaitechnologies.com (209.200.171.218)  141.896 ms !X * *
+"

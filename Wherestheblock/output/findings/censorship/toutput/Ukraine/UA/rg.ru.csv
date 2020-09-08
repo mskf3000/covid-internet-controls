@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+rg.ru,0,"traceroute to rg.ru (195.16.117.251), 30 hops max, 60 byte packets
+"
+rg.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.295 ms  0.326 ms
+"
+rg.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.530 ms  4.490 ms  4.540 ms
+"
+rg.ru,3," 3  ae16-9.RT.NTL.KIV.UA.retn.net (87.245.232.150)  0.940 ms  0.934 ms  0.926 ms
+"
+rg.ru,4," 4  KIEV-MegaFon-RETN.megafon.ru (87.245.237.127)  18.375 ms  18.354 ms  18.357 ms
+"
+rg.ru,5," 5  * * *
+"
+rg.ru,6," 6  * * *
+"
+rg.ru,7," 7  37.29.105.82 (37.29.105.82)  17.968 ms  17.960 ms  18.094 ms
+"
+rg.ru,8," 8  * * *
+"
+rg.ru,9," 9  195.16.117.251 (195.16.117.251)  18.822 ms  18.888 ms  18.862 ms
+"

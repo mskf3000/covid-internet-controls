@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+gamsoft.ru,0,"traceroute to gamsoft.ru (80.78.250.79), 50 hops max, 60 byte packets
+"
+gamsoft.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.415 ms  0.403 ms  0.454 ms
+"
+gamsoft.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.628 ms  0.623 ms  0.973 ms
+"
+gamsoft.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.872 ms  15.913 ms  15.948 ms
+"
+gamsoft.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.545 ms  16.464 ms  16.325 ms
+"
+gamsoft.ru,5," 5  * * *
+"
+gamsoft.ru,6," 6  * * *
+"
+gamsoft.ru,7," 7  cp425.agava.net (80.78.250.79)  16.678 ms  16.576 ms  16.665 ms
+"

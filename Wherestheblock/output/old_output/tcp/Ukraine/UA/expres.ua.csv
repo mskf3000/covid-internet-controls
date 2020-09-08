@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+expres.ua,0,"traceroute to expres.ua (52.222.174.93), 30 hops max, 60 byte packets
+"
+expres.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.293 ms  0.282 ms  0.293 ms
+"
+expres.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.947 ms  0.944 ms  1.009 ms
+"
+expres.ua,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.106 ms  17.128 ms  17.359 ms
+"
+expres.ua,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.166 ms  18.320 ms  18.313 ms
+"
+expres.ua,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.649 ms  24.682 ms  24.677 ms
+"
+expres.ua,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.040 ms  30.135 ms  30.108 ms
+"
+expres.ua,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.537 ms  29.610 ms  29.591 ms
+"
+expres.ua,8," 8  52.93.111.10 (52.93.111.10)  29.648 ms  29.001 ms 52.93.111.4 (52.93.111.4)  35.545 ms
+"
+expres.ua,9," 9  54.239.107.83 (54.239.107.83)  29.251 ms 54.239.107.17 (54.239.107.17)  30.869 ms 54.239.107.127 (54.239.107.127)  32.665 ms
+"
+expres.ua,10,"10  54.239.4.219 (54.239.4.219)  30.907 ms  30.790 ms  30.925 ms
+"
+expres.ua,11,"11  54.239.5.223 (54.239.5.223)  30.915 ms  30.809 ms  30.861 ms
+"
+expres.ua,12,"12  * * *
+"
+expres.ua,13,"13  * * *
+"
+expres.ua,14,"14  * * *
+"
+expres.ua,15,"15  server-52-222-174-93.fra54.r.cloudfront.net (52.222.174.93)  28.256 ms  28.273 ms  30.786 ms
+"

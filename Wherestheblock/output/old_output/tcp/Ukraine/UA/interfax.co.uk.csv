@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+interfax.co.uk,0,"traceroute to interfax.co.uk (79.170.40.4), 30 hops max, 60 byte packets
+"
+interfax.co.uk,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.316 ms  0.299 ms  0.321 ms
+"
+interfax.co.uk,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.541 ms  0.517 ms  0.549 ms
+"
+interfax.co.uk,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.617 ms  26.177 ms  28.670 ms
+"
+interfax.co.uk,4," 4  et-7-0-0-u100.cr-polaris.fra1.bb.godaddy.com (80.81.192.239)  28.576 ms  31.010 ms  28.564 ms
+"
+interfax.co.uk,5," 5  ae0.cr-antares.fra10.bb.godaddy.com (87.230.115.1)  29.628 ms  29.585 ms  32.299 ms
+"
+interfax.co.uk,6," 6  ae0.cr-vega.sxb1.bb.godaddy.com (87.230.115.3)  34.134 ms  34.419 ms  34.401 ms
+"
+interfax.co.uk,7," 7  ae4.cr-nunki.sxb1.bb.godaddy.com (87.230.114.65)  34.663 ms  32.105 ms  32.040 ms
+"
+interfax.co.uk,8," 8  ae9.cr-merak.lon5.bb.godaddy.com (87.230.113.2)  43.415 ms  40.862 ms  43.164 ms
+"
+interfax.co.uk,9," 9  ae1.pe-mizar.lds1.bb.godaddy.com (87.230.113.31)  45.536 ms  45.510 ms  45.512 ms
+"
+interfax.co.uk,10,"10  ae1.dr-master.ld5.core.webfusion.com (87.230.113.9)  48.845 ms  46.114 ms  46.269 ms
+"
+interfax.co.uk,11,"11  webforwards.extendcp.co.uk (79.170.40.4)  45.940 ms  46.221 ms  45.740 ms
+"

@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+ej.punkchords.com,0,"traceroute to ej.punkchords.com (184.168.204.1), 30 hops max, 60 byte packets
+"
+ej.punkchords.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.931 ms  1.935 ms  1.930 ms
+"
+ej.punkchords.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.595 ms  0.596 ms  0.840 ms
+"
+ej.punkchords.com,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.918 ms  29.892 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.922 ms
+"
+ej.punkchords.com,4," 4  * * *
+"
+ej.punkchords.com,5," 5  * * *
+"
+ej.punkchords.com,6," 6  4.28.83.74 (4.28.83.74)  175.445 ms  174.910 ms  174.902 ms
+"
+ej.punkchords.com,7," 7  148.72.32.7 (148.72.32.7)  174.686 ms 148.72.32.11 (148.72.32.11)  173.253 ms 148.72.32.7 (148.72.32.7)  173.235 ms
+"
+ej.punkchords.com,8," 8  be38.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.69)  173.221 ms  167.303 ms be39.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.73)  165.871 ms
+"
+ej.punkchords.com,9," 9  ip-97-74-255-129.ip.secureserver.net (97.74.255.129)  167.031 ms  360.544 ms  360.443 ms
+"
+ej.punkchords.com,10,"10  lbma1105-03.ars2.mgmt.phx3.secureserver.net (184.168.1.240)  167.089 ms  167.220 ms  166.014 ms
+"
+ej.punkchords.com,11,"11  p3nlhg126c1126.shr.prod.phx3.secureserver.net (184.168.204.1)  166.866 ms  166.878 ms  166.920 ms
+"

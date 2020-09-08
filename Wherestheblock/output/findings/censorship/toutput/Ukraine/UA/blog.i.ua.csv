@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+blog.i.ua,0,"traceroute to blog.i.ua (91.198.36.14), 30 hops max, 60 byte packets
+"
+blog.i.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.437 ms  1.448 ms  1.465 ms
+"
+blog.i.ua,2," 2  colocall2-gw.ix.net.ua (185.1.51.44)  0.897 ms  1.028 ms  1.136 ms
+"
+blog.i.ua,3," 3  62.149.31.1 (62.149.31.1)  0.868 ms  0.968 ms  0.807 ms
+"
+blog.i.ua,4," 4  * * *
+"
+blog.i.ua,5," 5  www.i.ua (91.198.36.14)  0.605 ms  0.798 ms  0.748 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+openrussia.org,0,"traceroute to openrussia.org (195.201.104.79), 50 hops max, 60 byte packets
+"
+openrussia.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.420 ms  0.402 ms  0.429 ms
+"
+openrussia.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.515 ms  0.502 ms  0.540 ms
+"
+openrussia.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.199 ms  26.199 ms  28.653 ms
+"
+openrussia.org,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.923 ms  31.052 ms  28.911 ms
+"
+openrussia.org,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.070 ms core0.fra.hetzner.com (213.239.252.10)  28.519 ms core4.fra.hetzner.com (213.239.245.85)  31.444 ms
+"
+openrussia.org,6," 6  core22.fsn1.hetzner.com (213.239.224.245)  39.864 ms core21.fsn1.hetzner.com (213.239.224.241)  33.755 ms core21.fsn1.hetzner.com (213.239.245.217)  35.757 ms
+"
+openrussia.org,7," 7  ex9k1.dc4.fsn1.hetzner.com (213.239.229.150)  33.825 ms ex9k1.dc4.fsn1.hetzner.com (213.239.229.146)  36.017 ms ex9k1.dc4.fsn1.hetzner.com (213.239.229.150)  33.601 ms
+"
+openrussia.org,8," 8  static.79.104.201.195.clients.your-server.de (195.201.104.79)  35.515 ms  37.309 ms  39.586 ms
+"

@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+ru.yahoo.com,0,"traceroute to ru.yahoo.com (212.82.100.151), 30 hops max, 60 byte packets
+"
+ru.yahoo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.723 ms  0.710 ms  0.697 ms
+"
+ru.yahoo.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.825 ms  0.815 ms  0.804 ms
+"
+ru.yahoo.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.359 ms  19.405 ms  19.355 ms
+"
+ru.yahoo.com,4," 4  193.203.0.42 (193.203.0.42)  28.025 ms 193.203.0.242 (193.203.0.242)  21.305 ms  21.300 ms
+"
+ru.yahoo.com,5," 5  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.125)  21.464 ms  21.455 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  37.633 ms
+"
+ru.yahoo.com,6," 6  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  38.269 ms ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  41.201 ms UNKNOWN-188-125-89-X.yahoo.com (188.125.89.53)  37.526 ms
+"
+ru.yahoo.com,7," 7  ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  41.451 ms UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  50.931 ms ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  41.482 ms
+"
+ru.yahoo.com,8," 8  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  51.270 ms  51.016 ms  51.199 ms
+"
+ru.yahoo.com,9," 9  ge-0-3-9-d104.pat1.the.yahoo.com (66.196.65.21)  51.570 ms  51.449 ms lo0.fab4-1-gdc.ir2.yahoo.com (77.238.190.5)  51.298 ms
+"
+ru.yahoo.com,10,"10  lo0.fab3-1-gdc.ir2.yahoo.com (77.238.190.4)  51.501 ms usw1-1-lba.ir2.yahoo.com (77.238.190.102)  49.823 ms usw2-1-lba.ir2.yahoo.com (77.238.190.103)  50.750 ms
+"
+ru.yahoo.com,11,"11  usw2-1-lba.ir2.yahoo.com (77.238.190.103)  51.021 ms usw1-1-lba.ir2.yahoo.com (77.238.190.102)  49.479 ms *
+"
+ru.yahoo.com,12,"12  * * *
+"
+ru.yahoo.com,13,"13  * * *
+"
+ru.yahoo.com,14,"14  * * *
+"
+ru.yahoo.com,15,"15  * w2.src1.vip.ir2.yahoo.com (212.82.100.151)  50.903 ms *
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+radosvet.net,0,"traceroute to radosvet.net (87.236.19.14), 30 hops max, 60 byte packets
+"
+radosvet.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.273 ms  0.304 ms
+"
+radosvet.net,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.434 ms  18.164 ms  19.454 ms
+"
+radosvet.net,3," 3  bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  27.413 ms bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  23.860 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  27.422 ms
+"
+radosvet.net,4," 4  cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  24.155 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.899 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  23.829 ms
+"
+radosvet.net,5," 5  * * *
+"
+radosvet.net,6," 6  m2.picard.beget.com (87.236.19.14)  24.627 ms  25.403 ms  25.890 ms
+"

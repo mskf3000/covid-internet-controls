@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+admin-gorlovka.ru,0,"traceroute to admin-gorlovka.ru (193.238.75.217), 30 hops max, 60 byte packets
+"
+admin-gorlovka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.388 ms  0.374 ms  0.360 ms
+"
+admin-gorlovka.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.728 ms  18.736 ms  18.753 ms
+"
+admin-gorlovka.ru,3," 3  109.239.138.75 (109.239.138.75)  53.377 ms  52.907 ms  52.008 ms
+"
+admin-gorlovka.ru,4," 4  service-188.130.254.102.com (188.130.254.102)  52.561 ms  55.010 ms  52.528 ms
+"
+admin-gorlovka.ru,5," 5  GW-Ugletel.inmart.net.ua (193.238.75.165)  49.828 ms  49.927 ms  49.777 ms
+"
+admin-gorlovka.ru,6," 6  10.0.2.42 (10.0.2.42)  46.255 ms  39.320 ms  45.088 ms
+"
+admin-gorlovka.ru,7," 7  mail.admin-gorlovka.ru (193.238.75.217)  48.713 ms  48.772 ms  50.723 ms
+"
+admin-gorlovka.ru,8," 8  mail.admin-gorlovka.ru (193.238.75.217)  51.213 ms  39.112 ms  39.215 ms
+"

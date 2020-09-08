@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+hvylya.net,0,"traceroute to hvylya.net (104.28.7.150), 30 hops max, 60 byte packets
+"
+hvylya.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.298 ms  0.352 ms
+"
+hvylya.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.960 ms  0.892 ms  0.991 ms
+"
+hvylya.net,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.986 ms  8.964 ms  8.969 ms
+"
+hvylya.net,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.813 ms  11.742 ms  11.870 ms
+"
+hvylya.net,5," 5  149.14.58.106 (149.14.58.106)  12.572 ms  12.922 ms  12.917 ms
+"
+hvylya.net,6," 6  104.28.7.150 (104.28.7.150)  11.659 ms  11.674 ms  11.690 ms
+"

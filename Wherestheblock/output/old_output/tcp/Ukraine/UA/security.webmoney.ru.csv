@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+security.webmoney.ru,0,"traceroute to security.webmoney.ru (91.200.28.60), 30 hops max, 60 byte packets
+"
+security.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.357 ms  0.351 ms
+"
+security.webmoney.ru,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.450 ms  17.433 ms  16.718 ms
+"
+security.webmoney.ru,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  16.802 ms  16.796 ms  19.687 ms
+"
+security.webmoney.ru,4," 4  80.85.240.85 (80.85.240.85)  20.683 ms  21.683 ms  20.793 ms
+"
+security.webmoney.ru,5," 5  91.200.28.60 (91.200.28.60)  19.616 ms  19.649 ms  17.373 ms
+"

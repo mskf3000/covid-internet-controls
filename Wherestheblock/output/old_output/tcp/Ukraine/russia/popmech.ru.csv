@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+popmech.ru,0,"traceroute to popmech.ru (82.202.252.130), 50 hops max, 60 byte packets
+"
+popmech.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.559 ms  0.547 ms  0.541 ms
+"
+popmech.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.081 ms  18.298 ms  17.431 ms
+"
+popmech.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  25.610 ms  25.604 ms  23.688 ms
+"
+popmech.ru,4," 4  92.53.92.161 (92.53.92.161)  25.827 ms  26.406 ms  25.153 ms
+"
+popmech.ru,5," 5  82.202.252.130 (82.202.252.130)  24.175 ms  26.469 ms  23.371 ms
+"

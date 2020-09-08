@@ -1,0 +1,957 @@
+URL,TTL,Message
+squarespace.com,1,timed out
+squarespace.com,2,timed out
+squarespace.com,3,timed out
+squarespace.com,4,timed out
+squarespace.com,5,timed out
+squarespace.com,6,timed out
+squarespace.com,7,timed out
+squarespace.com,8,timed out
+squarespace.com,9,timed out
+squarespace.com,10,timed out
+squarespace.com,11,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:32 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BcaORI3+aDEAZDZmOTk5ZDYyYjk4YTU0MTgyOTM2OWUyMDRiNThi;Path=/
+x-contextid: Z1unzOfU/HgUGzx1G
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba"
+squarespace.com,12,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:32 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BbF1PF5OgabiOWYwNjQ2MDMyNWZjMzk3MmFiNWQ2MDU4NTQ5OWZi;Path=/
+x-contextid: b2eQu2j3/4pVkVdi3
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,13,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BSDdV/eRTPE6NDQ4NTJjMWIyNzBjOWRlNjM5YmQ5NGM4NWE4YjJj;Path=/
+x-contextid: vWr12aGO/N6LsFELG
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,14,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BV5ZktJAu44uYzU1YjNkZTM4NGVlY2QwYzUyM2JjMGQwNDUyZDQx;Path=/
+x-contextid: qjvY2A0r/s6NnsBup
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,15,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BT55T05lpuWZNmEwZWVjZDhmNWE1NmIyOTU3ZTkwMGNhZmNkZTEz;Path=/
+x-contextid: 3DyLEvZr/ZO8LFajE
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,16,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=Bev7FluT/tIFNmUwZjBkYWZjZWJlYmQ5N2UzY2MwNWZmMzYwNmNm;Path=/
+x-contextid: OEYOOdgb/X86XYo2s
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,17,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BUn5zMg606OXYmY2ZmQwZWY5MDRlY2MyZDhjODY1NDBmMjcwZWYw;Path=/
+x-contextid: 50N5Of0L/pvoJfOjl
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,18,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:34 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BYipBLgfmy8yZWI0ZmMyOTlkN2Q4MDk2YTI0NzIwNDkwNGFiZTE1;Path=/
+x-contextid: qHxnRv40/Fu8XZg7y
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,19,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 1
+Set-Cookie: crumb=BX3pfHWM+wqgZjhmY2Q4ZmM4Njk4OGZjNGM4MTBjNDBhNGQ4Mjc2;Path=/
+x-contextid: v2kj0vCY/WfOS1M10
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,20,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 1
+Set-Cookie: crumb=BVgzDB3hhi6HOGU3ZmQwYWY5Mzc0NGZhNTNmZDcwYzRiN2ZmYTll;Path=/
+x-contextid: PqrSV9Lt/7QkNSs3g
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba"
+squarespace.com,21,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:32 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 3
+Set-Cookie: crumb=Bc6Q8zmehzceNDQ4MjFjMzY5NTFjNTVlMDY4ZTQ2Y2M1NDRiNTc2;Path=/
+x-contextid: 9ZF6tOWf/O4i82cfo
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,22,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:34 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 1
+Set-Cookie: crumb=BZV2o8KQLCRJMWM1ZTM5ZTdkMjYwNmZjNjliM2FkM2FmNGIzODVm;Path=/
+x-contextid: gAj6bxPj/XyIwgHr2
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,23,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:34 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 1
+Set-Cookie: crumb=BWQwWhIdItRRNDQ0YmVkNzE0YmJkY2EyYTkzZDc1ZWViNWQ5YzJj;Path=/
+x-contextid: CGavRULd/fd3XFUww
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,24,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:34 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 1
+Set-Cookie: crumb=BakENbogOq3HYzU4NzBhZDVlZDQ2MWJjZmUyYThlOGQ5NzdiMWVl;Path=/
+x-contextid: 0d2TYYhW/rJbDbAEZ
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,25,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:34 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 2
+Set-Cookie: crumb=BaiMooU6UJK8NDEyY2M1ZGRjZmZlNjQ4NWJjOGQ2Y2M5MGYxMmM0;Path=/
+x-contextid: 7QbAfcjW/Dr7DNGsc
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,26,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:34 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 2
+Set-Cookie: crumb=BUv+5pNHNvUwNjNhM2Q0NTBiMmEwOWUyNzhhZGIwNzhiMmE1OTJj;Path=/
+x-contextid: 8eBuipPV/nmLNA9OI
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba"
+squarespace.com,27,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:37 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 0
+Set-Cookie: crumb=BfueUqx+NfAaZGMxOGMzMmIxOTM1MjNjMTBlZDNjOGZlYmFhMjU1;Path=/
+x-contextid: faNwmX49/PbadTNxu
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba"
+squarespace.com,28,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 4
+Set-Cookie: crumb=BROxadsKDekJYzZlMWVjZTVmNzU0MWZkZmEyMzRkNjc2NTlkYzI2;Path=/
+x-contextid: OEPp36lB/eWMX97k0
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"
+squarespace.com,29,"HTTP/1.1 404 Not Found
+date: Wed, 22 Jan 2020 23:01:33 GMT
+content-type: text/html;charset=utf-8
+content-length: 2048
+Age: 5
+Set-Cookie: crumb=BWN6fYYBceacOTQzMGZkOTVlMzcwNmVmZmQ1YTljZGQ0NWIwYThh;Path=/
+x-contextid: 6fK5rZ4s/50jcDXPH
+server: Squarespace
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Domain Not Claimed</title>
+  <meta http-equiv=""X-UA-Compatible"" content=""chrome=1"">
+
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/common-d2e974864d2030a8fe5e9-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/common-e094cb28974139f4024954176cdc8975-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/dialog-6fd95fd560668a1c4ec74-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/dialog-55710f039fb28505986e61d6b08d7fad-min.css""/>
+  <script crossorigin=""anonymous"" src=""//assets.squarespace.com/universal/scripts-compressed/system-page-53f16076136c0f73b723f-min.en-US.js"" ></script><link rel=""stylesheet"" type=""text/css"" href=""//assets.squarespace.com/universal/styles-compressed/system-page-19d1ba4933f54fcc4061e432d70fe156-min.css""/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on(""domready"", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class=""bigtext""><div class=""title"">Domain Not Claimed</div><div class=""description"">This domain has been mapped to Squarespace, but it has not yet been claimed by a website.  If this is your domain, claim it in the Domains tab of your Website Manager.</div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on(""click"", function(e) {
+          if (e.target.ancestor("".login-button"", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class=""squarespace-config squarespace-system-page"">
+
+  <div class=""minimal-logo"">&nbsp;</div>
+
+</body>
+</html>
+
+"

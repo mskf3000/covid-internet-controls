@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+truesite.ru,0,"traceroute to truesite.ru (87.236.16.30), 30 hops max, 60 byte packets
+"
+truesite.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.320 ms  0.303 ms  0.295 ms
+"
+truesite.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.575 ms  0.684 ms  0.674 ms
+"
+truesite.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.458 ms  30.450 ms  30.438 ms
+"
+truesite.ru,4," 4  * * *
+"
+truesite.ru,5," 5  87.236.16.30 (87.236.16.30)  27.995 ms  28.028 ms  28.747 ms
+"

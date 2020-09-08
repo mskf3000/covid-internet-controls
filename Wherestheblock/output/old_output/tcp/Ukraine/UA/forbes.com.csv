@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+forbes.com,0,"traceroute to forbes.com (151.101.66.49), 30 hops max, 60 byte packets
+"
+forbes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.275 ms  0.266 ms  0.292 ms
+"
+forbes.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.574 ms  0.562 ms  0.500 ms
+"
+forbes.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.156 ms  16.072 ms  16.081 ms
+"
+forbes.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.185 ms  16.212 ms  16.148 ms
+"
+forbes.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  46.333 ms  46.291 ms  42.919 ms
+"
+forbes.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  45.003 ms  44.568 ms  43.957 ms
+"
+forbes.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.370 ms  41.457 ms  41.298 ms
+"
+forbes.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.822 ms  44.071 ms  44.057 ms
+"
+forbes.com,9," 9  fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  46.801 ms  46.744 ms  46.680 ms
+"
+forbes.com,10,"10  151.101.66.49 (151.101.66.49)  46.427 ms  46.279 ms  46.351 ms
+"

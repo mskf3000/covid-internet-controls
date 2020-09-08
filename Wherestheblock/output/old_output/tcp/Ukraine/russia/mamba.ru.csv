@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+mamba.ru,0,"traceroute to mamba.ru (185.203.72.22), 50 hops max, 60 byte packets
+"
+mamba.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.301 ms  0.296 ms
+"
+mamba.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.804 ms  16.792 ms  16.535 ms
+"
+mamba.ru,3," 3  as9049.ix.dataix.ru (178.18.226.90)  16.200 ms  17.025 ms  17.101 ms
+"
+mamba.ru,4," 4  * * *
+"
+mamba.ru,5," 5  * * *
+"
+mamba.ru,6," 6  * * *
+"
+mamba.ru,7," 7  * * *
+"
+mamba.ru,8," 8  * * *
+"
+mamba.ru,9," 9  * * *
+"
+mamba.ru,10,"10  * * *
+"
+mamba.ru,11,"11  * * *
+"
+mamba.ru,12,"12  * * *
+"
+mamba.ru,13,"13  * * *
+"
+mamba.ru,14,"14  185.203.72.22 (185.203.72.22)  16.814 ms  16.319 ms  18.447 ms
+"

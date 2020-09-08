@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+militaryphotos.net,0,"traceroute to militaryphotos.net (208.91.197.27), 30 hops max, 60 byte packets
+"
+militaryphotos.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.286 ms  0.324 ms
+"
+militaryphotos.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.825 ms  0.487 ms  2.765 ms
+"
+militaryphotos.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.698 ms  28.631 ms  28.720 ms
+"
+militaryphotos.net,4," 4  * * *
+"
+militaryphotos.net,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  28.565 ms  28.630 ms  31.159 ms
+"
+militaryphotos.net,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  179.698 ms  179.318 ms  153.665 ms
+"
+militaryphotos.net,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  155.841 ms  153.250 ms  155.682 ms
+"
+militaryphotos.net,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  153.250 ms  157.318 ms  157.265 ms
+"
+militaryphotos.net,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  157.536 ms  153.547 ms  153.461 ms
+"
+militaryphotos.net,10,"10  * ae0.cs3.lhr11.uk.eth.zayo.com (64.125.29.118)  156.016 ms *
+"
+militaryphotos.net,11,"11  * * *
+"
+militaryphotos.net,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  155.750 ms  155.839 ms  155.721 ms
+"
+militaryphotos.net,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  157.907 ms  155.952 ms  157.764 ms
+"
+militaryphotos.net,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  153.083 ms  152.819 ms  157.864 ms
+"
+militaryphotos.net,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  152.989 ms  155.683 ms  152.911 ms
+"
+militaryphotos.net,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  153.135 ms  153.122 ms  153.178 ms
+"
+militaryphotos.net,17,"17  64.125.192.114.IPYX-082035-002-ZYO.above.net (64.125.192.114)  147.541 ms  145.003 ms  144.976 ms
+"
+militaryphotos.net,18,"18  208.91.197.27 (208.91.197.27)  156.655 ms  153.693 ms  153.156 ms
+"

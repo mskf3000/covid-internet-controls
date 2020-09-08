@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+s-narodom.ru,0,"traceroute to s-narodom.ru (78.140.185.169), 30 hops max, 60 byte packets
+"
+s-narodom.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.704 ms  0.693 ms  0.751 ms
+"
+s-narodom.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.913 ms  1.026 ms  0.968 ms
+"
+s-narodom.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.418 ms  17.421 ms  17.414 ms
+"
+s-narodom.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.461 ms  22.568 ms  22.617 ms
+"
+s-narodom.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.549 ms  30.580 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.424 ms
+"
+s-narodom.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  41.552 ms  41.278 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  43.040 ms
+"
+s-narodom.ru,7," 7  be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  41.957 ms  41.925 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  42.211 ms
+"
+s-narodom.ru,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.86)  40.588 ms 149.6.0.74 (149.6.0.74)  39.103 ms universal-cdn.demarc.cogentco.com (149.6.1.42)  43.210 ms
+"
+s-narodom.ru,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  38.031 ms  37.728 ms  37.701 ms
+"
+s-narodom.ru,10,"10  * * *
+"
+s-narodom.ru,11,"11  cpanel6.v.fozzy.com (78.140.185.169)  37.348 ms  36.497 ms  37.219 ms
+"

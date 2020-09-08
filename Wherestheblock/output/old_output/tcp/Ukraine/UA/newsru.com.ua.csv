@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+newsru.com.ua,0,"traceroute to newsru.com.ua (93.190.41.130), 30 hops max, 60 byte packets
+"
+newsru.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.344 ms  0.361 ms
+"
+newsru.com.ua,2," 2  utel-40G-gw.ix.net.ua (185.1.50.227)  0.469 ms  0.460 ms  0.450 ms
+"
+newsru.com.ua,3," 3  * * *
+"
+newsru.com.ua,4," 4  gw-uh-utel.uh.com.ua (93.190.47.250)  1.495 ms  1.443 ms  1.477 ms
+"
+newsru.com.ua,5," 5  srv13.ukrdomen.com (93.190.46.36)  0.637 ms  0.624 ms  0.618 ms
+"
+newsru.com.ua,6," 6  93.190.41.130 (93.190.41.130)  0.709 ms  12.580 ms  0.666 ms
+"

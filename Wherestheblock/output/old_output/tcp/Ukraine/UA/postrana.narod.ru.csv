@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+postrana.narod.ru,0,"traceroute to postrana.narod.ru (193.109.247.224), 30 hops max, 60 byte packets
+"
+postrana.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.840 ms  0.826 ms  0.882 ms
+"
+postrana.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.569 ms  0.570 ms  0.593 ms
+"
+postrana.narod.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.150 ms  16.047 ms  16.095 ms
+"
+postrana.narod.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  18.721 ms  16.012 ms  16.008 ms
+"
+postrana.narod.ru,5," 5  10.0.9.185 (10.0.9.185)  19.397 ms  19.254 ms *
+"
+postrana.narod.ru,6," 6  10.0.9.185 (10.0.9.185)  17.681 ms ddos-guard.net (185.129.101.142)  17.646 ms 10.0.9.185 (10.0.9.185)  17.731 ms
+"
+postrana.narod.ru,7," 7  ddos-guard.net (185.129.103.17)  17.837 ms ddos-guard.net (185.129.101.142)  16.403 ms  16.460 ms
+"
+postrana.narod.ru,8," 8  ddos-guard.net (185.129.103.17)  16.226 ms * *
+"
+postrana.narod.ru,9," 9  * * *
+"
+postrana.narod.ru,10,"10  dev.ucoz.net (193.109.247.224)  17.475 ms  16.254 ms  19.650 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+c-pravda.ru,0,"traceroute to c-pravda.ru (80.245.112.15), 30 hops max, 60 byte packets
+"
+c-pravda.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.792 ms  1.755 ms  1.816 ms
+"
+c-pravda.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.591 ms  0.613 ms  0.560 ms
+"
+c-pravda.ru,3," 3  khar-atr-b1-ae1-vlan2038.fiord.net (80.77.167.150)  6.946 ms  7.134 ms  7.072 ms
+"
+c-pravda.ru,4," 4  vrn-kvt-b1-ae1-vlan2041.fiord.net (62.140.239.8)  11.474 ms  11.411 ms  11.442 ms
+"
+c-pravda.ru,5," 5  185.214.245.23 (185.214.245.23)  37.964 ms sim.umlc.ru (185.214.245.3)  36.419 ms  39.509 ms
+"
+c-pravda.ru,6," 6  wh2.crelcom.ru (80.245.112.15)  30.845 ms  31.225 ms  33.753 ms
+"

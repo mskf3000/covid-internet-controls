@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+in.reuters.com,0,"traceroute to in.reuters.com (52.222.174.180), 30 hops max, 60 byte packets
+"
+in.reuters.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.320 ms  0.362 ms
+"
+in.reuters.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.940 ms  2.443 ms  0.955 ms
+"
+in.reuters.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.519 ms  17.671 ms  17.728 ms
+"
+in.reuters.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.906 ms  18.823 ms  18.563 ms
+"
+in.reuters.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.430 ms  24.559 ms  24.422 ms
+"
+in.reuters.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.998 ms  29.873 ms  30.021 ms
+"
+in.reuters.com,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.801 ms  29.974 ms  29.955 ms
+"
+in.reuters.com,8," 8  52.93.111.8 (52.93.111.8)  28.916 ms 52.93.111.2 (52.93.111.2)  29.183 ms  29.159 ms
+"
+in.reuters.com,9," 9  54.239.107.61 (54.239.107.61)  31.288 ms 54.239.107.149 (54.239.107.149)  29.117 ms 54.239.107.17 (54.239.107.17)  31.493 ms
+"
+in.reuters.com,10,"10  54.239.4.219 (54.239.4.219)  31.405 ms  30.832 ms  30.877 ms
+"
+in.reuters.com,11,"11  54.239.5.223 (54.239.5.223)  31.417 ms  30.962 ms  30.970 ms
+"
+in.reuters.com,12,"12  * * *
+"
+in.reuters.com,13,"13  * * *
+"
+in.reuters.com,14,"14  * * *
+"
+in.reuters.com,15,"15  server-52-222-174-180.fra54.r.cloudfront.net (52.222.174.180)  28.921 ms  31.435 ms  31.449 ms
+"

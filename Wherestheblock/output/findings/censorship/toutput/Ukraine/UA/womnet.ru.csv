@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+womnet.ru,0,"traceroute to womnet.ru (144.76.186.104), 30 hops max, 60 byte packets
+"
+womnet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.281 ms  0.263 ms
+"
+womnet.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.589 ms  0.613 ms  0.564 ms
+"
+womnet.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.681 ms  28.679 ms  26.141 ms
+"
+womnet.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  49.296 ms  49.288 ms  49.305 ms
+"
+womnet.ru,5," 5  core0.fra.hetzner.com (213.239.252.10)  32.170 ms core1.fra.hetzner.com (213.239.245.125)  28.622 ms core0.fra.hetzner.com (213.239.252.10)  32.147 ms
+"
+womnet.ru,6," 6  core24.fsn1.hetzner.com (213.239.224.253)  36.083 ms core23.fsn1.hetzner.com (213.239.203.154)  41.590 ms core23.fsn1.hetzner.com (213.239.252.38)  45.311 ms
+"
+womnet.ru,7," 7  ex9k1.dc11.fsn1.hetzner.com (213.239.203.142)  40.538 ms  40.292 ms  40.265 ms
+"
+womnet.ru,8," 8  elena.netspaces.ru (144.76.186.104)  35.943 ms  35.506 ms  35.908 ms
+"

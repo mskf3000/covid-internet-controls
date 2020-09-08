@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+itar-tass.com,0,"traceroute to itar-tass.com (82.202.190.76), 30 hops max, 60 byte packets
+"
+itar-tass.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.290 ms  0.277 ms
+"
+itar-tass.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.692 ms  0.689 ms  0.682 ms
+"
+itar-tass.com,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  20.879 ms  20.732 ms  20.864 ms
+"
+itar-tass.com,4," 4  GW-Indrik.retn.net (87.245.253.219)  19.986 ms  19.985 ms  19.977 ms
+"
+itar-tass.com,5," 5  * * *
+"
+itar-tass.com,6," 6  * * 82.202.190.76 (82.202.190.76)  18.841 ms
+"

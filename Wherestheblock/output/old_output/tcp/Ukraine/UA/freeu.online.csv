@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+freeu.online,0,"traceroute to freeu.online (95.163.144.12), 30 hops max, 60 byte packets
+"
+freeu.online,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.287 ms  0.317 ms
+"
+freeu.online,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.595 ms  0.589 ms  0.778 ms
+"
+freeu.online,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.624 ms  20.602 ms  20.604 ms
+"
+freeu.online,4," 4  GW-NetBridge.retn.net (87.245.253.25)  20.240 ms  21.628 ms  20.288 ms
+"
+freeu.online,5," 5  * * *
+"
+freeu.online,6," 6  * * *
+"
+freeu.online,7," 7  * * *
+"
+freeu.online,8," 8  * * *
+"
+freeu.online,9," 9  95.163.144.12 (95.163.144.12)  23.342 ms  20.245 ms  21.069 ms
+"

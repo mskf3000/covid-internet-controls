@@ -1,0 +1,60 @@
+URL,TTL,Message
+pocciy.com,1,
+pocciy.com,2,
+pocciy.com,3,
+pocciy.com,4,
+pocciy.com,5,
+pocciy.com,6,
+pocciy.com,7,
+pocciy.com,8,
+pocciy.com,9,
+pocciy.com,10,"HTTP/1.1 302 Found
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 11
+date: Thu, 23 Jan 2020 03:13:11 GMT
+location: http://survey-smiles.com
+server: nginx
+set-cookie: sid=49d909d0-3d8e-11ea-9e47-11be01bc5cfe; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 06:27:19 GMT; max-age=2147483647; HttpOnly
+
+Redirecting"
+pocciy.com,11,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 03:13:11 GMT
+server: nginx
+set-cookie: sid=49e73e2e-3d8e-11ea-becb-11be990a73da; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 06:27:19 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc1NjM5MiwiaWF0IjoxNTc5NzQ5MTkyLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02YjFhMGZuMDlib2dpZjAwdmJiOG0iLCJuYmYiOjE1Nzk3NDkxOTIsInRzIjoxNTc5NzQ5MTkyMjg3MTEyfQ.qhbQkl90-dN336pmUDy2LSJRV7B0zqn1lOek5agP7jY&sid=49e73e2e-3d8e-11ea-becb-11be990a73da');</script></body></html>"
+pocciy.com,12,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 03:13:11 GMT
+server: nginx
+set-cookie: sid=49f4f4d8-3d8e-11ea-bde6-11bea32175cb; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 06:27:19 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc1NjM5MiwiaWF0IjoxNTc5NzQ5MTkyLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02YjFhNXAyYjB1dG4zOGsxMm5wbzQiLCJuYmYiOjE1Nzk3NDkxOTIsInRzIjoxNTc5NzQ5MTkyMzc1OTY3fQ.waDFS5DRx71PFQQnK3KpkqmaAGm8jhJoO7O14NOgyCQ&sid=49f4f4d8-3d8e-11ea-bde6-11bea32175cb');</script></body></html>"
+pocciy.com,13,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 03:13:11 GMT
+server: nginx
+set-cookie: sid=4a025ec0-3d8e-11ea-aaac-11befb9fe925; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 06:27:19 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc1NjM5MiwiaWF0IjoxNTc5NzQ5MTkyLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02YjFhYjFya2l1a2RtMGMxMHFvNGsiLCJuYmYiOjE1Nzk3NDkxOTIsInRzIjoxNTc5NzQ5MTkyNDY0NDM0fQ.oIaPyhLPfv_tyjAjHdCrY0D7H5JTKyC1U1EP0TPDe_0&sid=4a025ec0-3d8e-11ea-aaac-11befb9fe925');</script></body></html>"
+pocciy.com,14,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 03:13:14 GMT
+server: nginx
+set-cookie: sid=4bdf0fea-3d8e-11ea-8f4d-11be3feb45eb; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 06:27:22 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc1NjM5NSwiaWF0IjoxNTc5NzQ5MTk1LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm02YjFnNTdjY3A3ampia2sxMXNraWQiLCJuYmYiOjE1Nzk3NDkxOTUsInRzIjoxNTc5NzQ5MTk1NTg3ODQ4fQ.HfhlzOt7Le3B_BMkpkmCFH-zmGpIx_pJ1-rRPdBlcUo&sid=4bdf0fea-3d8e-11ea-8f4d-11be3feb45eb');</script></body></html>"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+gagadget.com,0,"traceroute to gagadget.com (195.206.238.150), 50 hops max, 60 byte packets
+"
+gagadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.827 ms  0.566 ms  0.549 ms
+"
+gagadget.com,2," 2  utel-40G-gw.ix.net.ua (185.1.50.227)  0.548 ms  0.539 ms  0.530 ms
+"
+gagadget.com,3," 3  * * *
+"
+gagadget.com,4," 4  213.186.118.178.utel.net.ua (213.186.118.178)  65.415 ms  65.395 ms  65.379 ms
+"
+gagadget.com,5," 5  mobus.magnet.kiev.ua (195.206.238.150)  65.320 ms  65.324 ms  65.306 ms
+"

@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+atr.ua,0,"traceroute to atr.ua (91.218.214.111), 50 hops max, 60 byte packets
+"
+atr.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.290 ms  0.274 ms  0.265 ms
+"
+atr.ua,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  1.045 ms  1.037 ms  1.040 ms
+"
+atr.ua,3," 3  unallocated.qos.kiev.ua (91.218.214.111)  0.757 ms  0.762 ms  0.757 ms
+"

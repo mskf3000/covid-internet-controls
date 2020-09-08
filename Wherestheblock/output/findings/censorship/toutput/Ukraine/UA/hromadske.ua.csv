@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+hromadske.ua,0,"traceroute to hromadske.ua (104.20.39.87), 30 hops max, 60 byte packets
+"
+hromadske.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.290 ms  0.283 ms  0.319 ms
+"
+hromadske.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.075 ms  1.106 ms  1.099 ms
+"
+hromadske.ua,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.090 ms  1.024 ms  0.889 ms
+"
+hromadske.ua,4," 4  149.6.191.138 (149.6.191.138)  2.989 ms  2.976 ms  2.993 ms
+"
+hromadske.ua,5," 5  104.20.39.87 (104.20.39.87)  0.501 ms  0.590 ms  0.543 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ichkeria.info,0,"traceroute to ichkeria.info (104.27.157.103), 50 hops max, 60 byte packets
+"
+ichkeria.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.298 ms  0.328 ms
+"
+ichkeria.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.147 ms  0.911 ms  1.133 ms
+"
+ichkeria.info,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.756 ms  18.846 ms  18.787 ms
+"
+ichkeria.info,4," 4  149.6.50.74 (149.6.50.74)  23.426 ms  22.129 ms  23.390 ms
+"
+ichkeria.info,5," 5  104.27.157.103 (104.27.157.103)  18.567 ms  18.584 ms  18.499 ms
+"

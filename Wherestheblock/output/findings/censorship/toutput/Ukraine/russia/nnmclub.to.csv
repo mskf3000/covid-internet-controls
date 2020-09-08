@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+nnmclub.to,0,"traceroute to nnmclub.to (81.17.30.51), 50 hops max, 60 byte packets
+"
+nnmclub.to,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.279 ms  0.300 ms
+"
+nnmclub.to,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.593 ms  0.580 ms  0.575 ms
+"
+nnmclub.to,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.228 ms  28.661 ms  26.219 ms
+"
+nnmclub.to,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  30.613 ms  30.657 ms  30.644 ms
+"
+nnmclub.to,5," 5  et-0-0-13.cr5-mil3.ip4.gtt.net (213.254.230.178)  39.806 ms  37.968 ms  37.960 ms
+"
+nnmclub.to,6," 6  ip4.gtt.net (87.119.95.34)  40.540 ms  40.520 ms  40.536 ms
+"
+nnmclub.to,7," 7  31.44.43.70 (31.44.43.70)  38.461 ms  41.074 ms  38.429 ms
+"
+nnmclub.to,8," 8  46.19.136.225 (46.19.136.225)  40.367 ms  38.346 ms  38.336 ms
+"
+nnmclub.to,9," 9  46.19.136.162 (46.19.136.162)  40.474 ms  38.467 ms  42.231 ms
+"
+nnmclub.to,10,"10  81.17.30.51 (81.17.30.51)  40.069 ms  40.012 ms  37.777 ms
+"

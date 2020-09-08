@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mvddnr.ru,0,"traceroute to mvddnr.ru (87.226.218.132), 30 hops max, 60 byte packets
+"
+mvddnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.318 ms  0.308 ms  0.359 ms
+"
+mvddnr.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.559 ms  0.555 ms *
+"
+mvddnr.ru,3," 3  100.64.65.25 (100.64.65.25)  7.847 ms  7.842 ms  8.216 ms
+"
+mvddnr.ru,4," 4  100.64.64.141 (100.64.64.141)  30.194 ms  30.229 ms  30.602 ms
+"
+mvddnr.ru,5," 5  frkt-ar2.intl.ip.rostelecom.ru (80.81.194.31)  42.819 ms  43.155 ms  43.186 ms
+"
+mvddnr.ru,6," 6  188.254.25.77 (188.254.25.77)  40.888 ms 213.59.211.255 (213.59.211.255)  47.829 ms 213.59.212.217 (213.59.212.217)  59.995 ms
+"
+mvddnr.ru,7," 7  87.226.196.97 (87.226.196.97)  63.775 ms  82.206 ms  59.397 ms
+"
+mvddnr.ru,8," 8  87.226.218.132 (87.226.218.132)  83.142 ms  70.685 ms  79.678 ms
+"

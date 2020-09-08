@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ej.ru,0,"traceroute to ej.ru (176.56.182.155), 30 hops max, 60 byte packets
+"
+ej.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.268 ms  0.258 ms  0.294 ms
+"
+ej.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.645 ms  0.640 ms  0.506 ms
+"
+ej.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.467 ms  38.451 ms  35.908 ms
+"
+ej.ru,4," 4  * * *
+"
+ej.ru,5," 5  4012.r0.302.m4.ams.nl.iptp.net (91.194.117.183)  33.722 ms  33.790 ms  36.129 ms
+"
+ej.ru,6," 6  s0077e0.110.m4.ams.nl.iptp.net (176.56.182.155)  33.549 ms  33.360 ms  36.117 ms
+"

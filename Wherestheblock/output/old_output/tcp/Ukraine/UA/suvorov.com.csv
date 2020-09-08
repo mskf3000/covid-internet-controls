@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+suvorov.com,0,"traceroute to suvorov.com (92.53.96.109), 30 hops max, 60 byte packets
+"
+suvorov.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.257 ms  0.289 ms  0.459 ms
+"
+suvorov.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.934 ms  0.929 ms  0.957 ms
+"
+suvorov.com,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.335 ms  30.327 ms  30.308 ms
+"
+suvorov.com,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  34.484 ms  34.478 ms  34.470 ms
+"
+suvorov.com,5," 5  vh54.timeweb.ru (92.53.96.109)  37.538 ms  28.665 ms  29.321 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+6264.com.ua,0,"traceroute to 6264.com.ua (104.27.130.130), 30 hops max, 60 byte packets
+"
+6264.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.337 ms  0.360 ms
+"
+6264.com.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.009 ms  1.041 ms  1.102 ms
+"
+6264.com.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.299 ms  19.385 ms  19.422 ms
+"
+6264.com.ua,4," 4  149.6.50.74 (149.6.50.74)  19.559 ms  19.496 ms  19.535 ms
+"
+6264.com.ua,5," 5  104.27.130.130 (104.27.130.130)  18.879 ms  18.638 ms  18.669 ms
+"

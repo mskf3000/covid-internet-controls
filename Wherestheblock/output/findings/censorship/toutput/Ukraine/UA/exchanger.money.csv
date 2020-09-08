@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+exchanger.money,0,"traceroute to exchanger.money (217.182.157.141), 30 hops max, 60 byte packets
+"
+exchanger.money,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.394 ms  0.379 ms  0.400 ms
+"
+exchanger.money,2," 2  * * *
+"
+exchanger.money,3," 3  * * *
+"
+exchanger.money,4," 4  * * *
+"
+exchanger.money,5," 5  be100-1167.ams-1-a9.nl.eu (91.121.215.192)  35.520 ms  35.520 ms be100-1166.ams-1-a9.nl.eu (91.121.215.190)  35.784 ms
+"
+exchanger.money,6," 6  be104.gra-g2-nc5.fr.eu (213.251.128.66)  41.942 ms be104.gra-g1-nc5.fr.eu (213.186.32.210)  42.094 ms be104.gra-g2-nc5.fr.eu (213.251.128.66)  42.025 ms
+"
+exchanger.money,7," 7  * * *
+"
+exchanger.money,8," 8  * * *
+"
+exchanger.money,9," 9  * * *
+"
+exchanger.money,10,"10  * * *
+"
+exchanger.money,11,"11  * * *
+"
+exchanger.money,12,"12  * * *
+"
+exchanger.money,13,"13  * * *
+"
+exchanger.money,14,"14  ip141.ip-217-182-157.eu (217.182.157.141)  41.786 ms  41.743 ms  41.224 ms
+"

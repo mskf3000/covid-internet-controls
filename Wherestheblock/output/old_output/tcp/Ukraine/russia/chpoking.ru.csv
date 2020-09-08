@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+chpoking.ru,0,"traceroute to chpoking.ru (185.10.61.20), 50 hops max, 60 byte packets
+"
+chpoking.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.377 ms  0.367 ms  0.361 ms
+"
+chpoking.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.157 ms  16.826 ms  16.123 ms
+"
+chpoking.ru,3," 3  * * *
+"
+chpoking.ru,4," 4  10.0.9.165 (10.0.9.165)  16.291 ms 10.0.9.181 (10.0.9.181)  18.469 ms 10.0.9.165 (10.0.9.165)  16.895 ms
+"
+chpoking.ru,5," 5  ddos-guard.net (185.129.103.4)  16.534 ms  17.226 ms  17.978 ms
+"
+chpoking.ru,6," 6  185.10.61.20 (185.10.61.20)  18.214 ms  17.578 ms  20.916 ms
+"

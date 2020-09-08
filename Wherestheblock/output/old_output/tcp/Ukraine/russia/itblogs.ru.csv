@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+itblogs.ru,0,"traceroute to itblogs.ru (104.24.100.119), 50 hops max, 60 byte packets
+"
+itblogs.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.350 ms  0.373 ms  0.359 ms
+"
+itblogs.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.606 ms  0.621 ms  0.582 ms
+"
+itblogs.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.811 ms  17.793 ms  17.169 ms
+"
+itblogs.ru,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  18.965 ms  18.952 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.929 ms
+"
+itblogs.ru,5," 5  104.24.100.119 (104.24.100.119)  18.959 ms cloudflare-peering.fiord.net (80.77.167.7)  18.324 ms 104.24.100.119 (104.24.100.119)  17.616 ms
+"

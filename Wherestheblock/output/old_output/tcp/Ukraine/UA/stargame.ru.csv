@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+stargame.ru,0,"traceroute to stargame.ru (185.189.15.13), 30 hops max, 60 byte packets
+"
+stargame.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.448 ms  1.437 ms  1.488 ms
+"
+stargame.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.054 ms  16.036 ms  16.112 ms
+"
+stargame.ru,3," 3  as12695.ix.dataix.ru (178.18.226.50)  16.141 ms  16.200 ms  16.996 ms
+"
+stargame.ru,4," 4  te-6-8.sr1.msk1.ip.di-net.ru (213.248.1.209)  41.395 ms  41.379 ms  41.435 ms
+"
+stargame.ru,5," 5  lanrusinvest.c.di-net.ru (213.219.206.146)  19.083 ms  19.048 ms  19.520 ms
+"
+stargame.ru,6," 6  * * *
+"
+stargame.ru,7," 7  rob1.example.com (185.189.15.13)  19.141 ms  22.385 ms  19.757 ms
+"

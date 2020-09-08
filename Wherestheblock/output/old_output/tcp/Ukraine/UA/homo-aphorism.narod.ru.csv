@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+homo-aphorism.narod.ru,0,"traceroute to homo-aphorism.narod.ru (193.109.247.229), 30 hops max, 60 byte packets
+"
+homo-aphorism.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.343 ms  0.353 ms  0.341 ms
+"
+homo-aphorism.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.594 ms  0.574 ms  1.976 ms
+"
+homo-aphorism.narod.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.650 ms  17.156 ms  18.010 ms
+"
+homo-aphorism.narod.ru,4," 4  * * msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.950 ms
+"
+homo-aphorism.narod.ru,5," 5  * 10.0.9.61 (10.0.9.61)  17.158 ms *
+"
+homo-aphorism.narod.ru,6," 6  ddos-guard.net (185.129.101.142)  18.067 ms 10.0.9.61 (10.0.9.61)  16.042 ms ddos-guard.net (185.129.101.142)  17.438 ms
+"
+homo-aphorism.narod.ru,7," 7  ddos-guard.net (185.129.101.142)  16.567 ms  16.434 ms ddos-guard.net (185.129.103.17)  17.457 ms
+"
+homo-aphorism.narod.ru,8," 8  * ddos-guard.net (185.129.103.17)  16.152 ms  16.263 ms
+"
+homo-aphorism.narod.ru,9," 9  * * dev.ucoz.net (193.109.247.229)  20.883 ms
+"

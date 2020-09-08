@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+advisor.wmtransfer.com,0,"traceroute to advisor.wmtransfer.com (91.227.52.217), 30 hops max, 60 byte packets
+"
+advisor.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.669 ms  0.648 ms  0.633 ms
+"
+advisor.wmtransfer.com,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.469 ms  0.595 ms  0.586 ms
+"
+advisor.wmtransfer.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.935 ms  15.918 ms  15.906 ms
+"
+advisor.wmtransfer.com,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.828 ms  15.875 ms  15.810 ms
+"
+advisor.wmtransfer.com,5," 5  88.210.48.237 (88.210.48.237)  17.070 ms  16.979 ms  17.090 ms
+"
+advisor.wmtransfer.com,6," 6  91.227.52.217 (91.227.52.217)  17.293 ms  17.212 ms  17.251 ms
+"

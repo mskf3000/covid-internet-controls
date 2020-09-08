@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mintop.su,0,"traceroute to mintop.su (193.228.160.51), 30 hops max, 60 byte packets
+"
+mintop.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.254 ms  1.242 ms  1.289 ms
+"
+mintop.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.673 ms  0.715 ms  0.711 ms
+"
+mintop.su,3," 3  10.11.12.17 (10.11.12.17)  0.914 ms  0.910 ms  0.950 ms
+"
+mintop.su,4," 4  * * *
+"
+mintop.su,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.101 ms  1.094 ms  1.084 ms
+"
+mintop.su,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  19.409 ms  28.724 ms  19.334 ms
+"
+mintop.su,7," 7  GW-Telematika.retn.net (87.245.239.187)  29.365 ms  26.225 ms  26.343 ms
+"
+mintop.su,8," 8  193.228.160.51 (193.228.160.51)  25.626 ms  26.638 ms  29.123 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+pravda.dn.ua,0,"traceroute to pravda.dn.ua (104.28.6.76), 30 hops max, 60 byte packets
+"
+pravda.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.334 ms  0.349 ms
+"
+pravda.dn.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.874 ms  0.997 ms  1.065 ms
+"
+pravda.dn.ua,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  10.115 ms  8.857 ms  10.088 ms
+"
+pravda.dn.ua,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.975 ms  11.912 ms  12.034 ms
+"
+pravda.dn.ua,5," 5  149.14.58.106 (149.14.58.106)  13.300 ms  13.444 ms  13.353 ms
+"
+pravda.dn.ua,6," 6  104.28.6.76 (104.28.6.76)  11.720 ms  11.709 ms  11.799 ms
+"

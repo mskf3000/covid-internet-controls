@@ -1,0 +1,3006 @@
+URL,TTL,Message
+antifashist.com,1,timed out
+antifashist.com,2,timed out
+antifashist.com,3,timed out
+antifashist.com,4,timed out
+antifashist.com,5,timed out
+antifashist.com,6,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,7,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let th"
+antifashist.com,8,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,9,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,10,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,11,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,12,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,13,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,14,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:13 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,15,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,16,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,17,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,18,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,19,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,20,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,21,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,22,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,23,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,24,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,25,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,26,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,27,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let th"
+antifashist.com,28,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"
+antifashist.com,29,"HTTP/1.1 403 Forbidden
+Date: Wed, 22 Jan 2020 20:21:14 GMT
+Server: Apache/2.4.41 (codeit) OpenSSL/1.1.1d
+Upgrade: h2
+Connection: Upgrade, Keep-Alive
+Last-Modified: Thu, 15 Aug 2019 22:04:26 GMT
+ETag: ""122a-5902f0e940e80""
+Accept-Ranges: bytes
+Content-Length: 4650
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+	<head>
+		<title>Test Page for the Apache HTTP Server on Fedora</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+		<style type=""text/css"">
+			/*<![CDATA[*/
+			body {
+				background-color: #fff;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #c00;
+			}
+			:visited {
+				color: #c00;
+			}
+			a:hover {
+				color: #f50;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #22437f;
+				color: #fff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			hr {
+				display: none;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-left hr {
+				display: none;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #f50;
+			}
+			/*]]>*/
+		</style>
+	</head>
+
+	<body>
+		<h1>Fedora <strong>Test Page</strong></h1>
+
+		<div class=""content"">
+			<div class=""content-middle"">
+				<p>This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page, it means that the web server installed at this site is working properly, but has not yet been configured.</p>
+			</div>
+			<hr />
+
+			<div class=""content-columns"">
+				<div class=""content-column-left"">
+					<h2>If you are a member of the general public:</h2>
+
+					<p>The fact that you are seeing this page indicates that the website you just visited is either experiencing problems, or is undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+
+					<p>Fedora is a distribution of Linux, a popular computer operating system. It is commonly used by hosting companies because it is free, and includes free web server software. Many times, they do not set up their web server correctly, and it displays this ""test page"" instead of the expected website.</p>
+
+					<p>Accordingly, please keep these facts in mind:</p>
+					<ul>
+					<li>Neither the Fedora Project or Red Hat has any affiliation with any website or content hosted from this server (unless otherwise explicitly stated).</li>
+					<li>Neither the Fedora Project or Red Hat has ""hacked"" this webserver, this test page is an included component of Apache's httpd webserver software.</li>
+					</ul>
+
+					<p>For more information about Fedora, please visit the <a href=""https://getfedora.org/"">Fedora"

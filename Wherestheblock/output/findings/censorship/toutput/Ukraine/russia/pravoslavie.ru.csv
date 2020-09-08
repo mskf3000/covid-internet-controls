@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+pravoslavie.ru,0,"traceroute to pravoslavie.ru (89.249.18.10), 50 hops max, 60 byte packets
+"
+pravoslavie.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.728 ms  0.718 ms  0.711 ms
+"
+pravoslavie.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  23.327 ms  16.681 ms  19.521 ms
+"
+pravoslavie.ru,3," 3  109.239.138.101 (109.239.138.101)  18.626 ms  19.569 ms  18.206 ms
+"
+pravoslavie.ru,4," 4  mail.pravoslavie.ru (89.249.18.10)  19.324 ms  17.025 ms  18.125 ms
+"

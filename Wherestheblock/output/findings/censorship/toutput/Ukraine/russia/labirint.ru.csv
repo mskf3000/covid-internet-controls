@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+labirint.ru,0,"traceroute to labirint.ru (194.84.120.170), 50 hops max, 60 byte packets
+"
+labirint.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.244 ms  2.225 ms  2.252 ms
+"
+labirint.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.591 ms  0.578 ms  0.806 ms
+"
+labirint.ru,3," 3  10.11.12.17 (10.11.12.17)  0.859 ms  0.780 ms  0.823 ms
+"
+labirint.ru,4," 4  * * *
+"
+labirint.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.913 ms  0.906 ms  0.887 ms
+"
+labirint.ru,6," 6  ae0-5.RT.IXC.MSK.RU.retn.net (46.46.128.114)  19.515 ms  19.576 ms  19.575 ms
+"
+labirint.ru,7," 7  GW-Equant.retn.net (46.46.180.47)  17.756 ms  17.728 ms  17.689 ms
+"
+labirint.ru,8," 8  Umbrella-PE01-ae0-0.rosprint.net (195.151.234.228)  18.386 ms  18.366 ms  18.356 ms
+"
+labirint.ru,9," 9  Moscow-GIN-PE11-ae2-0.rosprint.net (195.151.241.161)  29.508 ms  28.209 ms  28.273 ms
+"
+labirint.ru,10,"10  LABIRINT-Altufevskoe-gw.rosprint.net (212.176.122.97)  20.006 ms  19.982 ms  19.986 ms
+"
+labirint.ru,11,"11  srv170n.labirint.ru (194.84.120.170)  18.414 ms  17.632 ms  17.598 ms
+"

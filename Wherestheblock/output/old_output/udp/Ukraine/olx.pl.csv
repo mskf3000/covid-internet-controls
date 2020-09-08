@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+olx.pl,0,"traceroute to olx.pl (143.204.214.104), 30 hops max, 60 byte packets
+"
+olx.pl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.285 ms  0.299 ms
+"
+olx.pl,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.149 ms  1.255 ms  1.118 ms
+"
+olx.pl,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.210 ms  17.278 ms  17.308 ms
+"
+olx.pl,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.179 ms  18.196 ms  18.181 ms
+"
+olx.pl,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.252 ms  24.591 ms  24.651 ms
+"
+olx.pl,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.964 ms  30.255 ms  29.747 ms
+"
+olx.pl,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.930 ms  29.551 ms  29.522 ms
+"
+olx.pl,8," 8  52.93.111.12 (52.93.111.12)  29.600 ms  29.241 ms 52.93.111.10 (52.93.111.10)  29.115 ms
+"
+olx.pl,9," 9  54.239.4.71 (54.239.4.71)  28.501 ms 54.239.4.75 (54.239.4.75)  28.377 ms  28.324 ms
+"
+olx.pl,10,"10  * * *
+"
+olx.pl,11,"11  * * *
+"
+olx.pl,12,"12  * * *
+"
+olx.pl,13,"13  * * *
+"
+olx.pl,14,"14  * * *
+"
+olx.pl,15,"15  * * *
+"
+olx.pl,16,"16  * * *
+"
+olx.pl,17,"17  * * *
+"
+olx.pl,18,"18  * * *
+"
+olx.pl,19,"19  * * *
+"
+olx.pl,20,"20  * * *
+"
+olx.pl,21,"21  * * *
+"
+olx.pl,22,"22  * * *
+"
+olx.pl,23,"23  * * *
+"
+olx.pl,24,"24  * * *
+"
+olx.pl,25,"25  * * *
+"
+olx.pl,26,"26  * * *
+"
+olx.pl,27,"27  * * *
+"
+olx.pl,28,"28  * * *
+"
+olx.pl,29,"29  * * *
+"
+olx.pl,30,"30  * * *
+"

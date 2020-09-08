@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+contr-tv.ru,0,"traceroute to contr-tv.ru (62.122.170.171), 30 hops max, 60 byte packets
+"
+contr-tv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.335 ms  0.374 ms
+"
+contr-tv.ru,2," 2  dtel-ix.netassist.ua (193.25.180.52)  0.474 ms  0.406 ms  0.401 ms
+"
+contr-tv.ru,3," 3  62.205.132.223 (62.205.132.223)  29.679 ms  29.647 ms  29.654 ms
+"
+contr-tv.ru,4," 4  serverel.telecity5.nl-ix.net (193.239.117.162)  36.681 ms  36.541 ms  36.667 ms
+"
+contr-tv.ru,5," 5  * * *
+"
+contr-tv.ru,6," 6  62.122.170.171.serverel.net (62.122.170.171)  34.991 ms  35.587 ms  34.808 ms
+"

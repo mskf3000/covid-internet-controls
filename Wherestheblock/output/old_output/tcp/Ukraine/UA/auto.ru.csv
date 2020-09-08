@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+auto.ru,0,"traceroute to auto.ru (213.180.204.188), 30 hops max, 60 byte packets
+"
+auto.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.272 ms  0.263 ms  0.254 ms
+"
+auto.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.820 ms  1.449 ms  1.804 ms
+"
+auto.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.344 ms  17.284 ms  17.368 ms
+"
+auto.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.528 ms  22.514 ms  22.572 ms
+"
+auto.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  32.574 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  32.567 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  32.211 ms
+"
+auto.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.293 ms  45.832 ms  45.923 ms
+"
+auto.ru,7," 7  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  56.621 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  52.929 ms  52.711 ms
+"
+auto.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  56.849 ms  52.993 ms  52.889 ms
+"
+auto.ru,9," 9  149.11.124.74 (149.11.124.74)  66.599 ms  52.552 ms  52.623 ms
+"
+auto.ru,10,"10  autoru-front.http.yandex.net (213.180.204.188)  45.160 ms myt-e2-eth-trunk91.yndx.net (213.180.213.69)  50.917 ms autoru-front.http.yandex.net (213.180.204.188)  45.736 ms
+"

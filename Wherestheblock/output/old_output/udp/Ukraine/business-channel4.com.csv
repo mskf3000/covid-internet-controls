@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+business-channel4.com,0,"traceroute to business-channel4.com (208.91.197.46), 30 hops max, 60 byte packets
+"
+business-channel4.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.621 ms  0.619 ms  0.604 ms
+"
+business-channel4.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.764 ms  0.728 ms  0.746 ms
+"
+business-channel4.com,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.567 ms  30.596 ms ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  32.463 ms
+"
+business-channel4.com,4," 4  * * *
+"
+business-channel4.com,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  30.997 ms  30.893 ms  30.843 ms
+"
+business-channel4.com,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  156.539 ms  155.376 ms  155.389 ms
+"
+business-channel4.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  163.629 ms  156.601 ms  154.969 ms
+"
+business-channel4.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  156.712 ms  155.106 ms  155.188 ms
+"
+business-channel4.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  161.009 ms  160.978 ms  156.646 ms
+"
+business-channel4.com,10,"10  * ae0.cs3.lhr11.uk.eth.zayo.com (64.125.29.118)  155.919 ms *
+"
+business-channel4.com,11,"11  * * *
+"
+business-channel4.com,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  154.878 ms  157.216 ms  155.484 ms
+"
+business-channel4.com,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  155.912 ms  156.809 ms  157.787 ms
+"
+business-channel4.com,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  154.754 ms  154.888 ms  155.235 ms
+"
+business-channel4.com,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  155.176 ms  155.201 ms  154.993 ms
+"
+business-channel4.com,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  154.595 ms  155.754 ms  154.933 ms
+"
+business-channel4.com,17,"17  * * *
+"
+business-channel4.com,18,"18  * * *
+"
+business-channel4.com,19,"19  * * *
+"
+business-channel4.com,20,"20  * * *
+"
+business-channel4.com,21,"21  * * *
+"
+business-channel4.com,22,"22  * * *
+"
+business-channel4.com,23,"23  * * *
+"
+business-channel4.com,24,"24  * * *
+"
+business-channel4.com,25,"25  * * *
+"
+business-channel4.com,26,"26  * * *
+"
+business-channel4.com,27,"27  * * *
+"
+business-channel4.com,28,"28  * * *
+"
+business-channel4.com,29,"29  * * *
+"
+business-channel4.com,30,"30  * * *
+"

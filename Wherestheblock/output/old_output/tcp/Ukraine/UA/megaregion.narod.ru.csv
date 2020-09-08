@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+megaregion.narod.ru,0,"traceroute to megaregion.narod.ru (193.109.247.247), 30 hops max, 60 byte packets
+"
+megaregion.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.330 ms  0.343 ms
+"
+megaregion.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.069 ms  1.017 ms  1.097 ms
+"
+megaregion.narod.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.747 ms  17.564 ms  17.464 ms
+"
+megaregion.narod.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.931 ms *  15.920 ms
+"
+megaregion.narod.ru,5," 5  * * 10.0.9.61 (10.0.9.61)  17.395 ms
+"
+megaregion.narod.ru,6," 6  ddos-guard.net (185.129.101.142)  18.052 ms 10.0.9.61 (10.0.9.61)  16.045 ms ddos-guard.net (185.129.101.142)  18.127 ms
+"
+megaregion.narod.ru,7," 7  ddos-guard.net (185.129.103.17)  17.883 ms  17.422 ms ddos-guard.net (185.129.101.142)  16.810 ms
+"
+megaregion.narod.ru,8," 8  * ddos-guard.net (185.129.103.17)  16.193 ms  16.403 ms
+"
+megaregion.narod.ru,9," 9  * * dev.ucoz.net (193.109.247.247)  18.711 ms
+"

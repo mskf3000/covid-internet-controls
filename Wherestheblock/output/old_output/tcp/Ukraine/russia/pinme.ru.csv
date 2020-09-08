@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+pinme.ru,0,"traceroute to pinme.ru (5.188.162.51), 50 hops max, 60 byte packets
+"
+pinme.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.326 ms  0.316 ms  0.340 ms
+"
+pinme.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.064 ms  16.905 ms  16.053 ms
+"
+pinme.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  24.434 ms  24.831 ms  25.593 ms
+"
+pinme.ru,4," 4  141.spb.net.selectel.ru (188.93.17.141)  27.898 ms  26.757 ms  24.546 ms
+"
+pinme.ru,5," 5  5.188.162.51 (5.188.162.51)  25.792 ms  26.864 ms  24.248 ms
+"

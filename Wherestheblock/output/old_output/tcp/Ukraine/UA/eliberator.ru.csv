@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+eliberator.ru,0,"traceroute to eliberator.ru (109.70.26.37), 30 hops max, 60 byte packets
+"
+eliberator.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.350 ms  0.346 ms  0.363 ms
+"
+eliberator.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.016 ms  1.130 ms  1.038 ms
+"
+eliberator.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.085 ms  17.396 ms  17.451 ms
+"
+eliberator.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.021 ms  30.030 ms  30.020 ms
+"
+eliberator.ru,5," 5  et-0-0-17.cr2-fra6.ip4.gtt.net (89.149.180.74)  32.241 ms  32.333 ms  32.277 ms
+"
+eliberator.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  53.521 ms  53.342 ms  53.323 ms
+"
+eliberator.ru,7," 7  213.59.212.235 (213.59.212.235)  43.517 ms 213.59.212.217 (213.59.212.217)  46.943 ms 188.254.25.77 (188.254.25.77)  42.803 ms
+"
+eliberator.ru,8," 8  5.143.251.250 (5.143.251.250)  50.889 ms  51.826 ms  47.114 ms
+"
+eliberator.ru,9," 9  MSK-CTV-R1.nic.ru (193.232.147.51)  43.693 ms  54.074 ms  45.282 ms
+"
+eliberator.ru,10,"10  MSK-CTV-GW1.nic.ru (193.232.147.219)  54.307 ms  52.365 ms  53.740 ms
+"
+eliberator.ru,11,"11  expirepages-kiae-1.nic.ru (109.70.26.37)  59.370 ms  51.603 ms  51.603 ms
+"

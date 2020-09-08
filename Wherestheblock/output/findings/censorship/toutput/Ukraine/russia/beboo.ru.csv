@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+beboo.ru,0,"traceroute to beboo.ru (104.20.10.109), 50 hops max, 60 byte packets
+"
+beboo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.330 ms  0.370 ms
+"
+beboo.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.718 ms  2.750 ms  0.568 ms
+"
+beboo.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.122 ms  16.156 ms  16.093 ms
+"
+beboo.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.012 ms cloudflare-peering.fiord.net (80.77.167.7)  22.417 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.975 ms
+"
+beboo.ru,5," 5  104.20.10.109 (104.20.10.109)  18.468 ms  20.723 ms cloudflare-peering.fiord.net (80.77.167.7)  19.541 ms
+"

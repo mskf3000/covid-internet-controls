@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+breakingnews.ie,0,"traceroute to breakingnews.ie (104.26.4.75), 30 hops max, 60 byte packets
+"
+breakingnews.ie,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.393 ms  1.427 ms  1.412 ms
+"
+breakingnews.ie,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.310 ms  1.056 ms  1.294 ms
+"
+breakingnews.ie,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.116 ms  0.897 ms  0.838 ms
+"
+breakingnews.ie,4," 4  149.6.191.138 (149.6.191.138)  0.596 ms  0.606 ms  0.599 ms
+"
+breakingnews.ie,5," 5  104.26.4.75 (104.26.4.75)  0.497 ms  0.542 ms  0.542 ms
+"

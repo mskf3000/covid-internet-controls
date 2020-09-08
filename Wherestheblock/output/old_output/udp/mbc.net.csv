@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+mbc.net,0,"traceroute to mbc.net (50.19.210.76), 50 hops max, 60 byte packets
+"
+mbc.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.054 ms  5.033 ms  5.015 ms
+"
+mbc.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.970 ms  1.104 ms  1.095 ms
+"
+mbc.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.475 ms  17.061 ms  17.444 ms
+"
+mbc.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.093 ms  22.382 ms  22.077 ms
+"
+mbc.net,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.373 ms  30.616 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.737 ms
+"
+mbc.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.377 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.366 ms  39.688 ms
+"
+mbc.net,7," 7  be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  118.420 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.647 ms  115.519 ms
+"
+mbc.net,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.096 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.499 ms  117.308 ms
+"
+mbc.net,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  118.637 ms  118.670 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.452 ms
+"
+mbc.net,10,"10  38.140.107.42 (38.140.107.42)  116.021 ms 38.140.106.162 (38.140.106.162)  119.399 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.192 ms
+"
+mbc.net,11,"11  52.93.31.33 (52.93.31.33)  121.442 ms 38.140.106.162 (38.140.106.162)  118.209 ms 52.93.31.43 (52.93.31.43)  115.604 ms
+"
+mbc.net,12,"12  52.93.4.56 (52.93.4.56)  113.487 ms 52.93.31.53 (52.93.31.53)  117.590 ms 52.93.4.44 (52.93.4.44)  110.997 ms
+"
+mbc.net,13,"13  52.93.4.20 (52.93.4.20)  110.788 ms 52.93.4.4 (52.93.4.4)  110.831 ms *
+"
+mbc.net,14,"14  * * 54.240.229.149 (54.240.229.149)  117.505 ms
+"
+mbc.net,15,"15  * * 150.222.240.56 (150.222.240.56)  116.329 ms
+"
+mbc.net,16,"16  * * *
+"
+mbc.net,17,"17  * * *
+"
+mbc.net,18,"18  * * *
+"
+mbc.net,19,"19  * * *
+"
+mbc.net,20,"20  * * *
+"
+mbc.net,21,"21  * * *
+"
+mbc.net,22,"22  * * *
+"
+mbc.net,23,"23  * * *
+"
+mbc.net,24,"24  * * *
+"
+mbc.net,25,"25  * 52.93.28.204 (52.93.28.204)  117.593 ms 52.93.28.230 (52.93.28.230)  137.236 ms
+"
+mbc.net,26,"26  52.93.28.244 (52.93.28.244)  116.059 ms * *
+"
+mbc.net,27,"27  * * *
+"
+mbc.net,28,"28  * * *
+"
+mbc.net,29,"29  * * *
+"
+mbc.net,30,"30  * * *
+"
+mbc.net,31,"31  * * *
+"
+mbc.net,32,"32  * * *
+"
+mbc.net,33,"33  * * *
+"
+mbc.net,34,"34  * * *
+"
+mbc.net,35,"35  * * *
+"
+mbc.net,36,"36  * * *
+"
+mbc.net,37,"37  * * *
+"
+mbc.net,38,"38  * * *
+"
+mbc.net,39,"39  * * *
+"
+mbc.net,40,"40  * * *
+"
+mbc.net,41,"41  * * *
+"
+mbc.net,42,"42  * * *
+"
+mbc.net,43,"43  * * *
+"
+mbc.net,44,"44  * * *
+"
+mbc.net,45,"45  * * *
+"
+mbc.net,46,"46  * * *
+"
+mbc.net,47,"47  * * *
+"
+mbc.net,48,"48  * * *
+"
+mbc.net,49,"49  * * *
+"
+mbc.net,50,"50  * * *
+"

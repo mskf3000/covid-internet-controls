@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+strana.ru,0,"traceroute to strana.ru (80.247.33.210), 30 hops max, 60 byte packets
+"
+strana.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.302 ms  0.297 ms
+"
+strana.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.588 ms  0.537 ms  0.520 ms
+"
+strana.ru,3," 3  * * msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.047 ms
+"
+strana.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.316 ms  16.020 ms  15.995 ms
+"
+strana.ru,5," 5  80.247.32.14 (80.247.32.14)  18.629 ms  18.681 ms  18.831 ms
+"
+strana.ru,6," 6  80.247.33.210 (80.247.33.210)  18.633 ms 80.247.32.14 (80.247.32.14)  18.001 ms  18.138 ms
+"

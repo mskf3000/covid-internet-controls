@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+theotherrussia.org,0,"traceroute to theotherrussia.org (34.235.210.147), 30 hops max, 60 byte packets
+"
+theotherrussia.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.305 ms  0.286 ms  0.299 ms
+"
+theotherrussia.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.999 ms  0.991 ms  0.978 ms
+"
+theotherrussia.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.225 ms  17.132 ms  17.259 ms
+"
+theotherrussia.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.577 ms  22.687 ms  22.819 ms
+"
+theotherrussia.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.331 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.501 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.334 ms
+"
+theotherrussia.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.342 ms  39.528 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.415 ms
+"
+theotherrussia.org,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  118.338 ms  116.060 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.188 ms
+"
+theotherrussia.org,8," 8  be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.087 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.510 ms  117.490 ms
+"
+theotherrussia.org,9," 9  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.464 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.734 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.344 ms
+"
+theotherrussia.org,10,"10  38.140.106.162 (38.140.106.162)  126.484 ms 38.140.107.42 (38.140.107.42)  117.694 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.880 ms
+"
+theotherrussia.org,11,"11  38.140.107.42 (38.140.107.42)  114.595 ms 52.93.31.33 (52.93.31.33)  123.980 ms 52.93.31.53 (52.93.31.53)  113.241 ms
+"
+theotherrussia.org,12,"12  52.93.4.36 (52.93.4.36)  114.202 ms 52.93.4.2 (52.93.4.2)  114.012 ms  114.495 ms
+"
+theotherrussia.org,13,"13  * * *
+"
+theotherrussia.org,14,"14  150.222.240.56 (150.222.240.56)  120.712 ms * 54.240.229.139 (54.240.229.139)  118.723 ms
+"
+theotherrussia.org,15,"15  54.240.229.139 (54.240.229.139)  116.245 ms * *
+"
+theotherrussia.org,16,"16  * * *
+"
+theotherrussia.org,17,"17  * * *
+"
+theotherrussia.org,18,"18  * * *
+"
+theotherrussia.org,19,"19  * * *
+"
+theotherrussia.org,20,"20  * * *
+"
+theotherrussia.org,21,"21  * * *
+"
+theotherrussia.org,22,"22  * * *
+"
+theotherrussia.org,23,"23  * * *
+"
+theotherrussia.org,24,"24  * * *
+"
+theotherrussia.org,25,"25  * * 52.93.28.108 (52.93.28.108)  118.456 ms
+"
+theotherrussia.org,26,"26  * * 52.93.28.76 (52.93.28.76)  168.421 ms
+"
+theotherrussia.org,27,"27  * * *
+"
+theotherrussia.org,28,"28  * * *
+"
+theotherrussia.org,29,"29  * * *
+"
+theotherrussia.org,30,"30  * * *
+"

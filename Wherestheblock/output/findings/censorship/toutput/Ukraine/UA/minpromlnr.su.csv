@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+minpromlnr.su,0,"traceroute to minpromlnr.su (91.223.118.6), 30 hops max, 60 byte packets
+"
+minpromlnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.538 ms  1.534 ms  1.528 ms
+"
+minpromlnr.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.046 ms  2.046 ms  1.848 ms
+"
+minpromlnr.su,3," 3  10.11.12.17 (10.11.12.17)  2.277 ms  10.306 ms  2.261 ms
+"
+minpromlnr.su,4," 4  * * *
+"
+minpromlnr.su,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  10.272 ms  1.972 ms  2.072 ms
+"
+minpromlnr.su,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  20.616 ms  19.402 ms  19.380 ms
+"
+minpromlnr.su,7," 7  GW-Telematika.retn.net (87.245.239.187)  31.950 ms  28.546 ms  28.161 ms
+"
+minpromlnr.su,8," 8  * * *
+"
+minpromlnr.su,9," 9  pool-95-215-49-22.optima-east.net (95.215.49.22)  29.283 ms  30.344 ms  26.435 ms
+"
+minpromlnr.su,10,"10  91.223.118.6 (91.223.118.6)  29.488 ms  32.509 ms  27.072 ms
+"

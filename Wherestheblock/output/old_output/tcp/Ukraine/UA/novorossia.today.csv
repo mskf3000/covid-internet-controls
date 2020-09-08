@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+novorossia.today,0,"traceroute to novorossia.today (185.53.178.7), 30 hops max, 60 byte packets
+"
+novorossia.today,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.284 ms  0.303 ms
+"
+novorossia.today,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.928 ms  0.968 ms  1.006 ms
+"
+novorossia.today,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.104 ms  17.144 ms  17.047 ms
+"
+novorossia.today,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.166 ms  18.275 ms  18.207 ms
+"
+novorossia.today,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.568 ms  24.562 ms  24.612 ms
+"
+novorossia.today,6," 6  te0-0-1-2.agr11.muc03.atlas.cogentco.com (154.54.56.226)  24.710 ms te0-0-1-2.agr12.muc03.atlas.cogentco.com (154.54.56.230)  24.688 ms  24.720 ms
+"
+novorossia.today,7," 7  te0-0-2-3.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.6.162)  25.108 ms  25.018 ms te0-0-2-1.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.8.22)  25.088 ms
+"
+novorossia.today,8," 8  149.6.156.202 (149.6.156.202)  24.728 ms 149.6.156.195 (149.6.156.195)  24.824 ms 149.6.156.202 (149.6.156.202)  24.722 ms
+"
+novorossia.today,9," 9  185.53.178.7 (185.53.178.7)  24.634 ms  24.596 ms  24.667 ms
+"

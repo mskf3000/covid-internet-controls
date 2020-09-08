@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+lotoru.com,0,"traceroute to lotoru.com (188.72.226.124), 30 hops max, 60 byte packets
+"
+lotoru.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.357 ms  0.349 ms  0.345 ms
+"
+lotoru.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.881 ms  1.023 ms  1.092 ms
+"
+lotoru.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.120 ms  17.234 ms  17.227 ms
+"
+lotoru.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.196 ms  22.446 ms  22.226 ms
+"
+lotoru.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.495 ms  30.567 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.469 ms
+"
+lotoru.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.802 ms  39.510 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.763 ms
+"
+lotoru.com,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.017 ms  40.171 ms  40.132 ms
+"
+lotoru.com,8," 8  149.14.92.42 (149.14.92.42)  37.933 ms universal-cdn.demarc.cogentco.com (149.6.1.42)  42.009 ms universal-cdn.demarc.cogentco.com (149.6.1.34)  42.329 ms
+"
+lotoru.com,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  37.691 ms xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  38.127 ms  38.371 ms
+"
+lotoru.com,10,"10  188.72.226.124 (188.72.226.124)  36.464 ms  37.084 ms  37.113 ms
+"

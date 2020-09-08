@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+freepromote.ru,0,"traceroute to freepromote.ru (91.195.240.126), 30 hops max, 60 byte packets
+"
+freepromote.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.261 ms  0.276 ms  0.319 ms
+"
+freepromote.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.897 ms  0.530 ms  1.876 ms
+"
+freepromote.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.650 ms  28.604 ms  26.102 ms
+"
+freepromote.ru,4," 4  ffm-b1-link.telia.net (62.115.63.109)  32.008 ms  32.007 ms  31.996 ms
+"
+freepromote.ru,5," 5  ffm-bb3-link.telia.net (62.115.121.0)  33.779 ms ffm-bb3-link.telia.net (62.115.121.2)  36.404 ms  36.398 ms
+"
+freepromote.ru,6," 6  mcn-b2-link.telia.net (62.115.120.128)  35.794 ms mcn-b2-link.telia.net (62.115.120.132)  33.215 ms mcn-b2-link.telia.net (213.155.134.13)  38.412 ms
+"
+freepromote.ru,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  118.334 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  117.432 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  118.291 ms
+"
+freepromote.ru,8," 8  91.195.241.102 (91.195.241.102)  117.764 ms  117.897 ms  117.951 ms
+"
+freepromote.ru,9," 9  91.195.241.118 (91.195.241.118)  118.721 ms  119.771 ms  116.617 ms
+"
+freepromote.ru,10,"10  91.195.240.126 (91.195.240.126)  115.261 ms  115.458 ms  114.965 ms
+"

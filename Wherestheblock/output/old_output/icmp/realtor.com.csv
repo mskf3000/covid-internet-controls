@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+realtor.com,0,"traceroute to realtor.com (206.131.180.21), 30 hops max, 60 byte packets
+"
+realtor.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.323 ms  0.336 ms
+"
+realtor.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.600 ms  0.653 ms  0.691 ms
+"
+realtor.com,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.956 ms  30.970 ms  30.980 ms
+"
+realtor.com,4," 4  * * *
+"
+realtor.com,5," 5  ae-2-3212.msr1.Frankfurt1.Level3.net (4.69.163.126)  112.576 ms  112.942 ms  113.339 ms
+"
+realtor.com,6," 6  * * *
+"
+realtor.com,7," 7  * * *
+"
+realtor.com,8," 8  * * *
+"
+realtor.com,9," 9  * * *
+"
+realtor.com,10,"10  * * *
+"
+realtor.com,11,"11  * * *
+"
+realtor.com,12,"12  realtorquotes.com (206.131.180.21)  175.169 ms  175.203 ms  175.195 ms
+"

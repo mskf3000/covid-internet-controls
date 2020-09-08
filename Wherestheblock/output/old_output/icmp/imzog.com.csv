@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+imzog.com,0,"traceroute to imzog.com (104.26.14.19), 30 hops max, 60 byte packets
+"
+imzog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.305 ms  0.302 ms
+"
+imzog.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.201 ms  1.265 ms  1.314 ms
+"
+imzog.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.307 ms  1.351 ms  1.472 ms
+"
+imzog.com,4," 4  149.6.191.138 (149.6.191.138)  4.713 ms  4.717 ms  4.756 ms
+"
+imzog.com,5," 5  104.26.14.19 (104.26.14.19)  0.907 ms  0.900 ms  0.928 ms
+"

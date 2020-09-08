@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+wwwoman.ru,0,"traceroute to wwwoman.ru (5.101.125.106), 30 hops max, 60 byte packets
+"
+wwwoman.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.329 ms  0.315 ms  0.328 ms
+"
+wwwoman.ru,2," 2  * * datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.512 ms
+"
+wwwoman.ru,3," 3  77.88.211.129 (77.88.211.129)  0.654 ms  0.573 ms  0.569 ms
+"
+wwwoman.ru,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  31.948 ms  31.870 ms  31.930 ms
+"
+wwwoman.ru,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  31.965 ms  32.072 ms  32.095 ms
+"
+wwwoman.ru,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  31.722 ms  32.615 ms  32.604 ms
+"
+wwwoman.ru,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  39.453 ms  39.418 ms  39.405 ms
+"
+wwwoman.ru,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.230 ms  33.274 ms  33.340 ms
+"
+wwwoman.ru,9," 9  * * *
+"
+wwwoman.ru,10,"10  s05657d6a.fastvps-server.com (5.101.125.106)  39.597 ms  35.794 ms  40.989 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+sputniknews.com,0,"traceroute to sputniknews.com (178.248.233.26), 30 hops max, 60 byte packets
+"
+sputniknews.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.380 ms  0.411 ms  0.455 ms
+"
+sputniknews.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.736 ms  0.734 ms  0.729 ms
+"
+sputniknews.com,3," 3  10.11.12.17 (10.11.12.17)  1.073 ms  0.867 ms  1.102 ms
+"
+sputniknews.com,4," 4  * * *
+"
+sputniknews.com,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  6.971 ms  1.033 ms  1.068 ms
+"
+sputniknews.com,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.661 ms  19.574 ms  19.539 ms
+"
+sputniknews.com,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.556 ms  19.531 ms  19.545 ms
+"
+sputniknews.com,8," 8  178.248.233.26 (178.248.233.26)  19.454 ms  19.491 ms  19.470 ms
+"

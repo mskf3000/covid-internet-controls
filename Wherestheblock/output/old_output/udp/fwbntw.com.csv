@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+fwbntw.com,0,"traceroute to fwbntw.com (95.128.124.135), 50 hops max, 60 byte packets
+"
+fwbntw.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.524 ms  0.569 ms  0.586 ms
+"
+fwbntw.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.577 ms  0.829 ms  0.817 ms
+"
+fwbntw.com,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.398 ms  30.395 ms ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  35.349 ms
+"
+fwbntw.com,4," 4  be10-0.border1.fra.doclerholding.com (80.81.192.142)  31.763 ms  31.747 ms  31.799 ms
+"
+fwbntw.com,5," 5  5.159.218.84 (5.159.218.84)  34.511 ms tengige0-0-0-9.core1.lux.dditservices.com (5.159.218.93)  34.286 ms  33.803 ms
+"
+fwbntw.com,6," 6  tengige0-1-0-6.border1.fra.dditservices.com (5.159.218.86)  36.279 ms !X * *
+"

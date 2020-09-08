@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+dnr-news.com,0,"traceroute to dnr-news.com (5.135.247.193), 30 hops max, 60 byte packets
+"
+dnr-news.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.277 ms  0.260 ms  0.289 ms
+"
+dnr-news.com,2," 2  * * *
+"
+dnr-news.com,3," 3  * * *
+"
+dnr-news.com,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.671 ms  33.613 ms  33.626 ms
+"
+dnr-news.com,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  36.984 ms  37.229 ms  36.903 ms
+"
+dnr-news.com,6," 6  be5.sbg-vac1-a75.fr.eu (213.186.32.141)  35.786 ms  35.779 ms  35.729 ms
+"
+dnr-news.com,7," 7  sbg-vac1-a75-1-firewall.fr.eu (178.33.99.143)  35.711 ms  35.752 ms  35.741 ms
+"
+dnr-news.com,8," 8  sbg-vac1-a75-2-shield.fr.eu (178.33.99.144)  35.730 ms  35.786 ms  35.744 ms
+"
+dnr-news.com,9," 9  sbg-vac1-a75-3.fr.eu (178.33.99.142)  35.787 ms  35.817 ms  35.798 ms
+"
+dnr-news.com,10,"10  * * *
+"
+dnr-news.com,11,"11  vl1251.rbx-d2-a75.fr.eu (37.187.232.28)  45.508 ms  45.512 ms  45.460 ms
+"
+dnr-news.com,12,"12  * * *
+"
+dnr-news.com,13,"13  * * *
+"
+dnr-news.com,14,"14  5.135.247.193 (5.135.247.193)  44.868 ms  44.896 ms  45.499 ms
+"

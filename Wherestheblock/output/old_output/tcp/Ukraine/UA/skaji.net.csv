@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+skaji.net,0,"traceroute to skaji.net (91.195.240.126), 30 hops max, 60 byte packets
+"
+skaji.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.561 ms  1.546 ms  1.556 ms
+"
+skaji.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.673 ms  0.659 ms  0.662 ms
+"
+skaji.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.898 ms  28.688 ms  26.887 ms
+"
+skaji.net,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.825 ms  33.340 ms  33.356 ms
+"
+skaji.net,5," 5  ffm-bb3-link.telia.net (62.115.141.236)  36.012 ms ffm-bb3-link.telia.net (62.115.137.128)  36.321 ms ffm-bb3-link.telia.net (62.115.141.236)  33.617 ms
+"
+skaji.net,6," 6  mcn-b2-link.telia.net (62.115.136.19)  33.446 ms mcn-b2-link.telia.net (62.115.120.130)  35.945 ms mcn-b2-link.telia.net (62.115.120.132)  38.039 ms
+"
+skaji.net,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  115.766 ms  115.796 ms  118.254 ms
+"
+skaji.net,8," 8  91.195.241.102 (91.195.241.102)  117.863 ms  115.301 ms  115.270 ms
+"
+skaji.net,9," 9  91.195.241.106 (91.195.241.106)  119.504 ms  120.237 ms  119.198 ms
+"
+skaji.net,10,"10  91.195.240.126 (91.195.240.126)  116.006 ms  115.494 ms  115.464 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+factograph.info,0,"traceroute to factograph.info (23.14.94.37), 50 hops max, 60 byte packets
+"
+factograph.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.379 ms  0.368 ms  0.391 ms
+"
+factograph.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.581 ms  0.618 ms  0.612 ms
+"
+factograph.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.176 ms  26.228 ms  26.136 ms
+"
+factograph.info,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  31.384 ms  29.111 ms  29.009 ms
+"
+factograph.info,5," 5  a23-14-94-37.deploy.static.akamaitechnologies.com (23.14.94.37)  30.863 ms  28.315 ms  28.735 ms
+"

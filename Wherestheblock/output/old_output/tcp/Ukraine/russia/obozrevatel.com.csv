@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+obozrevatel.com,0,"traceroute to obozrevatel.com (91.194.251.76), 50 hops max, 60 byte packets
+"
+obozrevatel.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.426 ms  0.410 ms  0.419 ms
+"
+obozrevatel.com,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  13.541 ms  13.480 ms  13.527 ms
+"
+obozrevatel.com,3," 3  unallocated.qos.kiev.ua (91.194.251.76)  0.482 ms  0.480 ms  0.423 ms
+"

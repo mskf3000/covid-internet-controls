@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+sexfilm.al.ru,0,"traceroute to sexfilm.al.ru (195.16.42.44), 30 hops max, 60 byte packets
+"
+sexfilm.al.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.325 ms  0.314 ms  0.344 ms
+"
+sexfilm.al.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.640 ms  0.638 ms  0.698 ms
+"
+sexfilm.al.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.246 ms ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  21.123 ms  21.103 ms
+"
+sexfilm.al.ru,4," 4  82.142.135.234 (82.142.135.234)  21.690 ms 62.105.135.84 (62.105.135.84)  21.477 ms 82.142.135.234 (82.142.135.234)  21.890 ms
+"
+sexfilm.al.ru,5," 5  * * *
+"
+sexfilm.al.ru,6," 6  al.ru.freehosting.centre.ru (195.16.42.44)  21.780 ms  22.030 ms  21.895 ms
+"

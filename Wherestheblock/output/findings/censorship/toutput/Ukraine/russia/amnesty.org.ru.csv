@@ -1,0 +1,45 @@
+URL,TTL,Response_Message
+amnesty.org.ru,0,"traceroute to amnesty.org.ru (52.138.218.121), 50 hops max, 60 byte packets
+"
+amnesty.org.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.410 ms  0.395 ms  0.404 ms
+"
+amnesty.org.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.502 ms  1.985 ms  1.999 ms
+"
+amnesty.org.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.423 ms  35.901 ms  38.397 ms
+"
+amnesty.org.ru,4," 4  ams-ix-2.microsoft.com (80.249.209.21)  34.213 ms  36.714 ms  34.232 ms
+"
+amnesty.org.ru,5," 5  ae29-0.icr02.ams30.ntwk.msn.net (104.44.239.81)  33.731 ms  36.190 ms  36.388 ms
+"
+amnesty.org.ru,6," 6  be-102-0.ibr01.ams30.ntwk.msn.net (104.44.22.217)  52.926 ms be-122-0.ibr02.ams30.ntwk.msn.net (104.44.22.225)  48.603 ms be-102-0.ibr01.ams30.ntwk.msn.net (104.44.22.217)  49.179 ms
+"
+amnesty.org.ru,7," 7  be-7-0.ibr01.dub07.ntwk.msn.net (104.44.17.56)  52.164 ms  49.785 ms be-7-0.ibr02.dub07.ntwk.msn.net (104.44.17.58)  50.406 ms
+"
+amnesty.org.ru,8," 8  ae100-0.icr01.dub07.ntwk.msn.net (104.44.11.60)  48.203 ms ae102-0.icr02.dub07.ntwk.msn.net (104.44.11.56)  49.811 ms  52.892 ms
+"
+amnesty.org.ru,9," 9  * * *
+"
+amnesty.org.ru,10,"10  * * *
+"
+amnesty.org.ru,11,"11  * * *
+"
+amnesty.org.ru,12,"12  * * *
+"
+amnesty.org.ru,13,"13  * * *
+"
+amnesty.org.ru,14,"14  * * *
+"
+amnesty.org.ru,15,"15  * * *
+"
+amnesty.org.ru,16,"16  * * *
+"
+amnesty.org.ru,17,"17  * * *
+"
+amnesty.org.ru,18,"18  * * *
+"
+amnesty.org.ru,19,"19  * * *
+"
+amnesty.org.ru,20,"20  * * *
+"
+amnesty.org.ru,21,"21  52.138.218.121 (52.138.218.121)  51.265 ms  50.981 ms  50.009 ms
+"

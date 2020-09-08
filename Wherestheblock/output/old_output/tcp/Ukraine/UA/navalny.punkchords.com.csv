@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+navalny.punkchords.com,0,"traceroute to navalny.punkchords.com (184.168.204.1), 30 hops max, 60 byte packets
+"
+navalny.punkchords.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.351 ms  2.330 ms  2.325 ms
+"
+navalny.punkchords.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.698 ms  0.690 ms  0.582 ms
+"
+navalny.punkchords.com,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  53.719 ms  53.710 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  53.685 ms
+"
+navalny.punkchords.com,4," 4  * * *
+"
+navalny.punkchords.com,5," 5  * * *
+"
+navalny.punkchords.com,6," 6  4.28.83.74 (4.28.83.74)  173.430 ms  167.143 ms  172.841 ms
+"
+navalny.punkchords.com,7," 7  148.72.32.11 (148.72.32.11)  169.870 ms 148.72.32.7 (148.72.32.7)  167.780 ms  167.826 ms
+"
+navalny.punkchords.com,8," 8  be38.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.69)  166.016 ms  167.103 ms be39.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.73)  166.623 ms
+"
+navalny.punkchords.com,9," 9  ip-97-74-255-129.ip.secureserver.net (97.74.255.129)  169.356 ms  167.357 ms  165.923 ms
+"
+navalny.punkchords.com,10,"10  lbma1105-03.ars2.mgmt.phx3.secureserver.net (184.168.1.240)  166.043 ms  165.458 ms  167.194 ms
+"
+navalny.punkchords.com,11,"11  p3nlhg126c1126.shr.prod.phx3.secureserver.net (184.168.204.1)  167.166 ms  166.958 ms  167.319 ms
+"

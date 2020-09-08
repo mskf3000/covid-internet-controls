@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+adengo.ru,0,"traceroute to adengo.ru (91.236.136.13), 50 hops max, 60 byte packets
+"
+adengo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.276 ms  0.304 ms
+"
+adengo.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.694 ms  0.752 ms  0.745 ms
+"
+adengo.ru,3," 3  * * *
+"
+adengo.ru,4," 4  mastertel.msk.cloud-ix.net (31.28.19.122)  16.531 ms  24.518 ms  16.527 ms
+"
+adengo.ru,5," 5  217-67-176-54.in-addr.mastertelecom.ru (217.67.176.54)  25.006 ms  25.108 ms  24.548 ms
+"
+adengo.ru,6," 6  31-44-87-214.in-addr.mastertelecom.ru (31.44.87.214)  25.151 ms  24.425 ms  17.265 ms
+"
+adengo.ru,7," 7  s15-2.mx.webhost1.ru (91.236.136.13)  17.039 ms  16.930 ms  26.685 ms
+"

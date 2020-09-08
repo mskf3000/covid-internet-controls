@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+depositfiles.com,0,"traceroute to depositfiles.com (94.242.227.207), 30 hops max, 60 byte packets
+"
+depositfiles.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.388 ms  0.375 ms  0.361 ms
+"
+depositfiles.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.959 ms  1.075 ms  1.076 ms
+"
+depositfiles.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.123 ms  17.058 ms  17.138 ms
+"
+depositfiles.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.291 ms  18.369 ms  18.357 ms
+"
+depositfiles.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.737 ms  24.627 ms  24.701 ms
+"
+depositfiles.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.185 ms  29.676 ms  29.665 ms
+"
+depositfiles.com,7," 7  be2377.rcr21.lux01.atlas.cogentco.com (154.54.38.146)  33.942 ms  34.014 ms  34.140 ms
+"
+depositfiles.com,8," 8  be3456.nr51.b038844-0.lux01.atlas.cogentco.com (154.25.12.70)  34.648 ms  34.810 ms  34.771 ms
+"
+depositfiles.com,9," 9  universal-cdn.demarc.cogentco.com (149.6.66.250)  39.166 ms  39.152 ms universal-cdn.demarc.cogentco.com (149.6.66.202)  39.226 ms
+"
+depositfiles.com,10,"10  ip-static-94-242-227-207.server.lu (94.242.227.207)  43.522 ms  43.323 ms  43.320 ms
+"

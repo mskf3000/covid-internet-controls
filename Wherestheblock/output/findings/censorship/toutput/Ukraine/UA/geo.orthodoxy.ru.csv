@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+geo.orthodoxy.ru,0,"traceroute to geo.orthodoxy.ru (78.110.50.113), 30 hops max, 60 byte packets
+"
+geo.orthodoxy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.373 ms  0.353 ms  0.372 ms
+"
+geo.orthodoxy.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  9.369 ms  9.371 ms  9.363 ms
+"
+geo.orthodoxy.ru,3," 3  * * *
+"
+geo.orthodoxy.ru,4," 4  mastertel.msk.cloud-ix.net (31.28.19.122)  23.861 ms  16.401 ms  16.505 ms
+"
+geo.orthodoxy.ru,5," 5  217-67-176-54.in-addr.mastertelecom.ru (217.67.176.54)  24.985 ms  25.046 ms  16.936 ms
+"
+geo.orthodoxy.ru,6," 6  178-238-123-22.in-addr.mastertelecom.ru (178.238.123.22)  24.896 ms  24.397 ms  17.607 ms
+"
+geo.orthodoxy.ru,7," 7  cl3-w.ht-systems.ru (78.110.50.113)  17.752 ms  26.422 ms  19.453 ms
+"

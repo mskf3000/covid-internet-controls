@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+vsyapravda.com,0,"traceroute to vsyapravda.com (204.11.56.48), 30 hops max, 60 byte packets
+"
+vsyapravda.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.733 ms  0.762 ms  0.802 ms
+"
+vsyapravda.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.573 ms  0.558 ms  0.602 ms
+"
+vsyapravda.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.680 ms  26.146 ms  26.120 ms
+"
+vsyapravda.com,4," 4  * * *
+"
+vsyapravda.com,5," 5  ae27.cs1.fra9.de.eth.zayo.com (64.125.30.254)  156.693 ms  156.690 ms  154.390 ms
+"
+vsyapravda.com,6," 6  ae0.cs1.fra6.de.eth.zayo.com (64.125.29.54)  152.651 ms  152.714 ms  155.162 ms
+"
+vsyapravda.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  155.636 ms  155.612 ms  155.633 ms
+"
+vsyapravda.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  153.099 ms  155.619 ms  153.039 ms
+"
+vsyapravda.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  153.706 ms  153.869 ms  153.804 ms
+"
+vsyapravda.com,10,"10  * * *
+"
+vsyapravda.com,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  155.596 ms  155.629 ms  153.184 ms
+"
+vsyapravda.com,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  155.688 ms  155.668 ms  155.721 ms
+"
+vsyapravda.com,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  158.928 ms  158.055 ms  158.310 ms
+"
+vsyapravda.com,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  158.962 ms  156.130 ms  157.481 ms
+"
+vsyapravda.com,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  155.533 ms  155.334 ms  152.888 ms
+"
+vsyapravda.com,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  153.030 ms  152.638 ms  155.594 ms
+"
+vsyapravda.com,17,"17  * * *
+"
+vsyapravda.com,18,"18  204.11.56.48 (204.11.56.48)  156.522 ms  156.823 ms  156.443 ms
+"

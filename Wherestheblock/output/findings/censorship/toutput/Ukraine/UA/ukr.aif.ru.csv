@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ukr.aif.ru,0,"traceroute to ukr.aif.ru (94.198.52.41), 30 hops max, 60 byte packets
+"
+ukr.aif.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.776 ms  1.720 ms  1.705 ms
+"
+ukr.aif.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.800 ms  18.770 ms  18.770 ms
+"
+ukr.aif.ru,3," 3  85.112.127.62 (85.112.127.62)  21.701 ms  21.614 ms  21.730 ms
+"
+ukr.aif.ru,4," 4  85.112.127.102 (85.112.127.102)  19.337 ms  19.326 ms  19.370 ms
+"
+ukr.aif.ru,5," 5  dhub.ihome.ru (85.112.112.129)  19.296 ms  19.378 ms  19.203 ms
+"
+ukr.aif.ru,6," 6  185.130.248.22 (185.130.248.22)  18.707 ms  18.727 ms 185.130.248.18 (185.130.248.18)  19.408 ms
+"
+ukr.aif.ru,7," 7  94.198.52.41 (94.198.52.41)  18.855 ms  18.621 ms  18.215 ms
+"

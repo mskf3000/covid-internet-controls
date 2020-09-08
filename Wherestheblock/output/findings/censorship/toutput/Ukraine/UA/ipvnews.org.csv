@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ipvnews.org,0,"traceroute to ipvnews.org (85.31.101.152), 30 hops max, 60 byte packets
+"
+ipvnews.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.355 ms  0.338 ms  0.314 ms
+"
+ipvnews.org,2," 2  dtel-ix.bi.lt (193.25.181.81)  28.612 ms  28.606 ms  28.576 ms
+"
+ipvnews.org,3," 3  213.252.226.182 (213.252.226.182)  31.654 ms  31.671 ms *
+"
+ipvnews.org,4," 4  213.252.199.18 (213.252.199.18)  36.810 ms  36.902 ms  36.793 ms
+"
+ipvnews.org,5," 5  159.148.251.1 (159.148.251.1)  27.575 ms  27.584 ms  27.546 ms
+"
+ipvnews.org,6," 6  static-91.203.69.72.nano.lv (91.203.69.72)  25.716 ms  25.557 ms  25.723 ms
+"
+ipvnews.org,7," 7  mail.soulofukraine.foundation (85.31.101.152)  25.672 ms  26.450 ms  25.727 ms
+"

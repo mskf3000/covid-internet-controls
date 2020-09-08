@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+sostav.ru,0,"traceroute to sostav.ru (62.152.60.22), 50 hops max, 60 byte packets
+"
+sostav.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.326 ms  0.355 ms
+"
+sostav.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.654 ms  0.649 ms  0.640 ms
+"
+sostav.ru,3," 3  * * *
+"
+sostav.ru,4," 4  folga-gw.datahouse.ru (89.188.100.118)  21.317 ms  21.270 ms  16.127 ms
+"
+sostav.ru,5," 5  62.152.60.22 (62.152.60.22)  22.966 ms  22.440 ms  17.857 ms
+"

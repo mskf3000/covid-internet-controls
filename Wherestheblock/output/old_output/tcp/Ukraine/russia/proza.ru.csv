@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+proza.ru,0,"traceroute to proza.ru (217.16.27.129), 50 hops max, 60 byte packets
+"
+proza.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.382 ms  0.389 ms  0.428 ms
+"
+proza.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.747 ms  0.740 ms  0.752 ms
+"
+proza.ru,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  26.347 ms  26.345 ms  20.931 ms
+"
+proza.ru,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.648 ms  19.687 ms  19.769 ms
+"
+proza.ru,5," 5  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  23.975 ms msk-ff-22-vl18.masterhost.ru (217.16.23.242)  20.657 ms *
+"
+proza.ru,6," 6  proza.ru (217.16.27.129)  19.366 ms  18.978 ms  19.697 ms
+"

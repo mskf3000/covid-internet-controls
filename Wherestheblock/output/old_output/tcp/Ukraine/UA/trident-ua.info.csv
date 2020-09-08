@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+trident-ua.info,0,"traceroute to trident-ua.info (104.18.43.213), 30 hops max, 60 byte packets
+"
+trident-ua.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.413 ms  0.401 ms  0.420 ms
+"
+trident-ua.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.019 ms  0.981 ms  1.059 ms
+"
+trident-ua.info,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.065 ms  19.308 ms  18.881 ms
+"
+trident-ua.info,4," 4  149.6.50.74 (149.6.50.74)  19.584 ms  19.583 ms  19.570 ms
+"
+trident-ua.info,5," 5  104.18.43.213 (104.18.43.213)  18.710 ms  18.506 ms  18.502 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+go-krit.com,0,"traceroute to go-krit.com (104.28.9.118), 30 hops max, 60 byte packets
+"
+go-krit.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.377 ms  0.348 ms  0.365 ms
+"
+go-krit.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.962 ms  0.996 ms  0.929 ms
+"
+go-krit.com,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.887 ms  8.869 ms  8.892 ms
+"
+go-krit.com,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.870 ms  11.902 ms  11.945 ms
+"
+go-krit.com,5," 5  149.14.58.106 (149.14.58.106)  12.063 ms  12.537 ms  12.572 ms
+"
+go-krit.com,6," 6  104.28.9.118 (104.28.9.118)  11.720 ms  11.586 ms  11.700 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+direct.yandex.ru,0,"traceroute to direct.yandex.ru (213.180.204.26), 30 hops max, 60 byte packets
+"
+direct.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.290 ms  0.307 ms
+"
+direct.yandex.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.781 ms  0.938 ms  1.006 ms
+"
+direct.yandex.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.521 ms  17.508 ms  17.475 ms
+"
+direct.yandex.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.417 ms  22.584 ms  22.522 ms
+"
+direct.yandex.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.842 ms  30.347 ms  30.755 ms
+"
+direct.yandex.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  45.743 ms  49.386 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.679 ms
+"
+direct.yandex.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.344 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  52.795 ms  56.242 ms
+"
+direct.yandex.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  53.088 ms  56.661 ms  52.834 ms
+"
+direct.yandex.ru,9," 9  149.11.124.74 (149.11.124.74)  52.510 ms  55.969 ms  52.717 ms
+"
+direct.yandex.ru,10,"10  direct.yandex.ru (213.180.204.26)  46.573 ms  50.929 ms  45.777 ms
+"

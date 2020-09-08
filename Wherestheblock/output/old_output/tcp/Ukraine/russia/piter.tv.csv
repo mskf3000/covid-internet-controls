@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+piter.tv,0,"traceroute to piter.tv (194.190.88.18), 50 hops max, 60 byte packets
+"
+piter.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.326 ms  0.341 ms  0.366 ms
+"
+piter.tv,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.545 ms  16.885 ms  16.794 ms
+"
+piter.tv,3," 3  bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  27.720 ms bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  23.707 ms  23.805 ms
+"
+piter.tv,4," 4  cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.891 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  23.882 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  26.641 ms
+"
+piter.tv,5," 5  109.239.132.82 (109.239.132.82)  26.442 ms  27.771 ms  27.689 ms
+"
+piter.tv,6," 6  vireg.tv (194.190.88.18)  27.054 ms  25.615 ms  24.260 ms
+"

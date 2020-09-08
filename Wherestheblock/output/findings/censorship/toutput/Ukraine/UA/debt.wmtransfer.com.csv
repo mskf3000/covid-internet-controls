@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+debt.wmtransfer.com,0,"traceroute to debt.wmtransfer.com (91.200.28.104), 30 hops max, 60 byte packets
+"
+debt.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.548 ms  0.532 ms  0.518 ms
+"
+debt.wmtransfer.com,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.603 ms  17.578 ms  16.741 ms
+"
+debt.wmtransfer.com,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  17.570 ms  17.553 ms  16.800 ms
+"
+debt.wmtransfer.com,4," 4  80.85.240.85 (80.85.240.85)  21.474 ms  21.526 ms  21.867 ms
+"
+debt.wmtransfer.com,5," 5  91.200.28.104 (91.200.28.104)  19.633 ms  17.577 ms  21.936 ms
+"

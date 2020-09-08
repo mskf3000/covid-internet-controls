@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+kommersant.ru,0,"traceroute to kommersant.ru (185.147.37.90), 50 hops max, 60 byte packets
+"
+kommersant.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.291 ms  0.334 ms
+"
+kommersant.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.810 ms  0.804 ms  0.795 ms
+"
+kommersant.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.256 ms  21.264 ms  21.253 ms
+"
+kommersant.ru,4," 4  62.105.135.84 (62.105.135.84)  21.977 ms 82.142.135.234 (82.142.135.234)  21.784 ms 62.105.135.84 (62.105.135.84)  22.023 ms
+"
+kommersant.ru,5," 5  * * *
+"
+kommersant.ru,6," 6  194.186.164.118 (194.186.164.118)  22.776 ms  22.344 ms  22.494 ms
+"
+kommersant.ru,7," 7  www.kommersant.ru (185.147.37.90)  23.027 ms  22.682 ms  22.526 ms
+"

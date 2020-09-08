@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+olx.pl,0,"traceroute to olx.pl (13.35.253.26), 30 hops max, 60 byte packets
+"
+olx.pl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.438 ms  0.430 ms  0.427 ms
+"
+olx.pl,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.886 ms  0.934 ms  0.993 ms
+"
+olx.pl,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  21.400 ms  21.356 ms  21.354 ms
+"
+olx.pl,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  21.350 ms  21.346 ms  21.345 ms
+"
+olx.pl,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.679 ms  24.736 ms  24.796 ms
+"
+olx.pl,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.754 ms  30.138 ms  30.208 ms
+"
+olx.pl,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.568 ms  29.619 ms  29.584 ms
+"
+olx.pl,8," 8  52.93.111.0 (52.93.111.0)  29.192 ms  28.822 ms  28.847 ms
+"
+olx.pl,9," 9  54.239.4.253 (54.239.4.253)  28.025 ms  28.035 ms  28.118 ms
+"
+olx.pl,10,"10  * * *
+"
+olx.pl,11,"11  * * *
+"
+olx.pl,12,"12  * * *
+"
+olx.pl,13,"13  * * *
+"
+olx.pl,14,"14  * * *
+"
+olx.pl,15,"15  server-13-35-253-26.fra6.r.cloudfront.net (13.35.253.26)  27.854 ms  27.870 ms  27.836 ms
+"

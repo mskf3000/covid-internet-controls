@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+neweurasia.ru,0,"traceroute to neweurasia.ru (195.208.185.110), 30 hops max, 60 byte packets
+"
+neweurasia.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.326 ms  0.356 ms
+"
+neweurasia.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  28.058 ms  28.037 ms  28.062 ms
+"
+neweurasia.ru,3," 3  * * *
+"
+neweurasia.ru,4," 4  mastertel.msk.cloud-ix.net (31.28.19.122)  21.541 ms  22.253 ms  17.010 ms
+"
+neweurasia.ru,5," 5  83-69-194-134.in-addr.mastertelecom.ru (83.69.194.134)  22.993 ms  22.985 ms  17.204 ms
+"
+neweurasia.ru,6," 6  192.168.0.2 (192.168.0.2)  17.708 ms  22.641 ms  17.626 ms
+"
+neweurasia.ru,7," 7  neweurasia.ru (195.208.185.110)  17.712 ms  17.783 ms  22.869 ms
+"
+neweurasia.ru,8," 8  neweurasia.ru (195.208.185.110)  818.579 ms !H  818.585 ms !H *
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+rutracker.org,0,"traceroute to rutracker.org (195.82.146.214), 30 hops max, 60 byte packets
+"
+rutracker.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.348 ms  0.336 ms  0.331 ms
+"
+rutracker.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.593 ms  0.660 ms  0.580 ms
+"
+rutracker.org,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.093 ms  17.091 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  18.571 ms
+"
+rutracker.org,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.040 ms rg-b04.telia.lv (195.208.209.188)  38.167 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.400 ms
+"
+rutracker.org,5," 5  rg-b04.telia.lv (195.208.209.188)  37.226 ms *  37.249 ms
+"
+rutracker.org,6," 6  rutracker.org (195.82.146.214)  38.741 ms  39.035 ms  39.670 ms
+"

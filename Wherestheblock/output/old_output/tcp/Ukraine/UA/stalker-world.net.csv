@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+stalker-world.net,0,"traceroute to stalker-world.net (104.18.39.67), 30 hops max, 60 byte packets
+"
+stalker-world.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.357 ms  0.347 ms  0.397 ms
+"
+stalker-world.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.888 ms  0.994 ms  1.028 ms
+"
+stalker-world.net,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.747 ms  18.853 ms  18.771 ms
+"
+stalker-world.net,4," 4  149.6.50.74 (149.6.50.74)  19.294 ms  19.280 ms  19.277 ms
+"
+stalker-world.net,5," 5  104.18.39.67 (104.18.39.67)  18.597 ms  18.592 ms  18.550 ms
+"

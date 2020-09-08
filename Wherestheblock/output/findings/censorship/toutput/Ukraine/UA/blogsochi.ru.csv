@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+blogsochi.ru,0,"traceroute to blogsochi.ru (31.31.205.163), 30 hops max, 60 byte packets
+"
+blogsochi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.326 ms  0.353 ms
+"
+blogsochi.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.561 ms  0.554 ms  0.634 ms
+"
+blogsochi.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.007 ms  16.014 ms  16.006 ms
+"
+blogsochi.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.238 ms  17.230 ms  17.214 ms
+"
+blogsochi.ru,5," 5  * * *
+"
+blogsochi.ru,6," 6  * * *
+"
+blogsochi.ru,7," 7  * * *
+"
+blogsochi.ru,8," 8  ns1.domainparking.int.reg.ru (31.31.205.163)  16.591 ms  19.882 ms  17.428 ms
+"

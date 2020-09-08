@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mobile.vgtrk.com,0,"traceroute to mobile.vgtrk.com (195.42.165.35), 30 hops max, 60 byte packets
+"
+mobile.vgtrk.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.279 ms  0.304 ms
+"
+mobile.vgtrk.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.772 ms  25.395 ms  17.849 ms
+"
+mobile.vgtrk.com,3," 3  109.239.134.126 (109.239.134.126)  19.446 ms  19.668 ms  18.792 ms
+"
+mobile.vgtrk.com,4," 4  p2p-m9c76k-20g-m10c65k-in.trunkmobile.ru (93.174.73.58)  27.552 ms  26.679 ms  25.685 ms
+"
+mobile.vgtrk.com,5," 5  mail2.rtsoft.ru (195.42.161.230)  17.445 ms  17.556 ms  17.400 ms
+"
+mobile.vgtrk.com,6," 6  h35.n165.cust.dataforce.net (195.42.165.35)  18.009 ms  17.337 ms  18.857 ms
+"

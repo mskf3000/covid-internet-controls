@@ -1,0 +1,43 @@
+URL,TTL,Response_Message
+shamilonline.org,0,"traceroute to shamilonline.org (63.249.207.46), 50 hops max, 60 byte packets
+"
+shamilonline.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.250 ms  0.272 ms  0.313 ms
+"
+shamilonline.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.964 ms  1.068 ms  0.971 ms
+"
+shamilonline.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.971 ms  16.978 ms  17.008 ms
+"
+shamilonline.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.664 ms  22.563 ms  22.348 ms
+"
+shamilonline.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.336 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.665 ms  30.395 ms
+"
+shamilonline.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.607 ms  39.399 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.363 ms
+"
+shamilonline.org,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.693 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.741 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  137.869 ms
+"
+shamilonline.org,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  135.595 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  137.555 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.752 ms
+"
+shamilonline.org,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.485 ms  135.751 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.062 ms
+"
+shamilonline.org,10,"10  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  139.744 ms  139.541 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.512 ms
+"
+shamilonline.org,11,"11  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.391 ms  135.684 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.188 ms
+"
+shamilonline.org,12,"12  be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  160.834 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  152.081 ms  151.971 ms
+"
+shamilonline.org,13,"13  be2764.ccr41.dfw03.atlas.cogentco.com (154.54.47.214)  159.304 ms be2432.ccr31.dfw01.atlas.cogentco.com (154.54.3.133)  158.716 ms be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  161.831 ms
+"
+shamilonline.org,14,"14  be2763.ccr41.dfw03.atlas.cogentco.com (154.54.28.74)  156.736 ms be3235.rcr21.dfw05.atlas.cogentco.com (154.54.7.178)  161.771 ms be3236.rcr21.dfw05.atlas.cogentco.com (154.54.24.166)  159.808 ms
+"
+shamilonline.org,15,"15  be3235.rcr21.dfw05.atlas.cogentco.com (154.54.7.178)  163.622 ms  163.874 ms be3236.rcr21.dfw05.atlas.cogentco.com (154.54.24.166)  163.162 ms
+"
+shamilonline.org,16,"16  te0-0-2-0.nr11.b000326-4.dfw05.atlas.cogentco.com (154.24.22.6)  157.755 ms  157.367 ms  158.315 ms
+"
+shamilonline.org,17,"17  e-10-1.edge1.dal.corespace.com (38.122.56.38)  162.358 ms  163.260 ms  158.437 ms
+"
+shamilonline.org,18,"18  e-10-6.core2.dal.corespace.com (64.182.161.83)  158.331 ms e-10-4.core1.dal.corespace.com (64.182.161.87)  162.905 ms  158.804 ms
+"
+shamilonline.org,19,"19  64.182.225.180 (64.182.225.180)  158.059 ms  163.255 ms  158.416 ms
+"
+shamilonline.org,20,"20  63.249.207.46 (63.249.207.46)  157.787 ms  162.141 ms  162.782 ms
+"

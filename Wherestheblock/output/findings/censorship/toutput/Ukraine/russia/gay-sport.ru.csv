@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+gay-sport.ru,0,"traceroute to gay-sport.ru (213.189.197.74), 50 hops max, 60 byte packets
+"
+gay-sport.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.287 ms  0.339 ms
+"
+gay-sport.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  19.325 ms  16.053 ms  16.052 ms
+"
+gay-sport.ru,3," 3  178.18.225.226.ix.dataix.ru (178.18.225.226)  21.082 ms  18.993 ms  19.628 ms
+"
+gay-sport.ru,4," 4  ost-l3sw-1-vlan404.msk.zenon.net (213.189.212.71)  18.123 ms  17.355 ms  20.642 ms
+"
+gay-sport.ru,5," 5  axx74.distributed.zenon.net (213.189.197.74)  17.375 ms  20.599 ms  17.920 ms
+"

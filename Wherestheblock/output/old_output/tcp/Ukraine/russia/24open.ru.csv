@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+24open.ru,0,"traceroute to 24open.ru (136.243.161.194), 50 hops max, 60 byte packets
+"
+24open.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.285 ms  0.276 ms  0.272 ms
+"
+24open.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.515 ms  0.640 ms  0.626 ms
+"
+24open.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.139 ms  28.633 ms  28.627 ms
+"
+24open.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.217 ms  31.208 ms  31.193 ms
+"
+24open.ru,5," 5  core0.fra.hetzner.com (213.239.252.10)  28.578 ms  28.575 ms core1.fra.hetzner.com (213.239.245.125)  31.010 ms
+"
+24open.ru,6," 6  core12.nbg1.hetzner.com (213.239.245.246)  35.628 ms core11.nbg1.hetzner.com (213.239.245.249)  35.024 ms core12.nbg1.hetzner.com (213.239.245.253)  35.913 ms
+"
+24open.ru,7," 7  ex9k1.dc2.nbg1.hetzner.com (213.239.229.6)  37.781 ms  37.817 ms  35.320 ms
+"
+24open.ru,8," 8  vulcan.mylove.ru (136.243.161.194)  34.478 ms  31.535 ms  38.841 ms
+"

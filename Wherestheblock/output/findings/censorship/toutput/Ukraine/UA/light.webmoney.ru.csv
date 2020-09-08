@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+light.webmoney.ru,0,"traceroute to light.webmoney.ru (91.227.52.57), 30 hops max, 60 byte packets
+"
+light.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.709 ms  1.721 ms  1.714 ms
+"
+light.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.504 ms  1.592 ms  1.620 ms
+"
+light.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.219 ms  16.296 ms  16.209 ms
+"
+light.webmoney.ru,4," 4  * * *
+"
+light.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.027 ms  17.013 ms  17.126 ms
+"
+light.webmoney.ru,6," 6  91.227.52.57 (91.227.52.57)  16.307 ms  16.344 ms  16.288 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+naspravdi.info,0,"traceroute to naspravdi.info (37.187.181.175), 30 hops max, 60 byte packets
+"
+naspravdi.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.342 ms  0.399 ms
+"
+naspravdi.info,2," 2  * * *
+"
+naspravdi.info,3," 3  * * *
+"
+naspravdi.info,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.845 ms  33.551 ms  33.963 ms
+"
+naspravdi.info,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  37.358 ms  37.595 ms  38.328 ms
+"
+naspravdi.info,6," 6  * * *
+"
+naspravdi.info,7," 7  be5.sbg-z2g2-a75.fr.eu (37.187.232.51)  36.486 ms be5.sbg-z2g1-a75.fr.eu (37.187.232.49)  35.851 ms  35.802 ms
+"
+naspravdi.info,8," 8  * * *
+"
+naspravdi.info,9," 9  175.ip-37-187-181.eu (37.187.181.175)  36.792 ms  35.988 ms  36.072 ms
+"

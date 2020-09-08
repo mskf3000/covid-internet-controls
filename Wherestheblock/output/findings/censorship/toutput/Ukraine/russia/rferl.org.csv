@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+rferl.org,0,"traceroute to rferl.org (104.96.91.72), 50 hops max, 60 byte packets
+"
+rferl.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.278 ms  0.298 ms
+"
+rferl.org,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.577 ms  0.567 ms  0.553 ms
+"
+rferl.org,3," 3  100.64.65.25 (100.64.65.25)  8.229 ms  8.241 ms  7.758 ms
+"
+rferl.org,4," 4  100.64.65.85 (100.64.65.85)  29.389 ms  29.385 ms  29.409 ms
+"
+rferl.org,5," 5  * * *
+"
+rferl.org,6," 6  a104-96-91-72.deploy.static.akamaitechnologies.com (104.96.91.72)  18.681 ms  19.198 ms  18.655 ms
+"

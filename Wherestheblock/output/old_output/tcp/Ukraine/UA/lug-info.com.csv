@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+lug-info.com,0,"traceroute to lug-info.com (195.211.223.14), 30 hops max, 60 byte packets
+"
+lug-info.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.321 ms  0.361 ms
+"
+lug-info.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.026 ms  1.027 ms  0.600 ms
+"
+lug-info.com,3," 3  10.11.12.17 (10.11.12.17)  2.985 ms  2.984 ms  0.927 ms
+"
+lug-info.com,4," 4  * * *
+"
+lug-info.com,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.886 ms  0.877 ms  2.917 ms
+"
+lug-info.com,6," 6  ae5-10.RT.TC2.AMS.NL.retn.net (87.245.234.113)  34.470 ms ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.389 ms  32.347 ms
+"
+lug-info.com,7," 7  80.249.210.43 (80.249.210.43)  32.773 ms  34.881 ms  34.867 ms
+"
+lug-info.com,8," 8  ams-eq6-01c.voxility.net (5.254.73.70)  33.146 ms  33.049 ms  33.181 ms
+"
+lug-info.com,9," 9  5.254.73.114 (5.254.73.114)  33.395 ms  35.647 ms  35.669 ms
+"
+lug-info.com,10,"10  10.32.0.218 (10.32.0.218)  37.595 ms  35.030 ms  37.574 ms
+"
+lug-info.com,11,"11  195.211.223.14 (195.211.223.14)  37.715 ms  35.553 ms  37.960 ms
+"

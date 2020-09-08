@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+russian.rt.com,0,"traceroute to russian.rt.com (82.202.190.92), 30 hops max, 60 byte packets
+"
+russian.rt.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.157 ms  1.146 ms  1.202 ms
+"
+russian.rt.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.588 ms  0.587 ms  0.760 ms
+"
+russian.rt.com,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  20.868 ms  20.902 ms  20.894 ms
+"
+russian.rt.com,4," 4  GW-Indrik.retn.net (87.245.253.219)  20.166 ms  20.238 ms  20.158 ms
+"
+russian.rt.com,5," 5  * * *
+"
+russian.rt.com,6," 6  * * *
+"
+russian.rt.com,7," 7  10.7.11.6 (10.7.11.6)  21.464 ms  21.449 ms  21.436 ms
+"
+russian.rt.com,8," 8  82.202.190.92 (82.202.190.92)  20.503 ms  20.349 ms  20.517 ms
+"

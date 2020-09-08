@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+gorlovka.today,0,"traceroute to gorlovka.today (104.28.20.224), 30 hops max, 60 byte packets
+"
+gorlovka.today,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.629 ms  0.659 ms  0.654 ms
+"
+gorlovka.today,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.929 ms  0.914 ms  0.994 ms
+"
+gorlovka.today,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.770 ms  8.882 ms  9.018 ms
+"
+gorlovka.today,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  12.441 ms  12.662 ms  12.436 ms
+"
+gorlovka.today,5," 5  149.14.58.106 (149.14.58.106)  12.824 ms  12.482 ms  12.801 ms
+"
+gorlovka.today,6," 6  104.28.20.224 (104.28.20.224)  12.354 ms  11.980 ms  11.669 ms
+"

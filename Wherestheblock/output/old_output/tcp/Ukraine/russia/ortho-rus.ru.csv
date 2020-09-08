@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+ortho-rus.ru,0,"traceroute to ortho-rus.ru (79.137.119.204), 50 hops max, 60 byte packets
+"
+ortho-rus.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.343 ms  3.348 ms  3.343 ms
+"
+ortho-rus.ru,2," 2  * * *
+"
+ortho-rus.ru,3," 3  * * *
+"
+ortho-rus.ru,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.612 ms  33.925 ms  33.922 ms
+"
+ortho-rus.ru,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  37.146 ms  36.893 ms  37.278 ms
+"
+ortho-rus.ru,6," 6  * * *
+"
+ortho-rus.ru,7," 7  * * *
+"
+ortho-rus.ru,8," 8  * * *
+"
+ortho-rus.ru,9," 9  * * *
+"
+ortho-rus.ru,10,"10  ip204.ip-79-137-119.eu (79.137.119.204)  35.874 ms  35.942 ms  35.916 ms
+"

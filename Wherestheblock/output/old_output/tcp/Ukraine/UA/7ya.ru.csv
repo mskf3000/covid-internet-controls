@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+7ya.ru,0,"traceroute to 7ya.ru (37.203.34.97), 30 hops max, 60 byte packets
+"
+7ya.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.300 ms  0.326 ms
+"
+7ya.ru,2," 2  lattel-10G-gw.ix.net.ua (195.35.65.153)  26.810 ms  26.837 ms  30.729 ms
+"
+7ya.ru,3," 3  195.13.238.38 (195.13.238.38)  31.605 ms  31.816 ms  31.808 ms
+"
+7ya.ru,4," 4  * * *
+"
+7ya.ru,5," 5  mail.7ya.ru (37.203.34.97)  25.225 ms  29.342 ms  29.337 ms
+"
+7ya.ru,6," 6  mail.7ya.ru (37.203.34.97)  30.633 ms  31.211 ms  29.460 ms
+"

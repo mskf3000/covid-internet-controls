@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+nodrugs.ru,0,"traceroute to nodrugs.ru (195.208.1.165), 30 hops max, 60 byte packets
+"
+nodrugs.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.577 ms  0.567 ms  0.562 ms
+"
+nodrugs.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.715 ms  2.718 ms  2.711 ms
+"
+nodrugs.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  18.486 ms  18.342 ms  18.357 ms
+"
+nodrugs.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  31.315 ms  31.266 ms  31.367 ms
+"
+nodrugs.ru,5," 5  et-0-0-17.cr2-fra6.ip4.gtt.net (89.149.180.74)  33.378 ms  33.364 ms  33.359 ms
+"
+nodrugs.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  44.695 ms  44.142 ms  43.966 ms
+"
+nodrugs.ru,7," 7  213.59.212.217 (213.59.212.217)  44.579 ms 213.59.211.63 (213.59.211.63)  46.163 ms 188.254.25.77 (188.254.25.77)  43.741 ms
+"
+nodrugs.ru,8," 8  5.143.251.250 (5.143.251.250)  44.716 ms  45.023 ms  43.657 ms
+"
+nodrugs.ru,9," 9  MSK-CTV-R1.nic.ru (193.232.147.51)  44.140 ms  47.653 ms  43.929 ms
+"
+nodrugs.ru,10,"10  MSK-DP-R2.nic.ru (193.232.147.218)  44.117 ms  43.845 ms  44.095 ms
+"
+nodrugs.ru,11,"11  MSK-DP-GW1.nic.ru (193.232.147.214)  45.956 ms  45.933 ms  45.037 ms
+"
+nodrugs.ru,12,"12  std-carp65-http.nic.ru (195.208.1.165)  44.927 ms  45.912 ms  43.811 ms
+"

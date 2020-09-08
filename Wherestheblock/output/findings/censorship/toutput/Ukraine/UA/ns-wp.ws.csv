@@ -1,0 +1,45 @@
+URL,TTL,Response_Message
+ns-wp.ws,0,"traceroute to ns-wp.ws (64.70.19.203), 30 hops max, 60 byte packets
+"
+ns-wp.ws,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.157 ms  1.135 ms  1.162 ms
+"
+ns-wp.ws,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.066 ms  0.915 ms  1.071 ms
+"
+ns-wp.ws,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.246 ms  17.237 ms  17.028 ms
+"
+ns-wp.ws,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.555 ms  18.333 ms  18.633 ms
+"
+ns-wp.ws,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.597 ms  24.445 ms  24.549 ms
+"
+ns-wp.ws,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  32.271 ms  31.603 ms  31.449 ms
+"
+ns-wp.ws,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  31.259 ms  31.324 ms  31.213 ms
+"
+ns-wp.ws,8," 8  centurylink.fra03.atlas.cogentco.com (130.117.14.26)  30.931 ms  29.658 ms  29.771 ms
+"
+ns-wp.ws,9," 9  63-235-41-102.dia.static.qwest.net (63.235.41.102)  125.176 ms  150.399 ms  150.391 ms
+"
+ns-wp.ws,10,"10  cr1-te-0-5-1-0.ft3.savvis.net (204.70.224.158)  183.919 ms  183.893 ms  183.879 ms
+"
+ns-wp.ws,11,"11  msr1-te-0-5-1-0.londonuk5.savvis.net (204.70.198.114)  180.725 ms  182.380 ms  182.360 ms
+"
+ns-wp.ws,12,"12  msr1-te-0-0-0-0.londonuk5.savvis.net (204.70.207.174)  112.709 ms  112.755 ms  112.750 ms
+"
+ns-wp.ws,13,"13  cr2-te-0-0-2-0.londonuk1.savvis.net (204.70.207.113)  180.148 ms  180.130 ms  180.128 ms
+"
+ns-wp.ws,14,"14  cr2-xe-9-3-2.jfk2.savvis.net (204.70.195.22)  112.851 ms  112.945 ms  113.019 ms
+"
+ns-wp.ws,15,"15  cr1-xe-9-1-2.jfk2.savvis.net (206.28.99.121)  118.318 ms  118.372 ms  118.440 ms
+"
+ns-wp.ws,16,"16  cr1-te-0-3-0-3.sfo.savvis.net (206.28.101.34)  188.786 ms  188.820 ms  179.710 ms
+"
+ns-wp.ws,17,"17  204.70.224.213 (204.70.224.213)  181.464 ms  181.497 ms  181.531 ms
+"
+ns-wp.ws,18,"18  hr4-xe-9-2-0.la1.savvis.net (206.28.101.61)  178.743 ms  178.817 ms  178.887 ms
+"
+ns-wp.ws,19,"19  hr3-xe-8-3-0.la1.savvis.net (64.70.84.21)  178.465 ms  178.464 ms  179.249 ms
+"
+ns-wp.ws,20,"20  das1-v3005.la1.savvis.net (64.70.11.50)  179.316 ms  179.345 ms  179.361 ms
+"
+ns-wp.ws,21,"21  mailrelay.203.website.ws (64.70.19.203)  179.095 ms  179.058 ms  178.216 ms
+"

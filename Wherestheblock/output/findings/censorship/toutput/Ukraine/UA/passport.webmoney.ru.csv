@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+passport.webmoney.ru,0,"traceroute to passport.webmoney.ru (91.200.28.212), 30 hops max, 60 byte packets
+"
+passport.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.334 ms  0.313 ms  0.336 ms
+"
+passport.webmoney.ru,2," 2  dtel-ix.netorn.net (193.25.180.128)  16.803 ms  16.650 ms  16.789 ms
+"
+passport.webmoney.ru,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  18.949 ms  17.007 ms  17.572 ms
+"
+passport.webmoney.ru,4," 4  80.85.240.85 (80.85.240.85)  19.670 ms  20.195 ms  19.756 ms
+"
+passport.webmoney.ru,5," 5  91.200.28.212 (91.200.28.212)  20.028 ms  18.103 ms  22.874 ms
+"

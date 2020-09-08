@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+video.meta.ua,0,"traceroute to video.meta.ua (194.0.131.28), 30 hops max, 60 byte packets
+"
+video.meta.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.333 ms  0.318 ms  0.336 ms
+"
+video.meta.ua,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.668 ms  0.529 ms  0.518 ms
+"
+video.meta.ua,3," 3  meta.ae10-822.lsr02-kiev.topnet.ua (77.88.206.13)  0.851 ms  0.990 ms  0.917 ms
+"
+video.meta.ua,4," 4  meta.ae10-822.lsr02-kiev.topnet.ua (77.88.206.14)  0.811 ms  0.793 ms  0.783 ms
+"
+video.meta.ua,5," 5  h131-28.meta.ua (194.0.131.28)  1.067 ms  1.074 ms  1.009 ms
+"

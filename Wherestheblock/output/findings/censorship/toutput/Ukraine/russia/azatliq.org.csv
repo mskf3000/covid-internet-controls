@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+azatliq.org,0,"traceroute to azatliq.org (2.16.181.56), 50 hops max, 60 byte packets
+"
+azatliq.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.383 ms  0.371 ms  0.382 ms
+"
+azatliq.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.512 ms  0.499 ms  0.540 ms
+"
+azatliq.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.247 ms  28.633 ms  26.233 ms
+"
+azatliq.org,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  31.664 ms  31.739 ms  29.351 ms
+"
+azatliq.org,5," 5  a2-16-181-56.deploy.static.akamaitechnologies.com (2.16.181.56)  28.931 ms  28.417 ms  30.971 ms
+"

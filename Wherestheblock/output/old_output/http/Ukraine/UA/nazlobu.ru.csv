@@ -1,0 +1,635 @@
+URL,TTL,Message
+nazlobu.ru,1,
+nazlobu.ru,2,
+nazlobu.ru,3,
+nazlobu.ru,4,
+nazlobu.ru,5,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:47 GMT
+Server: Apache
+Cache-Control: max-age=-123798097
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,6,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,7,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,8,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,9,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,10,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,11,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,12,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,13,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,14,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,15,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,16,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,17,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,18,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,19,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,20,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,21,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,22,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,23,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,24,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,25,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,26,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,27,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"
+nazlobu.ru,28,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/security.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(/security.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/security.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/standard_pages.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(/standard_pages.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/standard_pages.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>10</b><br />
+<br />
+<b>Fatal error</b>:  Call to undefined function:  lenta() in <b>/var/www/html/apn_spb/public_html/index.htm</b> on line <b>16</b><br />
+"
+nazlobu.ru,29,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 10:25:48 GMT
+Server: Apache
+Cache-Control: max-age=-123798098
+Expires: Sat, 20 Feb 2016 14:04:10 GMT
+Content-Length: 2576
+Connection: close
+Content-Type: text/html; charset=windows-1251
+
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/system_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(/system_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/system_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>63</b><br />
+<br />
+<b>Warning</b>:  main(): open_basedir restriction in effect. File(/format_functions.php3) is not within the allowed path(s): (/var/www/html/apn_spb) in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(/format_functions.php3): failed to open stream: Operation not permitted in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><br />
+<br />
+<b>Warning</b>:  main(): Failed opening '/format_functions.php3' for inclusion (include_path='/var/www/html/apn_spb/modules') in <b>/var/www/html/apn_spb/modules/prefs.ht</b> on line <b>64</b><b"

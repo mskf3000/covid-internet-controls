@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+soft-ru.fatal.ru,0,"traceroute to soft-ru.fatal.ru (193.106.172.23), 30 hops max, 60 byte packets
+"
+soft-ru.fatal.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.351 ms  0.306 ms  0.326 ms
+"
+soft-ru.fatal.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.634 ms  0.559 ms  0.616 ms
+"
+soft-ru.fatal.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.749 ms  18.308 ms  18.017 ms
+"
+soft-ru.fatal.ru,4," 4  progress-gw.fiord.net (62.140.243.63)  29.549 ms  29.583 ms  29.576 ms
+"
+soft-ru.fatal.ru,5," 5  194.36.150.10 (194.36.150.10)  21.022 ms  21.219 ms progress-gw.fiord.net (62.140.243.63)  29.483 ms
+"
+soft-ru.fatal.ru,6," 6  194.36.150.10 (194.36.150.10)  18.751 ms 193.106.172.23 (193.106.172.23)  18.884 ms  17.788 ms
+"

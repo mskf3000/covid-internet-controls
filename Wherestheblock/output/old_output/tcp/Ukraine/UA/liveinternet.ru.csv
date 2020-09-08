@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+liveinternet.ru,0,"traceroute to liveinternet.ru (88.212.202.35), 30 hops max, 60 byte packets
+"
+liveinternet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.312 ms  0.375 ms
+"
+liveinternet.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.648 ms  0.554 ms  0.547 ms
+"
+liveinternet.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.992 ms  15.968 ms  15.974 ms
+"
+liveinternet.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.171 ms  17.162 ms  17.474 ms
+"
+liveinternet.ru,5," 5  87.kiae-sw.exepto.ru (88.212.192.200)  28.165 ms  28.576 ms  31.897 ms
+"
+liveinternet.ru,6," 6  227-194-212-88.host.exepto.ru (88.212.194.227)  18.321 ms  18.396 ms *
+"
+liveinternet.ru,7," 7  host135.rax.ru (88.212.202.35)  16.432 ms  16.437 ms  17.285 ms
+"

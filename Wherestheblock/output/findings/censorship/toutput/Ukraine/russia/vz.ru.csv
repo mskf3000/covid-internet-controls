@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+vz.ru,0,"traceroute to vz.ru (83.222.2.210), 50 hops max, 60 byte packets
+"
+vz.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.509 ms  4.497 ms  4.588 ms
+"
+vz.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  17.057 ms  18.313 ms  17.023 ms
+"
+vz.ru,3," 3  as25532.ix.dataix.ru (178.18.226.7)  17.455 ms  17.500 ms  19.600 ms
+"
+vz.ru,4," 4  * msk-ff-22-vl18.masterhost.ru (217.16.23.242)  17.509 ms  19.138 ms
+"
+vz.ru,5," 5  83.222.2.210 (83.222.2.210)  17.049 ms  18.183 ms  17.444 ms
+"

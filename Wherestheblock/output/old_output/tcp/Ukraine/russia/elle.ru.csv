@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+elle.ru,0,"traceroute to elle.ru (195.226.222.236), 50 hops max, 60 byte packets
+"
+elle.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.347 ms  0.366 ms
+"
+elle.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.034 ms  19.398 ms  16.026 ms
+"
+elle.ru,3," 3  * * *
+"
+elle.ru,4," 4  10.0.92.145 (10.0.92.145)  17.360 ms 10.0.92.141 (10.0.92.141)  16.240 ms 10.0.92.145 (10.0.92.145)  18.871 ms
+"
+elle.ru,5," 5  185.129.102.205 (185.129.102.205)  43.609 ms  45.346 ms  43.581 ms
+"
+elle.ru,6," 6  host254.dc-ekat.w.rugion.ru (195.226.222.254)  47.225 ms  47.202 ms  46.999 ms
+"
+elle.ru,7," 7  * * *
+"
+elle.ru,8," 8  host236.dc-ekat.w.rugion.ru (195.226.222.236)  46.098 ms  44.666 ms  45.371 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+bluesystem.ru,0,"traceroute to bluesystem.ru (91.194.76.136), 50 hops max, 60 byte packets
+"
+bluesystem.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.374 ms  0.373 ms  0.400 ms
+"
+bluesystem.ru,2," 2  * * *
+"
+bluesystem.ru,3," 3  as24589.ix.dataix.ru (178.18.224.29)  33.303 ms  32.182 ms  32.137 ms
+"
+bluesystem.ru,4," 4  fas43108.mx480.telenet.lv (87.99.76.117)  33.323 ms  33.639 ms  34.750 ms
+"
+bluesystem.ru,5," 5  bluesystem.org (91.194.76.136)  32.198 ms  32.005 ms  30.673 ms
+"

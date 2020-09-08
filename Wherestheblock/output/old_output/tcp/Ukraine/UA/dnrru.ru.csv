@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+dnrru.ru,0,"traceroute to dnrru.ru (194.58.56.40), 30 hops max, 60 byte packets
+"
+dnrru.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.301 ms  0.344 ms
+"
+dnrru.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.030 ms  16.781 ms  16.038 ms
+"
+dnrru.ru,3," 3  * * *
+"
+dnrru.ru,4," 4  10.0.9.181 (10.0.9.181)  16.961 ms  16.949 ms 10.0.9.165 (10.0.9.165)  16.171 ms
+"
+dnrru.ru,5," 5  * * *
+"
+dnrru.ru,6," 6  * * *
+"
+dnrru.ru,7," 7  * * *
+"
+dnrru.ru,8," 8  194.58.56.40 (194.58.56.40)  18.445 ms  20.349 ms  19.599 ms
+"

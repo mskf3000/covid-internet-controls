@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+arestant.msk.ru,0,"traceroute to arestant.msk.ru (194.28.172.82), 30 hops max, 60 byte packets
+"
+arestant.msk.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.336 ms  0.347 ms  0.342 ms
+"
+arestant.msk.ru,2," 2  dtel-ix-2.datagroup.ua (193.25.180.244)  0.737 ms  2.350 ms  2.360 ms
+"
+arestant.msk.ru,3," 3  88.81.240.15 (88.81.240.15)  32.270 ms *  31.692 ms
+"
+arestant.msk.ru,4," 4  * * dedic.dc.besthosting.ua (194.28.172.82)  4.232 ms
+"

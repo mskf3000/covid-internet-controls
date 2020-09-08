@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+med2000.ru,0,"traceroute to med2000.ru (195.42.163.195), 50 hops max, 60 byte packets
+"
+med2000.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.314 ms  0.350 ms
+"
+med2000.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.338 ms  16.870 ms  16.623 ms
+"
+med2000.ru,3," 3  109.239.134.126 (109.239.134.126)  19.680 ms  19.514 ms  21.040 ms
+"
+med2000.ru,4," 4  p2p-m9c76k-20g-m10c65k-in.trunkmobile.ru (93.174.73.58)  18.906 ms  18.793 ms  18.485 ms
+"
+med2000.ru,5," 5  mail2.rtsoft.ru (195.42.161.230)  18.072 ms  19.636 ms  17.396 ms
+"
+med2000.ru,6," 6  seven.hq.dataforce.net (195.42.160.55)  17.452 ms  17.011 ms  16.758 ms
+"
+med2000.ru,7," 7  195.42.163.195 (195.42.163.195)  16.708 ms  18.094 ms  18.237 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+comitet.su,0,"traceroute to comitet.su (78.24.217.132), 30 hops max, 60 byte packets
+"
+comitet.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.329 ms  0.354 ms
+"
+comitet.su,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  20.667 ms *  16.913 ms
+"
+comitet.su,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  20.628 ms  16.824 ms  20.603 ms
+"
+comitet.su,4," 4  core.webdc.ru (92.63.108.98)  17.053 ms  18.455 ms  18.442 ms
+"
+comitet.su,5," 5  * 172.31.160.46 (172.31.160.46)  17.664 ms  16.999 ms
+"
+comitet.su,6," 6  antifashistcom.fvds.ru (78.24.217.132)  17.986 ms  18.696 ms  17.922 ms
+"

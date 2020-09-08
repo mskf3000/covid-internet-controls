@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+svpressa.ru,0,"traceroute to svpressa.ru (88.212.201.209), 50 hops max, 60 byte packets
+"
+svpressa.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.281 ms  0.308 ms
+"
+svpressa.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.612 ms  0.600 ms  0.581 ms
+"
+svpressa.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.951 ms  15.937 ms  15.970 ms
+"
+svpressa.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.166 ms  17.142 ms  17.134 ms
+"
+svpressa.ru,5," 5  87.kiae-sw.exepto.ru (88.212.192.200)  27.301 ms  26.890 ms  27.625 ms
+"
+svpressa.ru,6," 6  227-194-212-88.host.exepto.ru (88.212.194.227)  18.345 ms  18.265 ms *
+"
+svpressa.ru,7," 7  host209.rax.ru (88.212.201.209)  18.385 ms  16.908 ms  17.655 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+light.wmtransfer.com,0,"traceroute to light.wmtransfer.com (91.200.28.59), 30 hops max, 60 byte packets
+"
+light.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.080 ms  1.068 ms  1.093 ms
+"
+light.wmtransfer.com,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.527 ms  17.630 ms  16.870 ms
+"
+light.wmtransfer.com,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  17.498 ms  19.782 ms  20.277 ms
+"
+light.wmtransfer.com,4," 4  80.85.240.85 (80.85.240.85)  20.407 ms  20.559 ms  20.513 ms
+"
+light.wmtransfer.com,5," 5  91.200.28.59 (91.200.28.59)  23.050 ms  19.306 ms  20.967 ms
+"

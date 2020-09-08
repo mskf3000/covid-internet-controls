@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+naver.jp,0,"traceroute to naver.jp (119.235.235.13), 50 hops max, 60 byte packets
+"
+naver.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.329 ms  0.312 ms  0.328 ms
+"
+naver.jp,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.975 ms  1.013 ms  1.047 ms
+"
+naver.jp,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.225 ms  17.034 ms  17.048 ms
+"
+naver.jp,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.518 ms  22.539 ms  22.594 ms
+"
+naver.jp,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.376 ms  30.336 ms  30.328 ms
+"
+naver.jp,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.555 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  40.100 ms  40.073 ms
+"
+naver.jp,7," 7  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  140.410 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  191.193 ms  190.651 ms
+"
+naver.jp,8," 8  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  140.002 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  193.492 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  139.360 ms
+"
+naver.jp,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.594 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  187.928 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.829 ms
+"
+naver.jp,10,"10  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  190.558 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  140.478 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.748 ms
+"
+naver.jp,11,"11  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.724 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.509 ms  140.417 ms
+"
+naver.jp,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.932 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  190.666 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  146.697 ms
+"
+naver.jp,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.764 ms  185.280 ms  185.275 ms
+"
+naver.jp,14,"14  be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  174.313 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  191.866 ms  190.455 ms
+"
+naver.jp,15,"15  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  188.924 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  187.522 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  186.137 ms
+"
+naver.jp,16,"16  be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  186.189 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  189.743 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.828 ms
+"
+naver.jp,17,"17  38.88.224.178 (38.88.224.178)  182.644 ms  178.069 ms  178.612 ms
+"
+naver.jp,18,"18  38.88.224.178 (38.88.224.178)  183.291 ms  183.272 ms 111.87.3.229 (111.87.3.229)  175.562 ms
+"
+naver.jp,19,"19  106.187.13.9 (106.187.13.9)  275.622 ms  275.610 ms 106.187.13.29 (106.187.13.29)  285.911 ms
+"
+naver.jp,20,"20  27.85.227.238 (27.85.227.238)  280.502 ms 27.85.227.234 (27.85.227.234)  274.315 ms 106.187.13.5 (106.187.13.5)  286.379 ms
+"
+naver.jp,21,"21  cm-kot210.int-gw.kddi.ne.jp (125.29.22.170)  278.875 ms  287.889 ms cm-kot210.int-gw.kddi.ne.jp (125.29.22.174)  277.507 ms
+"
+naver.jp,22,"22  * * *
+"
+naver.jp,23,"23  * * *
+"
+naver.jp,24,"24  * * *
+"
+naver.jp,25,"25  * * *
+"
+naver.jp,26,"26  * * *
+"
+naver.jp,27,"27  * * *
+"
+naver.jp,28,"28  * * *
+"
+naver.jp,29,"29  * * *
+"
+naver.jp,30,"30  * * *
+"
+naver.jp,31,"31  * * *
+"
+naver.jp,32,"32  * * *
+"
+naver.jp,33,"33  * * *
+"
+naver.jp,34,"34  * * *
+"
+naver.jp,35,"35  * * *
+"
+naver.jp,36,"36  * * *
+"
+naver.jp,37,"37  * * *
+"
+naver.jp,38,"38  * * *
+"
+naver.jp,39,"39  * * *
+"
+naver.jp,40,"40  * * *
+"
+naver.jp,41,"41  * * *
+"
+naver.jp,42,"42  * * *
+"
+naver.jp,43,"43  * * *
+"
+naver.jp,44,"44  * * *
+"
+naver.jp,45,"45  * * *
+"
+naver.jp,46,"46  * * *
+"
+naver.jp,47,"47  * * *
+"
+naver.jp,48,"48  * * *
+"
+naver.jp,49,"49  * * *
+"
+naver.jp,50,"50  * * *
+"

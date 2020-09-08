@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+transparency.org.ru,0,"traceroute to transparency.org.ru (178.21.8.190), 50 hops max, 60 byte packets
+"
+transparency.org.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.326 ms  0.361 ms
+"
+transparency.org.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.456 ms  0.494 ms  0.568 ms
+"
+transparency.org.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.003 ms  15.916 ms  15.975 ms
+"
+transparency.org.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.474 ms  17.465 ms  17.448 ms
+"
+transparency.org.ru,5," 5  * * *
+"
+transparency.org.ru,6," 6  172.16.71.11 (172.16.71.11)  69.841 ms  40.636 ms  40.635 ms
+"
+transparency.org.ru,7," 7  ovzhost201.vps.reg.ru (37.140.193.11)  16.809 ms  16.550 ms  16.553 ms
+"
+transparency.org.ru,8," 8  transparency.org.ru (178.21.8.190)  17.463 ms  16.640 ms  16.541 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+dan-news.info,0,"traceroute to dan-news.info (104.28.15.128), 30 hops max, 60 byte packets
+"
+dan-news.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.143 ms  2.122 ms  2.178 ms
+"
+dan-news.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.115 ms  1.234 ms  1.321 ms
+"
+dan-news.info,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.319 ms  9.240 ms  9.177 ms
+"
+dan-news.info,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  12.576 ms  12.571 ms  12.564 ms
+"
+dan-news.info,5," 5  149.14.58.106 (149.14.58.106)  12.637 ms  12.944 ms  12.888 ms
+"
+dan-news.info,6," 6  104.28.15.128 (104.28.15.128)  12.474 ms  12.422 ms  12.263 ms
+"

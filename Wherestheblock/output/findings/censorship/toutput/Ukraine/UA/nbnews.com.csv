@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+nbnews.com,0,"traceroute to nbnews.com (209.99.64.71), 30 hops max, 60 byte packets
+"
+nbnews.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.268 ms  0.264 ms  0.294 ms
+"
+nbnews.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.674 ms  0.610 ms  0.580 ms
+"
+nbnews.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.128 ms  28.727 ms  26.140 ms
+"
+nbnews.com,4," 4  * * *
+"
+nbnews.com,5," 5  ae27.cs1.fra9.de.eth.zayo.com (64.125.30.254)  155.584 ms  155.558 ms  155.613 ms
+"
+nbnews.com,6," 6  ae0.cs1.fra6.de.eth.zayo.com (64.125.29.54)  160.772 ms  152.618 ms  152.739 ms
+"
+nbnews.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  153.200 ms  153.144 ms  155.550 ms
+"
+nbnews.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  155.577 ms  155.598 ms  153.047 ms
+"
+nbnews.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  155.902 ms  155.963 ms  153.265 ms
+"
+nbnews.com,10,"10  * * *
+"
+nbnews.com,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  153.410 ms  155.502 ms  155.450 ms
+"
+nbnews.com,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  156.867 ms  157.544 ms  154.079 ms
+"
+nbnews.com,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  155.091 ms  153.049 ms  152.785 ms
+"
+nbnews.com,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  152.627 ms  155.521 ms  153.081 ms
+"
+nbnews.com,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  152.880 ms  152.852 ms  152.660 ms
+"
+nbnews.com,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  152.655 ms  152.922 ms  152.854 ms
+"
+nbnews.com,17,"17  64.125.192.114.IPYX-082035-002-ZYO.above.net (64.125.192.114)  147.644 ms  147.626 ms  147.238 ms
+"
+nbnews.com,18,"18  209-99-64-71.fwd.datafoundry.com (209.99.64.71)  153.304 ms  155.828 ms  153.277 ms
+"

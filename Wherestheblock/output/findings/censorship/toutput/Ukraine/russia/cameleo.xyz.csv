@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+cameleo.xyz,0,"traceroute to cameleo.xyz (5.9.23.185), 50 hops max, 60 byte packets
+"
+cameleo.xyz,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.295 ms  0.317 ms
+"
+cameleo.xyz,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.727 ms  0.708 ms  0.705 ms
+"
+cameleo.xyz,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.117 ms  28.638 ms  28.629 ms
+"
+cameleo.xyz,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.557 ms  31.218 ms  28.596 ms
+"
+cameleo.xyz,5," 5  core0.fra.hetzner.com (213.239.252.10)  30.221 ms core4.fra.hetzner.com (213.239.245.85)  28.961 ms core0.fra.hetzner.com (213.239.252.10)  30.198 ms
+"
+cameleo.xyz,6," 6  core23.fsn1.hetzner.com (213.239.252.38)  37.232 ms core23.fsn1.hetzner.com (213.239.203.154)  35.958 ms core24.fsn1.hetzner.com (213.239.252.42)  33.621 ms
+"
+cameleo.xyz,7," 7  ex9k1.dc7.fsn1.hetzner.com (213.239.229.238)  33.554 ms  33.561 ms  35.024 ms
+"
+cameleo.xyz,8," 8  static.185.23.9.5.clients.your-server.de (5.9.23.185)  33.253 ms  36.119 ms  33.583 ms
+"

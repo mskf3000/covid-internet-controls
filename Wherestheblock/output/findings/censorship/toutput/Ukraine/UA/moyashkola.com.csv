@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+moyashkola.com,0,"traceroute to moyashkola.com (91.194.251.71), 30 hops max, 60 byte packets
+"
+moyashkola.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.274 ms  0.324 ms
+"
+moyashkola.com,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  1.432 ms  1.427 ms  1.487 ms
+"
+moyashkola.com,3," 3  unallocated.qos.kiev.ua (91.194.251.71)  0.558 ms  0.558 ms  0.587 ms
+"

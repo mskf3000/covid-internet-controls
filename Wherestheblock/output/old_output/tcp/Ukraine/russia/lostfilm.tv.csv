@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+lostfilm.tv,0,"traceroute to lostfilm.tv (185.85.121.13), 50 hops max, 60 byte packets
+"
+lostfilm.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.382 ms  3.361 ms  3.401 ms
+"
+lostfilm.tv,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.710 ms  0.708 ms  0.700 ms
+"
+lostfilm.tv,3," 3  * * *
+"
+lostfilm.tv,4," 4  intelcom.spb.cloud-ix.net (31.28.18.16)  24.560 ms  29.643 ms  29.183 ms
+"
+lostfilm.tv,5," 5  185.85.121.13 (185.85.121.13)  24.200 ms  29.169 ms  23.884 ms
+"

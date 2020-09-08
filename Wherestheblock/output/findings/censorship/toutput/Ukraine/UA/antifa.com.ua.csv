@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+antifa.com.ua,0,"traceroute to antifa.com.ua (185.53.178.6), 30 hops max, 60 byte packets
+"
+antifa.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.340 ms  0.328 ms  0.321 ms
+"
+antifa.com.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.915 ms  0.935 ms  0.995 ms
+"
+antifa.com.ua,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.100 ms  17.166 ms  17.200 ms
+"
+antifa.com.ua,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.440 ms  18.169 ms  18.167 ms
+"
+antifa.com.ua,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.621 ms  24.613 ms  24.555 ms
+"
+antifa.com.ua,6," 6  te0-0-1-2.agr11.muc03.atlas.cogentco.com (154.54.56.226)  24.534 ms te0-0-1-2.agr12.muc03.atlas.cogentco.com (154.54.56.230)  24.831 ms te0-0-1-2.agr11.muc03.atlas.cogentco.com (154.54.56.226)  24.589 ms
+"
+antifa.com.ua,7," 7  te0-0-2-1.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.8.22)  25.151 ms  25.180 ms  24.987 ms
+"
+antifa.com.ua,8," 8  149.6.156.194 (149.6.156.194)  24.816 ms 149.6.156.203 (149.6.156.203)  24.788 ms 149.6.156.194 (149.6.156.194)  24.764 ms
+"
+antifa.com.ua,9," 9  185.53.178.6 (185.53.178.6)  24.711 ms  24.606 ms  24.646 ms
+"

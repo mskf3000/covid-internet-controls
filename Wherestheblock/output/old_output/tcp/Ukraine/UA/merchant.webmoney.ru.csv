@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+merchant.webmoney.ru,0,"traceroute to merchant.webmoney.ru (91.227.52.177), 30 hops max, 60 byte packets
+"
+merchant.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.071 ms  1.086 ms  1.254 ms
+"
+merchant.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.565 ms  0.549 ms  0.508 ms
+"
+merchant.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.861 ms  15.896 ms  15.890 ms
+"
+merchant.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.871 ms  15.856 ms  15.870 ms
+"
+merchant.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.044 ms  17.111 ms  17.038 ms
+"
+merchant.webmoney.ru,6," 6  91.227.52.177 (91.227.52.177)  16.438 ms  16.561 ms  16.414 ms
+"

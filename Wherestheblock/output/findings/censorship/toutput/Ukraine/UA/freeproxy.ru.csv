@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+freeproxy.ru,0,"traceroute to freeproxy.ru (85.25.8.14), 30 hops max, 60 byte packets
+"
+freeproxy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.340 ms  0.364 ms
+"
+freeproxy.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.582 ms  2.866 ms  0.547 ms
+"
+freeproxy.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.842 ms  28.689 ms  28.672 ms
+"
+freeproxy.ru,4," 4  et-7-0-0-u100.cr-polaris.fra1.bb.godaddy.com (80.81.192.239)  31.084 ms  31.076 ms  28.587 ms
+"
+freeproxy.ru,5," 5  ae0.cr-antares.fra10.bb.godaddy.com (87.230.115.1)  32.110 ms  29.770 ms  32.072 ms
+"
+freeproxy.ru,6," 6  ae0.cr-vega.sxb1.bb.godaddy.com (87.230.115.3)  33.769 ms  31.493 ms  31.557 ms
+"
+freeproxy.ru,7," 7  ae0-v100.sr-helios.sxb1.mass.systems (87.230.112.5)  31.734 ms  31.756 ms  33.756 ms
+"
+freeproxy.ru,8," 8  62.138.129.1 (62.138.129.1)  33.836 ms  33.854 ms  31.304 ms
+"
+freeproxy.ru,9," 9  92.204.12.9 (92.204.12.9)  33.794 ms  33.796 ms  33.781 ms
+"
+freeproxy.ru,10,"10  217.118.23.243 (217.118.23.243)  33.767 ms  34.918 ms 217.118.23.246 (217.118.23.246)  35.247 ms
+"
+freeproxy.ru,11,"11  foxtrot030.startdedicated.com (85.25.8.14)  33.843 ms  31.247 ms  33.847 ms
+"

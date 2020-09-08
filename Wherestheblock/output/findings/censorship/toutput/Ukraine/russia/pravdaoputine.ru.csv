@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+pravdaoputine.ru,0,"traceroute to pravdaoputine.ru (78.110.50.141), 50 hops max, 60 byte packets
+"
+pravdaoputine.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.244 ms  2.235 ms  2.227 ms
+"
+pravdaoputine.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.716 ms  0.735 ms  0.688 ms
+"
+pravdaoputine.ru,3," 3  * * *
+"
+pravdaoputine.ru,4," 4  mastertel.msk.cloud-ix.net (31.28.19.122)  16.706 ms  24.425 ms  17.293 ms
+"
+pravdaoputine.ru,5," 5  217-67-176-54.in-addr.mastertelecom.ru (217.67.176.54)  17.658 ms  24.967 ms  24.463 ms
+"
+pravdaoputine.ru,6," 6  178-238-123-22.in-addr.mastertelecom.ru (178.238.123.22)  17.237 ms  17.213 ms  24.304 ms
+"
+pravdaoputine.ru,7," 7  cl35-w.ht-systems.ru (78.110.50.141)  16.968 ms  25.684 ms  27.861 ms
+"

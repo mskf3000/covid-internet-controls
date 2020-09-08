@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+thg.ru,0,"traceroute to thg.ru (194.67.128.198), 50 hops max, 60 byte packets
+"
+thg.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.278 ms  0.307 ms
+"
+thg.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.882 ms  0.911 ms  0.955 ms
+"
+thg.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.402 ms  17.405 ms  17.446 ms
+"
+thg.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.557 ms  22.550 ms  22.526 ms
+"
+thg.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.450 ms  30.459 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.538 ms
+"
+thg.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.241 ms  45.624 ms  49.130 ms
+"
+thg.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  52.591 ms  52.680 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  52.491 ms
+"
+thg.ru,8," 8  149.6.58.42 (149.6.58.42)  43.365 ms  42.585 ms  46.308 ms
+"
+thg.ru,9," 9  msk-m9-1-gw.RUNNet.ru (194.85.40.202)  41.655 ms  42.573 ms spb-bm18-2-gw.RUNNet.ru (194.85.40.206)  45.277 ms
+"
+thg.ru,10,"10  RM-Telecom.msk.runnet.ru (194.190.254.238)  45.743 ms  41.070 ms  41.990 ms
+"
+thg.ru,11,"11  NOC-SRR02-LAGG0-430.rmt.ru (158.250.234.225)  41.992 ms  45.535 ms  45.686 ms
+"
+thg.ru,12,"12  media-grupp-butlerova.rmt.ru (194.67.128.198)  42.785 ms  46.300 ms  42.796 ms
+"

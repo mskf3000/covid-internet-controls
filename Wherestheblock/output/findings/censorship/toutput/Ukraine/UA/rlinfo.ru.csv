@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+rlinfo.ru,0,"traceroute to rlinfo.ru (66.96.147.104), 30 hops max, 60 byte packets
+"
+rlinfo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.358 ms  0.345 ms  0.385 ms
+"
+rlinfo.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.913 ms  1.048 ms  1.124 ms
+"
+rlinfo.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.416 ms  17.312 ms  17.439 ms
+"
+rlinfo.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.521 ms  22.328 ms  22.573 ms
+"
+rlinfo.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.772 ms  30.778 ms  30.835 ms
+"
+rlinfo.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.716 ms  39.766 ms  39.490 ms
+"
+rlinfo.ru,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.976 ms  47.689 ms  46.566 ms
+"
+rlinfo.ru,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  108.854 ms  109.076 ms  108.766 ms
+"
+rlinfo.ru,9," 9  endurance-international-group.demarc.cogentco.com (38.97.106.34)  108.625 ms  108.646 ms  108.628 ms
+"
+rlinfo.ru,10,"10  238.252.148.207.static.yourhostingaccount.com (207.148.252.238)  108.826 ms  108.842 ms  108.992 ms
+"
+rlinfo.ru,11,"11  104.147.96.66.static.eigbox.net (66.96.147.104)  108.717 ms  108.629 ms  108.567 ms
+"

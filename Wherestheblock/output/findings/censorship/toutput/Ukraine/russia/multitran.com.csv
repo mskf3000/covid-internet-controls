@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+multitran.com,0,"traceroute to multitran.com (89.108.112.70), 50 hops max, 60 byte packets
+"
+multitran.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.136 ms  1.118 ms  1.178 ms
+"
+multitran.com,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.962 ms  0.956 ms  0.479 ms
+"
+multitran.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.916 ms  15.873 ms  15.942 ms
+"
+multitran.com,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.275 ms  16.419 ms  16.263 ms
+"
+multitran.com,5," 5  * * *
+"
+multitran.com,6," 6  172.16.62.1 (172.16.62.1)  16.534 ms  16.422 ms  16.567 ms
+"
+multitran.com,7," 7  unknown-8152.agava.net (89.108.112.70)  16.532 ms  16.448 ms  16.462 ms
+"

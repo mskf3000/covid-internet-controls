@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+kohls.com,0,"traceroute to kohls.com (23.59.84.136), 30 hops max, 60 byte packets
+"
+kohls.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.647 ms  0.642 ms  0.642 ms
+"
+kohls.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.640 ms  0.638 ms  0.661 ms
+"
+kohls.com,3," 3  100.64.65.25 (100.64.65.25)  8.299 ms  8.306 ms  8.306 ms
+"
+kohls.com,4," 4  100.64.64.125 (100.64.64.125)  14.773 ms  14.772 ms  14.770 ms
+"
+kohls.com,5," 5  akamai.plix.pl (195.182.218.115)  14.731 ms  14.737 ms  14.736 ms
+"
+kohls.com,6," 6  a23-59-84-136.deploy.static.akamaitechnologies.com (23.59.84.136)  14.753 ms  14.524 ms  14.496 ms
+"

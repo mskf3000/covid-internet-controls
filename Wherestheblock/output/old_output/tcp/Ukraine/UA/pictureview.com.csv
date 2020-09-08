@@ -1,0 +1,37 @@
+URL,TTL,Response_Message
+pictureview.com,0,"traceroute to pictureview.com (12.11.83.22), 30 hops max, 60 byte packets
+"
+pictureview.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.504 ms  0.515 ms  0.530 ms
+"
+pictureview.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.127 ms  1.238 ms  1.149 ms
+"
+pictureview.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.490 ms  17.489 ms  17.481 ms
+"
+pictureview.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  23.232 ms  23.426 ms  23.484 ms
+"
+pictureview.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.688 ms  30.755 ms  30.748 ms
+"
+pictureview.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.659 ms  39.480 ms  39.665 ms
+"
+pictureview.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  118.268 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.553 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.687 ms
+"
+pictureview.com,8," 8  be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)  118.024 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.443 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.939 ms
+"
+pictureview.com,9," 9  be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.769 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.048 ms  114.977 ms
+"
+pictureview.com,10,"10  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.635 ms att.jfk10.atlas.cogentco.com (154.54.10.98)  118.818 ms  119.743 ms
+"
+pictureview.com,11,"11  cr1.n54ny.ip.att.net (12.122.131.102)  187.446 ms att.jfk10.atlas.cogentco.com (154.54.10.98)  116.949 ms cr1.n54ny.ip.att.net (12.122.131.102)  186.776 ms
+"
+pictureview.com,12,"12  cgcil22crs.ip.att.net (12.122.2.237)  188.690 ms  192.046 ms  191.272 ms
+"
+pictureview.com,13,"13  cgcil21crs.ip.att.net (12.122.2.53)  193.685 ms  194.599 ms cgcil22crs.ip.att.net (12.122.2.237)  192.430 ms
+"
+pictureview.com,14,"14  sffca21crs.ip.att.net (12.122.1.174)  197.820 ms cgcil21crs.ip.att.net (12.122.2.53)  197.156 ms sffca21crs.ip.att.net (12.122.1.174)  190.468 ms
+"
+pictureview.com,15,"15  12.122.149.65 (12.122.149.65)  189.444 ms  188.544 ms  185.556 ms
+"
+pictureview.com,16,"16  12.245.6.86 (12.245.6.86)  185.810 ms  187.344 ms 12.122.149.65 (12.122.149.65)  184.361 ms
+"
+pictureview.com,17,"17  welcomeed.pictureview.com (12.11.83.22)  192.901 ms 12.245.6.86 (12.245.6.86)  188.257 ms welcomeed.pictureview.com (12.11.83.22)  188.861 ms
+"

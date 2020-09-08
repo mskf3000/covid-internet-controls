@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+pravdanaroda.info,0,"traceroute to pravdanaroda.info (144.76.202.11), 30 hops max, 60 byte packets
+"
+pravdanaroda.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.385 ms  0.369 ms  0.360 ms
+"
+pravdanaroda.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.527 ms  0.561 ms  0.784 ms
+"
+pravdanaroda.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.153 ms  26.150 ms  26.184 ms
+"
+pravdanaroda.info,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.046 ms  31.083 ms  31.007 ms
+"
+pravdanaroda.info,5," 5  core0.fra.hetzner.com (213.239.252.10)  28.438 ms core1.fra.hetzner.com (213.239.245.125)  37.836 ms  37.821 ms
+"
+pravdanaroda.info,6," 6  core23.fsn1.hetzner.com (213.239.252.38)  36.912 ms core24.fsn1.hetzner.com (213.239.224.253)  36.177 ms core24.fsn1.hetzner.com (213.239.229.78)  33.471 ms
+"
+pravdanaroda.info,7," 7  ex9k1.dc11.fsn1.hetzner.com (213.239.203.142)  39.651 ms  37.129 ms ex9k1.dc11.fsn1.hetzner.com (213.239.203.146)  36.038 ms
+"
+pravdanaroda.info,8," 8  * * *
+"
+pravdanaroda.info,9," 9  * * *
+"
+pravdanaroda.info,10,"10  * * *
+"
+pravdanaroda.info,11,"11  * * *
+"
+pravdanaroda.info,12,"12  * * *
+"
+pravdanaroda.info,13,"13  * * *
+"
+pravdanaroda.info,14,"14  * * *
+"
+pravdanaroda.info,15,"15  * * *
+"
+pravdanaroda.info,16,"16  * * *
+"
+pravdanaroda.info,17,"17  * * *
+"
+pravdanaroda.info,18,"18  * * *
+"
+pravdanaroda.info,19,"19  * * *
+"
+pravdanaroda.info,20,"20  * * *
+"
+pravdanaroda.info,21,"21  * * *
+"
+pravdanaroda.info,22,"22  * * *
+"
+pravdanaroda.info,23,"23  * * *
+"
+pravdanaroda.info,24,"24  * * *
+"
+pravdanaroda.info,25,"25  * * *
+"
+pravdanaroda.info,26,"26  * * *
+"
+pravdanaroda.info,27,"27  * * *
+"
+pravdanaroda.info,28,"28  * * *
+"
+pravdanaroda.info,29,"29  * * *
+"
+pravdanaroda.info,30,"30  * * *
+"

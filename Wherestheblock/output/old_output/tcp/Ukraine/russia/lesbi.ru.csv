@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+lesbi.ru,0,"traceroute to lesbi.ru (213.183.32.8), 50 hops max, 60 byte packets
+"
+lesbi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.109 ms  5.096 ms  5.123 ms
+"
+lesbi.ru,2," 2  * * *
+"
+lesbi.ru,3," 3  as56630.ix.dataix.ru (178.18.224.239)  20.146 ms  18.702 ms  18.970 ms
+"
+lesbi.ru,4," 4  10.32.0.21 (10.32.0.21)  19.105 ms  20.562 ms  18.329 ms
+"
+lesbi.ru,5," 5  32-8-host.pochemu.ru (213.183.32.8)  18.326 ms  16.887 ms  18.981 ms
+"

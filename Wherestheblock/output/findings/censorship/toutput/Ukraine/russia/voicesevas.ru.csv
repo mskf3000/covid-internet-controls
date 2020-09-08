@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+voicesevas.ru,0,"traceroute to voicesevas.ru (194.58.88.119), 50 hops max, 60 byte packets
+"
+voicesevas.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.275 ms  0.293 ms  0.348 ms
+"
+voicesevas.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.510 ms  0.506 ms  0.545 ms
+"
+voicesevas.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.954 ms  15.978 ms  15.966 ms
+"
+voicesevas.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.393 ms  17.385 ms  17.369 ms
+"
+voicesevas.ru,5," 5  * * *
+"
+voicesevas.ru,6," 6  172.16.71.11 (172.16.71.11)  16.423 ms  16.435 ms  16.416 ms
+"
+voicesevas.ru,7," 7  194.58.88.119 (194.58.88.119)  17.325 ms  17.209 ms  17.294 ms
+"

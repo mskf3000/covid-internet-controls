@@ -1,0 +1,430 @@
+URL,TTL,Message
+forbes.com,1,timed out
+forbes.com,2,timed out
+forbes.com,3,timed out
+forbes.com,4,timed out
+forbes.com,5,timed out
+forbes.com,6,timed out
+forbes.com,7,timed out
+forbes.com,8,timed out
+forbes.com,9,timed out
+forbes.com,10,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6826-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:50 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6826-HEL</p></body></html>"
+forbes.com,11,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6821-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:50 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6821-HEL</p></body></html>"
+forbes.com,12,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6824-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6824-HEL</p></body></html>"
+forbes.com,13,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6823-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6823-HEL</p></body></html>"
+forbes.com,14,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6827-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6827-HEL</p></body></html>"
+forbes.com,15,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6820-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6820-HEL</p></body></html>"
+forbes.com,16,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6825-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6825-HEL</p></body></html>"
+forbes.com,17,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6822-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6822-HEL</p></body></html>"
+forbes.com,18,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6826-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6826-HEL</p></body></html>"
+forbes.com,19,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6821-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6821-HEL</p></body></html>"
+forbes.com,20,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6827-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6827-HEL</p></body></html>"
+forbes.com,21,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6820-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6820-HEL</p></body></html>"
+forbes.com,22,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6824-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:51 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6824-HEL</p></body></html>"
+forbes.com,23,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6823-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6823-HEL</p></body></html>"
+forbes.com,24,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6826-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6826-HEL</p></body></html>"
+forbes.com,25,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6821-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6821-HEL</p></body></html>"
+forbes.com,26,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6825-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6825-HEL</p></body></html>"
+forbes.com,27,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6822-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6822-HEL</p></body></html>"
+forbes.com,28,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6827-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6827-HEL</p></body></html>"
+forbes.com,29,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6820-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 08:06:52 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6820-HEL</p></body></html>"

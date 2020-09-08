@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+naked-science.ru,0,"traceroute to naked-science.ru (188.225.8.133), 50 hops max, 60 byte packets
+"
+naked-science.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.361 ms  0.352 ms
+"
+naked-science.ru,2," 2  * * *
+"
+naked-science.ru,3," 3  as20764.ix.dataix.ru (178.18.224.34)  23.677 ms  24.008 ms  23.669 ms
+"
+naked-science.ru,4," 4  * * *
+"
+naked-science.ru,5," 5  81.27.252.94.rascom.as20764.net (81.27.252.94)  32.444 ms  32.412 ms  32.416 ms
+"
+naked-science.ru,6," 6  mdm8.timeweb.ru (188.225.8.133)  27.066 ms  26.492 ms  27.056 ms
+"

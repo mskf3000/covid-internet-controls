@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+judaica.kiev.ua,0,"traceroute to judaica.kiev.ua (195.123.3.131), 30 hops max, 60 byte packets
+"
+judaica.kiev.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.385 ms  0.370 ms  0.415 ms
+"
+judaica.kiev.ua,2," 2  mobicom-10G-gw.ix.net.ua (185.1.50.21)  0.410 ms  0.403 ms  0.392 ms
+"
+judaica.kiev.ua,3," 3  162-182.gutrade.kiev.ua (193.110.162.182)  0.606 ms  0.593 ms  0.586 ms
+"
+judaica.kiev.ua,4," 4  dh01.hostmedia.net (195.123.3.131)  2.409 ms  1.353 ms  1.268 ms
+"

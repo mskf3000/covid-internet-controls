@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+wsws.org,0,"traceroute to wsws.org (209.216.230.87), 30 hops max, 60 byte packets
+"
+wsws.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.590 ms  0.580 ms  0.635 ms
+"
+wsws.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.899 ms  0.884 ms  0.986 ms
+"
+wsws.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.153 ms  17.110 ms  17.272 ms
+"
+wsws.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.284 ms  22.420 ms  22.459 ms
+"
+wsws.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.590 ms  30.586 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.297 ms
+"
+wsws.org,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.594 ms  39.219 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.427 ms
+"
+wsws.org,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.463 ms  118.346 ms  115.554 ms
+"
+wsws.org,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.591 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.272 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.420 ms
+"
+wsws.org,9," 9  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  123.017 ms  121.656 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.823 ms
+"
+wsws.org,10,"10  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  133.982 ms  132.851 ms  133.841 ms
+"
+wsws.org,11,"11  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  149.103 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  148.436 ms  151.455 ms
+"
+wsws.org,12,"12  be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  164.866 ms be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  147.700 ms be2927.ccr21.elp01.atlas.cogentco.com (154.54.29.222)  163.742 ms
+"
+wsws.org,13,"13  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  169.766 ms be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  174.705 ms be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  172.538 ms
+"
+wsws.org,14,"14  be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  179.901 ms be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  179.813 ms  182.154 ms
+"
+wsws.org,15,"15  te0-0-2-0.rcr11.san03.atlas.cogentco.com (154.54.82.66)  180.344 ms be2941.rcr52.san01.atlas.cogentco.com (154.54.41.33)  179.607 ms te0-0-2-0.rcr11.san03.atlas.cogentco.com (154.54.82.66)  179.514 ms
+"
+wsws.org,16,"16  te0-0-2-0.nr11.b006590-1.san03.atlas.cogentco.com (154.24.18.190)  182.248 ms te0-0-2-0.rcr11.san03.atlas.cogentco.com (154.54.82.66)  179.417 ms te0-0-2-0.nr11.b006590-1.san03.atlas.cogentco.com (154.24.18.190)  182.471 ms
+"
+wsws.org,17,"17  38.96.10.250 (38.96.10.250)  180.261 ms  181.120 ms  182.722 ms
+"
+wsws.org,18,"18  www9.wsws.org (209.216.230.87)  183.207 ms  183.385 ms  181.851 ms
+"

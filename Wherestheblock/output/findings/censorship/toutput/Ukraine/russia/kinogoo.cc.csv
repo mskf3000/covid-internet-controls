@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+kinogoo.cc,0,"traceroute to kinogoo.cc (172.64.133.36), 50 hops max, 60 byte packets
+"
+kinogoo.cc,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.351 ms  0.352 ms  0.384 ms
+"
+kinogoo.cc,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.017 ms  0.747 ms  0.919 ms
+"
+kinogoo.cc,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.427 ms  17.421 ms  17.385 ms
+"
+kinogoo.cc,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.351 ms  22.353 ms  22.345 ms
+"
+kinogoo.cc,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.589 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.789 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.379 ms
+"
+kinogoo.cc,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.606 ms  39.681 ms  39.594 ms
+"
+kinogoo.cc,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  47.075 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  46.888 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.874 ms
+"
+kinogoo.cc,8," 8  be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  46.681 ms be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  47.064 ms be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  47.136 ms
+"
+kinogoo.cc,9," 9  be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  47.309 ms  47.171 ms  47.153 ms
+"
+kinogoo.cc,10,"10  cloudflare.demarc.cogentco.com (149.14.250.242)  49.485 ms  48.163 ms  47.794 ms
+"
+kinogoo.cc,11,"11  172.64.133.36 (172.64.133.36)  43.271 ms  43.107 ms  43.026 ms
+"

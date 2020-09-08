@@ -1,0 +1,37 @@
+URL,TTL,Response_Message
+peoplefirst.org.ua,0,"traceroute to peoplefirst.org.ua (65.75.139.24), 30 hops max, 60 byte packets
+"
+peoplefirst.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.341 ms  0.356 ms
+"
+peoplefirst.org.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.864 ms  0.944 ms  0.994 ms
+"
+peoplefirst.org.ua,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.903 ms  16.953 ms  16.950 ms
+"
+peoplefirst.org.ua,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.450 ms  22.329 ms  22.427 ms
+"
+peoplefirst.org.ua,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.757 ms  30.741 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.703 ms
+"
+peoplefirst.org.ua,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.737 ms  39.361 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.387 ms
+"
+peoplefirst.org.ua,7," 7  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  53.474 ms  53.038 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  53.007 ms
+"
+peoplefirst.org.ua,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  118.581 ms  118.519 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  118.501 ms
+"
+peoplefirst.org.ua,9," 9  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  125.928 ms  126.169 ms  126.014 ms
+"
+peoplefirst.org.ua,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  132.830 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  133.093 ms  133.077 ms
+"
+peoplefirst.org.ua,11,"11  be3745.rcr51.tol01.atlas.cogentco.com (154.54.30.130)  135.183 ms  135.157 ms be3744.rcr51.tol01.atlas.cogentco.com (154.54.0.146)  135.270 ms
+"
+peoplefirst.org.ua,12,"12  be2123.rcr21.dtw04.atlas.cogentco.com (154.54.82.138)  137.122 ms  137.276 ms  137.049 ms
+"
+peoplefirst.org.ua,13,"13  cogent.edge-1.tmr.dtw.nexcess.net (38.142.132.170)  136.735 ms  136.636 ms  136.645 ms
+"
+peoplefirst.org.ua,14,"14  xledge1tmr.core-1.mel.dtw.nexcess.net (192.240.191.169)  136.741 ms  136.728 ms  136.778 ms
+"
+peoplefirst.org.ua,15,"15  * * *
+"
+peoplefirst.org.ua,16,"16  208.86.254.254 (208.86.254.254)  138.285 ms 207.32.191.254 (207.32.191.254)  138.253 ms  138.272 ms
+"
+peoplefirst.org.ua,17,"17  emmafrost.seowebhosting.net (65.75.139.24)  138.034 ms  138.037 ms  138.020 ms
+"

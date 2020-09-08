@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+polithexogen.ru,0,"traceroute to polithexogen.ru (88.99.148.194), 30 hops max, 60 byte packets
+"
+polithexogen.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.612 ms  0.596 ms  0.591 ms
+"
+polithexogen.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.624 ms  0.575 ms  0.653 ms
+"
+polithexogen.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.691 ms  28.744 ms  26.163 ms
+"
+polithexogen.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.658 ms  31.352 ms  28.610 ms
+"
+polithexogen.ru,5," 5  core4.fra.hetzner.com (213.239.245.85)  31.647 ms  28.947 ms core5.fra.hetzner.com (213.239.224.218)  46.348 ms
+"
+polithexogen.ru,6," 6  core21.fsn1.hetzner.com (213.239.245.217)  33.157 ms core22.fsn1.hetzner.com (213.239.224.245)  39.933 ms core21.fsn1.hetzner.com (213.239.245.13)  36.213 ms
+"
+polithexogen.ru,7," 7  ex9k1.dc1.fsn1.hetzner.com (213.239.245.230)  37.452 ms  37.449 ms ex9k1.dc1.fsn1.hetzner.com (213.239.245.234)  37.653 ms
+"
+polithexogen.ru,8," 8  static.194.148.99.88.clients.your-server.de (88.99.148.194)  33.522 ms  33.607 ms  33.502 ms
+"

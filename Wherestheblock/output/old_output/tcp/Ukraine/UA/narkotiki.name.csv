@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+narkotiki.name,0,"traceroute to narkotiki.name (162.255.119.254), 30 hops max, 60 byte packets
+"
+narkotiki.name,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.282 ms  0.336 ms
+"
+narkotiki.name,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.813 ms  0.956 ms  0.975 ms
+"
+narkotiki.name,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.057 ms  16.973 ms  16.929 ms
+"
+narkotiki.name,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.708 ms  18.467 ms  18.458 ms
+"
+narkotiki.name,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.684 ms  18.706 ms  18.833 ms
+"
+narkotiki.name,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  178.707 ms  178.501 ms  178.539 ms
+"
+narkotiki.name,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.707 ms  29.704 ms  29.706 ms
+"
+narkotiki.name,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  118.912 ms  118.258 ms  119.441 ms
+"
+narkotiki.name,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  179.660 ms  181.795 ms  179.276 ms
+"
+narkotiki.name,10,"10  ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  179.103 ms  179.256 ms  183.328 ms
+"
+narkotiki.name,11,"11  192.80.17.102 (192.80.17.102)  180.729 ms  182.871 ms  182.869 ms
+"
+narkotiki.name,12,"12  172.20.0.198 (172.20.0.198)  181.735 ms  184.137 ms  190.019 ms
+"
+narkotiki.name,13,"13  * * *
+"
+narkotiki.name,14,"14  172.22.0.20 (172.22.0.20)  183.886 ms  181.426 ms  185.709 ms
+"
+narkotiki.name,15,"15  162.255.119.254 (162.255.119.254)  183.430 ms  184.691 ms  182.070 ms
+"

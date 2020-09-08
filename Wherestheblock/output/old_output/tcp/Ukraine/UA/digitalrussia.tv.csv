@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+digitalrussia.tv,0,"traceroute to digitalrussia.tv (88.99.70.254), 30 hops max, 60 byte packets
+"
+digitalrussia.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.294 ms  0.285 ms
+"
+digitalrussia.tv,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.611 ms  0.497 ms  0.587 ms
+"
+digitalrussia.tv,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.172 ms  26.179 ms  26.164 ms
+"
+digitalrussia.tv,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.028 ms  28.575 ms  28.573 ms
+"
+digitalrussia.tv,5," 5  core0.fra.hetzner.com (213.239.252.10)  31.044 ms  28.736 ms core1.fra.hetzner.com (213.239.245.125)  31.030 ms
+"
+digitalrussia.tv,6," 6  core21.fsn1.hetzner.com (213.239.245.217)  35.687 ms core21.fsn1.hetzner.com (213.239.245.13)  34.920 ms core22.fsn1.hetzner.com (213.239.252.34)  40.015 ms
+"
+digitalrussia.tv,7," 7  ex9k1.dc1.fsn1.hetzner.com (213.239.245.230)  37.303 ms  37.290 ms ex9k1.dc1.fsn1.hetzner.com (213.239.245.234)  39.973 ms
+"
+digitalrussia.tv,8," 8  node02.crewmind.com (88.99.70.254)  35.543 ms  35.512 ms  35.531 ms
+"
+digitalrussia.tv,9," 9  node02.crewmind.com (88.99.70.254)  33.653 ms  35.510 ms  36.043 ms
+"

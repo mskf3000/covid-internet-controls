@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+thiru.com.sg,0,"traceroute to thiru.com.sg (67.20.76.238), 30 hops max, 60 byte packets
+"
+thiru.com.sg,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.346 ms  0.336 ms  0.346 ms
+"
+thiru.com.sg,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.922 ms  1.007 ms  0.948 ms
+"
+thiru.com.sg,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.290 ms  17.317 ms  17.369 ms
+"
+thiru.com.sg,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.423 ms  18.368 ms  18.352 ms
+"
+thiru.com.sg,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.511 ms  18.722 ms  18.494 ms
+"
+thiru.com.sg,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  181.197 ms  180.776 ms  180.764 ms
+"
+thiru.com.sg,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.696 ms  29.739 ms  29.778 ms
+"
+thiru.com.sg,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  130.650 ms  120.108 ms  120.153 ms
+"
+thiru.com.sg,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  181.809 ms  184.723 ms  183.622 ms
+"
+thiru.com.sg,10,"10  ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  178.884 ms  183.418 ms  181.012 ms
+"
+thiru.com.sg,11,"11  ae-1.a01.lsanca07.us.bb.gin.ntt.net (129.250.2.160)  182.894 ms ae-0.a01.lsanca07.us.bb.gin.ntt.net (129.250.2.16)  181.130 ms ae-1.a01.lsanca07.us.bb.gin.ntt.net (129.250.2.160)  183.385 ms
+"
+thiru.com.sg,12,"12  ae-0.endurance.lsanca07.us.bb.gin.ntt.net (129.250.198.182)  202.487 ms  209.321 ms  203.320 ms
+"
+thiru.com.sg,13,"13  eth3-33-2.prvspn001.net.unifiedlayer.com (162.144.240.147)  202.513 ms eth3-33-1.prvspn001.net.unifiedlayer.com (162.144.240.139)  204.996 ms eth3-33-1.prvspn002.net.unifiedlayer.com (162.144.240.155)  203.119 ms
+"
+thiru.com.sg,14,"14  po99.prv-leaf6b.net.unifiedlayer.com (162.144.240.23)  202.667 ms  202.291 ms po97.prv-leaf6b.net.unifiedlayer.com (162.144.240.19)  203.829 ms
+"
+thiru.com.sg,15,"15  host2044.hostmonster.com (67.20.76.238)  200.150 ms  200.113 ms  203.870 ms
+"

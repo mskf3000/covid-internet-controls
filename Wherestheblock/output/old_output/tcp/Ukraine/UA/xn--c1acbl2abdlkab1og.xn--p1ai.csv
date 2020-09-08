@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+xn--c1acbl2abdlkab1og.xn--p1ai,0,"traceroute to xn--c1acbl2abdlkab1og.xn--p1ai (195.93.247.69), 30 hops max, 60 byte packets
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.372 ms  0.353 ms  0.380 ms
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.757 ms  18.751 ms  18.742 ms
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,3," 3  equant.inet2.ru (85.112.122.71)  18.660 ms  18.662 ms  18.654 ms
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,4," 4  Moscow-GIN-PE04-ae1-0.rosprint.net (195.151.234.227)  18.870 ms  18.921 ms  18.912 ms
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,5," 5  195.151.251.147 (195.151.251.147)  19.103 ms  19.096 ms  19.135 ms
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,6," 6  195.93.247.69 (195.93.247.69)  19.925 ms  19.793 ms  19.845 ms
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,7," 7  * * *
+"
+xn--c1acbl2abdlkab1og.xn--p1ai,8," 8  195.93.247.69 (195.93.247.69)  19.573 ms  20.309 ms  21.742 ms
+"

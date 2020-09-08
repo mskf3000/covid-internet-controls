@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+agava.ru,0,"traceroute to agava.ru (31.31.205.210), 30 hops max, 60 byte packets
+"
+agava.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.813 ms  5.837 ms  5.885 ms
+"
+agava.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.565 ms  0.553 ms  0.535 ms
+"
+agava.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.015 ms  15.996 ms  15.999 ms
+"
+agava.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.384 ms  17.377 ms  17.363 ms
+"
+agava.ru,5," 5  * * *
+"
+agava.ru,6," 6  * * *
+"
+agava.ru,7," 7  * * *
+"
+agava.ru,8," 8  agava.ru (31.31.205.210)  18.222 ms  17.466 ms  17.412 ms
+"

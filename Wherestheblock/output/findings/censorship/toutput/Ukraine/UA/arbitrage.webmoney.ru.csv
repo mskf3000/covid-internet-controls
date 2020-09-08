@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+arbitrage.webmoney.ru,0,"traceroute to arbitrage.webmoney.ru (91.227.52.206), 30 hops max, 60 byte packets
+"
+arbitrage.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.407 ms  0.426 ms  0.412 ms
+"
+arbitrage.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.497 ms  0.491 ms  1.170 ms
+"
+arbitrage.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.923 ms  15.910 ms  15.821 ms
+"
+arbitrage.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.799 ms  15.791 ms  15.778 ms
+"
+arbitrage.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  16.965 ms  17.068 ms  17.114 ms
+"
+arbitrage.webmoney.ru,6," 6  91.227.52.206 (91.227.52.206)  17.145 ms  16.988 ms  17.197 ms
+"

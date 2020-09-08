@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+dw.de,0,"traceroute to dw.de (194.55.30.46), 30 hops max, 60 byte packets
+"
+dw.de,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.308 ms  0.320 ms
+"
+dw.de,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  5.139 ms  0.539 ms  5.156 ms
+"
+dw.de,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.670 ms  26.143 ms  26.146 ms
+"
+dw.de,4," 4  rtdecix2-po1-2.netcologne.de (80.81.193.212)  41.739 ms  41.738 ms  48.480 ms
+"
+dw.de,5," 5  ip-core-eup1-ae3.netcologne.de (195.14.195.49)  45.873 ms ip-core-eup2-ae3.netcologne.de (195.14.195.53)  43.983 ms ip-core-eup1-ae3.netcologne.de (195.14.195.49)  43.369 ms
+"
+dw.de,6," 6  rtkds-vc1-ae4.netcologne.de (89.1.16.138)  44.561 ms  45.755 ms rtkds-vc1-ae3.netcologne.de (89.1.16.134)  40.994 ms
+"
+dw.de,7," 7  89.1.89.30 (89.1.89.30)  33.856 ms  33.903 ms  36.392 ms
+"
+dw.de,8," 8  194.55.30.9 (194.55.30.9)  46.673 ms  47.076 ms  44.309 ms
+"
+dw.de,9," 9  hoelderlin.dwelle.de (194.55.30.46)  43.518 ms  48.495 ms *
+"

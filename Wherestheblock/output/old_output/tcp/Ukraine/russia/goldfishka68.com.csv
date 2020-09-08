@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+goldfishka68.com,0,"traceroute to goldfishka68.com (104.24.112.187), 50 hops max, 60 byte packets
+"
+goldfishka68.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.258 ms  0.290 ms  0.330 ms
+"
+goldfishka68.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.911 ms  1.008 ms  1.092 ms
+"
+goldfishka68.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.781 ms  18.815 ms  18.723 ms
+"
+goldfishka68.com,4," 4  149.6.50.74 (149.6.50.74)  19.239 ms  19.235 ms  19.247 ms
+"
+goldfishka68.com,5," 5  104.24.112.187 (104.24.112.187)  18.410 ms  18.430 ms  18.463 ms
+"

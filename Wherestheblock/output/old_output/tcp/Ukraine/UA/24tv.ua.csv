@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+24tv.ua,0,"traceroute to 24tv.ua (104.26.3.98), 30 hops max, 60 byte packets
+"
+24tv.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.292 ms  0.281 ms  0.321 ms
+"
+24tv.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.885 ms  1.013 ms  0.949 ms
+"
+24tv.ua,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.938 ms  0.969 ms  1.007 ms
+"
+24tv.ua,4," 4  149.6.191.138 (149.6.191.138)  1.367 ms  1.305 ms  1.350 ms
+"
+24tv.ua,5," 5  104.26.3.98 (104.26.3.98)  0.561 ms  0.619 ms  0.531 ms
+"

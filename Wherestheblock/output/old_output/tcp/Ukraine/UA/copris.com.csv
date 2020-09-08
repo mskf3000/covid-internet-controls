@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+copris.com,0,"traceroute to copris.com (136.243.4.40), 30 hops max, 60 byte packets
+"
+copris.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.326 ms  0.357 ms
+"
+copris.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.398 ms  2.616 ms  1.391 ms
+"
+copris.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.210 ms  26.197 ms  26.182 ms
+"
+copris.com,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.608 ms  31.081 ms  28.597 ms
+"
+copris.com,5," 5  core0.fra.hetzner.com (213.239.252.10)  31.094 ms core1.fra.hetzner.com (213.239.245.125)  31.056 ms core0.fra.hetzner.com (213.239.252.10)  28.721 ms
+"
+copris.com,6," 6  core24.fsn1.hetzner.com (213.239.224.253)  33.540 ms core23.fsn1.hetzner.com (213.239.224.249)  32.971 ms core24.fsn1.hetzner.com (213.239.229.78)  36.227 ms
+"
+copris.com,7," 7  ex9k1.dc12.fsn1.hetzner.com (213.239.203.186)  36.204 ms  33.575 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.174)  36.064 ms
+"
+copris.com,8," 8  mail.rupoezd.ru (136.243.4.40)  37.434 ms  37.563 ms  33.007 ms
+"

@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+liability-insurance-company.com,0,"traceroute to liability-insurance-company.com (66.96.147.117), 30 hops max, 60 byte packets
+"
+liability-insurance-company.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.374 ms  0.364 ms  0.357 ms
+"
+liability-insurance-company.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.154 ms  1.204 ms  1.103 ms
+"
+liability-insurance-company.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.141 ms  17.184 ms  17.112 ms
+"
+liability-insurance-company.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.786 ms  22.730 ms  22.659 ms
+"
+liability-insurance-company.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.513 ms  30.687 ms  30.645 ms
+"
+liability-insurance-company.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.456 ms  39.647 ms  39.603 ms
+"
+liability-insurance-company.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.897 ms  46.763 ms  46.913 ms
+"
+liability-insurance-company.com,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  108.741 ms  108.951 ms  109.142 ms
+"
+liability-insurance-company.com,9," 9  endurance-international-group.demarc.cogentco.com (38.97.106.34)  110.280 ms  110.272 ms  110.264 ms
+"
+liability-insurance-company.com,10,"10  238.252.148.207.static.yourhostingaccount.com (207.148.252.238)  108.810 ms  109.085 ms  108.927 ms
+"
+liability-insurance-company.com,11,"11  117.147.96.66.static.eigbox.net (66.96.147.117)  108.630 ms  108.735 ms  108.639 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+handycafe.com,0,"traceroute to handycafe.com (176.58.115.78), 50 hops max, 60 byte packets
+"
+handycafe.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.448 ms  1.461 ms  1.492 ms
+"
+handycafe.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.559 ms  0.509 ms  0.587 ms
+"
+handycafe.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.980 ms  35.956 ms  38.436 ms
+"
+handycafe.com,4," 4  80.249.212.136 (80.249.212.136)  42.360 ms  39.739 ms  42.366 ms
+"
+handycafe.com,5," 5  109.74.207.19 (109.74.207.19)  44.104 ms gw-h10.linode.com (109.74.207.1)  40.238 ms  42.901 ms
+"
+handycafe.com,6," 6  li502-78.members.linode.com (176.58.115.78)  39.815 ms  42.234 ms  39.705 ms
+"

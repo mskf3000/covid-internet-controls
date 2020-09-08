@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+meddaily.ru,0,"traceroute to meddaily.ru (46.46.157.56), 50 hops max, 60 byte packets
+"
+meddaily.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.286 ms  0.327 ms
+"
+meddaily.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  36.675 ms  36.644 ms  36.663 ms
+"
+meddaily.ru,3," 3  ae0-14.RT1.MR.MSK.RU.retn.net (46.46.128.54)  20.909 ms xe003-7.RT1.MR.MSK.RU.retn.net (46.46.128.97)  20.830 ms ae0-14.RT1.MR.MSK.RU.retn.net (46.46.128.54)  20.892 ms
+"
+meddaily.ru,4," 4  46.46.157.56 (46.46.157.56)  20.996 ms  20.986 ms  20.980 ms
+"

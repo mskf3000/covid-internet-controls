@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+trk-luch.ru,0,"traceroute to trk-luch.ru (188.246.224.163), 30 hops max, 60 byte packets
+"
+trk-luch.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.321 ms  0.307 ms  0.342 ms
+"
+trk-luch.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.786 ms  16.018 ms  16.067 ms
+"
+trk-luch.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  24.897 ms  25.728 ms  25.692 ms
+"
+trk-luch.ru,4," 4  * * *
+"
+trk-luch.ru,5," 5  188.246.224.163 (188.246.224.163)  25.417 ms  26.187 ms  25.438 ms
+"

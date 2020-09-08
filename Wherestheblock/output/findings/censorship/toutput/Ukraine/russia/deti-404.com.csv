@@ -1,0 +1,35 @@
+URL,TTL,Response_Message
+deti-404.com,0,"traceroute to deti-404.com (74.220.199.6), 50 hops max, 60 byte packets
+"
+deti-404.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.925 ms  6.917 ms  6.958 ms
+"
+deti-404.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.063 ms  0.884 ms  1.052 ms
+"
+deti-404.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.972 ms  17.002 ms  17.383 ms
+"
+deti-404.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.176 ms  18.205 ms  18.162 ms
+"
+deti-404.com,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.712 ms  18.957 ms  18.808 ms
+"
+deti-404.com,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  156.542 ms  156.858 ms  156.598 ms
+"
+deti-404.com,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.698 ms  29.661 ms  29.686 ms
+"
+deti-404.com,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  118.059 ms  118.056 ms  118.242 ms
+"
+deti-404.com,9," 9  ae-1.r24.dllstx09.us.bb.gin.ntt.net (129.250.5.12)  158.021 ms * *
+"
+deti-404.com,10,"10  ae-2.r10.dllstx09.us.bb.gin.ntt.net (129.250.4.82)  157.038 ms  156.892 ms ae-2.r11.dllstx09.us.bb.gin.ntt.net (129.250.5.14)  157.107 ms
+"
+deti-404.com,11,"11  ce-0-16-0-3.r10.dllstx09.us.ce.gin.ntt.net (128.242.179.18)  156.957 ms  157.295 ms ce-0-16-0-3.r11.dllstx09.us.ce.gin.ntt.net (131.103.117.42)  157.517 ms
+"
+deti-404.com,12,"12  xe-2-0-1.rtrn2.dal1.net.unifiedlayer.com (162.215.243.7)  156.441 ms xe-2-0-1.rtrn2.dal1.net.unifiedlayer.com (162.215.243.5)  156.555 ms  156.696 ms
+"
+deti-404.com,13,"13  gr2-0-0-0.prv-bh-1-1-2.net.unifiedlayer.com (162.215.243.233)  194.130 ms gr1-0-0-0.prv-bh-2-1-2.net.unifiedlayer.com (162.215.243.231)  196.788 ms gr2-0-0-0.prv-bh-2-1-2.net.unifiedlayer.com (162.215.243.235)  208.840 ms
+"
+deti-404.com,14,"14  eth4-33-4.prvspn002.net.unifiedlayer.com (162.144.240.169)  208.325 ms  196.633 ms eth4-33-4.prvspn001.net.unifiedlayer.com (162.144.240.153)  196.307 ms
+"
+deti-404.com,15,"15  po97.prv-leaf6b.net.unifiedlayer.com (162.144.240.19)  195.700 ms po99.prv-leaf6a.net.unifiedlayer.com (162.144.240.15)  196.511 ms po97.prv-leaf6b.net.unifiedlayer.com (162.144.240.19)  195.742 ms
+"
+deti-404.com,16,"16  parking.bluehost.com (74.220.199.6)  208.752 ms  195.700 ms  208.252 ms
+"

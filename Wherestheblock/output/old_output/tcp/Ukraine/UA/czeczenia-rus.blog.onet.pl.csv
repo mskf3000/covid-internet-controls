@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+czeczenia-rus.blog.onet.pl,0,"traceroute to czeczenia-rus.blog.onet.pl (213.180.141.189), 30 hops max, 60 byte packets
+"
+czeczenia-rus.blog.onet.pl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.347 ms  0.335 ms  0.329 ms
+"
+czeczenia-rus.blog.onet.pl,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.621 ms  0.617 ms  0.609 ms
+"
+czeczenia-rus.blog.onet.pl,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.209 ms  30.802 ms  30.801 ms
+"
+czeczenia-rus.blog.onet.pl,4," 4  ffm-b1-link.telia.net (62.115.63.109)  32.467 ms  26.311 ms  26.302 ms
+"
+czeczenia-rus.blog.onet.pl,5," 5  ffm-bb3-link.telia.net (62.115.141.236)  35.558 ms * ffm-bb3-link.telia.net (62.115.137.164)  33.377 ms
+"
+czeczenia-rus.blog.onet.pl,6," 6  hbg-bb3-link.telia.net (62.115.123.77)  36.841 ms  36.480 ms  36.373 ms
+"
+czeczenia-rus.blog.onet.pl,7," 7  hbg-b1-link.telia.net (213.155.135.83)  36.243 ms hbg-b1-link.telia.net (62.115.141.111)  34.795 ms hbg-b1-link.telia.net (213.155.135.81)  38.725 ms
+"
+czeczenia-rus.blog.onet.pl,8," 8  orange-ic-323248-hbg-b1.c.telia.net (213.248.96.145)  39.690 ms  39.942 ms  40.623 ms
+"
+czeczenia-rus.blog.onet.pl,9," 9  kiel-r1.tpnet.pl (194.204.175.42)  47.239 ms  47.305 ms  48.910 ms
+"
+czeczenia-rus.blog.onet.pl,10,"10  do.onet.a.z.tpnet.pl (80.50.129.202)  44.235 ms  41.747 ms  41.529 ms
+"
+czeczenia-rus.blog.onet.pl,11,"11  sdr1.m10r2.z.j.ruc-br1.link2.net.onet.pl (213.180.152.139)  40.623 ms sdr1.m10r2.z.j.ruc-br1.link1.net.onet.pl (213.180.152.137)  42.116 ms sdr1.cdn1r1.z.j.ruc-br2.link4.net.onet.pl (213.180.151.69)  57.509 ms
+"
+czeczenia-rus.blog.onet.pl,12,"12  oa189.any.onet.pl (213.180.141.189)  43.868 ms  42.809 ms  41.060 ms
+"

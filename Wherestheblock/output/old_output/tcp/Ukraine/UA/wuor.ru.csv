@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+wuor.ru,0,"traceroute to wuor.ru (87.242.78.48), 30 hops max, 60 byte packets
+"
+wuor.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.336 ms  0.317 ms  0.301 ms
+"
+wuor.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.073 ms  16.777 ms  16.058 ms
+"
+wuor.ru,3," 3  as25532.ix.dataix.ru (178.18.226.7)  20.604 ms  17.930 ms  17.491 ms
+"
+wuor.ru,4," 4  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  19.512 ms * msk-ff-22-vl18.masterhost.ru (217.16.23.242)  17.537 ms
+"
+wuor.ru,5," 5  87.242.78.48 (87.242.78.48)  18.163 ms  18.193 ms  21.189 ms
+"

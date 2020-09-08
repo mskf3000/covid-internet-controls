@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+parniplus.com,0,"traceroute to parniplus.com (51.77.116.168), 50 hops max, 60 byte packets
+"
+parniplus.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.889 ms  0.878 ms  0.903 ms
+"
+parniplus.com,2," 2  * * *
+"
+parniplus.com,3," 3  * * *
+"
+parniplus.com,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  34.098 ms  34.069 ms  34.089 ms
+"
+parniplus.com,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  45.965 ms  240.843 ms  45.754 ms
+"
+parniplus.com,6," 6  be100-1041.ldn-1-a9.uk.eu (94.23.122.145)  54.914 ms  55.218 ms  54.926 ms
+"
+parniplus.com,7," 7  be101.lon1-eri1-g1-nc5.uk.eu (213.186.32.253)  55.352 ms  55.255 ms  55.239 ms
+"
+parniplus.com,8," 8  * * *
+"
+parniplus.com,9," 9  * * *
+"
+parniplus.com,10,"10  * * *
+"
+parniplus.com,11,"11  * * *
+"
+parniplus.com,12,"12  ns3133863.ip-51-77-116.eu (51.77.116.168)  54.861 ms  54.855 ms  54.790 ms
+"

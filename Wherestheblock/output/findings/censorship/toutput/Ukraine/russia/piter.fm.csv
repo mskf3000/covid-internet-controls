@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+piter.fm,0,"traceroute to piter.fm (5.149.255.46), 50 hops max, 60 byte packets
+"
+piter.fm,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.340 ms  0.327 ms  0.321 ms
+"
+piter.fm,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.040 ms  1.113 ms  0.829 ms
+"
+piter.fm,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.000 ms  16.953 ms  16.955 ms
+"
+piter.fm,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.512 ms  22.512 ms  22.627 ms
+"
+piter.fm,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.752 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.628 ms  30.644 ms
+"
+piter.fm,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.650 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.670 ms  39.699 ms
+"
+piter.fm,7," 7  be2756.rcr21.ams08.atlas.cogentco.com (130.117.48.130)  39.724 ms  39.494 ms be2755.rcr21.ams08.atlas.cogentco.com (130.117.48.58)  39.991 ms
+"
+piter.fm,8," 8  * * *
+"
+piter.fm,9," 9  5.149.255.46 (5.149.255.46)  39.352 ms  39.404 ms  39.403 ms
+"

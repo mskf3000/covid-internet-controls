@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+eksisozluk.com,0,"traceroute to eksisozluk.com (176.53.43.5), 30 hops max, 60 byte packets
+"
+eksisozluk.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.252 ms  2.705 ms  0.456 ms  0.829 ms  0.251 ms  3.142 ms  0.802 ms  0.363 ms  0.261 ms
+"
+eksisozluk.com,2," 2  178.18.230.185.dataix (178.18.230.185)  0.453 ms  0.513 ms  0.550 ms  0.543 ms  0.525 ms  0.500 ms  0.581 ms  0.523 ms  0.517 ms  0.522 ms
+"
+eksisozluk.com,3," 3  31.210.9.185 (31.210.9.185)  41.680 ms  41.691 ms  41.642 ms  41.625 ms  41.703 ms  41.705 ms  41.681 ms  41.707 ms  41.669 ms  41.667 ms
+"
+eksisozluk.com,4," 4  31.210.9.186 (31.210.9.186)  65.254 ms  62.725 ms  62.580 ms  61.882 ms  57.802 ms  56.385 ms  57.170 ms  58.004 ms  57.497 ms  59.345 ms
+"
+eksisozluk.com,5," 5  10.20.20.70 (10.20.20.70)  60.675 ms  62.521 ms  62.399 ms  62.632 ms  62.272 ms  62.059 ms  62.521 ms  62.657 ms  62.084 ms  62.230 ms
+"
+eksisozluk.com,6," 6  * * * * * * * * * *
+"
+eksisozluk.com,7," 7  server-176.53.43.5.as42926.net (176.53.43.5)  57.572 ms  60.234 ms  60.803 ms  60.382 ms  59.066 ms  60.542 ms  60.931 ms  60.880 ms  60.051 ms  60.951 ms
+"

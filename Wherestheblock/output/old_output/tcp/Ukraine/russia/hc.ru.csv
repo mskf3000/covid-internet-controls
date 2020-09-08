@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+hc.ru,0,"traceroute to hc.ru (185.203.72.209), 50 hops max, 60 byte packets
+"
+hc.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.262 ms  0.285 ms  0.325 ms
+"
+hc.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.060 ms  16.037 ms  16.879 ms
+"
+hc.ru,3," 3  as9049.ix.dataix.ru (178.18.226.90)  16.136 ms  17.543 ms  16.308 ms
+"
+hc.ru,4," 4  * * *
+"
+hc.ru,5," 5  * * *
+"
+hc.ru,6," 6  * * *
+"
+hc.ru,7," 7  * * *
+"
+hc.ru,8," 8  * * *
+"
+hc.ru,9," 9  * * *
+"
+hc.ru,10,"10  * * *
+"
+hc.ru,11,"11  * * *
+"
+hc.ru,12,"12  * * *
+"
+hc.ru,13,"13  * * *
+"
+hc.ru,14,"14  185.203.72.209 (185.203.72.209)  16.061 ms  17.536 ms  17.187 ms
+"

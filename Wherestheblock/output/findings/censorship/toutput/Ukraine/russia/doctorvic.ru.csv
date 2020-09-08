@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+doctorvic.ru,0,"traceroute to doctorvic.ru (185.12.94.151), 50 hops max, 60 byte packets
+"
+doctorvic.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.342 ms  0.384 ms
+"
+doctorvic.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.872 ms  16.032 ms  16.861 ms
+"
+doctorvic.ru,3," 3  * * *
+"
+doctorvic.ru,4," 4  10.0.92.141 (10.0.92.141)  16.882 ms 10.0.92.145 (10.0.92.145)  18.217 ms 10.0.92.141 (10.0.92.141)  19.610 ms
+"
+doctorvic.ru,5," 5  ddos-guard.net (185.129.101.215)  17.942 ms  19.344 ms  17.930 ms
+"
+doctorvic.ru,6," 6  188.92.242.246 (188.92.242.246)  18.629 ms  18.547 ms  20.025 ms
+"
+doctorvic.ru,7," 7  siben.org (185.12.94.151)  18.496 ms  20.035 ms  17.551 ms
+"

@@ -1,0 +1,35 @@
+URL,TTL,Response_Message
+shopmixes.com,0,"traceroute to shopmixes.com (96.126.123.244), 30 hops max, 60 byte packets
+"
+shopmixes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.615 ms  0.603 ms  0.621 ms
+"
+shopmixes.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.093 ms  1.138 ms  1.180 ms
+"
+shopmixes.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.171 ms  17.199 ms  17.252 ms
+"
+shopmixes.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.678 ms  22.598 ms  22.629 ms
+"
+shopmixes.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.895 ms  30.616 ms  30.672 ms
+"
+shopmixes.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.522 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.338 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.446 ms
+"
+shopmixes.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  138.932 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  141.113 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  136.421 ms
+"
+shopmixes.com,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  136.419 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  139.877 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.496 ms
+"
+shopmixes.com,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.579 ms be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.665 ms  139.505 ms
+"
+shopmixes.com,10,"10  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  137.581 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  139.577 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  136.011 ms
+"
+shopmixes.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  136.060 ms  140.358 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  151.590 ms
+"
+shopmixes.com,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  151.536 ms  151.386 ms  147.465 ms
+"
+shopmixes.com,13,"13  be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  161.516 ms be2432.ccr31.dfw01.atlas.cogentco.com (154.54.3.133)  158.317 ms be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  156.800 ms
+"
+shopmixes.com,14,"14  be2763.ccr41.dfw03.atlas.cogentco.com (154.54.28.74)  157.984 ms  158.036 ms  157.946 ms
+"
+shopmixes.com,15,"15  204.68.252.98 (204.68.252.98)  168.142 ms  168.230 ms  168.203 ms
+"
+shopmixes.com,16,"16  li372-244.members.linode.com (96.126.123.244)  150.159 ms 45.79.12.1 (45.79.12.1)  154.200 ms 45.79.12.3 (45.79.12.3)  153.726 ms
+"

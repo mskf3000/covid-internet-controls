@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+zagony.ru,0,"traceroute to zagony.ru (88.198.40.208), 50 hops max, 60 byte packets
+"
+zagony.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.325 ms  0.344 ms
+"
+zagony.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.884 ms  0.853 ms  0.869 ms
+"
+zagony.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.201 ms  28.680 ms  28.609 ms
+"
+zagony.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.129 ms  28.527 ms  28.524 ms
+"
+zagony.ru,5," 5  core1.fra.hetzner.com (213.239.245.125)  28.633 ms core5.fra.hetzner.com (213.239.224.218)  32.927 ms core1.fra.hetzner.com (213.239.245.125)  28.673 ms
+"
+zagony.ru,6," 6  core12.nbg1.hetzner.com (213.239.245.253)  34.465 ms core11.nbg1.hetzner.com (213.239.245.34)  34.556 ms  34.533 ms
+"
+zagony.ru,7," 7  ex9k1.dc1.nbg1.hetzner.com (213.239.203.222)  37.853 ms  37.810 ms  35.294 ms
+"
+zagony.ru,8," 8  static.88-198-40-208.clients.your-server.de (88.198.40.208)  37.865 ms  31.605 ms  35.388 ms
+"

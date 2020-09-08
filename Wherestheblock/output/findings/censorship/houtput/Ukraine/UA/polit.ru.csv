@@ -1,0 +1,401 @@
+URL,TTL,Message
+polit.ru,1,timed out
+polit.ru,2,timed out
+polit.ru,3,timed out
+polit.ru,4,timed out
+polit.ru,5,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df52c05ebb89692662106ea0289a9b1901579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501ca894ad30-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,6,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d3ea5e48f0f1c40abced44227b8310bc21579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501ce9d4acca-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,7,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d70e90f0f6893c3090c9b5960b5520c2b1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501d28f22912-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,8,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9ec388f556adfe33cfe3340c123fa72a1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501d6f1efd09-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,9,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d420d66b34659115195830a88360559cc1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501daa0aacee-OTP
+
+10
+error code: 1001
+"
+polit.ru,10,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d05a9083b39bc39fd76dabc8b85fc879e1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501df9cdfd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,11,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df5858d66c4169d42ad6d27cc94541c921579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501e3a06acac-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,12,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d235a80168876a65ab95715cc89bc50d41579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501e79abfcfd-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,13,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d3300509797e0173f5faa09cbd38ca9391579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501eca98aca6-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,14,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df8f60ea32adce440faa89453f5d9ddd21579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501f083bad0c-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,15,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0473e431278e18dbba90e159133ed8dd1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501f48f1ad12-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,16,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d45b4c66ed5fb6a7a5c1091cadec4ada11579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501f8c4efd01-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,17,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d05a9083b39bc39fd76dabc8b85fc879e1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 5599501fce9cfd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,18,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db85cdd954e1bf9afc16e46583681abf41579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 55995020091afd05-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,19,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dd90194981957892be17cb57eb2267b571579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 559950204dcbad42-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,20,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9a48f7395825f3b9648118fd7e5a1a4b1579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 559950208cd4ad54-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,21,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df52c05ebb89692662106ea0289a9b1901579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 55995020dfedad30-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,22,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:00 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d3300509797e0173f5faa09cbd38ca9391579777740; expires=Sat, 22-Feb-20 11:09:00 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:06 GMT
+Server: cloudflare
+CF-RAY: 559950211d0daca6-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,23,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d85add3c570f7aec1123e6bd9a88143171579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 559950215d5aaca6-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,24,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6c13263d8f57c2617a03a5b2bc5fa1bf1579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 559950219bbffd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,25,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6c13263d8f57c2617a03a5b2bc5fa1bf1579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 55995021dc8dfd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,26,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d32fe0f7b424cb3802eeecff424b841451579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 559950221d3baca0-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,27,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6d71c785cc2622ca73686a7cc134aa561579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 559950226f51ad48-OTP
+
+10
+error code: 1001
+"
+polit.ru,28,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d60bb65aa25bda0289c602c0eea5d8c591579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 55995022abc42924-OTP
+
+10
+error code: 1001
+0
+
+"
+polit.ru,29,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 11:09:01 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d38ee57e1beead5375cdc56549c1ea2ed1579777741; expires=Sat, 22-Feb-20 11:09:01 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 11:09:07 GMT
+Server: cloudflare
+CF-RAY: 55995022fee8ac94-OTP
+
+10
+error code: 1001
+0
+
+"

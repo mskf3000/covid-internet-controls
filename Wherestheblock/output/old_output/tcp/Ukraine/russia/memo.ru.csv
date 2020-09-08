@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+memo.ru,0,"traceroute to memo.ru (62.75.198.135), 50 hops max, 60 byte packets
+"
+memo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.415 ms  0.395 ms  0.406 ms
+"
+memo.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.556 ms  0.544 ms  0.521 ms
+"
+memo.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.684 ms  26.138 ms  28.648 ms
+"
+memo.ru,4," 4  et-7-0-0-u100.cr-polaris.fra1.bb.godaddy.com (80.81.192.239)  31.933 ms  31.928 ms  31.917 ms
+"
+memo.ru,5," 5  ae0.cr-antares.fra10.bb.godaddy.com (87.230.115.1)  34.228 ms  34.216 ms  34.321 ms
+"
+memo.ru,6," 6  ae0.cr-vega.sxb1.bb.godaddy.com (87.230.115.3)  34.095 ms  31.258 ms  33.984 ms
+"
+memo.ru,7," 7  ae0-v100.sr-helios.sxb1.mass.systems (87.230.112.5)  41.726 ms  31.598 ms  31.571 ms
+"
+memo.ru,8," 8  62.138.129.14 (62.138.129.14)  41.905 ms  31.431 ms  41.885 ms
+"
+memo.ru,9," 9  dj.j-vista.ru (62.75.198.135)  35.154 ms  33.783 ms  33.686 ms
+"

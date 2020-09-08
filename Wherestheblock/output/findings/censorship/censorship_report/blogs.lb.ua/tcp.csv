@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+blogs.lb.ua,0,"traceroute to blogs.lb.ua (138.201.204.249), 30 hops max, 60 byte packets
+"
+blogs.lb.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.277 ms  0.298 ms  0.338 ms
+"
+blogs.lb.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.536 ms  0.596 ms  0.509 ms
+"
+blogs.lb.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.153 ms  26.132 ms  28.687 ms
+"
+blogs.lb.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.554 ms  31.049 ms  31.091 ms
+"
+blogs.lb.ua,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.454 ms core0.fra.hetzner.com (213.239.252.10)  38.854 ms core5.fra.hetzner.com (213.239.224.218)  35.429 ms
+"
+blogs.lb.ua,6," 6  core23.fsn1.hetzner.com (213.239.203.154)  33.228 ms core24.fsn1.hetzner.com (213.239.252.42)  49.800 ms  34.975 ms
+"
+blogs.lb.ua,7," 7  ex9k3.dc8.fsn1.hetzner.com (213.239.229.138)  37.252 ms ex9k3.dc8.fsn1.hetzner.com (213.239.229.142)  33.035 ms ex9k3.dc8.fsn1.hetzner.com (213.239.229.138)  39.614 ms
+"
+blogs.lb.ua,8," 8  static.249.204.201.138.clients.your-server.de (138.201.204.249)  37.168 ms  33.413 ms  35.987 ms
+"

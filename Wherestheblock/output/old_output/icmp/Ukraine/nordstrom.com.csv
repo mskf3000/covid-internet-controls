@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+nordstrom.com,0,"traceroute to nordstrom.com (23.59.85.90), 30 hops max, 60 byte packets
+"
+nordstrom.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.336 ms  0.347 ms  0.395 ms
+"
+nordstrom.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  27.545 ms  27.553 ms  27.553 ms
+"
+nordstrom.com,3," 3  100.64.65.25 (100.64.65.25)  8.281 ms  8.297 ms  8.297 ms
+"
+nordstrom.com,4," 4  100.64.64.125 (100.64.64.125)  14.894 ms  14.895 ms  14.916 ms
+"
+nordstrom.com,5," 5  akamai.plix.pl (195.182.218.115)  14.778 ms  14.780 ms  14.787 ms
+"
+nordstrom.com,6," 6  a23-59-85-90.deploy.static.akamaitechnologies.com (23.59.85.90)  14.358 ms  14.417 ms  14.393 ms
+"

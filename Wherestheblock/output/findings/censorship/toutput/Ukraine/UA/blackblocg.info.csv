@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+blackblocg.info,0,"traceroute to blackblocg.info (209.99.40.226), 30 hops max, 60 byte packets
+"
+blackblocg.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.356 ms  0.342 ms  0.325 ms
+"
+blackblocg.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.677 ms  0.516 ms  0.662 ms
+"
+blackblocg.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.734 ms  26.181 ms  26.160 ms
+"
+blackblocg.info,4," 4  * * *
+"
+blackblocg.info,5," 5  ae27.cs1.fra9.de.eth.zayo.com (64.125.30.254)  152.709 ms  155.402 ms  155.364 ms
+"
+blackblocg.info,6," 6  ae0.cs1.fra6.de.eth.zayo.com (64.125.29.54)  152.638 ms  153.979 ms  153.942 ms
+"
+blackblocg.info,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  155.781 ms  155.555 ms  153.850 ms
+"
+blackblocg.info,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  153.781 ms  153.093 ms  155.523 ms
+"
+blackblocg.info,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  153.630 ms  153.613 ms  156.223 ms
+"
+blackblocg.info,10,"10  * * *
+"
+blackblocg.info,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  154.504 ms  159.483 ms  154.743 ms
+"
+blackblocg.info,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  155.566 ms  155.516 ms  153.186 ms
+"
+blackblocg.info,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  153.317 ms  156.761 ms  156.310 ms
+"
+blackblocg.info,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  155.443 ms  155.483 ms  155.405 ms
+"
+blackblocg.info,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  155.049 ms  152.511 ms  155.394 ms
+"
+blackblocg.info,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  157.369 ms  156.762 ms  170.966 ms
+"
+blackblocg.info,17,"17  64.125.192.114.IPYX-082035-002-ZYO.above.net (64.125.192.114)  147.258 ms  147.271 ms  144.773 ms
+"
+blackblocg.info,18,"18  209-99-40-226.fwd.datafoundry.com (209.99.40.226)  152.886 ms  153.805 ms  153.461 ms
+"

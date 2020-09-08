@@ -1,0 +1,2118 @@
+URL,TTL,Message
+finance.yahoo.com,1,timed out
+finance.yahoo.com,2,timed out
+finance.yahoo.com,3,timed out
+finance.yahoo.com,4,timed out
+finance.yahoo.com,5,timed out
+finance.yahoo.com,6,timed out
+finance.yahoo.com,7,timed out
+finance.yahoo.com,8,timed out
+finance.yahoo.com,9,timed out
+finance.yahoo.com,10,timed out
+finance.yahoo.com,11,timed out
+finance.yahoo.com,12,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:25 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e16.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732945.688 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,13,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:25 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4742
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e6.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732945.755 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1');"
+finance.yahoo.com,14,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:25 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e20.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732945.821 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,15,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:25 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e14.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732945.888 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,16,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4742
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e7.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.001 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1');"
+finance.yahoo.com,17,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e16.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.090 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,18,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e20.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.210 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,19,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e12.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.280 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,20,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e23.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.348 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,21,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e18.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.415 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,22,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e11.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.495 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,23,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e23.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.569 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,24,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4742
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e1.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.644 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1');"
+finance.yahoo.com,25,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e21.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.719 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,26,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e12.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.795 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,27,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:26 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e23.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732946.871 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"
+finance.yahoo.com,28,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:29 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4742
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e9.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732949.971 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1');"
+finance.yahoo.com,29,"HTTP/1.1 404 Not Found on Accelerator
+Date: Wed, 22 Jan 2020 22:42:30 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 4744
+
+<!DOCTYPE html>
+<html lang=""en-us"">
+  <head>
+    <meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+    <meta charset=""utf-8"">
+    <title>Yahoo</title>
+    <meta name=""viewport"" content=""width=device-width,initial-scale=1,minimal-ui"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1"">
+    <style>
+      html {
+          height: 100%;
+      }
+      body {
+          background: #fafafc url(https://s.yimg.com/nn/img/sad-panda-201402200631.png) 50% 50%;
+          background-size: cover;
+          height: 100%;
+          text-align: center;
+          font: 300 18px ""helvetica neue"", helvetica, verdana, tahoma, arial, sans-serif;
+          margin: 0;
+      }
+      table {
+          height: 100%;
+          width: 100%;
+          table-layout: fixed;
+          border-collapse: collapse;
+          border-spacing: 0;
+          border: none;
+      }
+      h1 {
+          font-size: 42px;
+          font-weight: 400;
+          color: #400090;
+      }
+      p {
+          color: #1A1A1A;
+      }
+      #message-1 {
+          font-weight: bold;
+          margin: 0;
+      }
+      #message-2 {
+          display: inline-block;
+          *display: inline;
+          zoom: 1;
+          max-width: 17em;
+          _width: 17em;
+      }
+      </style>
+      <script>
+      !function(){if(window==window.top){var o=window.location.host;o.endsWith("".yahoo.com"")&&window.location.replace(""https://www.yahoo.com/""),o.endsWith("".aol.com"")&&window.location.replace(""https://www.aol.com/""),o.endsWith("".huffpost.com"")&&window.location.replace(""https://www.huffpost.com/""),o.endsWith("".engadget.com"")&&window.location.replace(""https://www.engadget.com/"")}}();
+      </script>
+  </head>
+  <body>
+  <!-- status code : 404 -->
+  <!-- Not Found on Accelerator -->
+  <!-- host machine: e19.ycpi.deb.yahoo.com -->
+  <!-- timestamp: 1579732950.043 -->
+  <!-- url: http://ojaloberoi.in/-->
+  <script type=""text/javascript"">
+    function buildUrl(url, parameters){
+      var qs = [];
+      for(var key in parameters) {
+        var value = parameters[key];
+        qs.push(encodeURIComponent(key) + ""="" + encodeURIComponent(value));
+      }
+      url = url + ""?"" + qs.join('&');
+      return url;
+    }
+
+    function generateBRBMarkup(site) {
+      params.source = 'brb';
+      generateBeaconMarkup(params);
+      var englishHeader = 'Will be right back...';
+      var englishMessage1 = 'Thank you for your patience.';
+      var englishMessage2 = 'Our engineers are working quickly to resolve the issue.';
+      var defaultLogoStyle = '';
+      var siteDataMap = {
+        'default': {
+          logo: 'https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png',
+          logoAlt: 'Yahoo Logo',
+          logoStyle: defaultLogoStyle,
+          header: englishHeader,
+          message1: englishMessage1,
+          message2: englishMessage2
+        }
+      };
+
+      var siteDetails = siteDataMap['default'];
+
+      document.write('<table><tbody><tr><td>');
+      document.write('<div id=""content"">');
+      document.write('<img src=""' + siteDetails['logo'] + '"" alt=""' + siteDetails['logoAlt'] + '"" style=""' + siteDetails['logoStyle'] + '"">');
+      document.write('<h1 style=""margin-top:20px;"">' + siteDetails['header'] + '</h1>');
+      document.write('<p id=""message-1"">' + siteDetails['message1'] + '</p>');
+      document.write('<p id=""message-2"">' + siteDetails['message2'] + '</p>');
+      document.write('</div>');
+      document.write('</td></tr></tbody></table>');
+    }
+
+    function generateBeaconMarkup(params) {
+        document.write('<img src=""' + buildUrl('//geo.yahoo.com/b', params) + '"" style=""display:none;"" width=""0px"" height=""0px""/>');
+        var beacon = new Image();
+        beacon.src = buildUrl('//bcn.fp.yahoo.com/p', params);
+    }
+
+    var hostname = window.location.hostname;
+    var device = 'desktop';
+    var ynet = ('-' === '1')"

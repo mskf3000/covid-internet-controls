@@ -1,0 +1,3201 @@
+URL,TTL,Message
+razom.org.ua,1,timed out
+razom.org.ua,2,timed out
+razom.org.ua,3,timed out
+razom.org.ua,4,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,5,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,6,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1"
+razom.org.ua,7,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"
+razom.org.ua,8,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,9,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"
+razom.org.ua,10,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,11,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,12,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,13,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"
+razom.org.ua,14,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,15,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1"
+razom.org.ua,16,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,17,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+3cd4
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,18,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,19,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,20,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,21,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"
+razom.org.ua,22,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+3cd4
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,23,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+3cd4
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,24,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"
+razom.org.ua,25,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+3cd4
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1"
+razom.org.ua,26,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"
+razom.org.ua,27,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,28,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-weight: 400;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .header_contacts_link {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: right;
+        }
+        .header_contacts_link a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+        }
+        /* Header */
+        section {
+            display: flex;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-weight: 400;
+            font-size: 34px;
+            line-height: 40px;
+            margin-bottom: 32px;
+        }
+        p, .paragrahp {
+            margin-bottom: 22px;
+            font-size: 20px;
+            line-height: 1.4;
+            color: #333333;
+        }
+        ul.paragrahp {
+            margin-left: 22px;
+        }
+        main {
+            margin: 0 220px 0 0;
+        }
+        .left {
+            width: 100%;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flex"
+razom.org.ua,29,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 11:38:04 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+
+2081
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=""UTF-8""/>
+    <title>Site ojaloberoi.in</title>
+    <meta name=""description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <meta name=""robots"" content=""noindex"">
+    <meta property=""og:locale"" content=""en_US"">
+    <meta property=""og:type"" content=""article"">
+    <meta property=""og:site_name"" content=""Site ojaloberoi.in"">
+    <meta property=""og:image"" content=""https://mirohost.net/i/logo-mirohost.png"">
+    <meta property=""og:description"" content=""Information about the site ojaloberoi.in is unavailable"">
+
+    <link href=""https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic"" rel=""stylesheet"" type=""text/css"" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            height: 100%;
+            font-family: 'Open Sans', sans-serif;
+            color: #000;
+            font-size: 16px;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+        .layout {
+            position: relative;
+            flex: 1 0 auto;
+        }
+        .reducer {
+            max-width: 1280px;
+            padding: 0 20px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Header */
+        header {
+            height: 54px;
+            padding-top: 18px;
+            position: relative;
+            background: #fff;
+            margin-bottom: 30px;
+        }
+        .header_cols {
+            display: flex;
+            justify-content: space-between;
+        }
+        .header_col {
+        }
+        .logo {
+            display: block;
+            text-decoration: none;
+        }
+        .logo img {
+            vertical-align: top;
+        }
+        .logo_txt {
+            display: inline-block;
+            padding-top: 4px;
+            font-weight: 400;
+            font-size: 14px;
+            padding-bottom: 0;
+            color: #464646;
+        }
+        .header_contacts {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: center;
+        }
+        .header_contacts a {
+            text-decoration: none;
+            color: #000;
+            white-space: nowrap;
+            font-weight: 400;
+            background: url('https://static.mirohost.net/i/ic_phone_gray.svg') 0 50% no-repeat;
+            padding-left: 30px;
+        }
+        .header_contacts span {
+            text-decoration: none;
+            color: #b00015;
+            border-bottom: 1px solid #b00015;
+            font-w"

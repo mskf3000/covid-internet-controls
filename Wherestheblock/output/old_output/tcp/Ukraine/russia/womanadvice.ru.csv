@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+womanadvice.ru,0,"traceroute to womanadvice.ru (89.184.68.106), 50 hops max, 60 byte packets
+"
+womanadvice.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.368 ms  0.337 ms  0.361 ms
+"
+womanadvice.ru,2," 2  mirohost-1-ix.giganet.ua (185.1.62.13)  0.895 ms  0.888 ms  0.944 ms
+"
+womanadvice.ru,3," 3  * * *
+"
+womanadvice.ru,4," 4  ds313.mirohost.net (89.184.68.106)  0.688 ms  0.641 ms  0.652 ms
+"

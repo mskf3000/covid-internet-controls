@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+euractiv.com,0,"traceroute to euractiv.com (217.19.234.2), 30 hops max, 60 byte packets
+"
+euractiv.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.840 ms  2.829 ms  2.823 ms
+"
+euractiv.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.822 ms  2.814 ms  2.805 ms
+"
+euractiv.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.295 ms  17.284 ms  20.094 ms
+"
+euractiv.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  25.295 ms  25.319 ms  25.311 ms
+"
+euractiv.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  33.188 ms  33.205 ms  33.198 ms
+"
+euractiv.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  42.290 ms  39.405 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.378 ms
+"
+euractiv.com,7," 7  be3676.rcr21.bru01.atlas.cogentco.com (154.54.57.178)  42.585 ms  42.579 ms be3677.rcr21.bru01.atlas.cogentco.com (154.54.60.134)  42.570 ms
+"
+euractiv.com,8," 8  ipv4.cogent.bru1.combell.com (149.11.170.138)  39.908 ms  39.964 ms  39.947 ms
+"
+euractiv.com,9," 9  176.62.175.153.static.hosted.by.combell.com (176.62.175.153)  40.576 ms  40.697 ms  40.597 ms
+"
+euractiv.com,10,"10  176.62.175.150.static.hosted.by.combell.com (176.62.175.150)  40.374 ms  40.361 ms  40.346 ms
+"
+euractiv.com,11,"11  217.21.188.11.static.hosted.by.combell.com (217.21.188.11)  41.190 ms  41.307 ms  41.288 ms
+"
+euractiv.com,12,"12  217.19.234.2.static.hosted.by.combell.com (217.19.234.2)  41.063 ms  40.426 ms  40.872 ms
+"

@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+mail.ru,0,"traceroute to mail.ru (217.69.139.202), 30 hops max, 60 byte packets
+"
+mail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.292 ms  0.324 ms
+"
+mail.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.029 ms  1.108 ms  0.810 ms
+"
+mail.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.363 ms  17.364 ms  17.349 ms
+"
+mail.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.115 ms  18.163 ms  18.160 ms
+"
+mail.ru,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  110.734 ms  110.696 ms  110.707 ms
+"
+mail.ru,6," 6  ae-123-3513.bar1.Helsinki1.Level3.net (4.69.203.18)  137.832 ms  137.934 ms  137.933 ms
+"
+mail.ru,7," 7  212.73.248.6 (212.73.248.6)  49.167 ms  49.076 ms  48.908 ms
+"
+mail.ru,8," 8  * * *
+"
+mail.ru,9," 9  * * *
+"
+mail.ru,10,"10  * * *
+"
+mail.ru,11,"11  mail.ru (217.69.139.202)  46.838 ms  48.590 ms  46.433 ms
+"

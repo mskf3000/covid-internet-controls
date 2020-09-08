@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+nazlobu.ru,0,"traceroute to nazlobu.ru (79.137.226.130), 30 hops max, 60 byte packets
+"
+nazlobu.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.289 ms  0.284 ms
+"
+nazlobu.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.567 ms  16.067 ms  16.769 ms
+"
+nazlobu.ru,3," 3  as12695.ix.dataix.ru (178.18.226.50)  16.110 ms  22.698 ms  22.696 ms
+"
+nazlobu.ru,4," 4  vl-725.sr5.msk7.ip.di-net.ru (213.248.3.65)  16.812 ms  16.708 ms  17.338 ms
+"
+nazlobu.ru,5," 5  79.137.226.130 (79.137.226.130)  17.209 ms  19.374 ms  18.747 ms
+"

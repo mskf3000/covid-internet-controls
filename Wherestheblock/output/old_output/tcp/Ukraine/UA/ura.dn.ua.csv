@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+ura.dn.ua,0,"traceroute to ura.dn.ua (87.98.152.76), 30 hops max, 60 byte packets
+"
+ura.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.345 ms  0.338 ms  0.355 ms
+"
+ura.dn.ua,2," 2  * * *
+"
+ura.dn.ua,3," 3  * * *
+"
+ura.dn.ua,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.898 ms  33.654 ms  33.657 ms
+"
+ura.dn.ua,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  37.504 ms  37.731 ms  37.958 ms
+"
+ura.dn.ua,6," 6  be5.sbg-vac1-a75.fr.eu (213.186.32.141)  35.831 ms  35.807 ms  35.811 ms
+"
+ura.dn.ua,7," 7  sbg-vac1-a75-1-firewall.fr.eu (178.33.99.143)  35.738 ms  35.784 ms  35.746 ms
+"
+ura.dn.ua,8," 8  sbg-vac1-a75-2.fr.eu (178.33.99.141)  35.763 ms  35.794 ms  35.838 ms
+"
+ura.dn.ua,9," 9  sbg-vac1-a75-3.fr.eu (178.33.99.142)  35.769 ms  35.818 ms  35.831 ms
+"
+ura.dn.ua,10,"10  * * *
+"
+ura.dn.ua,11,"11  * * *
+"
+ura.dn.ua,12,"12  sofi-shared.hosting.energy (87.98.152.76)  35.900 ms  35.778 ms  35.786 ms
+"

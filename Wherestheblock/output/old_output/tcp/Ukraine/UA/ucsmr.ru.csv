@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+ucsmr.ru,0,"traceroute to ucsmr.ru (77.222.62.138), 30 hops max, 60 byte packets
+"
+ucsmr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.305 ms  0.332 ms
+"
+ucsmr.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.857 ms  0.932 ms  0.969 ms
+"
+ucsmr.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.276 ms  17.328 ms  17.158 ms
+"
+ucsmr.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.034 ms  30.029 ms  30.016 ms
+"
+ucsmr.ru,5," 5  et-0-0-19.cr2-fra6.ip4.gtt.net (89.149.133.62)  30.219 ms  30.141 ms  30.190 ms
+"
+ucsmr.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.317 ms  41.045 ms  40.974 ms
+"
+ucsmr.ru,7," 7  213.59.212.235 (213.59.212.235)  40.410 ms 213.59.211.63 (213.59.211.63)  44.984 ms 213.59.212.217 (213.59.212.217)  41.958 ms
+"
+ucsmr.ru,8," 8  213.59.214.154 (213.59.214.154)  54.366 ms  68.507 ms  57.672 ms
+"
+ucsmr.ru,9," 9  spb-sdn-gw1.net.p8.ru (31.177.85.165)  67.466 ms  53.180 ms  57.333 ms
+"
+ucsmr.ru,10,"10  vh246.sweb.ru (77.222.62.138)  68.302 ms  52.730 ms  64.307 ms
+"

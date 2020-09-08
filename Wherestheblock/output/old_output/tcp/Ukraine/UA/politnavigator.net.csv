@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+politnavigator.net,0,"traceroute to politnavigator.net (104.18.34.86), 30 hops max, 60 byte packets
+"
+politnavigator.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.468 ms  0.456 ms  0.451 ms
+"
+politnavigator.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.992 ms  0.991 ms  1.072 ms
+"
+politnavigator.net,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.973 ms  18.865 ms  18.918 ms
+"
+politnavigator.net,4," 4  149.6.50.74 (149.6.50.74)  22.131 ms  22.115 ms  22.112 ms
+"
+politnavigator.net,5," 5  104.18.34.86 (104.18.34.86)  18.420 ms  18.600 ms  18.434 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+naviny.by,0,"traceroute to naviny.by (93.125.48.12), 30 hops max, 60 byte packets
+"
+naviny.by,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.283 ms  0.311 ms
+"
+naviny.by,2," 2  beltelecom-ix.giganet.ua (185.1.63.8)  17.114 ms  17.110 ms  17.177 ms
+"
+naviny.by,3," 3  ie1.net.belpak.by (93.85.80.93)  21.530 ms ie2.net.belpak.by (93.85.80.125)  28.230 ms ie1.net.belpak.by (93.85.80.93)  25.479 ms
+"
+naviny.by,4," 4  core1.net.belpak.by (93.85.80.41)  12.576 ms  12.578 ms  12.560 ms
+"
+naviny.by,5," 5  93.84.125.189 (93.84.125.189)  13.012 ms  13.035 ms  13.141 ms
+"
+naviny.by,6," 6  178.124.134.165 (178.124.134.165)  20.504 ms  20.461 ms  23.574 ms
+"
+naviny.by,7," 7  93-125-48-12.hoster.by (93.125.48.12)  12.663 ms  25.346 ms  16.272 ms
+"

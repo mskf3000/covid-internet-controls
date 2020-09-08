@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+sevbat.com.ua,0,"traceroute to sevbat.com.ua (104.31.71.212), 30 hops max, 60 byte packets
+"
+sevbat.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.310 ms  0.316 ms
+"
+sevbat.com.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.499 ms  0.593 ms  0.581 ms
+"
+sevbat.com.ua,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.133 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.234 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.104 ms
+"
+sevbat.com.ua,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.944 ms cloudflare-peering.fiord.net (80.77.167.7)  19.492 ms  19.485 ms
+"
+sevbat.com.ua,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  19.448 ms 104.31.71.212 (104.31.71.212)  19.514 ms cloudflare-peering.fiord.net (80.77.167.7)  19.448 ms
+"

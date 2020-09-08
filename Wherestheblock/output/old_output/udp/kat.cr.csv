@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+kat.cr,0,"traceroute to kat.cr (91.195.240.126), 50 hops max, 60 byte packets
+"
+kat.cr,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.272 ms  0.291 ms
+"
+kat.cr,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.506 ms  0.498 ms  0.478 ms
+"
+kat.cr,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.140 ms  26.123 ms  26.095 ms
+"
+kat.cr,4," 4  ffm-b1-link.telia.net (62.115.63.109)  31.746 ms  31.756 ms  31.981 ms
+"
+kat.cr,5," 5  ffm-bb3-link.telia.net (62.115.121.4)  35.981 ms ffm-bb3-link.telia.net (62.115.141.236)  33.362 ms ffm-bb3-link.telia.net (62.115.141.240)  38.648 ms
+"
+kat.cr,6," 6  mcn-b2-link.telia.net (62.115.120.128)  33.262 ms mcn-b2-link.telia.net (62.115.120.130)  38.396 ms mcn-b2-link.telia.net (62.115.120.128)  35.776 ms
+"
+kat.cr,7," 7  * * *
+"
+kat.cr,8," 8  * * *
+"
+kat.cr,9," 9  * * *
+"
+kat.cr,10,"10  * * *
+"
+kat.cr,11,"11  * * *
+"
+kat.cr,12,"12  * * *
+"
+kat.cr,13,"13  * * *
+"
+kat.cr,14,"14  * * *
+"
+kat.cr,15,"15  * * *
+"
+kat.cr,16,"16  * * *
+"
+kat.cr,17,"17  * * *
+"
+kat.cr,18,"18  * * *
+"
+kat.cr,19,"19  * * *
+"
+kat.cr,20,"20  * * *
+"
+kat.cr,21,"21  * * *
+"
+kat.cr,22,"22  * * *
+"
+kat.cr,23,"23  * * *
+"
+kat.cr,24,"24  * * *
+"
+kat.cr,25,"25  * * *
+"
+kat.cr,26,"26  * * *
+"
+kat.cr,27,"27  * * *
+"
+kat.cr,28,"28  * * *
+"
+kat.cr,29,"29  * * *
+"
+kat.cr,30,"30  * * *
+"
+kat.cr,31,"31  * * *
+"
+kat.cr,32,"32  * * *
+"
+kat.cr,33,"33  * * *
+"
+kat.cr,34,"34  * * *
+"
+kat.cr,35,"35  * * *
+"
+kat.cr,36,"36  * * *
+"
+kat.cr,37,"37  * * *
+"
+kat.cr,38,"38  * * *
+"
+kat.cr,39,"39  * * *
+"
+kat.cr,40,"40  * * *
+"
+kat.cr,41,"41  * * *
+"
+kat.cr,42,"42  * * *
+"
+kat.cr,43,"43  * * *
+"
+kat.cr,44,"44  * * *
+"
+kat.cr,45,"45  * * *
+"
+kat.cr,46,"46  * * *
+"
+kat.cr,47,"47  * * *
+"
+kat.cr,48,"48  * * *
+"
+kat.cr,49,"49  * * *
+"
+kat.cr,50,"50  * * *
+"

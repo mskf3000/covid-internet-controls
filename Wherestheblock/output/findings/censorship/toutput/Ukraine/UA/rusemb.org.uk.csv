@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+rusemb.org.uk,0,"traceroute to rusemb.org.uk (212.109.219.111), 30 hops max, 60 byte packets
+"
+rusemb.org.uk,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.312 ms  0.345 ms
+"
+rusemb.org.uk,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  19.633 ms  16.821 ms  18.927 ms
+"
+rusemb.org.uk,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  20.244 ms  17.644 ms  19.020 ms
+"
+rusemb.org.uk,4," 4  core.webdc.ru (92.63.108.98)  20.041 ms  21.353 ms  18.323 ms
+"
+rusemb.org.uk,5," 5  node9.cc-i.ru (212.109.219.111)  18.592 ms  17.845 ms  19.908 ms
+"

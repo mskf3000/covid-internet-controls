@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+slavdelo.dn.ua,0,"traceroute to slavdelo.dn.ua (89.184.68.84), 30 hops max, 60 byte packets
+"
+slavdelo.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.336 ms  0.379 ms
+"
+slavdelo.dn.ua,2," 2  mirohost-1-ix.giganet.ua (185.1.62.13)  0.575 ms  0.566 ms  0.614 ms
+"
+slavdelo.dn.ua,3," 3  * * *
+"
+slavdelo.dn.ua,4," 4  ds311.mirohost.net (89.184.68.84)  0.449 ms  0.428 ms  0.470 ms
+"

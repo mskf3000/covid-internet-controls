@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+ukr.net,0,"traceroute to ukr.net (212.42.76.253), 30 hops max, 60 byte packets
+"
+ukr.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.273 ms  0.283 ms  0.321 ms
+"
+ukr.net,2," 2  ukrnet3-gw.ix.net.ua (185.1.51.3)  40.204 ms  40.196 ms  40.159 ms
+"
+ukr.net,3," 3  srv253.fwdcdn.com (212.42.76.253)  29.982 ms  30.219 ms  30.022 ms
+"

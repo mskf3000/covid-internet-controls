@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+torrents3d.ru,0,"traceroute to torrents3d.ru (104.31.68.47), 50 hops max, 60 byte packets
+"
+torrents3d.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.043 ms  1.253 ms  1.248 ms
+"
+torrents3d.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.571 ms  0.572 ms  0.586 ms
+"
+torrents3d.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.283 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.108 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.969 ms
+"
+torrents3d.ru,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  21.829 ms  18.689 ms  21.831 ms
+"
+torrents3d.ru,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  16.898 ms  21.212 ms 104.31.68.47 (104.31.68.47)  17.662 ms
+"

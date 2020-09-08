@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+businesshosting.ru,0,"traceroute to businesshosting.ru (192.64.147.177), 30 hops max, 60 byte packets
+"
+businesshosting.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.290 ms  0.308 ms
+"
+businesshosting.ru,2," 2  hurricane-ix.giganet.ua (185.1.62.230)  12.267 ms  12.306 ms  12.300 ms
+"
+businesshosting.ru,3," 3  100ge15-1.core1.vie1.he.net (184.104.192.225)  20.823 ms  20.665 ms  20.733 ms
+"
+businesshosting.ru,4," 4  100ge13-1.core1.par2.he.net (184.105.65.5)  35.944 ms  36.014 ms  36.055 ms
+"
+businesshosting.ru,5," 5  100ge14-1.core1.nyc4.he.net (184.105.81.77)  106.479 ms  106.456 ms  106.462 ms
+"
+businesshosting.ru,6," 6  100ge8-1.core1.nyc6.he.net (184.105.64.178)  107.375 ms  107.016 ms  108.577 ms
+"
+businesshosting.ru,7," 7  hivelocity-ventures-corp.e0-1.switch1.nyc9.he.net (216.66.1.134)  107.439 ms  107.410 ms  107.433 ms
+"
+businesshosting.ru,8," 8  10.253.8.1 (10.253.8.1)  118.254 ms  107.652 ms  107.521 ms
+"
+businesshosting.ru,9," 9  10.254.0.113 (10.254.0.113)  127.490 ms  127.620 ms  127.613 ms
+"
+businesshosting.ru,10,"10  10.254.0.10 (10.254.0.10)  144.427 ms  152.452 ms  152.412 ms
+"
+businesshosting.ru,11,"11  96-31-83-106.static.hvvc.us (96.31.83.106)  144.082 ms  146.043 ms  145.598 ms
+"
+businesshosting.ru,12,"12  192.64.147.177.voodoo.com (192.64.147.177)  144.283 ms  145.478 ms  145.546 ms
+"

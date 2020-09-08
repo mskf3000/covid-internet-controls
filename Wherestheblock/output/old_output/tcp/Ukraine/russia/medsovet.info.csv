@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+medsovet.info,0,"traceroute to medsovet.info (188.93.18.77), 50 hops max, 60 byte packets
+"
+medsovet.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.304 ms  0.345 ms
+"
+medsovet.info,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.532 ms  0.569 ms *
+"
+medsovet.info,3," 3  100.64.64.62 (100.64.64.62)  11.111 ms  9.576 ms  9.572 ms
+"
+medsovet.info,4," 4  100.64.65.21 (100.64.65.21)  30.136 ms  18.856 ms  18.851 ms
+"
+medsovet.info,5," 5  100.64.64.93 (100.64.64.93)  33.192 ms  33.174 ms  33.155 ms
+"
+medsovet.info,6," 6  109.239.136.186 (109.239.136.186)  29.179 ms  27.942 ms  26.935 ms
+"
+medsovet.info,7," 7  141.spb.net.selectel.ru (188.93.17.141)  26.419 ms  27.818 ms  29.101 ms
+"
+medsovet.info,8," 8  medsovet.info (188.93.18.77)  27.736 ms  29.622 ms  31.540 ms
+"

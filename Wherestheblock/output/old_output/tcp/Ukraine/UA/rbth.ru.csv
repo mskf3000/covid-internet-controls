@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+rbth.ru,0,"traceroute to rbth.ru (185.79.236.239), 30 hops max, 60 byte packets
+"
+rbth.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.374 ms  0.363 ms  0.389 ms
+"
+rbth.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.821 ms  16.050 ms  16.815 ms
+"
+rbth.ru,3," 3  as199599.ix.dataix.ru (178.18.224.113)  17.743 ms  17.688 ms  17.729 ms
+"
+rbth.ru,4," 4  146-116-79-185.host.cirex.ru (185.79.116.146)  20.676 ms  19.900 ms  19.891 ms
+"
+rbth.ru,5," 5  185.79.236.239 (185.79.236.239)  18.091 ms  17.073 ms  17.367 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mhg.ru,0,"traceroute to mhg.ru (141.8.193.221), 30 hops max, 60 byte packets
+"
+mhg.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.393 ms  0.381 ms  0.375 ms
+"
+mhg.ru,2," 2  dtel-ix.comfortel.pro (193.25.180.215)  27.544 ms  30.787 ms  26.278 ms
+"
+mhg.ru,3," 3  as35278.ix.dataix.ru (178.18.225.81)  25.125 ms  24.717 ms  26.778 ms
+"
+mhg.ru,4," 4  172.16.5.6 (172.16.5.6)  31.936 ms  27.541 ms  31.412 ms
+"
+mhg.ru,5," 5  mimir.from.sh (141.8.193.221)  28.983 ms  28.896 ms  26.498 ms
+"

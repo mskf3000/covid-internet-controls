@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+openinform.ru,0,"traceroute to openinform.ru (89.184.1.34), 50 hops max, 60 byte packets
+"
+openinform.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.326 ms  0.349 ms
+"
+openinform.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.913 ms  1.059 ms  1.052 ms
+"
+openinform.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.144 ms  17.022 ms  16.966 ms
+"
+openinform.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.318 ms  18.341 ms  18.284 ms
+"
+openinform.ru,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.456 ms  24.535 ms  24.520 ms
+"
+openinform.ru,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.315 ms  30.028 ms  29.890 ms
+"
+openinform.ru,7," 7  be2846.rcr22.fra06.atlas.cogentco.com (154.54.37.30)  30.211 ms  30.029 ms  30.406 ms
+"
+openinform.ru,8," 8  154.25.9.46 (154.25.9.46)  30.393 ms  34.075 ms  30.664 ms
+"
+openinform.ru,9," 9  149.14.68.166 (149.14.68.166)  44.184 ms  43.129 ms  43.134 ms
+"
+openinform.ru,10,"10  kzn06rb.transtelecom.net (188.43.226.98)  58.132 ms  59.990 ms  60.080 ms
+"
+openinform.ru,11,"11  MELT-Internet-gw.transtelecom.net (188.43.226.97)  58.683 ms  59.574 ms  58.749 ms
+"
+openinform.ru,12,"12  hcp4-mail.webkazan.ru (89.184.1.34)  58.838 ms  57.834 ms  57.820 ms
+"

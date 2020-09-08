@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+jurist.org,0,"traceroute to jurist.org (52.222.174.19), 30 hops max, 60 byte packets
+"
+jurist.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.442 ms  2.426 ms  2.416 ms
+"
+jurist.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.813 ms  0.990 ms  0.927 ms
+"
+jurist.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.993 ms  17.078 ms  17.117 ms
+"
+jurist.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.160 ms  18.178 ms  18.044 ms
+"
+jurist.org,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.809 ms  24.803 ms  24.792 ms
+"
+jurist.org,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.344 ms  29.917 ms  30.001 ms
+"
+jurist.org,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.865 ms  29.691 ms  29.667 ms
+"
+jurist.org,8," 8  52.93.111.4 (52.93.111.4)  34.415 ms 52.93.111.14 (52.93.111.14)  28.983 ms 52.93.111.4 (52.93.111.4)  35.007 ms
+"
+jurist.org,9," 9  54.239.107.17 (54.239.107.17)  30.986 ms  30.934 ms 54.239.107.149 (54.239.107.149)  28.547 ms
+"
+jurist.org,10,"10  54.239.4.219 (54.239.4.219)  31.112 ms  30.898 ms  30.813 ms
+"
+jurist.org,11,"11  54.239.5.223 (54.239.5.223)  30.917 ms  31.353 ms  31.326 ms
+"
+jurist.org,12,"12  * * *
+"
+jurist.org,13,"13  * * *
+"
+jurist.org,14,"14  * * *
+"
+jurist.org,15,"15  server-52-222-174-19.fra54.r.cloudfront.net (52.222.174.19)  28.305 ms  30.810 ms  30.821 ms
+"

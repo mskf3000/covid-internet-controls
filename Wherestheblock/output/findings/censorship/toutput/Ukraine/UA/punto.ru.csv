@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+punto.ru,0,"traceroute to punto.ru (213.180.204.242), 30 hops max, 60 byte packets
+"
+punto.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.317 ms  0.348 ms
+"
+punto.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.902 ms  0.986 ms  1.080 ms
+"
+punto.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.042 ms  17.022 ms  17.063 ms
+"
+punto.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.315 ms  22.246 ms  22.665 ms
+"
+punto.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.430 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.412 ms  30.411 ms
+"
+punto.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.258 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.136 ms  45.591 ms
+"
+punto.ru,7," 7  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  52.991 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.177 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  53.346 ms
+"
+punto.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  53.337 ms  52.873 ms  52.966 ms
+"
+punto.ru,9," 9  149.11.124.74 (149.11.124.74)  58.983 ms  54.089 ms  56.347 ms
+"
+punto.ru,10,"10  any.yandex.ru (213.180.204.242)  48.098 ms  48.102 ms  48.082 ms
+"

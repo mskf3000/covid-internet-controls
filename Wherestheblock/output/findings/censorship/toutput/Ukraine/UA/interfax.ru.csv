@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+interfax.ru,0,"traceroute to interfax.ru (46.28.17.111), 30 hops max, 60 byte packets
+"
+interfax.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.982 ms  0.968 ms  0.954 ms
+"
+interfax.ru,2," 2  * * *
+"
+interfax.ru,3," 3  as20764.ix.dataix.ru (178.18.224.44)  18.323 ms  17.638 ms  18.859 ms
+"
+interfax.ru,4," 4  m9-frr-04.tel.ru (176.126.46.35)  30.500 ms  29.612 ms  29.599 ms
+"
+interfax.ru,5," 5  elzd24-frr-tr.tel.ru (176.126.46.33)  29.349 ms  28.931 ms  29.689 ms
+"
+interfax.ru,6," 6  static-78-108-195-230.tel.ru (78.108.195.230)  32.974 ms  31.977 ms  30.766 ms
+"
+interfax.ru,7," 7  46.28.17.111 (46.28.17.111)  21.398 ms  18.111 ms  33.778 ms
+"

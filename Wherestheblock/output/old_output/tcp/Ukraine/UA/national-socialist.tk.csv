@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+national-socialist.tk,0,"traceroute to national-socialist.tk (195.20.45.110), 30 hops max, 60 byte packets
+"
+national-socialist.tk,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.305 ms  0.343 ms
+"
+national-socialist.tk,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.805 ms  0.963 ms  1.016 ms
+"
+national-socialist.tk,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.188 ms  17.333 ms  17.277 ms
+"
+national-socialist.tk,4," 4  be2251.ccr21.waw01.atlas.cogentco.com (154.54.60.250)  30.422 ms  30.412 ms  30.396 ms
+"
+national-socialist.tk,5," 5  be2882.rcr21.b016833-0.waw01.atlas.cogentco.com (154.54.59.38)  30.685 ms  30.673 ms  30.852 ms
+"
+national-socialist.tk,6," 6  151.139.88.7 (151.139.88.7)  22.451 ms  22.607 ms  22.395 ms
+"
+national-socialist.tk,7," 7  151.139.88.6 (151.139.88.6)  22.084 ms 151.139.88.3 (151.139.88.3)  22.326 ms 151.139.88.6 (151.139.88.6)  22.122 ms
+"
+national-socialist.tk,8," 8  151.139.88.67 (151.139.88.67)  23.141 ms  101.429 ms 151.139.88.65 (151.139.88.65)  101.390 ms
+"
+national-socialist.tk,9," 9  * * *
+"
+national-socialist.tk,10,"10  100.65.0.62 (100.65.0.62)  101.356 ms  101.341 ms  101.331 ms
+"
+national-socialist.tk,11,"11  151.139.80.6 (151.139.80.6)  101.307 ms  101.297 ms  101.280 ms
+"
+national-socialist.tk,12,"12  151.139.80.5 (151.139.80.5)  101.266 ms  43.741 ms  43.707 ms
+"
+national-socialist.tk,13,"13  69.197.1.86.staminus.net (69.197.1.86)  44.210 ms  44.298 ms 69.197.1.88.staminus.net (69.197.1.88)  43.840 ms
+"
+national-socialist.tk,14,"14  * * *
+"
+national-socialist.tk,15,"15  195.20.45.110 (195.20.45.110)  67.285 ms  69.873 ms  69.608 ms
+"

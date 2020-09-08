@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mahamudra.ru,0,"traceroute to mahamudra.ru (217.64.167.100), 30 hops max, 60 byte packets
+"
+mahamudra.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.327 ms  0.367 ms
+"
+mahamudra.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.504 ms  0.539 ms  0.581 ms
+"
+mahamudra.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  29.230 ms  26.644 ms  26.191 ms
+"
+mahamudra.ru,4," 4  vlan-101.peer4.munich2.globalaccess.network (80.81.202.141)  35.005 ms  35.160 ms  37.149 ms
+"
+mahamudra.ru,5," 5  tge-33-3018.fw8.munich1.globalaccess.network (217.64.161.33)  34.566 ms  34.601 ms  37.127 ms
+"
+mahamudra.ru,6," 6  217.64.167.86 (217.64.167.86)  34.657 ms  34.578 ms  37.385 ms
+"
+mahamudra.ru,7," 7  karma.buddhism.ru (217.64.167.100)  35.319 ms  37.139 ms  37.664 ms
+"

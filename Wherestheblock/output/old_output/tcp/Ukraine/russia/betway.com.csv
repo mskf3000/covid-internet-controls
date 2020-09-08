@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+betway.com,0,"traceroute to betway.com (45.60.87.104), 50 hops max, 60 byte packets
+"
+betway.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.105 ms  1.087 ms  1.149 ms
+"
+betway.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.873 ms  1.001 ms  0.920 ms
+"
+betway.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  36.790 ms  36.769 ms  36.764 ms
+"
+betway.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  36.754 ms  36.740 ms  36.728 ms
+"
+betway.com,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  214.587 ms  214.580 ms  214.568 ms
+"
+betway.com,6," 6  * * *
+"
+betway.com,7," 7  195.122.180.66 (195.122.180.66)  35.854 ms  35.508 ms  35.489 ms
+"
+betway.com,8," 8  45.60.87.104 (45.60.87.104)  35.281 ms  29.837 ms  29.798 ms
+"

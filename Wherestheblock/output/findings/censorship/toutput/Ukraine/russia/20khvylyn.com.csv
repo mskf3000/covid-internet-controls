@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+20khvylyn.com,0,"traceroute to 20khvylyn.com (89.184.76.249), 50 hops max, 60 byte packets
+"
+20khvylyn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.351 ms  0.334 ms  0.357 ms
+"
+20khvylyn.com,2," 2  mirohost-1-ix.giganet.ua (185.1.62.13)  0.577 ms  0.565 ms  0.641 ms
+"
+20khvylyn.com,3," 3  * * *
+"
+20khvylyn.com,4," 4  en357.mirohost.net (89.184.76.249)  0.495 ms  0.499 ms  0.560 ms
+"

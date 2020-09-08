@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+kazache.ru,0,"traceroute to kazache.ru (31.31.196.56), 30 hops max, 60 byte packets
+"
+kazache.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.320 ms  0.343 ms  0.532 ms
+"
+kazache.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.659 ms  0.640 ms  0.657 ms
+"
+kazache.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.078 ms  16.118 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.427 ms
+"
+kazache.ru,4," 4  * msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.985 ms *
+"
+kazache.ru,5," 5  10.0.9.57 (10.0.9.57)  20.080 ms *  19.436 ms
+"
+kazache.ru,6," 6  * 10.0.9.41 (10.0.9.41)  17.921 ms  17.878 ms
+"
+kazache.ru,7," 7  172.16.72.11 (172.16.72.11)  19.447 ms  19.227 ms  18.923 ms
+"
+kazache.ru,8," 8  scp54.hosting.reg.ru (31.31.196.56)  20.036 ms  18.375 ms  18.189 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+security.wmtransfer.com,0,"traceroute to security.wmtransfer.com (91.227.52.60), 30 hops max, 60 byte packets
+"
+security.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.417 ms  0.405 ms  0.400 ms
+"
+security.wmtransfer.com,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.457 ms  0.446 ms  0.615 ms
+"
+security.wmtransfer.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.864 ms  15.903 ms  15.895 ms
+"
+security.wmtransfer.com,4," 4  * * *
+"
+security.wmtransfer.com,5," 5  88.210.48.237 (88.210.48.237)  17.221 ms  16.972 ms  17.096 ms
+"
+security.wmtransfer.com,6," 6  91.227.52.60 (91.227.52.60)  16.363 ms  16.266 ms  16.315 ms
+"

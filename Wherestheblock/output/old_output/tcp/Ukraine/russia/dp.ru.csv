@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+dp.ru,0,"traceroute to dp.ru (178.132.202.222), 50 hops max, 60 byte packets
+"
+dp.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.383 ms  0.370 ms  0.365 ms
+"
+dp.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.571 ms  0.525 ms  0.559 ms
+"
+dp.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.837 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.186 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.859 ms
+"
+dp.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.992 ms  15.941 ms mskix.spb.selectel (195.208.210.162)  26.574 ms
+"
+dp.ru,5," 5  mskix.spb.selectel (195.208.210.162)  27.160 ms 127.spb.net.selectel.ru (188.93.17.127)  25.732 ms  25.906 ms
+"
+dp.ru,6," 6  178.132.202.222 (178.132.202.222)  28.541 ms 127.spb.net.selectel.ru (188.93.17.127)  24.747 ms  24.024 ms
+"
+dp.ru,7," 7  178.132.202.222 (178.132.202.222)  27.559 ms  30.271 ms  26.863 ms
+"

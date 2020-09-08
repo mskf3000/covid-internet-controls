@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+free.newyork.ru,0,"traceroute to free.newyork.ru (209.190.163.46), 30 hops max, 60 byte packets
+"
+free.newyork.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.293 ms  0.331 ms
+"
+free.newyork.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.790 ms  0.825 ms  0.989 ms
+"
+free.newyork.ru,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  59.836 ms  30.989 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  59.806 ms
+"
+free.newyork.ru,4," 4  * * *
+"
+free.newyork.ru,5," 5  ae-8-14.bar2.Cleveland1.Level3.net (4.69.135.122)  126.509 ms  126.801 ms ae-0-11.bar2.Cleveland1.Level3.net (4.69.136.186)  126.167 ms
+"
+free.newyork.ru,6," 6  EXPEDIENT.bar2.Cleveland1.Level3.net (4.53.198.42)  137.040 ms  138.304 ms  138.568 ms
+"
+free.newyork.ru,7," 7  et-1-0-0.151-core1.expedient.com (216.130.12.194)  137.421 ms  137.697 ms  137.728 ms
+"
+free.newyork.ru,8," 8  irb-4038.151-core2.expedient.com (66.230.78.150)  137.408 ms  137.319 ms  137.284 ms
+"
+free.newyork.ru,9," 9  et-1-0-0.152-core2.expedient.com (209.221.26.118)  137.894 ms  139.757 ms  138.021 ms
+"
+free.newyork.ru,10,"10  et-0-2-0.acm-core1.expedient.com (66.230.78.193)  152.144 ms  141.846 ms  144.948 ms
+"
+free.newyork.ru,11,"11  66.230.78.238 (66.230.78.238)  142.930 ms  141.303 ms  142.626 ms
+"
+free.newyork.ru,12,"12  66.230.79.42 (66.230.79.42)  150.431 ms  149.203 ms  149.119 ms
+"
+free.newyork.ru,13,"13  xe-0-3-0.1sc-node.expedient.com (216.230.108.246)  151.674 ms  151.452 ms  152.932 ms
+"
+free.newyork.ru,14,"14  et-3-0-0.tdp-core1.expedient.com (66.230.78.249)  152.732 ms  151.337 ms  151.716 ms
+"
+free.newyork.ru,15,"15  ae2.tdp-core2.expedient.com (66.230.79.10)  152.004 ms  152.286 ms  153.294 ms
+"
+free.newyork.ru,16,"16  ten2-3-1.cab-core.expedient.com (66.230.79.6)  162.814 ms  159.309 ms  158.363 ms
+"
+free.newyork.ru,17,"17  209.190.163.46 (209.190.163.46)  158.084 ms  159.552 ms  159.473 ms
+"
+free.newyork.ru,18,"18  209.190.163.46 (209.190.163.46)  159.244 ms  157.998 ms  159.626 ms
+"
+free.newyork.ru,19,"19  209.190.163.46 (209.190.163.46)  159.594 ms  157.674 ms  158.044 ms
+"

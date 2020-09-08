@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+znakomstva.ru,0,"traceroute to znakomstva.ru (136.243.161.204), 50 hops max, 60 byte packets
+"
+znakomstva.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.866 ms  0.843 ms  0.869 ms
+"
+znakomstva.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.615 ms  0.672 ms  0.588 ms
+"
+znakomstva.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.684 ms  26.194 ms  28.707 ms
+"
+znakomstva.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.562 ms  31.132 ms  31.186 ms
+"
+znakomstva.ru,5," 5  core0.fra.hetzner.com (213.239.252.10)  29.163 ms  29.149 ms core4.fra.hetzner.com (213.239.245.85)  31.514 ms
+"
+znakomstva.ru,6," 6  core11.nbg1.hetzner.com (213.239.245.34)  34.520 ms  31.928 ms core11.nbg1.hetzner.com (213.239.245.249)  34.531 ms
+"
+znakomstva.ru,7," 7  ex9k1.dc2.nbg1.hetzner.com (213.239.229.6)  35.534 ms  37.864 ms ex9k1.dc2.nbg1.hetzner.com (213.239.229.2)  34.117 ms
+"
+znakomstva.ru,8," 8  mail.mylove.ru (136.243.161.204)  38.014 ms  35.595 ms  34.538 ms
+"

@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+kavkazcenter.net,0,"traceroute to kavkazcenter.net (91.237.66.110), 30 hops max, 60 byte packets
+"
+kavkazcenter.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.348 ms  0.336 ms  0.374 ms
+"
+kavkazcenter.net,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.783 ms  0.777 ms  0.555 ms
+"
+kavkazcenter.net,3," 3  ae1-1.RT.TC1.STO.SE.retn.net (87.245.232.51)  29.116 ms  29.360 ms  29.348 ms
+"
+kavkazcenter.net,4," 4  netnod-ix-ge-a-sth-1500.portlane.net (194.68.123.194)  41.324 ms netnod-ix-ge-b-sth-1500.portlane.net (194.68.128.194)  43.599 ms netnod-ix-ge-a-sth-1500.portlane.net (194.68.123.194)  41.369 ms
+"
+kavkazcenter.net,5," 5  be-1.cr2.sto1.se.portlane.net (80.67.4.227)  40.734 ms  40.744 ms  40.779 ms
+"
+kavkazcenter.net,6," 6  be-2.pe3.sto1.se.portlane.net (80.67.4.133)  40.689 ms  40.795 ms be-1.pe3.sto1.se.portlane.net (80.67.4.137)  41.005 ms
+"
+kavkazcenter.net,7," 7  te-0-0-0-0.vbdc-cr4.glesys.net (80.67.0.132)  42.680 ms  42.435 ms  42.397 ms
+"
+kavkazcenter.net,8," 8  te-0-1-0-0.fbg-cr2.glesys.net (46.21.96.129)  43.016 ms  43.154 ms  43.152 ms
+"
+kavkazcenter.net,9," 9  te-2-1.fbg-pe2.glesys.net (193.108.196.89)  43.264 ms  42.282 ms  44.275 ms
+"
+kavkazcenter.net,10,"10  et-1-47.fbg-ar1.glesys.net (185.39.145.162)  42.450 ms  42.584 ms  43.331 ms
+"
+kavkazcenter.net,11,"11  91.237.66.110 (91.237.66.110)  42.273 ms  42.226 ms  42.617 ms
+"

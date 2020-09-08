@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+glazev.ru,0,"traceroute to glazev.ru (82.202.162.94), 50 hops max, 60 byte packets
+"
+glazev.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.299 ms  0.294 ms
+"
+glazev.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.838 ms  19.029 ms  18.663 ms
+"
+glazev.ru,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  16.961 ms  16.919 ms  19.126 ms
+"
+glazev.ru,4," 4  core.webdc.ru (92.63.108.98)  17.837 ms  16.906 ms  17.733 ms
+"
+glazev.ru,5," 5  khazin.ru (82.202.162.94)  20.095 ms  17.804 ms  17.717 ms
+"

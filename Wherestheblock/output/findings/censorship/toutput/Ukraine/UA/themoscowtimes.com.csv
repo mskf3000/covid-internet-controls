@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+themoscowtimes.com,0,"traceroute to themoscowtimes.com (95.215.189.12), 30 hops max, 60 byte packets
+"
+themoscowtimes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.343 ms  0.356 ms
+"
+themoscowtimes.com,2," 2  hurricane-ix.giganet.ua (185.1.62.230)  0.412 ms  0.452 ms  0.491 ms
+"
+themoscowtimes.com,3," 3  100ge8-1.core1.waw1.he.net (184.104.192.165)  14.258 ms  14.261 ms  14.435 ms
+"
+themoscowtimes.com,4," 4  100ge12-2.core1.ber1.he.net (184.105.65.26)  22.168 ms  22.339 ms  22.431 ms
+"
+themoscowtimes.com,5," 5  100ge8-1.core1.ams1.he.net (184.105.65.17)  35.554 ms  35.537 ms  35.630 ms
+"
+themoscowtimes.com,6," 6  broadband-hosting.10gigabitethernet1-15.core1.ams1.he.net (216.66.90.78)  34.711 ms  34.714 ms  34.703 ms
+"
+themoscowtimes.com,7," 7  jointtransit-tc4.procolix.com (213.207.12.228)  36.271 ms  35.254 ms  35.224 ms
+"
+themoscowtimes.com,8," 8  host880.procolix.com (95.215.189.12)  35.223 ms  36.615 ms  36.625 ms
+"

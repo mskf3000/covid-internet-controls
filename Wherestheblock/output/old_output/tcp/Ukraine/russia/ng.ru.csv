@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ng.ru,0,"traceroute to ng.ru (188.40.89.58), 50 hops max, 60 byte packets
+"
+ng.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.362 ms  0.339 ms  0.380 ms
+"
+ng.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.600 ms  0.621 ms  0.581 ms
+"
+ng.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.141 ms  26.121 ms  28.679 ms
+"
+ng.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.735 ms  28.762 ms  31.206 ms
+"
+ng.ru,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.025 ms core5.fra.hetzner.com (213.239.224.218)  35.330 ms  32.972 ms
+"
+ng.ru,6," 6  core21.fsn1.hetzner.com (213.239.252.30)  36.016 ms core22.fsn1.hetzner.com (213.239.245.17)  33.099 ms core22.fsn1.hetzner.com (213.239.252.34)  40.480 ms
+"
+ng.ru,7," 7  ex9k1.dc13.fsn1.hetzner.com (213.239.245.242)  38.897 ms ex9k1.dc13.fsn1.hetzner.com (213.239.245.238)  36.101 ms  35.001 ms
+"
+ng.ru,8," 8  www.ng.ru (188.40.89.58)  33.131 ms  36.893 ms  35.759 ms
+"

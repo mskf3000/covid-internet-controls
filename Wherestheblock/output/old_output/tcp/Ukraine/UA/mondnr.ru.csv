@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mondnr.ru,0,"traceroute to mondnr.ru (104.18.33.61), 30 hops max, 60 byte packets
+"
+mondnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.277 ms  0.266 ms  0.331 ms
+"
+mondnr.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.973 ms  0.972 ms  1.049 ms
+"
+mondnr.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.847 ms  18.933 ms  18.924 ms
+"
+mondnr.ru,4," 4  149.6.50.74 (149.6.50.74)  19.270 ms  19.844 ms  19.248 ms
+"
+mondnr.ru,5," 5  104.18.33.61 (104.18.33.61)  18.658 ms  18.481 ms  18.500 ms
+"

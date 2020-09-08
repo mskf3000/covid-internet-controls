@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+bankir.ru,0,"traceroute to bankir.ru (89.108.84.199), 50 hops max, 60 byte packets
+"
+bankir.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.299 ms  0.326 ms
+"
+bankir.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.490 ms  0.532 ms  0.524 ms
+"
+bankir.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.894 ms  15.863 ms  15.929 ms
+"
+bankir.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.882 ms  16.436 ms  16.990 ms
+"
+bankir.ru,5," 5  * * *
+"
+bankir.ru,6," 6  172.16.64.12 (172.16.64.12)  16.863 ms 172.16.64.11 (172.16.64.11)  16.687 ms  16.540 ms
+"
+bankir.ru,7," 7  bankir.ru (89.108.84.199)  16.264 ms  16.233 ms  16.236 ms
+"

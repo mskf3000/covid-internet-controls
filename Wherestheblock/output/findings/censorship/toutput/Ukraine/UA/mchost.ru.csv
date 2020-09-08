@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+mchost.ru,0,"traceroute to mchost.ru (178.208.73.34), 30 hops max, 60 byte packets
+"
+mchost.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.345 ms  0.332 ms  0.327 ms
+"
+mchost.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.831 ms  1.005 ms  1.079 ms
+"
+mchost.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.368 ms  17.375 ms  17.368 ms
+"
+mchost.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.442 ms  22.344 ms  22.374 ms
+"
+mchost.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.737 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.779 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.735 ms
+"
+mchost.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.930 ms  39.779 ms  39.803 ms
+"
+mchost.ru,7," 7  be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  40.081 ms  39.791 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.031 ms
+"
+mchost.ru,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.42)  42.220 ms universal-cdn.demarc.cogentco.com (149.6.1.34)  42.635 ms 149.14.92.42 (149.14.92.42)  36.615 ms
+"
+mchost.ru,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  38.275 ms xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  38.733 ms xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  39.957 ms
+"
+mchost.ru,10,"10  www1.mchost.ru (178.208.73.34)  37.738 ms  37.956 ms  38.367 ms
+"

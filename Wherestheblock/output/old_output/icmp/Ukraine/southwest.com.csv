@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+southwest.com,0,"traceroute to southwest.com (208.94.153.99), 30 hops max, 60 byte packets
+"
+southwest.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.331 ms  0.361 ms
+"
+southwest.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.080 ms  1.080 ms  1.137 ms
+"
+southwest.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.160 ms  17.168 ms  17.206 ms
+"
+southwest.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.930 ms  22.939 ms  22.936 ms
+"
+southwest.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.565 ms  30.574 ms  30.571 ms
+"
+southwest.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.728 ms  39.877 ms  39.902 ms
+"
+southwest.com,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  141.201 ms  140.898 ms  140.964 ms
+"
+southwest.com,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.636 ms  140.924 ms  141.017 ms
+"
+southwest.com,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.752 ms  139.942 ms  139.933 ms
+"
+southwest.com,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.409 ms  140.210 ms  140.203 ms
+"
+southwest.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.500 ms  140.734 ms  140.831 ms
+"
+southwest.com,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  151.932 ms  151.445 ms  151.830 ms
+"
+southwest.com,13,"13  be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  161.694 ms  161.702 ms  161.736 ms
+"
+southwest.com,14,"14  be2939.rcr21.dfw04.atlas.cogentco.com (154.54.6.114)  162.427 ms  162.503 ms  162.258 ms
+"
+southwest.com,15,"15  be3795.nr51.b028597-0.dfw04.atlas.cogentco.com (154.24.61.202)  163.111 ms  163.131 ms  163.154 ms
+"
+southwest.com,16,"16  38.140.239.18 (38.140.239.18)  163.549 ms  163.610 ms  163.715 ms
+"
+southwest.com,17,"17  mpr2.po1-bbnet1.ext1.dal.pnap.net (216.52.191.7)  154.633 ms  154.638 ms  154.580 ms
+"
+southwest.com,18,"18  * * *
+"
+southwest.com,19,"19  * * *
+"
+southwest.com,20,"20  * * *
+"
+southwest.com,21,"21  * * *
+"
+southwest.com,22,"22  * * *
+"
+southwest.com,23,"23  * * *
+"
+southwest.com,24,"24  * * *
+"
+southwest.com,25,"25  * * *
+"
+southwest.com,26,"26  * * *
+"
+southwest.com,27,"27  * * *
+"
+southwest.com,28,"28  * * *
+"
+southwest.com,29,"29  * * *
+"
+southwest.com,30,"30  * * *
+"

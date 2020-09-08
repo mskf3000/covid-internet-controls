@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+gayvideo.ru,0,"traceroute to gayvideo.ru (213.183.32.7), 30 hops max, 60 byte packets
+"
+gayvideo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.181 ms  5.173 ms  5.164 ms
+"
+gayvideo.ru,2," 2  * * *
+"
+gayvideo.ru,3," 3  as56630.ix.dataix.ru (178.18.224.239)  21.378 ms  21.412 ms  21.399 ms
+"
+gayvideo.ru,4," 4  10.32.0.21 (10.32.0.21)  18.190 ms  18.178 ms  18.168 ms
+"
+gayvideo.ru,5," 5  32-7-host.pochemu.ru (213.183.32.7)  18.963 ms  18.307 ms  16.653 ms
+"

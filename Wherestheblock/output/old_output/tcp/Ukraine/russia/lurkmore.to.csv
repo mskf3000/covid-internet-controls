@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+lurkmore.to,0,"traceroute to lurkmore.to (188.42.196.32), 50 hops max, 60 byte packets
+"
+lurkmore.to,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.270 ms  0.264 ms
+"
+lurkmore.to,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.939 ms  0.973 ms  1.016 ms
+"
+lurkmore.to,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.355 ms  17.326 ms  17.390 ms
+"
+lurkmore.to,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.097 ms  18.520 ms  18.558 ms
+"
+lurkmore.to,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.500 ms  24.349 ms  24.518 ms
+"
+lurkmore.to,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.700 ms  29.795 ms  29.847 ms
+"
+lurkmore.to,7," 7  be2377.rcr21.lux01.atlas.cogentco.com (154.54.38.146)  34.025 ms  34.026 ms  34.200 ms
+"
+lurkmore.to,8," 8  be3456.nr51.b038844-0.lux01.atlas.cogentco.com (154.25.12.70)  34.700 ms  34.761 ms  34.866 ms
+"
+lurkmore.to,9," 9  149.6.66.2 (149.6.66.2)  34.456 ms 149.6.66.218 (149.6.66.218)  34.273 ms 149.6.66.2 (149.6.66.2)  34.409 ms
+"
+lurkmore.to,10,"10  se-lu01-s1.servers.com (188.42.192.239)  34.833 ms se-lu01-s2.servers.com (188.42.192.245)  34.899 ms se-lu01-s1.servers.com (188.42.192.239)  34.782 ms
+"
+lurkmore.to,11,"11  se-lu01-l1-r2.servers.com (188.42.192.3)  36.110 ms se-lu01-l1-r1.servers.com (188.42.192.1)  36.084 ms  35.351 ms
+"
+lurkmore.to,12,"12  lurkmore.to (188.42.196.32)  34.183 ms  34.259 ms  34.174 ms
+"
+lurkmore.to,13,"13  lurkmore.to (188.42.196.32)  34.281 ms  34.290 ms  34.759 ms
+"

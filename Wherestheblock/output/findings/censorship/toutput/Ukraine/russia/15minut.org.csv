@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+15minut.org,0,"traceroute to 15minut.org (91.218.214.111), 50 hops max, 60 byte packets
+"
+15minut.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.242 ms  1.274 ms  1.266 ms
+"
+15minut.org,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  1.010 ms  1.050 ms  1.044 ms
+"
+15minut.org,3," 3  unallocated.qos.kiev.ua (91.218.214.111)  0.693 ms  0.730 ms  0.736 ms
+"

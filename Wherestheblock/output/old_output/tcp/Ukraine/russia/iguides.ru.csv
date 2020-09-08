@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+iguides.ru,0,"traceroute to iguides.ru (95.213.153.203), 50 hops max, 60 byte packets
+"
+iguides.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.337 ms  0.358 ms
+"
+iguides.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.079 ms  19.400 ms  16.061 ms
+"
+iguides.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  22.621 ms  18.891 ms  19.554 ms
+"
+iguides.ru,4," 4  128.spb.net.selectel.ru (188.93.17.128)  25.461 ms  24.696 ms  24.803 ms
+"
+iguides.ru,5," 5  141.spb.net.selectel.ru (188.93.17.141)  25.415 ms  24.775 ms  24.643 ms
+"
+iguides.ru,6," 6  95.213.153.203 (95.213.153.203)  27.289 ms  27.466 ms  26.539 ms
+"
+iguides.ru,7," 7  95.213.153.203 (95.213.153.203)  26.175 ms  26.862 ms  25.167 ms
+"

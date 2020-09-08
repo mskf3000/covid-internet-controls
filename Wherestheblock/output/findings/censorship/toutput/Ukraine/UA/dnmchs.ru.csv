@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+dnmchs.ru,0,"traceroute to dnmchs.ru (185.114.137.166), 30 hops max, 60 byte packets
+"
+dnmchs.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.275 ms  0.306 ms
+"
+dnmchs.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.213 ms  19.160 ms  18.709 ms
+"
+dnmchs.ru,3," 3  109.239.138.75 (109.239.138.75)  54.109 ms  54.084 ms  54.302 ms
+"
+dnmchs.ru,4," 4  185.229.232.189 (185.229.232.189)  56.388 ms  58.755 ms  58.868 ms
+"
+dnmchs.ru,5," 5  185.114.136.177 (185.114.136.177)  49.360 ms  48.562 ms  49.336 ms
+"
+dnmchs.ru,6," 6  172.31.254.6 (172.31.254.6)  48.007 ms  47.680 ms  47.360 ms
+"
+dnmchs.ru,7," 7  mail.dnmchs.ru (185.114.137.166)  41.568 ms  47.125 ms  42.184 ms
+"

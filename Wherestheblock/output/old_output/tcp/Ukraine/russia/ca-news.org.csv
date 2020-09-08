@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ca-news.org,0,"traceroute to ca-news.org (212.42.117.66), 50 hops max, 60 byte packets
+"
+ca-news.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.321 ms  0.305 ms  0.299 ms
+"
+ca-news.org,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.757 ms  19.323 ms  18.760 ms
+"
+ca-news.org,3," 3  elcat.w-ix.ru (193.106.112.33)  77.515 ms  77.505 ms  77.504 ms
+"
+ca-news.org,4," 4  comp131-215.2day.kz (85.29.131.215)  75.366 ms  75.418 ms  72.278 ms
+"
+ca-news.org,5," 5  cs1.elcat.kg (212.42.96.178)  74.432 ms  70.448 ms  72.883 ms
+"
+ca-news.org,6," 6  asr.elcat.kg (212.42.96.77)  68.046 ms  69.025 ms  72.040 ms
+"
+ca-news.org,7," 7  akipress.org (212.42.117.66)  68.441 ms  69.267 ms  70.596 ms
+"

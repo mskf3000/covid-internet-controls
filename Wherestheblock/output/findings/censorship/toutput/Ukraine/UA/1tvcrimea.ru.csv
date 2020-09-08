@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+1tvcrimea.ru,0,"traceroute to 1tvcrimea.ru (212.110.158.148), 30 hops max, 60 byte packets
+"
+1tvcrimea.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.311 ms  0.342 ms
+"
+1tvcrimea.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.546 ms  0.578 ms  0.573 ms
+"
+1tvcrimea.ru,3," 3  khar-atr-b1-ae1-vlan2038.fiord.net (80.77.167.150)  6.424 ms  6.850 ms  7.149 ms
+"
+1tvcrimea.ru,4," 4  vrn-kvt-b1-ae1-vlan2041.fiord.net (62.140.239.8)  10.755 ms  10.753 ms  10.744 ms
+"
+1tvcrimea.ru,5," 5  bgp-0.krtech.ru (193.47.166.10)  34.211 ms  34.170 ms  34.880 ms
+"
+1tvcrimea.ru,6," 6  gw72-c05-09.cloud-one.ru (193.47.166.5)  34.712 ms  35.452 ms  34.307 ms
+"
+1tvcrimea.ru,7," 7  na.cloud-one.ru (212.110.158.148)  35.069 ms  35.414 ms  35.367 ms
+"

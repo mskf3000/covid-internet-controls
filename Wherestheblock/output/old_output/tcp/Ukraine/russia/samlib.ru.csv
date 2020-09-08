@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+samlib.ru,0,"traceroute to samlib.ru (81.176.66.171), 50 hops max, 60 byte packets
+"
+samlib.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.294 ms  0.329 ms
+"
+samlib.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.549 ms  0.533 ms  0.562 ms
+"
+samlib.ru,3," 3  100.64.65.25 (100.64.65.25)  7.833 ms  8.273 ms  7.825 ms
+"
+samlib.ru,4," 4  100.64.64.141 (100.64.64.141)  29.928 ms  30.390 ms  29.912 ms
+"
+samlib.ru,5," 5  frkt-ar2.intl.ip.rostelecom.ru (80.81.194.31)  42.797 ms  43.163 ms  43.162 ms
+"
+samlib.ru,6," 6  87.226.181.91 (87.226.181.91)  65.526 ms 213.59.212.113 (213.59.212.113)  46.710 ms 87.226.181.91 (87.226.181.91)  56.206 ms
+"
+samlib.ru,7," 7  213.24.114.170 (213.24.114.170)  48.239 ms msk-bgw1-xe-2-0-0-0.rt-comm.ru (195.161.4.137)  58.039 ms  44.482 ms
+"
+samlib.ru,8," 8  msk-dsr8-tg9-1.rt-comm.ru (195.161.47.26)  57.499 ms msk-dsr8-tg9-2.rt-comm.ru (195.161.47.30)  59.018 ms  58.915 ms
+"
+samlib.ru,9," 9  msk-dsr8-tg9-1.rt-comm.ru (195.161.47.26)  43.634 ms msk-dsr8-tg9-2.rt-comm.ru (195.161.47.30)  64.002 ms  42.959 ms
+"
+samlib.ru,10,"10  81.176.66.171 (81.176.66.171)  41.046 ms  55.714 ms  43.234 ms
+"

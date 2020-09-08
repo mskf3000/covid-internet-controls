@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+nomer-org.website,0,"traceroute to nomer-org.website (91.220.101.43), 50 hops max, 60 byte packets
+"
+nomer-org.website,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.452 ms  0.434 ms  0.459 ms
+"
+nomer-org.website,2," 2  hls-ix.giganet.ua (185.1.62.87)  8.040 ms  8.044 ms  7.740 ms
+"
+nomer-org.website,3," 3  srv-s43.antiddos.eu (91.220.101.43)  0.466 ms  0.453 ms  0.493 ms
+"

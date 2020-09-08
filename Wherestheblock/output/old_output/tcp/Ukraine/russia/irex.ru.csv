@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+irex.ru,0,"traceroute to irex.ru (194.58.106.79), 50 hops max, 60 byte packets
+"
+irex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.301 ms  0.310 ms
+"
+irex.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.582 ms  0.569 ms  0.564 ms
+"
+irex.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.898 ms  15.951 ms  15.890 ms
+"
+irex.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.242 ms  17.182 ms  17.115 ms
+"
+irex.ru,5," 5  * * *
+"
+irex.ru,6," 6  172.16.71.11 (172.16.71.11)  16.489 ms  16.642 ms  16.628 ms
+"
+irex.ru,7," 7  194.58.106.79 (194.58.106.79)  16.539 ms  16.487 ms  17.204 ms
+"

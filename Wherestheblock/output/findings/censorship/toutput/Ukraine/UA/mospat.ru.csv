@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mospat.ru,0,"traceroute to mospat.ru (89.253.227.237), 30 hops max, 60 byte packets
+"
+mospat.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.418 ms  0.411 ms  0.404 ms
+"
+mospat.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.153 ms  2.154 ms  0.692 ms
+"
+mospat.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.604 ms  20.574 ms  20.577 ms
+"
+mospat.ru,4," 4  87.245.193.163 (87.245.193.163)  20.688 ms  20.874 ms 87.245.193.162 (87.245.193.162)  20.870 ms
+"
+mospat.ru,5," 5  * * *
+"
+mospat.ru,6," 6  hw140.rusonyx.ru (89.253.200.146)  20.833 ms  20.789 ms  20.720 ms
+"
+mospat.ru,7," 7  ds-1028328-6800.host4g.ru (89.253.227.237)  20.808 ms  20.813 ms  20.877 ms
+"

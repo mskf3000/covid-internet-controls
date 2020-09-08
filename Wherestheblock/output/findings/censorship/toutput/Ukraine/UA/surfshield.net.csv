@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+surfshield.net,0,"traceroute to surfshield.net (109.201.135.39), 30 hops max, 60 byte packets
+"
+surfshield.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.296 ms  0.315 ms
+"
+surfshield.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.657 ms  1.763 ms  1.650 ms
+"
+surfshield.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  23.205 ms  23.195 ms  23.184 ms
+"
+surfshield.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  24.665 ms  24.645 ms  24.699 ms
+"
+surfshield.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.963 ms  30.999 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.371 ms
+"
+surfshield.net,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  40.040 ms  39.656 ms  39.694 ms
+"
+surfshield.net,7," 7  be2519.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.98)  40.484 ms be3198.rcr21.b031955-0.ams03.atlas.cogentco.com (154.54.57.78)  40.022 ms be2519.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.98)  39.920 ms
+"
+surfshield.net,8," 8  cogent1-gsa.r2.dba.nl.as43350.com (149.14.82.147)  39.469 ms  39.533 ms cogent1-eqx-am5.r1.dba.nl.as43350.com (149.14.82.162)  39.451 ms
+"
+surfshield.net,9," 9  109.201.135.39 (109.201.135.39)  37.005 ms  39.451 ms  37.127 ms
+"

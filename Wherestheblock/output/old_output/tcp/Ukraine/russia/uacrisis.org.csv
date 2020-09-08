@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+uacrisis.org,0,"traceroute to uacrisis.org (104.26.11.27), 50 hops max, 60 byte packets
+"
+uacrisis.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.292 ms  0.278 ms  0.340 ms
+"
+uacrisis.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.884 ms  1.018 ms  0.959 ms
+"
+uacrisis.org,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.903 ms  1.674 ms  0.932 ms
+"
+uacrisis.org,4," 4  149.6.191.138 (149.6.191.138)  4.695 ms  4.668 ms  4.732 ms
+"
+uacrisis.org,5," 5  104.26.11.27 (104.26.11.27)  0.524 ms  0.545 ms  0.538 ms
+"

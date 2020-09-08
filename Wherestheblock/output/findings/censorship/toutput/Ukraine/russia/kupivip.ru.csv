@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+kupivip.ru,0,"traceroute to kupivip.ru (37.230.227.130), 50 hops max, 60 byte packets
+"
+kupivip.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.358 ms  0.345 ms  0.381 ms
+"
+kupivip.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.606 ms  18.914 ms  16.895 ms
+"
+kupivip.ru,3," 3  109.239.138.133 (109.239.138.133)  17.354 ms  17.442 ms  19.908 ms
+"
+kupivip.ru,4," 4  40g-lag.highspeednetwork.ru (92.63.203.69)  18.541 ms  18.956 ms  21.028 ms
+"
+kupivip.ru,5," 5  92.242.53.174 (92.242.53.174)  17.240 ms  17.907 ms  17.282 ms
+"
+kupivip.ru,6," 6  vipweb02.kupivip.net (37.230.227.130)  17.102 ms  17.127 ms  17.827 ms
+"
+kupivip.ru,7," 7  vipweb02.kupivip.net (37.230.227.130)  18.616 ms  19.797 ms  18.460 ms
+"

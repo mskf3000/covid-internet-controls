@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+en.netlog.com,0,"traceroute to en.netlog.com (185.162.31.140), 30 hops max, 60 byte packets
+"
+en.netlog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.305 ms  0.346 ms
+"
+en.netlog.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.984 ms  0.982 ms  1.042 ms
+"
+en.netlog.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.257 ms  17.034 ms  17.001 ms
+"
+en.netlog.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.286 ms  22.291 ms  22.690 ms
+"
+en.netlog.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.323 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.741 ms  30.788 ms
+"
+en.netlog.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.747 ms  39.672 ms  39.430 ms
+"
+en.netlog.com,7," 7  be3676.rcr21.bru01.atlas.cogentco.com (154.54.57.178)  42.524 ms  42.864 ms  42.610 ms
+"
+en.netlog.com,8," 8  ipv4.cogent.bru1.combell.com (149.11.170.138)  40.045 ms  39.937 ms  39.947 ms
+"
+en.netlog.com,9," 9  217.21.188.77.static.hosted.by.combell.com (217.21.188.77)  39.881 ms  40.057 ms  40.052 ms
+"
+en.netlog.com,10,"10  linweb157.webhosting.be (185.162.31.140)  40.671 ms  39.790 ms  39.796 ms
+"

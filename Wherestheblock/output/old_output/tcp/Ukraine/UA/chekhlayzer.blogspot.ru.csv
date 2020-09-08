@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+chekhlayzer.blogspot.ru,0,"traceroute to chekhlayzer.blogspot.ru (216.58.209.1), 30 hops max, 60 byte packets
+"
+chekhlayzer.blogspot.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.516 ms  1.533 ms  1.581 ms
+"
+chekhlayzer.blogspot.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.539 ms  15.166 ms *
+"
+chekhlayzer.blogspot.ru,3," 3  100.64.64.58 (100.64.64.58)  0.626 ms  0.665 ms  0.662 ms
+"
+chekhlayzer.blogspot.ru,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.651 ms  0.690 ms  0.728 ms
+"
+chekhlayzer.blogspot.ru,5," 5  108.170.248.131 (108.170.248.131)  1.963 ms 108.170.248.147 (108.170.248.147)  0.917 ms 108.170.248.131 (108.170.248.131)  2.446 ms
+"
+chekhlayzer.blogspot.ru,6," 6  209.85.248.105 (209.85.248.105)  13.873 ms  14.417 ms  13.874 ms
+"
+chekhlayzer.blogspot.ru,7," 7  108.170.250.209 (108.170.250.209)  61.344 ms  61.231 ms 108.170.250.193 (108.170.250.193)  13.739 ms
+"
+chekhlayzer.blogspot.ru,8," 8  172.253.68.29 (172.253.68.29)  15.304 ms 108.170.250.209 (108.170.250.209)  61.174 ms 172.253.68.31 (172.253.68.31)  15.053 ms
+"
+chekhlayzer.blogspot.ru,9," 9  172.253.68.31 (172.253.68.31)  15.241 ms waw02s18-in-f1.1e100.net (216.58.209.1)  13.812 ms  14.390 ms
+"

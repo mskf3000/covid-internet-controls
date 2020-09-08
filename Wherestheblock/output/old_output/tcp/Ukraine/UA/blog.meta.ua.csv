@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+blog.meta.ua,0,"traceroute to blog.meta.ua (194.0.131.12), 30 hops max, 60 byte packets
+"
+blog.meta.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.318 ms  0.308 ms  0.339 ms
+"
+blog.meta.ua,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  1.267 ms  0.924 ms  1.238 ms
+"
+blog.meta.ua,3," 3  meta.ae10-822.lsr02-kiev.topnet.ua (77.88.206.13)  0.838 ms  0.966 ms  0.898 ms
+"
+blog.meta.ua,4," 4  meta.ae10-822.lsr02-kiev.topnet.ua (77.88.206.14)  0.662 ms  0.663 ms  0.659 ms
+"
+blog.meta.ua,5," 5  sport.com.ua (194.0.131.12)  0.667 ms  0.831 ms  0.723 ms
+"

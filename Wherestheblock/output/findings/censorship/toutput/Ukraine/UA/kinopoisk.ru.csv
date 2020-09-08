@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+kinopoisk.ru,0,"traceroute to kinopoisk.ru (87.250.251.105), 30 hops max, 60 byte packets
+"
+kinopoisk.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.491 ms  0.483 ms  0.477 ms
+"
+kinopoisk.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.043 ms  1.085 ms  1.080 ms
+"
+kinopoisk.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.255 ms  17.221 ms  17.223 ms
+"
+kinopoisk.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.391 ms  22.471 ms  22.560 ms
+"
+kinopoisk.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.720 ms  30.723 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.762 ms
+"
+kinopoisk.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.389 ms  49.281 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  46.906 ms
+"
+kinopoisk.ru,7," 7  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  52.652 ms  56.143 ms  56.283 ms
+"
+kinopoisk.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  56.525 ms  53.647 ms  57.094 ms
+"
+kinopoisk.ru,9," 9  149.11.124.74 (149.11.124.74)  54.256 ms  52.750 ms  52.700 ms
+"
+kinopoisk.ru,10,"10  front.kp.yandex.net (87.250.251.105)  47.751 ms  43.927 ms  47.311 ms
+"

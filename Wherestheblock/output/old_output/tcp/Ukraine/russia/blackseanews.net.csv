@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+blackseanews.net,0,"traceroute to blackseanews.net (104.18.55.229), 50 hops max, 60 byte packets
+"
+blackseanews.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.443 ms  0.430 ms  0.423 ms
+"
+blackseanews.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.903 ms  1.028 ms  0.932 ms
+"
+blackseanews.net,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.934 ms  9.012 ms  8.948 ms
+"
+blackseanews.net,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.950 ms  11.889 ms  11.844 ms
+"
+blackseanews.net,5," 5  149.14.58.106 (149.14.58.106)  12.302 ms  12.300 ms  12.293 ms
+"
+blackseanews.net,6," 6  104.18.55.229 (104.18.55.229)  11.765 ms  11.772 ms  11.556 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+english.ruvr.ru,0,"traceroute to english.ruvr.ru (195.93.246.240), 30 hops max, 60 byte packets
+"
+english.ruvr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.307 ms  0.311 ms
+"
+english.ruvr.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.858 ms  19.935 ms  18.838 ms
+"
+english.ruvr.ru,3," 3  equant.inet2.ru (85.112.122.71)  19.873 ms  18.640 ms  19.859 ms
+"
+english.ruvr.ru,4," 4  Moscow-GIN-PE04-ae1-0.rosprint.net (195.151.234.227)  18.888 ms  18.924 ms  18.855 ms
+"
+english.ruvr.ru,5," 5  195.151.251.147 (195.151.251.147)  19.117 ms  19.108 ms  19.096 ms
+"
+english.ruvr.ru,6," 6  195.93.246.240 (195.93.246.240)  20.118 ms * *
+"
+english.ruvr.ru,7," 7  195.93.246.240 (195.93.246.240)  19.520 ms  19.443 ms  19.396 ms
+"
+english.ruvr.ru,8," 8  195.93.246.240 (195.93.246.240)  19.045 ms  19.084 ms  20.866 ms
+"

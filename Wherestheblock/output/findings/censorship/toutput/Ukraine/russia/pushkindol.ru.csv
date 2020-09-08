@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+pushkindol.ru,0,"traceroute to pushkindol.ru (78.140.140.232), 50 hops max, 60 byte packets
+"
+pushkindol.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.274 ms  0.298 ms
+"
+pushkindol.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.752 ms  1.960 ms  1.730 ms
+"
+pushkindol.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.333 ms  17.513 ms  17.826 ms
+"
+pushkindol.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.703 ms  22.630 ms  22.423 ms
+"
+pushkindol.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.675 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.539 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.714 ms
+"
+pushkindol.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.307 ms  39.539 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.656 ms
+"
+pushkindol.ru,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.228 ms be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  39.794 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  39.964 ms
+"
+pushkindol.ru,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.38)  36.373 ms 149.6.1.230 (149.6.1.230)  44.756 ms 149.14.92.26 (149.14.92.26)  42.228 ms
+"
+pushkindol.ru,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  44.065 ms  44.058 ms  44.049 ms
+"
+pushkindol.ru,10,"10  * * *
+"
+pushkindol.ru,11,"11  cpanel22.v.fozzy.com (78.140.140.232)  36.636 ms  37.162 ms  36.609 ms
+"

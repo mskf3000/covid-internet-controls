@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+bonprix.ru,0,"traceroute to bonprix.ru (195.50.176.35), 50 hops max, 60 byte packets
+"
+bonprix.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.325 ms  0.368 ms
+"
+bonprix.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.614 ms  0.556 ms  0.647 ms
+"
+bonprix.ru,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  36.808 ms  36.805 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  34.173 ms
+"
+bonprix.ru,4," 4  FFMGW3.arcor-ip.net (80.81.192.117)  32.366 ms  32.350 ms FFMGW4.arcor-ip.net (80.81.193.117)  31.409 ms
+"
+bonprix.ru,5," 5  145.254.2.206 (145.254.2.206)  32.149 ms 145.254.2.208 (145.254.2.208)  31.356 ms  31.355 ms
+"
+bonprix.ru,6," 6  145.254.1.153 (145.254.1.153)  39.504 ms 145.254.3.37 (145.254.3.37)  42.689 ms  42.574 ms
+"
+bonprix.ru,7," 7  145.254.2.139 (145.254.2.139)  39.611 ms  41.852 ms  42.128 ms
+"
+bonprix.ru,8," 8  92.79.215.35 (92.79.215.35)  39.602 ms 92.79.215.33 (92.79.215.33)  41.121 ms 92.79.215.35 (92.79.215.35)  39.593 ms
+"
+bonprix.ru,9," 9  188.111.149.114 (188.111.149.114)  47.752 ms  46.950 ms  46.482 ms
+"
+bonprix.ru,10,"10  195.50.167.229 (195.50.167.229)  47.227 ms  45.912 ms  47.126 ms
+"
+bonprix.ru,11,"11  * * *
+"
+bonprix.ru,12,"12  www.bonprix.ru (195.50.176.35)  45.992 ms  45.731 ms  47.550 ms
+"
+bonprix.ru,13,"13  www.bonprix.ru (195.50.176.35)  45.289 ms  46.531 ms  45.720 ms
+"

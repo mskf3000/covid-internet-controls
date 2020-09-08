@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+cripo.com.ua,0,"traceroute to cripo.com.ua (81.171.3.145), 30 hops max, 60 byte packets
+"
+cripo.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.476 ms  2.504 ms  2.576 ms
+"
+cripo.com.ua,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.548 ms  0.637 ms  0.576 ms
+"
+cripo.com.ua,3," 3  100.64.65.25 (100.64.65.25)  23.397 ms  23.397 ms  7.911 ms
+"
+cripo.com.ua,4," 4  100.64.64.125 (100.64.64.125)  14.559 ms  14.560 ms  14.549 ms
+"
+cripo.com.ua,5," 5  100.64.65.237 (100.64.65.237)  32.193 ms  32.661 ms  32.655 ms
+"
+cripo.com.ua,6," 6  et-1-0-0.bb04.ams-01.leaseweb.net (80.249.209.215)  33.546 ms  34.078 ms  33.599 ms
+"
+cripo.com.ua,7," 7  be-104.br02.ams-01.nl.leaseweb.net (31.31.38.143)  36.141 ms  38.216 ms  36.488 ms
+"
+cripo.com.ua,8," 8  be-10.cr02.ams-01.nl.leaseweb.net (81.17.34.21)  36.452 ms ae-11.cr01.ams-01.nl.leaseweb.net (81.17.34.19)  35.964 ms be-11.cr02.ams-01.nl.leaseweb.net (81.17.34.23)  37.116 ms
+"
+cripo.com.ua,9," 9  po-1002.ce02.ams-01.nl.leaseweb.net (81.17.33.135)  34.138 ms  34.075 ms po-1001.ce02.ams-01.nl.leaseweb.net (81.17.33.133)  33.795 ms
+"
+cripo.com.ua,10,"10  81.171.3.145 (81.171.3.145)  36.194 ms  36.364 ms  33.925 ms
+"

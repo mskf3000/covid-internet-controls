@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+brttv.ru,0,"traceroute to brttv.ru (194.11.28.2), 30 hops max, 60 byte packets
+"
+brttv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.348 ms  0.334 ms  0.375 ms
+"
+brttv.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.982 ms  1.111 ms  1.076 ms
+"
+brttv.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.000 ms  17.041 ms  17.074 ms
+"
+brttv.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  34.439 ms  34.432 ms  34.572 ms
+"
+brttv.ru,5," 5  et-0-0-19.cr2-fra6.ip4.gtt.net (89.149.133.62)  33.608 ms  33.609 ms  33.597 ms
+"
+brttv.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  40.951 ms  41.087 ms  41.012 ms
+"
+brttv.ru,7," 7  87.226.183.91 (87.226.183.91)  60.110 ms 87.226.181.87 (87.226.181.87)  41.249 ms 87.226.183.91 (87.226.183.91)  44.915 ms
+"
+brttv.ru,8," 8  * * *
+"
+brttv.ru,9," 9  178.34.153.50 (178.34.153.50)  71.330 ms  74.760 ms *
+"
+brttv.ru,10,"10  178.34.153.50 (178.34.153.50)  63.710 ms  64.762 ms  64.779 ms
+"
+brttv.ru,11,"11  194.11.28.2 (194.11.28.2)  79.516 ms  63.847 ms  75.776 ms
+"

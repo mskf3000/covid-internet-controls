@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+chip.de,0,"traceroute to chip.de (84.53.161.81), 30 hops max, 60 byte packets
+"
+chip.de,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.715 ms  1.709 ms  1.707 ms
+"
+chip.de,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.681 ms  0.688 ms  0.687 ms
+"
+chip.de,3," 3  100.64.65.25 (100.64.65.25)  9.023 ms  9.036 ms  9.035 ms
+"
+chip.de,4," 4  100.64.65.85 (100.64.65.85)  35.852 ms  35.862 ms  35.862 ms
+"
+chip.de,5," 5  193.203.0.167 (193.203.0.167)  19.953 ms  19.957 ms  19.987 ms
+"
+chip.de,6," 6  a84-53-161-81.deploy.static.akamaitechnologies.com (84.53.161.81)  18.889 ms  18.591 ms  18.624 ms
+"

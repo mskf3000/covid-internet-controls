@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+yabloko.ru,0,"traceroute to yabloko.ru (92.63.110.167), 50 hops max, 60 byte packets
+"
+yabloko.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.295 ms  0.305 ms
+"
+yabloko.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.008 ms  20.715 ms  17.374 ms
+"
+yabloko.ru,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  16.889 ms  17.646 ms  17.898 ms
+"
+yabloko.ru,4," 4  core.webdc.ru (92.63.108.98)  17.071 ms  17.769 ms  17.089 ms
+"
+yabloko.ru,5," 5  hs2.yabloko.ru (92.63.110.167)  17.905 ms  17.251 ms  19.712 ms
+"

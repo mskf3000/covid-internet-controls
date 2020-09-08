@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mail.rambler.ru,0,"traceroute to mail.rambler.ru (81.19.78.83), 50 hops max, 60 byte packets
+"
+mail.rambler.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.311 ms  0.509 ms
+"
+mail.rambler.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.575 ms  18.066 ms  16.993 ms
+"
+mail.rambler.ru,3," 3  109.239.134.66 (109.239.134.66)  21.880 ms  19.294 ms  19.281 ms
+"
+mail.rambler.ru,4," 4  ae4.j-mx240.os.ramtel.ru (81.19.64.83)  17.378 ms  17.280 ms  17.617 ms
+"
+mail.rambler.ru,5," 5  * * *
+"
+mail.rambler.ru,6," 6  * * *
+"
+mail.rambler.ru,7," 7  mail.rambler.ru (81.19.78.83)  16.620 ms  16.655 ms  20.334 ms
+"

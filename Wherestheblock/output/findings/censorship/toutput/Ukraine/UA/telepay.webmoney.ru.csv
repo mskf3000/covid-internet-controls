@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+telepay.webmoney.ru,0,"traceroute to telepay.webmoney.ru (91.227.52.155), 30 hops max, 60 byte packets
+"
+telepay.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.801 ms  0.787 ms  0.783 ms
+"
+telepay.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.493 ms  0.520 ms  0.536 ms
+"
+telepay.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.992 ms  15.900 ms  15.884 ms
+"
+telepay.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.800 ms  15.799 ms  15.836 ms
+"
+telepay.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.102 ms  17.000 ms  17.175 ms
+"
+telepay.webmoney.ru,6," 6  91.227.52.155 (91.227.52.155)  16.631 ms  16.646 ms  16.646 ms
+"

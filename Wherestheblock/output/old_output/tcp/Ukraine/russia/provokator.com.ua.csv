@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+provokator.com.ua,0,"traceroute to provokator.com.ua (185.68.16.21), 50 hops max, 60 byte packets
+"
+provokator.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.294 ms  0.321 ms
+"
+provokator.com.ua,2," 2  deltax2-ix.giganet.ua (185.1.63.61)  0.614 ms  0.641 ms  0.682 ms
+"
+provokator.com.ua,3," 3  * * *
+"
+provokator.com.ua,4," 4  web580.default-host.net (185.68.16.21)  0.813 ms  0.751 ms  0.793 ms
+"

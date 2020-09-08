@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+yandex.ru,0,"traceroute to yandex.ru (77.88.55.80), 50 hops max, 60 byte packets
+"
+yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.329 ms  0.349 ms  0.390 ms
+"
+yandex.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.786 ms  0.603 ms  0.812 ms
+"
+yandex.ru,3," 3  10.11.12.17 (10.11.12.17)  1.022 ms  1.110 ms  17.309 ms
+"
+yandex.ru,4," 4  * * *
+"
+yandex.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.133 ms  0.899 ms  1.324 ms
+"
+yandex.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.605 ms  19.685 ms  19.648 ms
+"
+yandex.ru,7," 7  GW-Yandex.retn.net (87.245.253.122)  18.874 ms  19.027 ms GW-Yandex.retn.net (87.245.229.253)  22.367 ms
+"
+yandex.ru,8," 8  iva-e2-eth-trunk82.yndx.net (213.180.213.247)  21.564 ms myt-c1-ae11.yndx.net (87.250.239.12)  18.752 ms iva-e2-eth-trunk82.yndx.net (213.180.213.247)  21.192 ms
+"
+yandex.ru,9," 9  yandex.ru (77.88.55.80)  27.336 ms  27.146 ms *
+"

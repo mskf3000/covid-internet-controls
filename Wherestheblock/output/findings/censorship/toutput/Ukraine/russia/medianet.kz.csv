@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+medianet.kz,0,"traceroute to medianet.kz (185.98.7.114), 50 hops max, 60 byte packets
+"
+medianet.kz,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.829 ms  1.817 ms  1.812 ms
+"
+medianet.kz,2," 2  dtel-ix.reacom.eu (193.25.181.78)  18.709 ms  18.612 ms  18.655 ms
+"
+medianet.kz,3," 3  5.187.73.18 (5.187.73.18)  21.419 ms  21.450 ms  21.442 ms
+"
+medianet.kz,4," 4  178.210.33.73 (178.210.33.73)  62.642 ms  63.111 ms  62.604 ms
+"
+medianet.kz,5," 5  95.59.172.36.static.telecom.kz (95.59.172.36)  70.349 ms  70.029 ms  70.684 ms
+"
+medianet.kz,6," 6  95.59.170.135 (95.59.170.135)  65.790 ms  68.297 ms  68.193 ms
+"
+medianet.kz,7," 7  95.59.174.81 (95.59.174.81)  63.777 ms  63.583 ms  64.363 ms
+"
+medianet.kz,8," 8  95.59.170.132 (95.59.170.132)  92.659 ms  141.031 ms  83.492 ms
+"
+medianet.kz,9," 9  92.47.151.205 (92.47.151.205)  86.188 ms  85.793 ms 95.59.172.46.static.telecom.kz (95.59.172.46)  84.124 ms
+"
+medianet.kz,10,"10  92.47.151.209 (92.47.151.209)  85.907 ms  85.894 ms 89.218.110.241 (89.218.110.241)  80.479 ms
+"
+medianet.kz,11,"11  filter.hoster.kz (89.218.102.1)  79.288 ms 89.218.110.241 (89.218.110.241)  87.347 ms filter.hoster.kz (89.218.102.1)  79.001 ms
+"
+medianet.kz,12,"12  filter.hoster.kz (89.218.102.1)  80.083 ms pkz8.hoster.kz (185.98.7.114)  78.935 ms  82.544 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+soskin.blogspot.com,0,"traceroute to soskin.blogspot.com (216.58.209.1), 30 hops max, 60 byte packets
+"
+soskin.blogspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.249 ms  0.270 ms  0.296 ms
+"
+soskin.blogspot.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.613 ms * *
+"
+soskin.blogspot.com,3," 3  100.64.64.58 (100.64.64.58)  0.636 ms  0.670 ms  0.706 ms
+"
+soskin.blogspot.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.693 ms  0.845 ms  0.711 ms
+"
+soskin.blogspot.com,5," 5  108.170.248.147 (108.170.248.147)  0.910 ms  0.990 ms  1.303 ms
+"
+soskin.blogspot.com,6," 6  209.85.248.105 (209.85.248.105)  13.972 ms 108.170.234.224 (108.170.234.224)  2.310 ms 209.85.248.105 (209.85.248.105)  15.035 ms
+"
+soskin.blogspot.com,7," 7  216.239.46.121 (216.239.46.121)  14.977 ms  14.879 ms 108.170.250.193 (108.170.250.193)  13.800 ms
+"
+soskin.blogspot.com,8," 8  108.170.250.193 (108.170.250.193)  13.856 ms 172.253.68.29 (172.253.68.29)  14.491 ms 172.253.68.31 (172.253.68.31)  14.478 ms
+"
+soskin.blogspot.com,9," 9  sof01s12-in-f1.1e100.net (216.58.209.1)  13.867 ms  15.211 ms  13.844 ms
+"

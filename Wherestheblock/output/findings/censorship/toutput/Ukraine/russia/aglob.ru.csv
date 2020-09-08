@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+aglob.ru,0,"traceroute to aglob.ru (185.154.54.9), 50 hops max, 60 byte packets
+"
+aglob.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.325 ms  0.343 ms  0.384 ms
+"
+aglob.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.516 ms  16.100 ms  16.883 ms
+"
+aglob.ru,3," 3  * * *
+"
+aglob.ru,4," 4  10.0.92.141 (10.0.92.141)  16.883 ms  18.456 ms  18.470 ms
+"
+aglob.ru,5," 5  ddos-guard.net (185.129.103.17)  16.267 ms  16.223 ms  18.533 ms
+"
+aglob.ru,6," 6  * * *
+"
+aglob.ru,7," 7  * * *
+"
+aglob.ru,8," 8  isp109.eurobyte.ru (185.154.54.9)  17.279 ms  16.635 ms  20.772 ms
+"

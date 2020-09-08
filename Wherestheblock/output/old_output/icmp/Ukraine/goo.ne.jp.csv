@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+goo.ne.jp,0,"traceroute to goo.ne.jp (153.254.147.65), 30 hops max, 60 byte packets
+"
+goo.ne.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.350 ms  0.341 ms  0.336 ms
+"
+goo.ne.jp,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.080 ms  1.112 ms  1.155 ms
+"
+goo.ne.jp,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.013 ms  17.047 ms  17.078 ms
+"
+goo.ne.jp,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.339 ms  18.306 ms  18.302 ms
+"
+goo.ne.jp,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.487 ms  18.601 ms  18.772 ms
+"
+goo.ne.jp,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  292.164 ms  292.886 ms  292.882 ms
+"
+goo.ne.jp,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.659 ms  29.664 ms  29.708 ms
+"
+goo.ne.jp,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  130.173 ms  130.453 ms *
+"
+goo.ne.jp,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  189.068 ms  189.066 ms *
+"
+goo.ne.jp,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  296.513 ms  296.522 ms  296.676 ms
+"
+goo.ne.jp,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  290.641 ms  290.692 ms  290.691 ms
+"
+goo.ne.jp,12,"12  ae-1.a00.tokyjp05.jp.bb.gin.ntt.net (129.250.4.26)  304.527 ms  304.023 ms  307.398 ms
+"
+goo.ne.jp,13,"13  xe-0-0-22-2.a00.tokyjp05.jp.ce.gin.ntt.net (61.213.145.182)  304.429 ms  304.461 ms  297.456 ms
+"
+goo.ne.jp,14,"14  153.254.146.253 (153.254.146.253)  290.628 ms  290.617 ms  290.601 ms
+"
+goo.ne.jp,15,"15  www.goo.ne.jp (153.254.147.65)  289.405 ms  289.412 ms  289.380 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+fairhost.ru,0,"traceroute to fairhost.ru (217.112.35.76), 50 hops max, 60 byte packets
+"
+fairhost.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.472 ms  1.479 ms  1.528 ms
+"
+fairhost.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.814 ms  0.904 ms  0.594 ms
+"
+fairhost.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.310 ms ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  21.177 ms ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.124 ms
+"
+fairhost.ru,4," 4  62.105.135.84 (62.105.135.84)  21.675 ms 82.142.135.234 (82.142.135.234)  21.662 ms  21.745 ms
+"
+fairhost.ru,5," 5  * * *
+"
+fairhost.ru,6," 6  195.239.139.166 (195.239.139.166)  33.814 ms  40.062 ms  40.082 ms
+"
+fairhost.ru,7," 7  v77-u.valuehost.ru (217.112.35.76)  29.177 ms  28.918 ms  35.787 ms
+"

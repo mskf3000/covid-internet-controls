@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ctc.ru,0,"traceroute to ctc.ru (94.140.201.120), 50 hops max, 60 byte packets
+"
+ctc.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.365 ms  0.351 ms
+"
+ctc.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.073 ms  16.802 ms  16.072 ms
+"
+ctc.ru,3," 3  as20764.ix.dataix.ru (178.18.224.44)  17.457 ms  19.568 ms  18.111 ms
+"
+ctc.ru,4," 4  81.27.254.93.rascom.as20764.net (81.27.254.93)  19.656 ms  20.285 ms  19.629 ms
+"
+ctc.ru,5," 5  videomore.ru (94.140.201.120)  115.105 ms  116.657 ms  94.511 ms
+"

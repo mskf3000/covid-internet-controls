@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+tushkan.club,0,"traceroute to tushkan.club (104.28.10.64), 50 hops max, 60 byte packets
+"
+tushkan.club,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.363 ms  6.447 ms  6.553 ms
+"
+tushkan.club,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.236 ms  1.390 ms  1.373 ms
+"
+tushkan.club,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.071 ms  9.279 ms  9.348 ms
+"
+tushkan.club,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  12.248 ms  12.190 ms  12.305 ms
+"
+tushkan.club,5," 5  149.14.58.106 (149.14.58.106)  12.650 ms  12.697 ms  12.684 ms
+"
+tushkan.club,6," 6  104.28.10.64 (104.28.10.64)  11.942 ms  11.684 ms  11.833 ms
+"

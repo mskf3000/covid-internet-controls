@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+looo.ch,0,"traceroute to looo.ch (104.26.7.50), 50 hops max, 60 byte packets
+"
+looo.ch,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.483 ms  0.472 ms  0.474 ms
+"
+looo.ch,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.053 ms  0.925 ms  0.932 ms
+"
+looo.ch,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  2.485 ms  2.479 ms  0.906 ms
+"
+looo.ch,4," 4  149.6.191.138 (149.6.191.138)  2.124 ms  2.123 ms  2.118 ms
+"
+looo.ch,5," 5  104.26.7.50 (104.26.7.50)  0.535 ms  0.575 ms  0.554 ms
+"

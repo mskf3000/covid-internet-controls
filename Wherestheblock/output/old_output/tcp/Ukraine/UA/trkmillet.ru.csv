@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+trkmillet.ru,0,"traceroute to trkmillet.ru (194.58.121.208), 30 hops max, 60 byte packets
+"
+trkmillet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.317 ms  0.306 ms  0.324 ms
+"
+trkmillet.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.543 ms  2.170 ms  2.153 ms
+"
+trkmillet.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.923 ms  15.911 ms  15.866 ms
+"
+trkmillet.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.399 ms  17.391 ms  17.383 ms
+"
+trkmillet.ru,5," 5  * * *
+"
+trkmillet.ru,6," 6  172.16.71.11 (172.16.71.11)  17.198 ms  16.833 ms  16.771 ms
+"
+trkmillet.ru,7," 7  194-58-121-208.xs.vps.regruhosting.ru (194.58.121.208)  17.574 ms  16.852 ms  17.466 ms
+"

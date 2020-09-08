@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+team29.org,0,"traceroute to team29.org (95.216.65.133), 50 hops max, 60 byte packets
+"
+team29.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.603 ms  7.597 ms  7.639 ms
+"
+team29.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.525 ms  0.758 ms  0.815 ms
+"
+team29.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.162 ms  28.644 ms  26.154 ms
+"
+team29.org,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.614 ms  28.617 ms  31.069 ms
+"
+team29.org,5," 5  core31.hel1.hetzner.com (213.239.224.150)  39.966 ms  44.614 ms  44.607 ms
+"
+team29.org,6," 6  ex9k2.dc2.hel.hetzner.com (213.239.224.146)  42.721 ms  42.459 ms  42.619 ms
+"
+team29.org,7," 7  mx.team29.org (95.216.65.133)  42.638 ms  40.157 ms  42.749 ms
+"

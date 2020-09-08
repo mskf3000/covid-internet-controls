@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+postila.ru,0,"traceroute to postila.ru (94.130.145.77), 50 hops max, 60 byte packets
+"
+postila.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.931 ms  3.918 ms  3.914 ms
+"
+postila.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.022 ms  0.563 ms  0.561 ms
+"
+postila.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.687 ms  28.728 ms  26.196 ms
+"
+postila.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  29.529 ms  31.058 ms  29.545 ms
+"
+postila.ru,5," 5  core5.fra.hetzner.com (213.239.224.218)  32.878 ms core4.fra.hetzner.com (213.239.245.85)  31.527 ms  31.529 ms
+"
+postila.ru,6," 6  core22.fsn1.hetzner.com (213.239.245.178)  39.665 ms core21.fsn1.hetzner.com (213.239.245.217)  34.005 ms core22.fsn1.hetzner.com (213.239.252.34)  37.865 ms
+"
+postila.ru,7," 7  ex9k1.dc1.fsn1.hetzner.com (213.239.245.234)  37.598 ms  41.580 ms  37.631 ms
+"
+postila.ru,8," 8  static.77.145.130.94.clients.your-server.de (94.130.145.77)  35.491 ms  39.766 ms  37.647 ms
+"

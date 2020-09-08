@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+credit.webmoney.ru,0,"traceroute to credit.webmoney.ru (91.227.52.18), 30 hops max, 60 byte packets
+"
+credit.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.418 ms  1.413 ms  1.409 ms
+"
+credit.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.518 ms  0.538 ms  0.507 ms
+"
+credit.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.864 ms  15.856 ms  20.539 ms
+"
+credit.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.789 ms  15.811 ms  15.804 ms
+"
+credit.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.108 ms  17.179 ms  17.220 ms
+"
+credit.webmoney.ru,6," 6  91.227.52.18 (91.227.52.18)  16.666 ms  16.670 ms  16.642 ms
+"

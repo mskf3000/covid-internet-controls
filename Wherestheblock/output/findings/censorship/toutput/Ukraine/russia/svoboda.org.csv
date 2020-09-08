@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+svoboda.org,0,"traceroute to svoboda.org (104.96.91.72), 50 hops max, 60 byte packets
+"
+svoboda.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.170 ms  2.141 ms  2.131 ms
+"
+svoboda.org,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.551 ms  0.587 ms  0.580 ms
+"
+svoboda.org,3," 3  100.64.65.25 (100.64.65.25)  8.857 ms  9.214 ms  8.843 ms
+"
+svoboda.org,4," 4  100.64.65.85 (100.64.65.85)  26.460 ms  26.428 ms  26.440 ms
+"
+svoboda.org,5," 5  * * *
+"
+svoboda.org,6," 6  a104-96-91-72.deploy.static.akamaitechnologies.com (104.96.91.72)  18.904 ms  20.121 ms  18.559 ms
+"

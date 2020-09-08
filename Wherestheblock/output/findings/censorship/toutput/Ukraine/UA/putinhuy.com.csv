@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+putinhuy.com,0,"traceroute to putinhuy.com (82.196.4.108), 30 hops max, 60 byte packets
+"
+putinhuy.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.869 ms  5.857 ms  5.852 ms
+"
+putinhuy.com,2," 2  * kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.589 ms *
+"
+putinhuy.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.475 ms  38.469 ms  38.451 ms
+"
+putinhuy.com,4," 4  digital-ocean-ams-peering.fiord.net (62.140.243.19)  38.477 ms  38.465 ms  36.015 ms
+"
+putinhuy.com,5," 5  138.197.244.72 (138.197.244.72)  36.165 ms 138.197.244.82 (138.197.244.82)  33.750 ms 138.197.244.84 (138.197.244.84)  33.730 ms
+"
+putinhuy.com,6," 6  * * *
+"
+putinhuy.com,7," 7  putinhuy.com (82.196.4.108)  37.029 ms  38.796 ms  34.479 ms
+"

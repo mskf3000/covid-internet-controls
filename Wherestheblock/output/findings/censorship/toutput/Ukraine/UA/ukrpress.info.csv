@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+ukrpress.info,0,"traceroute to ukrpress.info (129.121.18.215), 30 hops max, 60 byte packets
+"
+ukrpress.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.001 ms  3.983 ms  3.968 ms
+"
+ukrpress.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.873 ms  2.870 ms  2.859 ms
+"
+ukrpress.info,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.966 ms  17.193 ms  16.952 ms
+"
+ukrpress.info,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.326 ms  24.917 ms  25.297 ms
+"
+ukrpress.info,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  33.213 ms  33.195 ms  33.242 ms
+"
+ukrpress.info,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  42.020 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.612 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.523 ms
+"
+ukrpress.info,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  141.042 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.815 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  137.786 ms
+"
+ukrpress.info,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.496 ms  135.526 ms  135.837 ms
+"
+ukrpress.info,9," 9  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.557 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.628 ms be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.778 ms
+"
+ukrpress.info,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.675 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  139.504 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.447 ms
+"
+ukrpress.info,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  139.966 ms  140.430 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  136.048 ms
+"
+ukrpress.info,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  146.954 ms  151.744 ms be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  160.184 ms
+"
+ukrpress.info,13,"13  be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  157.161 ms be2432.ccr31.dfw01.atlas.cogentco.com (154.54.3.133)  157.471 ms be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  161.306 ms
+"
+ukrpress.info,14,"14  be2560.rcr21.b010621-0.dfw01.atlas.cogentco.com (154.54.5.238)  157.128 ms  157.052 ms be2561.rcr21.b010621-0.dfw01.atlas.cogentco.com (154.54.6.74)  162.307 ms
+"
+ukrpress.info,15,"15  38.32.13.210 (38.32.13.210)  156.838 ms  157.311 ms ip-129-121-18-215.local (129.121.18.215)  159.049 ms
+"

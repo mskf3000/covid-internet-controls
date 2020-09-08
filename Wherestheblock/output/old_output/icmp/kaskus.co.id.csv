@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+kaskus.co.id,0,"traceroute to kaskus.co.id (103.6.117.2), 30 hops max, 60 byte packets
+"
+kaskus.co.id,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.321 ms  0.321 ms
+"
+kaskus.co.id,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.710 ms  0.715 ms  0.711 ms
+"
+kaskus.co.id,3," 3  100.64.65.25 (100.64.65.25)  8.245 ms  8.249 ms  8.282 ms
+"
+kaskus.co.id,4," 4  100.64.64.141 (100.64.64.141)  30.510 ms  30.517 ms  30.516 ms
+"
+kaskus.co.id,5," 5  de-cix.sg.gs (80.81.193.18)  30.631 ms  30.628 ms  30.662 ms
+"
+kaskus.co.id,6," 6  edge-1.v35.sg3.sg.gs (103.14.244.9)  209.083 ms  209.118 ms  209.098 ms
+"
+kaskus.co.id,7," 7  103.14.244.155 (103.14.244.155)  213.938 ms  209.112 ms  209.122 ms
+"
+kaskus.co.id,8," 8  203.81.188.209 (203.81.188.209)  225.292 ms  225.625 ms  225.622 ms
+"
+kaskus.co.id,9," 9  honda.isat.net.id (58.65.240.14)  202.932 ms  202.302 ms  202.301 ms
+"
+kaskus.co.id,10,"10  HOST-58-65-242-98.isat.net.id (58.65.242.98)  215.917 ms  215.924 ms  215.924 ms
+"
+kaskus.co.id,11,"11  10.1.0.19 (10.1.0.19)  212.899 ms  212.345 ms  213.345 ms
+"
+kaskus.co.id,12,"12  10.1.0.34 (10.1.0.34)  217.290 ms  216.845 ms  216.603 ms
+"
+kaskus.co.id,13,"13  2-id.gb.castle.kaskus.com (103.6.117.2)  213.349 ms  213.346 ms  213.324 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+vesna-info.ru,0,"traceroute to vesna-info.ru (104.24.115.101), 30 hops max, 60 byte packets
+"
+vesna-info.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.280 ms  0.264 ms  0.284 ms
+"
+vesna-info.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.888 ms  2.398 ms  2.387 ms
+"
+vesna-info.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.742 ms  18.787 ms  18.809 ms
+"
+vesna-info.ru,4," 4  149.6.50.74 (149.6.50.74)  19.539 ms  19.529 ms  19.516 ms
+"
+vesna-info.ru,5," 5  104.24.115.101 (104.24.115.101)  18.486 ms  18.534 ms  18.584 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+passiya.com,0,"traceroute to passiya.com (88.99.70.9), 30 hops max, 60 byte packets
+"
+passiya.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.490 ms  7.450 ms  7.466 ms
+"
+passiya.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  6.879 ms  6.788 ms  6.846 ms
+"
+passiya.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  32.454 ms  32.450 ms  34.940 ms
+"
+passiya.com,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  37.258 ms  34.796 ms  34.778 ms
+"
+passiya.com,5," 5  core1.fra.hetzner.com (213.239.245.125)  34.833 ms core0.fra.hetzner.com (213.239.252.10)  37.495 ms core1.fra.hetzner.com (213.239.245.125)  37.481 ms
+"
+passiya.com,6," 6  core21.fsn1.hetzner.com (213.239.245.13)  42.638 ms core21.fsn1.hetzner.com (213.239.252.30)  33.170 ms core21.fsn1.hetzner.com (213.239.224.241)  36.264 ms
+"
+passiya.com,7," 7  ex9k1.dc1.fsn1.hetzner.com (213.239.245.230)  39.738 ms  39.757 ms  37.290 ms
+"
+passiya.com,8," 8  flora.mylove.ru (88.99.70.9)  39.353 ms  39.385 ms  37.079 ms
+"

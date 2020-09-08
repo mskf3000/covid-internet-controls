@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+keeper.webmoney.ru,0,"traceroute to keeper.webmoney.ru (91.227.52.90), 30 hops max, 60 byte packets
+"
+keeper.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.290 ms  0.305 ms
+"
+keeper.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.445 ms  0.530 ms  0.523 ms
+"
+keeper.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.937 ms  16.297 ms  15.911 ms
+"
+keeper.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.884 ms  15.895 ms  15.890 ms
+"
+keeper.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.222 ms  17.043 ms  17.084 ms
+"
+keeper.webmoney.ru,6," 6  91.227.52.90 (91.227.52.90)  16.892 ms  16.847 ms  16.863 ms
+"

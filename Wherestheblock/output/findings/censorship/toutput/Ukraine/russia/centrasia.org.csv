@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+centrasia.org,0,"traceroute to centrasia.org (90.156.201.42), 50 hops max, 60 byte packets
+"
+centrasia.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.913 ms  0.943 ms  0.938 ms
+"
+centrasia.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.742 ms  0.722 ms  0.725 ms
+"
+centrasia.org,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  21.124 ms  21.121 ms  21.115 ms
+"
+centrasia.org,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.845 ms  19.737 ms  19.703 ms
+"
+centrasia.org,5," 5  * * *
+"
+centrasia.org,6," 6  fe.shared.masterhost.ru (90.156.201.42)  19.876 ms  19.806 ms  19.031 ms
+"

@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+rdsa2013.com,0,"traceroute to rdsa2013.com (173.192.101.27), 30 hops max, 60 byte packets
+"
+rdsa2013.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.525 ms  0.492 ms  0.511 ms
+"
+rdsa2013.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.652 ms  0.592 ms  0.630 ms
+"
+rdsa2013.com,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.056 ms  31.603 ms  30.296 ms
+"
+rdsa2013.com,4," 4  bbr01.xn01.fra01.networklayer.com (80.81.194.167)  30.105 ms  30.246 ms  30.265 ms
+"
+rdsa2013.com,5," 5  * * *
+"
+rdsa2013.com,6," 6  ae0.cbs01.tg01.lon01.networklayer.com (50.97.19.191)  43.580 ms  42.935 ms *
+"
+rdsa2013.com,7," 7  * * *
+"
+rdsa2013.com,8," 8  * * *
+"
+rdsa2013.com,9," 9  * * *
+"
+rdsa2013.com,10,"10  * * *
+"
+rdsa2013.com,11,"11  ae34.bbr02.eq01.dal03.networklayer.com (50.97.17.59)  155.911 ms ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  148.638 ms  149.946 ms
+"
+rdsa2013.com,12,"12  ae6.dar02.dal05.networklayer.com (50.97.18.193)  150.153 ms  151.448 ms ae6.dar01.dal05.networklayer.com (50.97.18.195)  157.318 ms
+"
+rdsa2013.com,13,"13  po1.fcr01.sr01.dal05.networklayer.com (173.192.118.131)  150.775 ms po2.fcr01.sr01.dal05.networklayer.com (173.192.118.133)  151.405 ms  151.874 ms
+"
+rdsa2013.com,14,"14  1b.65.c0ad.ip4.static.sl-reverse.com (173.192.101.27)  149.412 ms  150.367 ms  148.942 ms
+"

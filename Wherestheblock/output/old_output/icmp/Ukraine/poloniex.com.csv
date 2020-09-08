@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+poloniex.com,0,"traceroute to poloniex.com (104.18.217.39), 30 hops max, 60 byte packets
+"
+poloniex.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.332 ms  0.372 ms
+"
+poloniex.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.038 ms  1.107 ms  1.197 ms
+"
+poloniex.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.019 ms  1.098 ms  1.140 ms
+"
+poloniex.com,4," 4  149.6.191.138 (149.6.191.138)  1.468 ms  1.468 ms  1.501 ms
+"
+poloniex.com,5," 5  104.18.217.39 (104.18.217.39)  0.644 ms  0.644 ms  0.682 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+stalinism.ru,0,"traceroute to stalinism.ru (37.143.11.143), 50 hops max, 60 byte packets
+"
+stalinism.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.279 ms  0.296 ms  0.324 ms
+"
+stalinism.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.805 ms  16.029 ms  18.274 ms
+"
+stalinism.ru,3," 3  * * *
+"
+stalinism.ru,4," 4  10.0.92.141 (10.0.92.141)  16.966 ms  17.186 ms  16.897 ms
+"
+stalinism.ru,5," 5  ddos-guard.net (185.129.103.17)  16.334 ms  16.631 ms  16.993 ms
+"
+stalinism.ru,6," 6  * * *
+"
+stalinism.ru,7," 7  master.zapravdu.ru (37.143.11.143)  17.401 ms  17.473 ms  19.493 ms
+"

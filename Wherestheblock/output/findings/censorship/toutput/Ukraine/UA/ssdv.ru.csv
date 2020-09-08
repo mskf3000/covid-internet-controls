@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ssdv.ru,0,"traceroute to ssdv.ru (185.11.75.27), 30 hops max, 60 byte packets
+"
+ssdv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.458 ms  0.447 ms  0.442 ms
+"
+ssdv.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.063 ms  16.008 ms  16.790 ms
+"
+ssdv.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  19.645 ms  20.145 ms  19.631 ms
+"
+ssdv.ru,4," 4  128.spb.net.selectel.ru (188.93.17.128)  23.883 ms  23.887 ms  23.876 ms
+"
+ssdv.ru,5," 5  141.spb.net.selectel.ru (188.93.17.141)  24.589 ms  24.524 ms  24.736 ms
+"
+ssdv.ru,6," 6  isp1.siteko.ru (185.11.75.27)  25.665 ms  25.458 ms  26.564 ms
+"

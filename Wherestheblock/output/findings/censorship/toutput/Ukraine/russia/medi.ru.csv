@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+medi.ru,0,"traceroute to medi.ru (91.232.135.132), 50 hops max, 60 byte packets
+"
+medi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.284 ms  0.313 ms
+"
+medi.ru,2," 2  * * *
+"
+medi.ru,3," 3  as20764.ix.dataix.ru (178.18.224.44)  18.311 ms  18.442 ms  18.578 ms
+"
+medi.ru,4," 4  81.27.254.37.rascom.as20764.net (81.27.254.37)  24.160 ms  24.178 ms  24.134 ms
+"
+medi.ru,5," 5  10.211.211.3 (10.211.211.3)  24.015 ms  23.998 ms  23.971 ms
+"
+medi.ru,6," 6  mixupload.org (91.232.135.132)  34.476 ms  34.078 ms  33.216 ms
+"

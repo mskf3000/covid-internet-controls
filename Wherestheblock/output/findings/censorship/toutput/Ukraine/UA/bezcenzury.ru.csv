@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+bezcenzury.ru,0,"traceroute to bezcenzury.ru (34.200.195.96), 30 hops max, 60 byte packets
+"
+bezcenzury.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.357 ms  0.362 ms
+"
+bezcenzury.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.819 ms  1.896 ms  1.945 ms
+"
+bezcenzury.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.795 ms  17.989 ms  17.977 ms
+"
+bezcenzury.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  23.203 ms  23.414 ms  23.258 ms
+"
+bezcenzury.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.606 ms  31.606 ms  31.655 ms
+"
+bezcenzury.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  40.450 ms  39.556 ms  39.520 ms
+"
+bezcenzury.ru,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.690 ms be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.072 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.625 ms
+"
+bezcenzury.ru,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.031 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.395 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  116.375 ms
+"
+bezcenzury.ru,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  116.928 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  116.326 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  116.892 ms
+"
+bezcenzury.ru,10,"10  38.140.107.42 (38.140.107.42)  118.062 ms 38.140.106.162 (38.140.106.162)  118.640 ms  118.623 ms
+"
+bezcenzury.ru,11,"11  52.93.31.33 (52.93.31.33)  114.153 ms 52.93.31.47 (52.93.31.47)  120.730 ms *
+"
+bezcenzury.ru,12,"12  52.93.4.40 (52.93.4.40)  111.614 ms 52.93.31.51 (52.93.31.51)  118.369 ms 52.93.31.53 (52.93.31.53)  117.959 ms
+"
+bezcenzury.ru,13,"13  * * *
+"
+bezcenzury.ru,14,"14  * 54.240.229.153 (54.240.229.153)  119.151 ms *
+"
+bezcenzury.ru,15,"15  * 150.222.240.56 (150.222.240.56)  116.732 ms 54.240.229.143 (54.240.229.143)  116.337 ms
+"
+bezcenzury.ru,16,"16  * * *
+"
+bezcenzury.ru,17,"17  * * *
+"
+bezcenzury.ru,18,"18  * * *
+"
+bezcenzury.ru,19,"19  * * *
+"
+bezcenzury.ru,20,"20  * * *
+"
+bezcenzury.ru,21,"21  * * *
+"
+bezcenzury.ru,22,"22  * * *
+"
+bezcenzury.ru,23,"23  * * *
+"
+bezcenzury.ru,24,"24  * * *
+"
+bezcenzury.ru,25,"25  * 52.93.28.112 (52.93.28.112)  118.893 ms 52.93.28.72 (52.93.28.72)  128.728 ms
+"
+bezcenzury.ru,26,"26  * 52.93.28.82 (52.93.28.82)  115.949 ms 52.93.28.86 (52.93.28.86)  116.048 ms
+"
+bezcenzury.ru,27,"27  * * *
+"
+bezcenzury.ru,28,"28  * * *
+"
+bezcenzury.ru,29,"29  * * *
+"
+bezcenzury.ru,30,"30  * * *
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+xn--80aaifmgl1achx.xn--p1ai,0,"traceroute to xn--80aaifmgl1achx.xn--p1ai (104.18.35.85), 30 hops max, 60 byte packets
+"
+xn--80aaifmgl1achx.xn--p1ai,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.392 ms  0.449 ms  0.443 ms
+"
+xn--80aaifmgl1achx.xn--p1ai,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.957 ms  0.900 ms  1.030 ms
+"
+xn--80aaifmgl1achx.xn--p1ai,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.810 ms  18.795 ms  19.172 ms
+"
+xn--80aaifmgl1achx.xn--p1ai,4," 4  149.6.50.74 (149.6.50.74)  19.422 ms  19.362 ms  19.358 ms
+"
+xn--80aaifmgl1achx.xn--p1ai,5," 5  104.18.35.85 (104.18.35.85)  18.534 ms  18.404 ms  18.712 ms
+"

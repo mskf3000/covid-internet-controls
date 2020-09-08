@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+blogs.privet.ru,0,"traceroute to blogs.privet.ru (64.34.89.162), 30 hops max, 60 byte packets
+"
+blogs.privet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.445 ms  0.425 ms  0.438 ms
+"
+blogs.privet.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.472 ms  2.156 ms  0.552 ms
+"
+blogs.privet.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.229 ms  26.167 ms  28.630 ms
+"
+blogs.privet.ru,4," 4  frk-eqx-cor-1.peer1.net (80.81.193.151)  28.758 ms  28.741 ms  31.364 ms
+"
+blogs.privet.ru,5," 5  216.187.88.139 (216.187.88.139)  121.811 ms  119.399 ms  121.709 ms
+"
+blogs.privet.ru,6," 6  10ge.xe-1-1-0.ldn-eqx-cor-1.peer1.net (216.187.120.49)  123.144 ms  122.774 ms  122.741 ms
+"
+blogs.privet.ru,7," 7  100ge.et-3-2-0.ldn-telehw-cor-1.peer1.net (216.187.112.246)  45.140 ms  47.543 ms  45.142 ms
+"
+blogs.privet.ru,8," 8  * * *
+"
+blogs.privet.ru,9," 9  * * *
+"
+blogs.privet.ru,10,"10  * * *
+"
+blogs.privet.ru,11,"11  * * *
+"
+blogs.privet.ru,12,"12  * * *
+"
+blogs.privet.ru,13,"13  * * *
+"
+blogs.privet.ru,14,"14  * * *
+"
+blogs.privet.ru,15,"15  * * *
+"
+blogs.privet.ru,16,"16  * * *
+"
+blogs.privet.ru,17,"17  * * *
+"
+blogs.privet.ru,18,"18  * * *
+"
+blogs.privet.ru,19,"19  * * *
+"
+blogs.privet.ru,20,"20  * * *
+"
+blogs.privet.ru,21,"21  * * *
+"
+blogs.privet.ru,22,"22  * * *
+"
+blogs.privet.ru,23,"23  * * *
+"
+blogs.privet.ru,24,"24  * * *
+"
+blogs.privet.ru,25,"25  * * *
+"
+blogs.privet.ru,26,"26  * * *
+"
+blogs.privet.ru,27,"27  * * *
+"
+blogs.privet.ru,28,"28  * * *
+"
+blogs.privet.ru,29,"29  * * *
+"
+blogs.privet.ru,30,"30  * * *
+"

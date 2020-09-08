@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+akm.ru,0,"traceroute to akm.ru (93.174.130.250), 30 hops max, 60 byte packets
+"
+akm.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.307 ms  0.349 ms
+"
+akm.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.709 ms  0.707 ms  0.689 ms
+"
+akm.ru,3," 3  * * *
+"
+akm.ru,4," 4  mstn.msk.cloud-ix.net (31.28.19.241)  26.492 ms  19.102 ms  26.523 ms
+"
+akm.ru,5," 5  l32-r1-Lo1.nc.mstn.ru (93.174.128.87)  19.251 ms  19.314 ms  26.133 ms
+"
+akm.ru,6," 6  gw-mstn.snet.ru (93.174.130.253)  32.443 ms  32.566 ms  31.804 ms
+"
+akm.ru,7," 7  io.snet.ru (93.174.130.250)  18.513 ms  22.331 ms  24.973 ms
+"

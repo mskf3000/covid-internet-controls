@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+zapmeta.ws,0,"traceroute to zapmeta.ws (146.177.11.177), 30 hops max, 60 byte packets
+"
+zapmeta.ws,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.346 ms  0.312 ms  0.301 ms
+"
+zapmeta.ws,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.685 ms  0.679 ms  0.671 ms
+"
+zapmeta.ws,3," 3  ae1-9.RT.TC2.LON.UK.retn.net (87.245.233.98)  39.871 ms  39.900 ms  40.023 ms
+"
+zapmeta.ws,4," 4  195.66.224.116 (195.66.224.116)  41.326 ms  41.320 ms  41.312 ms
+"
+zapmeta.ws,5," 5  10.25.3.65 (10.25.3.65)  42.175 ms 10.25.3.137 (10.25.3.137)  43.540 ms 10.25.3.143 (10.25.3.143)  41.872 ms
+"
+zapmeta.ws,6," 6  134.213.97.227 (134.213.97.227)  43.292 ms 134.213.97.211 (134.213.97.211)  42.665 ms 134.213.97.213 (134.213.97.213)  43.343 ms
+"
+zapmeta.ws,7," 7  corea-core4.lon3.rackspace.net (164.177.137.9)  41.697 ms corec-coreb.lon5.rackspace.net (162.13.232.14)  42.925 ms  42.103 ms
+"
+zapmeta.ws,8," 8  corea-core4.lon3.rackspace.net (164.177.137.9)  41.373 ms  43.300 ms core3-aggr301a.lon3.rackspace.net (134.213.97.171)  42.143 ms
+"
+zapmeta.ws,9," 9  146.177.11.177 (146.177.11.177)  42.003 ms core3-aggr301a.lon3.rackspace.net (134.213.97.171)  42.201 ms  42.925 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+etvnet.com,0,"traceroute to etvnet.com (104.20.3.29), 50 hops max, 60 byte packets
+"
+etvnet.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.301 ms  0.329 ms
+"
+etvnet.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.745 ms  0.780 ms  0.760 ms
+"
+etvnet.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.138 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.347 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.110 ms
+"
+etvnet.com,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.083 ms cloudflare-peering.fiord.net (80.77.167.7)  19.609 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.998 ms
+"
+etvnet.com,5," 5  104.20.3.29 (104.20.3.29)  17.540 ms cloudflare-peering.fiord.net (80.77.167.7)  18.141 ms 104.20.3.29 (104.20.3.29)  18.899 ms
+"

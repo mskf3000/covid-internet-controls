@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+globalvoicesonline.org,0,"traceroute to globalvoicesonline.org (213.108.110.5), 30 hops max, 60 byte packets
+"
+globalvoicesonline.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.614 ms  0.598 ms  0.638 ms
+"
+globalvoicesonline.org,2," 2  hurricane-ix.giganet.ua (185.1.62.230)  0.492 ms  0.491 ms  4.886 ms
+"
+globalvoicesonline.org,3," 3  100ge15-1.core1.vie1.he.net (184.104.192.225)  20.750 ms  20.803 ms  20.851 ms
+"
+globalvoicesonline.org,4," 4  100ge9-2.core1.muc1.he.net (184.105.65.110)  26.136 ms  26.128 ms  26.158 ms
+"
+globalvoicesonline.org,5," 5  100ge14-2.core1.fra2.he.net (184.105.223.109)  32.033 ms  32.077 ms  32.123 ms
+"
+globalvoicesonline.org,6," 6  100ge16-2.core1.fra1.he.net (72.52.92.85)  32.059 ms  32.032 ms  32.223 ms
+"
+globalvoicesonline.org,7," 7  ixreach-ltd.10gigabitethernet10-6.core1.fra1.he.net (216.66.85.62)  36.891 ms  36.878 ms  39.421 ms
+"
+globalvoicesonline.org,8," 8  ae0-3087.bb.eq7.ams.as43531.net (91.196.184.88)  42.162 ms  42.071 ms  42.061 ms
+"
+globalvoicesonline.org,9," 9  ae1.bb.drsp.ams.as43531.net (91.196.184.53)  41.902 ms  41.898 ms  42.020 ms
+"
+globalvoicesonline.org,10,"10  31.217.128.62 (31.217.128.62)  35.906 ms  35.892 ms  35.901 ms
+"
+globalvoicesonline.org,11,"11  web1.globalvoices.org (213.108.110.5)  36.801 ms  37.090 ms  36.232 ms
+"

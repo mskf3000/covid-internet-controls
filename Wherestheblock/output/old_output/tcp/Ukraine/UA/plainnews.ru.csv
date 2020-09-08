@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+plainnews.ru,0,"traceroute to plainnews.ru (104.27.128.27), 30 hops max, 60 byte packets
+"
+plainnews.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.323 ms  0.366 ms
+"
+plainnews.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.158 ms  2.292 ms  2.400 ms
+"
+plainnews.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.569 ms  19.637 ms  19.762 ms
+"
+plainnews.ru,4," 4  149.6.50.74 (149.6.50.74)  20.449 ms  20.183 ms  20.171 ms
+"
+plainnews.ru,5," 5  104.27.128.27 (104.27.128.27)  19.333 ms  19.339 ms  19.351 ms
+"

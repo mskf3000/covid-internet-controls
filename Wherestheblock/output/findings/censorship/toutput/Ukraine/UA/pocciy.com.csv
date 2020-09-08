@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+pocciy.com,0,"traceroute to pocciy.com (5.79.68.110), 30 hops max, 60 byte packets
+"
+pocciy.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.277 ms  0.322 ms
+"
+pocciy.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.575 ms  0.563 ms  0.546 ms
+"
+pocciy.com,3," 3  100.64.65.25 (100.64.65.25)  8.238 ms  7.898 ms  7.881 ms
+"
+pocciy.com,4," 4  100.64.64.125 (100.64.64.125)  14.559 ms  14.580 ms  14.412 ms
+"
+pocciy.com,5," 5  100.64.65.237 (100.64.65.237)  32.364 ms  32.140 ms  32.120 ms
+"
+pocciy.com,6," 6  et-1-0-0.bb04.ams-01.leaseweb.net (80.249.209.215)  33.959 ms  33.416 ms  33.768 ms
+"
+pocciy.com,7," 7  ae-104.br01.ams-01.nl.leaseweb.net (31.31.38.141)  36.445 ms be-104.br02.ams-01.nl.leaseweb.net (31.31.38.143)  36.793 ms ae-104.br01.ams-01.nl.leaseweb.net (31.31.38.141)  37.796 ms
+"
+pocciy.com,8," 8  ae-11.cr01.ams-01.nl.leaseweb.net (81.17.34.19)  36.736 ms ae-10.cr01.ams-01.nl.leaseweb.net (81.17.34.17)  36.250 ms  36.626 ms
+"
+pocciy.com,9," 9  po-1004.ce02.ams-01.nl.leaseweb.net (81.17.33.139)  35.768 ms po-1001.ce02.ams-01.nl.leaseweb.net (81.17.33.133)  34.045 ms po-1004.ce01.ams-01.nl.leaseweb.net (81.17.33.127)  33.287 ms
+"
+pocciy.com,10,"10  5.79.68.110 (5.79.68.110)  34.057 ms  35.864 ms  33.999 ms
+"

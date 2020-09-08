@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+adagamov.info,0,"traceroute to adagamov.info (81.19.74.25), 50 hops max, 60 byte packets
+"
+adagamov.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.581 ms  0.566 ms  0.605 ms
+"
+adagamov.info,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  16.821 ms  19.206 ms  18.397 ms
+"
+adagamov.info,3," 3  109.239.134.66 (109.239.134.66)  19.316 ms  19.576 ms  19.250 ms
+"
+adagamov.info,4," 4  ae4.j-mx240.os.ramtel.ru (81.19.64.83)  18.114 ms  17.952 ms  18.090 ms
+"
+adagamov.info,5," 5  * * *
+"
+adagamov.info,6," 6  * * *
+"
+adagamov.info,7," 7  81.19.74.25 (81.19.74.25)  16.564 ms  18.845 ms  17.462 ms
+"

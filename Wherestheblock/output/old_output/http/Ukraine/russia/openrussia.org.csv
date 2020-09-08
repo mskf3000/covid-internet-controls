@@ -1,0 +1,1640 @@
+URL,TTL,Message
+openrussia.org,1,timed out
+openrussia.org,2,timed out
+openrussia.org,3,timed out
+openrussia.org,4,timed out
+openrussia.org,5,timed out
+openrussia.org,6,timed out
+openrussia.org,7,timed out
+openrussia.org,8,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=OcYaZLdp9bgc5fNEdUSlzaxX8WpFsOe1; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""OcYaZLdp9bgc5fNEdUSlzaxX8WpFsOe1"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,9,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=QZRyOy5BkFy0Q7wtZsZHllPKeITYjWIh; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""QZRyOy5BkFy0Q7wtZsZHllPKeITYjWIh"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,10,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=DVSt0BEvrzIPiUD8z11GB6YRPd5q9Val; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""DVSt0BEvrzIPiUD8z11GB6YRPd5q9Val"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,11,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=2yqkaEEPtldZS0iZqLHta3Ey6Urr0hDU; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""2yqkaEEPtldZS0iZqLHta3Ey6Urr0hDU"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,12,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=3KUZRj6vYg2qanOvysUsmum6ysFP6tt7; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""3KUZRj6vYg2qanOvysUsmum6ysFP6tt7"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,13,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=hLqJP8GW5CLtpp09DHkjrX2JmRgMib9m; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""hLqJP8GW5CLtpp09DHkjrX2JmRgMib9m"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,14,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=o3BuYUky5szREjsgbzWyy8kvhx6NuABJ; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""o3BuYUky5szREjsgbzWyy8kvhx6NuABJ"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,15,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=0oLzI2LW4r0XVRZRDOGXENKDcrdfBEy2; expires=Thu, 21-Jan-2021 00:49:42 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""0oLzI2LW4r0XVRZRDOGXENKDcrdfBEy2"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,16,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=znIOHoOXbPpZGLWgw9RjiKDnLjW8Yncv; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""znIOHoOXbPpZGLWgw9RjiKDnLjW8Yncv"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,17,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=P0pl50ZZPwTcAFLhlA4Rw8QpJ8KkqT6T; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""P0pl50ZZPwTcAFLhlA4Rw8QpJ8KkqT6T"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,18,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=xo5DXnbn36iLraPbqAr5ucuQy1yzaplk; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""xo5DXnbn36iLraPbqAr5ucuQy1yzaplk"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,19,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=UfjHJW1kHUPWxcaFCWrGqRLFeyg5yRMa; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""UfjHJW1kHUPWxcaFCWrGqRLFeyg5yRMa"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,20,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=jsyVIsy856NDcR3GhU2SbuYtYTBLE4w8; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""jsyVIsy856NDcR3GhU2SbuYtYTBLE4w8"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,21,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=6z4C8vgIpLjmp0uv88zfsGBAhy6ncq10; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""6z4C8vgIpLjmp0uv88zfsGBAhy6ncq10"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png"""
+openrussia.org,22,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=xY7KizMwGnqQeQglTgOLtwyaRrrGSGaF; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""xY7KizMwGnqQeQglTgOLtwyaRrrGSGaF"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,23,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=FHSiSqQvM2elsh9JmmdSXfquDJEU9iut; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""FHSiSqQvM2elsh9JmmdSXfquDJEU9iut"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,24,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=jLbFeZQvVZL10ViZDphIMwJHRQ9Jw7pG; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""jLbFeZQvVZL10ViZDphIMwJHRQ9Jw7pG"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,25,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=6AgzWvoBl96NiELniN0zxjcyH6rKJobk; expires=Thu, 21-Jan-2021 00:49:43 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""6AgzWvoBl96NiELniN0zxjcyH6rKJobk"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,26,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=JgoLWOaWSMS8Hzp06zguQ0YZnAGmIsD7; expires=Thu, 21-Jan-2021 00:49:44 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""JgoLWOaWSMS8Hzp06zguQ0YZnAGmIsD7"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,27,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=DRi844kTMrTA09LbCSuYq9LEkbj40Rem; expires=Thu, 21-Jan-2021 00:49:44 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""DRi844kTMrTA09LbCSuYq9LEkbj40Rem"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"
+openrussia.org,28,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=sgCEWsvhxHLXkxT36qnC4KYKiCg7FdAc; expires=Thu, 21-Jan-2021 00:49:44 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""sgCEWsvhxHLXkxT36qnC4KYKiCg7FdAc"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png"""
+openrussia.org,29,"HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Thu, 23 Jan 2020 00:49:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=H5aDXTgAS9A6GTRcXYLK4fEdHCt8hCiT; expires=Thu, 21-Jan-2021 00:49:44 GMT; Max-Age=31449600; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: no-referrer-when-downgrade
+
+1f20
+<!doctype html>
+<html lang=""ru"">
+<head>
+    <meta charset=""UTF-8"">
+
+    <title>Главная — Открытая Россия</title>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+    <meta name=""keywords"" content=""""/>
+    <meta name=""description"" content=""""/>
+
+        <meta property=""og:type"" content=""website""/>
+        <meta name=""twitter:card"" content=""summary_large_image"">
+        <meta name=""twitter:site"" content=""@openrussia_org"">
+        <meta name=""twitter:creator"" content=""@openrussia_org"">
+
+        <meta property=""og:image"" content=""https://cdn.openrussia.org/static/img/fb.png""/>
+        <meta property=""og:image:width"" content=""1200""/>
+        <meta property=""og:image:height"" content=""630""/>
+        <meta name=""twitter:image"" content=""https://cdn.openrussia.org/static/img/fb.png"">
+
+        <meta property=""og:url"" content=""http://ojaloberoi.in/"">
+
+    <meta name=""twitter:title"" content=""Главная — Открытая Россия"">
+    <meta name=""twitter:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты."">
+
+    <meta property=""og:title"" content=""Главная — Открытая Россия""/>
+    <meta property=""og:description"" content=""От открытой информации – к открытой стране. Новости, блоги, спецпроекты.""/>
+    <meta property=""fb:app_id"" content=""571835472945512""/>
+    <meta property=""fb:pages"" content=""1481596028781372""/>
+
+    <meta name=""csrf-token"" content=""H5aDXTgAS9A6GTRcXYLK4fEdHCt8hCiT"">
+
+    <link rel=""apple-touch-icon-precomposed"" sizes=""152x152""
+          href=""https://cdn.openrussia.org/static/favicon/apple-touch-icon-152x152.png""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-32x32.png"" sizes=""32x32""/>
+    <link rel=""icon"" type=""image/png"" href=""https://cdn.openrussia.org/static/favicon/favicon-16x16.png"" sizes=""16x16""/>
+    <link rel=""shortcut icon"" href=""https://cdn.openrussia.org/static/favicon/favicon.ico"" type=""image/x-icon""/>
+    <meta name=""application-name"" content=""Открытая Россия""/>
+    <meta name=""msapplication-TileColor"" content=""#000000""/>
+    <meta name=""msapplication-TileImage"" content=""https://cdn.openrussia.org/static/favicon/mstile-144x144.png""/>
+
+
+
+        <link href=""https://cdn.openrussia.org/static/js/front/app.43d96982.css"" rel=""stylesheet"">
+        <link href=""https://cdn.openrussia.org/static/css/libs/slick.css"" rel=""stylesheet"">
+
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Bold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-Medium.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+    <link rel=""preload"" href=""https://cdn.openrussia.org/static/fonts/Qanelas-SemiBold.woff2"" as=""font"" type=""font/woff2"" crossorigin>
+</head>
+<body class="" "">
+<img style=""display:none"" alt="""" src=""/static/svg/front/symbol/svg/sprite.symbol.svg"">
+
+<div class=""Content"">
+<nav class=""GlobalNav GlobalNav--openRussia isClose"">
+    <div class=""GlobalNav-introRow"">
+        <div class=""GlobalNav-openButton isClose"">
+            <div class=""GlobalNav-buttonInner"">
+                <div class=""GlobalNav-openIcon"">
+                    <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 8.4 5.6""><style>.st0 {fill: transparent; stroke: #FFFFFF; stroke-width: 2; stroke-miterlimit: 10; }</style><path class=""st0"" d=""M.7.7l3.5 3.5L7.7.7""/></svg>"

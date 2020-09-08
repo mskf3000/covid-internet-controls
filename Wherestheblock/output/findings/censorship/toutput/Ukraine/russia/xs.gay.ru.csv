@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+xs.gay.ru,0,"traceroute to xs.gay.ru (213.183.33.10), 50 hops max, 60 byte packets
+"
+xs.gay.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.257 ms  0.240 ms  0.280 ms
+"
+xs.gay.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  17.493 ms  16.623 ms  16.798 ms
+"
+xs.gay.ru,3," 3  as56630.ix.dataix.ru (178.18.224.239)  18.248 ms  18.245 ms  18.275 ms
+"
+xs.gay.ru,4," 4  10.32.0.21 (10.32.0.21)  18.260 ms  18.259 ms  18.247 ms
+"
+xs.gay.ru,5," 5  213.183.33.10 (213.183.33.10)  17.734 ms  18.336 ms  18.949 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+fast-die.kiev.ua,0,"traceroute to fast-die.kiev.ua (144.76.143.1), 30 hops max, 60 byte packets
+"
+fast-die.kiev.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.364 ms  0.359 ms
+"
+fast-die.kiev.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.635 ms  0.517 ms  0.656 ms
+"
+fast-die.kiev.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.639 ms  26.182 ms  28.631 ms
+"
+fast-die.kiev.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.568 ms  28.565 ms  31.049 ms
+"
+fast-die.kiev.ua,5," 5  core5.fra.hetzner.com (213.239.224.218)  33.031 ms core0.fra.hetzner.com (213.239.252.10)  28.843 ms core5.fra.hetzner.com (213.239.224.218)  32.997 ms
+"
+fast-die.kiev.ua,6," 6  core23.fsn1.hetzner.com (213.239.229.74)  39.839 ms core23.fsn1.hetzner.com (213.239.252.38)  39.326 ms core24.fsn1.hetzner.com (213.239.203.150)  37.317 ms
+"
+fast-die.kiev.ua,7," 7  ex9k1.dc11.fsn1.hetzner.com (213.239.203.146)  36.316 ms ex9k1.dc11.fsn1.hetzner.com (213.239.203.142)  39.941 ms  37.448 ms
+"
+fast-die.kiev.ua,8," 8  static.1.143.76.144.clients.your-server.de (144.76.143.1)  37.486 ms  40.092 ms  37.267 ms
+"

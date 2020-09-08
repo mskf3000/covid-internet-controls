@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+vkontakte.ru,0,"traceroute to vkontakte.ru (87.240.190.67), 30 hops max, 60 byte packets
+"
+vkontakte.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.361 ms  0.353 ms  0.377 ms
+"
+vkontakte.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.981 ms  0.987 ms  1.027 ms
+"
+vkontakte.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.123 ms  17.156 ms  16.905 ms
+"
+vkontakte.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.625 ms  22.685 ms  22.673 ms
+"
+vkontakte.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.385 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.430 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.421 ms
+"
+vkontakte.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.218 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.557 ms  45.738 ms
+"
+vkontakte.ru,7," 7  be3377.ccr21.sto01.atlas.cogentco.com (154.54.36.90)  49.717 ms be3376.ccr21.sto01.atlas.cogentco.com (130.117.50.226)  46.104 ms  49.800 ms
+"
+vkontakte.ru,8," 8  universal-cdn.demarc.cogentco.com (149.6.168.174)  49.394 ms  49.562 ms  53.058 ms
+"
+vkontakte.ru,9," 9  * srv246-191-240-87.vk.com (87.240.191.246)  48.157 ms  48.182 ms
+"
+vkontakte.ru,10,"10  * * *
+"
+vkontakte.ru,11,"11  srv67-190-240-87.vk.com (87.240.190.67)  48.111 ms  53.157 ms  46.013 ms
+"

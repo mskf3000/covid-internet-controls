@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+xakep.ru,0,"traceroute to xakep.ru (178.248.232.27), 30 hops max, 60 byte packets
+"
+xakep.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.277 ms  0.308 ms
+"
+xakep.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.693 ms  0.717 ms  0.708 ms
+"
+xakep.ru,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  20.844 ms  20.875 ms  33.118 ms
+"
+xakep.ru,4," 4  GW-Xtend.retn.net (87.245.253.194)  20.810 ms  20.805 ms  20.798 ms
+"
+xakep.ru,5," 5  178.248.232.27 (178.248.232.27)  20.756 ms  20.751 ms  20.759 ms
+"

@@ -1,0 +1,61 @@
+URL,TTL,Response_Message
+mlb.com,0,"traceroute to mlb.com (209.102.213.14), 30 hops max, 60 byte packets
+"
+mlb.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.019 ms  4.038 ms  4.070 ms
+"
+mlb.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.042 ms  1.154 ms  1.142 ms
+"
+mlb.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.237 ms  17.174 ms  17.207 ms
+"
+mlb.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.353 ms  22.428 ms  22.366 ms
+"
+mlb.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.473 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.520 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.500 ms
+"
+mlb.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.434 ms  39.796 ms  39.673 ms
+"
+mlb.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.184 ms  115.234 ms  115.096 ms
+"
+mlb.com,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.361 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.639 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.262 ms
+"
+mlb.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  118.318 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  116.754 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.367 ms
+"
+mlb.com,10,"10  att.jfk10.atlas.cogentco.com (154.54.10.98)  118.573 ms  116.351 ms  119.958 ms
+"
+mlb.com,11,"11  cr2.n54ny.ip.att.net (12.122.130.170)  160.197 ms  163.647 ms  162.667 ms
+"
+mlb.com,12,"12  wswdc22crs.ip.att.net (12.122.28.42)  168.969 ms  165.823 ms  167.216 ms
+"
+mlb.com,13,"13  wswdc22crs.ip.att.net (12.122.28.42)  167.142 ms  168.736 ms  164.961 ms
+"
+mlb.com,14,"14  dlstx22crs.ip.att.net (12.122.2.110)  169.424 ms  164.559 ms  163.159 ms
+"
+mlb.com,15,"15  12.123.18.241 (12.123.18.241)  161.747 ms  159.952 ms  162.099 ms
+"
+mlb.com,16,"16  32.130.248.198 (32.130.248.198)  163.410 ms  161.796 ms 12.123.18.241 (12.123.18.241)  157.447 ms
+"
+mlb.com,17,"17  32.130.248.209 (32.130.248.209)  162.113 ms 32.130.248.225 (32.130.248.225)  158.583 ms  161.623 ms
+"
+mlb.com,18,"18  32.130.248.225 (32.130.248.225)  158.113 ms * *
+"
+mlb.com,19,"19  * * *
+"
+mlb.com,20,"20  * * *
+"
+mlb.com,21,"21  * * *
+"
+mlb.com,22,"22  * * *
+"
+mlb.com,23,"23  * * *
+"
+mlb.com,24,"24  * * *
+"
+mlb.com,25,"25  * * *
+"
+mlb.com,26,"26  * * *
+"
+mlb.com,27,"27  * * *
+"
+mlb.com,28,"28  * * *
+"
+mlb.com,29,"29  63.241.199.142 (63.241.199.142)  157.773 ms !X * *
+"

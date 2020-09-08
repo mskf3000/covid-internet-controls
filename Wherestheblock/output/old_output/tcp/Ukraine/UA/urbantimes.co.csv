@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+urbantimes.co,0,"traceroute to urbantimes.co (45.58.46.115), 30 hops max, 60 byte packets
+"
+urbantimes.co,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.393 ms  0.374 ms  0.394 ms
+"
+urbantimes.co,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.395 ms  1.464 ms  1.501 ms
+"
+urbantimes.co,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.278 ms  17.333 ms  17.288 ms
+"
+urbantimes.co,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.728 ms  22.729 ms  22.751 ms
+"
+urbantimes.co,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.924 ms  30.955 ms  31.012 ms
+"
+urbantimes.co,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.733 ms  39.672 ms  39.640 ms
+"
+urbantimes.co,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.919 ms  115.291 ms  115.235 ms
+"
+urbantimes.co,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.436 ms  118.313 ms  117.175 ms
+"
+urbantimes.co,9," 9  be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.606 ms be2262.rcr21.ewr03.atlas.cogentco.com (154.54.47.122)  117.794 ms  120.395 ms
+"
+urbantimes.co,10,"10  be3657.rcr51.ewr04.atlas.cogentco.com (154.24.33.170)  117.352 ms  116.606 ms  117.561 ms
+"
+urbantimes.co,11,"11  be3657.rcr51.ewr04.atlas.cogentco.com (154.24.33.170)  116.560 ms 38.104.44.142 (38.104.44.142)  120.642 ms  118.054 ms
+"
+urbantimes.co,12,"12  * * *
+"
+urbantimes.co,13,"13  urbantimes.co (45.58.46.115)  118.034 ms * *
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+xn----dtbrg3ale.xn--p1ai,0,"traceroute to xn----dtbrg3ale.xn--p1ai (195.5.108.94), 30 hops max, 60 byte packets
+"
+xn----dtbrg3ale.xn--p1ai,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.292 ms  0.276 ms
+"
+xn----dtbrg3ale.xn--p1ai,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.635 ms  0.500 ms  0.612 ms
+"
+xn----dtbrg3ale.xn--p1ai,3," 3  khar-atr-b1-ae1-vlan2038.fiord.net (80.77.167.150)  6.437 ms  6.407 ms  6.454 ms
+"
+xn----dtbrg3ale.xn--p1ai,4," 4  vrn-kvt-b1-ae1-vlan2041.fiord.net (62.140.239.8)  11.158 ms  10.684 ms  10.661 ms
+"
+xn----dtbrg3ale.xn--p1ai,5," 5  185.214.245.23 (185.214.245.23)  37.464 ms  38.216 ms sim.umlc.ru (185.214.245.3)  37.533 ms
+"
+xn----dtbrg3ale.xn--p1ai,6," 6  ip74-131-200-109.crelcom.ru (109.200.131.74)  47.933 ms  47.579 ms  47.561 ms
+"
+xn----dtbrg3ale.xn--p1ai,7," 7  195.5.108.94 (195.5.108.94)  49.914 ms  51.521 ms  47.852 ms
+"

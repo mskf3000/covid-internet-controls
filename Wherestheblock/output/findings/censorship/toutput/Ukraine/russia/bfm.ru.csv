@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+bfm.ru,0,"traceroute to bfm.ru (83.222.2.68), 50 hops max, 60 byte packets
+"
+bfm.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.691 ms  2.733 ms  2.728 ms
+"
+bfm.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.793 ms  16.781 ms  16.077 ms
+"
+bfm.ru,3," 3  as25532.ix.dataix.ru (178.18.226.7)  18.509 ms  18.496 ms  19.171 ms
+"
+bfm.ru,4," 4  msk-ff-22-vl18.masterhost.ru (217.16.23.242)  19.081 ms * msk-ff-99-vl18.masterhost.ru (217.16.23.245)  20.144 ms
+"
+bfm.ru,5," 5  83.222.2.68 (83.222.2.68)  17.962 ms  16.568 ms  19.699 ms
+"

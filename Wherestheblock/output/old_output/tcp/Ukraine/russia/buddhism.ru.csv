@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+buddhism.ru,0,"traceroute to buddhism.ru (217.64.167.98), 50 hops max, 60 byte packets
+"
+buddhism.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.310 ms  0.347 ms
+"
+buddhism.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.548 ms  0.539 ms  0.577 ms
+"
+buddhism.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.151 ms  28.649 ms  26.116 ms
+"
+buddhism.ru,4," 4  vlan-101.peer4.munich2.globalaccess.network (80.81.202.141)  34.711 ms  37.150 ms  37.174 ms
+"
+buddhism.ru,5," 5  tge-33-3018.fw8.munich1.globalaccess.network (217.64.161.33)  34.688 ms  37.125 ms  37.143 ms
+"
+buddhism.ru,6," 6  217.64.167.86 (217.64.167.86)  37.136 ms  37.959 ms  37.942 ms
+"
+buddhism.ru,7," 7  relay.buddhism.ru (217.64.167.98)  37.411 ms  38.126 ms  37.425 ms
+"

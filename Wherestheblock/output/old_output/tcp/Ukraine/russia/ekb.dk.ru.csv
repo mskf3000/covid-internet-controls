@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ekb.dk.ru,0,"traceroute to ekb.dk.ru (89.108.122.190), 50 hops max, 60 byte packets
+"
+ekb.dk.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.324 ms  0.329 ms
+"
+ekb.dk.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.681 ms  0.667 ms  0.653 ms
+"
+ekb.dk.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.894 ms  15.910 ms  16.030 ms
+"
+ekb.dk.ru,4," 4  * as7979-gw.fiord.net (62.140.239.159)  16.486 ms  17.250 ms
+"
+ekb.dk.ru,5," 5  * * *
+"
+ekb.dk.ru,6," 6  172.16.62.1 (172.16.62.1)  16.613 ms  16.984 ms  17.259 ms
+"
+ekb.dk.ru,7," 7  unknown-8274.agava.net (89.108.122.190)  16.679 ms  16.379 ms  16.344 ms
+"

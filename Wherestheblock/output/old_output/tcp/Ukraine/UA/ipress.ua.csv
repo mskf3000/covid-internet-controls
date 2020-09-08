@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ipress.ua,0,"traceroute to ipress.ua (104.31.1.167), 30 hops max, 60 byte packets
+"
+ipress.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.328 ms  0.348 ms  0.380 ms
+"
+ipress.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.951 ms  1.127 ms  1.032 ms
+"
+ipress.ua,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.881 ms  9.092 ms  8.776 ms
+"
+ipress.ua,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.837 ms  11.855 ms  11.814 ms
+"
+ipress.ua,5," 5  149.14.58.106 (149.14.58.106)  12.294 ms  12.288 ms  12.587 ms
+"
+ipress.ua,6," 6  104.31.1.167 (104.31.1.167)  11.752 ms  11.773 ms  11.707 ms
+"

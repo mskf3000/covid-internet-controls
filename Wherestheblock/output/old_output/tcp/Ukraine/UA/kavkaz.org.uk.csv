@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+kavkaz.org.uk,0,"traceroute to kavkaz.org.uk (5.154.231.188), 30 hops max, 60 byte packets
+"
+kavkaz.org.uk,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.339 ms  0.324 ms  0.349 ms
+"
+kavkaz.org.uk,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.556 ms  0.546 ms  0.532 ms
+"
+kavkaz.org.uk,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.220 ms  26.218 ms  28.730 ms
+"
+kavkaz.org.uk,4," 4  fra-decix1.gtsce.net (80.81.192.81)  30.149 ms  32.307 ms  32.083 ms
+"
+kavkaz.org.uk,5," 5  85.9.9.134 (85.9.9.134)  60.051 ms  62.294 ms  60.071 ms
+"
+kavkaz.org.uk,6," 6  radiotochka.kz (5.154.231.188)  61.597 ms  61.582 ms  58.903 ms
+"

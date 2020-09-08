@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+eldorado.ru,0,"traceroute to eldorado.ru (185.71.67.56), 50 hops max, 60 byte packets
+"
+eldorado.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.279 ms  0.262 ms  0.303 ms
+"
+eldorado.ru,2," 2  * * *
+"
+eldorado.ru,3," 3  as59796.ix.dataix.ru (178.18.224.243)  19.820 ms  17.813 ms  17.815 ms
+"
+eldorado.ru,4," 4  * * *
+"
+eldorado.ru,5," 5  185.71.67.56 (185.71.67.56)  39.967 ms  42.367 ms  40.864 ms
+"

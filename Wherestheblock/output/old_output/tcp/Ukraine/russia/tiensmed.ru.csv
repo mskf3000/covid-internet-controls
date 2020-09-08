@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+tiensmed.ru,0,"traceroute to tiensmed.ru (185.12.92.117), 50 hops max, 60 byte packets
+"
+tiensmed.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.547 ms  0.528 ms  0.522 ms
+"
+tiensmed.ru,2," 2  * * *
+"
+tiensmed.ru,3," 3  * * *
+"
+tiensmed.ru,4," 4  10.0.92.141 (10.0.92.141)  16.167 ms 10.0.92.145 (10.0.92.145)  17.238 ms 10.0.92.141 (10.0.92.141)  19.494 ms
+"
+tiensmed.ru,5," 5  ddos-guard.net (185.129.101.215)  17.790 ms  17.775 ms  17.674 ms
+"
+tiensmed.ru,6," 6  188.92.242.246 (188.92.242.246)  18.660 ms  18.621 ms  20.710 ms
+"
+tiensmed.ru,7," 7  infoni2.deserv.net (185.12.92.117)  17.223 ms  17.769 ms  17.317 ms
+"

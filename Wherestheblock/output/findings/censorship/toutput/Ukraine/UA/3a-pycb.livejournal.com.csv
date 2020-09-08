@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+3a-pycb.livejournal.com,0,"traceroute to 3a-pycb.livejournal.com (81.19.74.3), 30 hops max, 60 byte packets
+"
+3a-pycb.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.303 ms  0.325 ms
+"
+3a-pycb.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  19.299 ms  17.455 ms  17.934 ms
+"
+3a-pycb.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  18.553 ms  21.463 ms  19.530 ms
+"
+3a-pycb.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  19.056 ms  19.777 ms  18.942 ms
+"
+3a-pycb.livejournal.com,5," 5  * * *
+"
+3a-pycb.livejournal.com,6," 6  * * *
+"
+3a-pycb.livejournal.com,7," 7  livejournal.com (81.19.74.3)  20.004 ms  16.590 ms  16.678 ms
+"

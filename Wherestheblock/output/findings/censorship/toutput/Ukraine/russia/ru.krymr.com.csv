@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ru.krymr.com,0,"traceroute to ru.krymr.com (104.96.154.25), 50 hops max, 60 byte packets
+"
+ru.krymr.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.308 ms  0.343 ms
+"
+ru.krymr.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.560 ms  0.551 ms  0.546 ms
+"
+ru.krymr.com,3," 3  * 100.64.65.25 (100.64.65.25)  16.551 ms *
+"
+ru.krymr.com,4," 4  100.64.65.85 (100.64.65.85)  26.660 ms  26.659 ms  26.648 ms
+"
+ru.krymr.com,5," 5  * * *
+"
+ru.krymr.com,6," 6  a104-96-154-25.deploy.static.akamaitechnologies.com (104.96.154.25)  19.739 ms  19.331 ms  19.141 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+sovinform.ru,0,"traceroute to sovinform.ru (46.30.40.97), 30 hops max, 60 byte packets
+"
+sovinform.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.554 ms  3.464 ms  3.318 ms
+"
+sovinform.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.963 ms  2.293 ms  2.227 ms
+"
+sovinform.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.160 ms  17.347 ms  17.352 ms
+"
+sovinform.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.652 ms  22.635 ms  22.563 ms
+"
+sovinform.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.034 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.022 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.562 ms
+"
+sovinform.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.639 ms  39.342 ms  39.555 ms
+"
+sovinform.ru,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.073 ms  39.970 ms  40.247 ms
+"
+sovinform.ru,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.38)  36.413 ms 149.14.92.26 (149.14.92.26)  42.325 ms fiberring.demarc.cogentco.com (149.6.0.14)  44.923 ms
+"
+sovinform.ru,9," 9  xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  37.574 ms  37.313 ms  37.350 ms
+"
+sovinform.ru,10,"10  vh7.eurobyte.ru (46.30.40.97)  36.859 ms  36.580 ms  36.864 ms
+"

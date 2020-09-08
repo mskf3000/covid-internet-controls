@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+bride.ru,0,"traceroute to bride.ru (212.158.163.253), 30 hops max, 60 byte packets
+"
+bride.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.273 ms  0.309 ms  0.329 ms
+"
+bride.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  1.926 ms  0.584 ms  0.575 ms
+"
+bride.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.888 ms  15.899 ms  15.932 ms
+"
+bride.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.544 ms  16.358 ms  16.446 ms
+"
+bride.ru,5," 5  xcore-mo1-r2-se.servers.com (188.42.176.251)  16.356 ms  16.339 ms  16.412 ms
+"
+bride.ru,6," 6  188.42.148.3 (188.42.148.3)  16.768 ms  16.561 ms  16.614 ms
+"
+bride.ru,7," 7  mail.bride.ru (212.158.163.253)  16.495 ms  16.410 ms  16.469 ms
+"

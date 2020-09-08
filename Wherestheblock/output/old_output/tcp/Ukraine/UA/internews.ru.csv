@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+internews.ru,0,"traceroute to internews.ru (95.215.110.208), 30 hops max, 60 byte packets
+"
+internews.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.325 ms  0.312 ms  0.344 ms
+"
+internews.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  8.905 ms  8.868 ms  8.880 ms
+"
+internews.ru,3," 3  * * *
+"
+internews.ru,4," 4  cybertech.msk.cloud-ix.net (31.28.19.110)  24.272 ms  17.657 ms  17.634 ms
+"
+internews.ru,5," 5  10.0.7.1 (10.0.7.1)  36.651 ms  36.647 ms  43.818 ms
+"
+internews.ru,6," 6  10.0.3.1 (10.0.3.1)  26.546 ms  26.413 ms  34.026 ms
+"
+internews.ru,7," 7  10.0.6.2 (10.0.6.2)  54.773 ms  48.919 ms  47.479 ms
+"
+internews.ru,8," 8  95.215.110.44 (95.215.110.44)  33.971 ms  33.988 ms  33.672 ms
+"
+internews.ru,9," 9  vps54015.vpsville.ru (95.215.110.208)  38.056 ms  28.308 ms  29.824 ms
+"

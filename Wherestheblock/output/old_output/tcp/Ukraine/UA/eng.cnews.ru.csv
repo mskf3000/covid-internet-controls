@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+eng.cnews.ru,0,"traceroute to eng.cnews.ru (176.99.3.183), 30 hops max, 60 byte packets
+"
+eng.cnews.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.858 ms  0.841 ms  0.837 ms
+"
+eng.cnews.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.552 ms  0.546 ms  0.538 ms
+"
+eng.cnews.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.866 ms  15.884 ms  15.925 ms
+"
+eng.cnews.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.326 ms  16.413 ms  16.316 ms
+"
+eng.cnews.ru,5," 5  * * *
+"
+eng.cnews.ru,6," 6  * * *
+"
+eng.cnews.ru,7," 7  cnews.ru (176.99.3.183)  16.460 ms  16.496 ms  16.351 ms
+"

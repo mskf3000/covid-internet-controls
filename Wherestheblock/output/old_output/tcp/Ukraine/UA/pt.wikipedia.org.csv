@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+pt.wikipedia.org,0,"traceroute to pt.wikipedia.org (91.198.174.192), 30 hops max, 60 byte packets
+"
+pt.wikipedia.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.326 ms  0.316 ms  0.337 ms
+"
+pt.wikipedia.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.662 ms  0.613 ms  0.607 ms
+"
+pt.wikipedia.org,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.551 ms  32.542 ms  32.523 ms
+"
+pt.wikipedia.org,4," 4  ae2.cr2-esams.wikimedia.org (80.249.209.176)  33.329 ms  33.324 ms  33.524 ms
+"
+pt.wikipedia.org,5," 5  text-lb.esams.wikimedia.org (91.198.174.192)  32.897 ms  32.874 ms  33.206 ms
+"

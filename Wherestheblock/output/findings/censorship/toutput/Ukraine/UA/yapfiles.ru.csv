@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+yapfiles.ru,0,"traceroute to yapfiles.ru (185.26.98.122), 30 hops max, 60 byte packets
+"
+yapfiles.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.335 ms  0.325 ms  0.319 ms
+"
+yapfiles.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.559 ms  0.556 ms  0.745 ms
+"
+yapfiles.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.789 ms  28.777 ms  28.753 ms
+"
+yapfiles.ru,4," 4  ffm-b1-link.telia.net (62.115.63.109)  29.113 ms  29.051 ms  29.094 ms
+"
+yapfiles.ru,5," 5  firstcolo-ic-322544-ffm-b1.c.telia.net (62.115.51.74)  35.542 ms  28.898 ms  28.885 ms
+"
+yapfiles.ru,6," 6  cr03.fra1.de.first-colo.net (212.224.102.133)  32.335 ms  32.015 ms  31.986 ms
+"
+yapfiles.ru,7," 7  dsde786.fornex.org (185.26.98.122)  28.364 ms  28.804 ms  28.804 ms
+"

@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+100kwt.com,0,"traceroute to 100kwt.com (195.208.1.110), 30 hops max, 60 byte packets
+"
+100kwt.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.452 ms  0.484 ms  0.468 ms
+"
+100kwt.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.036 ms  0.926 ms  1.070 ms
+"
+100kwt.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.430 ms  17.464 ms  17.028 ms
+"
+100kwt.com,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.770 ms  30.755 ms  30.750 ms
+"
+100kwt.com,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  32.472 ms  32.465 ms  32.457 ms
+"
+100kwt.com,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.221 ms  41.246 ms  42.895 ms
+"
+100kwt.com,7," 7  188.254.25.77 (188.254.25.77)  41.319 ms 213.59.212.235 (213.59.212.235)  40.381 ms 188.254.25.77 (188.254.25.77)  41.300 ms
+"
+100kwt.com,8," 8  5.143.251.250 (5.143.251.250)  42.257 ms  93.183 ms  77.580 ms
+"
+100kwt.com,9," 9  MSK-CTV-R1.nic.ru (193.232.147.51)  42.719 ms  57.510 ms  43.000 ms
+"
+100kwt.com,10,"10  MSK-DP-R2.nic.ru (193.232.147.218)  50.245 ms  50.239 ms  50.157 ms
+"
+100kwt.com,11,"11  MSK-DP-GW1.nic.ru (193.232.147.214)  76.963 ms  65.823 ms  65.809 ms
+"
+100kwt.com,12,"12  std-carp10-http.nic.ru (195.208.1.110)  42.601 ms  43.578 ms  42.625 ms
+"

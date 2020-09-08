@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+inpress.org.ua,0,"traceroute to inpress.org.ua (94.142.140.105), 30 hops max, 60 byte packets
+"
+inpress.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.534 ms  0.525 ms  0.547 ms
+"
+inpress.org.ua,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  16.747 ms  20.064 ms  17.412 ms
+"
+inpress.org.ua,3," 3  109.239.138.135 (109.239.138.135)  20.236 ms  17.722 ms  22.965 ms
+"
+inpress.org.ua,4," 4  92.63.203.73 (92.63.203.73)  19.773 ms  16.579 ms  18.058 ms
+"
+inpress.org.ua,5," 5  server-tools-ksk.com (94.142.140.105)  21.335 ms  18.147 ms  17.187 ms
+"

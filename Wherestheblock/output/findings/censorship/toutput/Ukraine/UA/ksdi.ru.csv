@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ksdi.ru,0,"traceroute to ksdi.ru (92.53.96.177), 30 hops max, 60 byte packets
+"
+ksdi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.358 ms  0.387 ms  0.382 ms
+"
+ksdi.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.649 ms  0.682 ms  0.682 ms
+"
+ksdi.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.513 ms  30.510 ms  30.499 ms
+"
+ksdi.ru,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  30.481 ms  30.475 ms  30.480 ms
+"
+ksdi.ru,5," 5  vh206.timeweb.ru (92.53.96.177)  30.180 ms  28.971 ms  31.130 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+xn--d1ahnhhx.su,0,"traceroute to xn--d1ahnhhx.su (5.200.52.28), 30 hops max, 60 byte packets
+"
+xn--d1ahnhhx.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.278 ms  0.320 ms
+"
+xn--d1ahnhhx.su,2," 2  178.18.230.251.dataix (178.18.230.251)  16.879 ms  16.013 ms  16.868 ms
+"
+xn--d1ahnhhx.su,3," 3  as35000.ix.dataix.ru (178.18.224.36)  24.135 ms  27.003 ms  24.127 ms
+"
+xn--d1ahnhhx.su,4," 4  IT-GRAD-AS.AS48096.ptspb.net (85.235.192.22)  25.249 ms  27.960 ms  25.191 ms
+"
+xn--d1ahnhhx.su,5," 5  188.227.73.247.it-grad.ru (188.227.73.247)  25.840 ms  27.181 ms  25.084 ms
+"
+xn--d1ahnhhx.su,6," 6  5.200.52.28 (5.200.52.28)  25.025 ms  24.447 ms  26.242 ms
+"

@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+rufront.ru,0,"traceroute to rufront.ru (216.92.40.5), 50 hops max, 60 byte packets
+"
+rufront.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.288 ms  0.303 ms
+"
+rufront.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.964 ms  2.460 ms  2.452 ms
+"
+rufront.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.869 ms  16.899 ms  16.969 ms
+"
+rufront.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.316 ms  22.240 ms  22.336 ms
+"
+rufront.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.558 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.547 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.438 ms
+"
+rufront.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.747 ms  39.744 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.292 ms
+"
+rufront.ru,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  49.389 ms  49.298 ms  49.316 ms
+"
+rufront.ru,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.471 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  125.651 ms  125.634 ms
+"
+rufront.ru,9," 9  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  125.915 ms  166.498 ms  166.470 ms
+"
+rufront.ru,10,"10  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  166.472 ms be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  158.558 ms  157.777 ms
+"
+rufront.ru,11,"11  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  157.757 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  149.391 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  149.014 ms
+"
+rufront.ru,12,"12  38.104.120.218 (38.104.120.218)  148.817 ms  183.317 ms  183.270 ms
+"
+rufront.ru,13,"13  192.168.1.205 (192.168.1.205)  183.243 ms  135.920 ms  135.886 ms
+"
+rufront.ru,14,"14  rufront.ru (216.92.40.5)  136.033 ms  136.125 ms  136.076 ms
+"

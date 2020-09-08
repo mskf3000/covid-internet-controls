@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+nblog.in,0,"traceroute to nblog.in (104.27.167.9), 30 hops max, 60 byte packets
+"
+nblog.in,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.369 ms  0.380 ms  0.414 ms
+"
+nblog.in,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.806 ms  0.998 ms  1.089 ms
+"
+nblog.in,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.771 ms  18.822 ms  18.809 ms
+"
+nblog.in,4," 4  149.6.50.74 (149.6.50.74)  19.620 ms  19.652 ms  19.908 ms
+"
+nblog.in,5," 5  104.27.167.9 (104.27.167.9)  18.487 ms  18.474 ms  18.678 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+carnegie.ru,0,"traceroute to carnegie.ru (45.60.44.172), 30 hops max, 60 byte packets
+"
+carnegie.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.277 ms  0.292 ms  0.331 ms
+"
+carnegie.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.606 ms  0.596 ms  0.610 ms
+"
+carnegie.ru,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.902 ms  30.895 ms  30.879 ms
+"
+carnegie.ru,4," 4  * * *
+"
+carnegie.ru,5," 5  * * *
+"
+carnegie.ru,6," 6  195.122.180.66 (195.122.180.66)  30.748 ms  32.034 ms  31.998 ms
+"
+carnegie.ru,7," 7  45.60.44.172 (45.60.44.172)  35.825 ms  36.153 ms  36.103 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ixbt.com,0,"traceroute to ixbt.com (91.208.42.67), 50 hops max, 60 byte packets
+"
+ixbt.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.317 ms  0.304 ms
+"
+ixbt.com,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  19.245 ms  19.243 ms  19.193 ms
+"
+ixbt.com,3," 3  * * *
+"
+ixbt.com,4," 4  folga-gw.datahouse.ru (89.188.100.118)  17.751 ms  22.929 ms  22.859 ms
+"
+ixbt.com,5," 5  185.229.8.58 (185.229.8.58)  32.179 ms  32.854 ms  32.485 ms
+"
+ixbt.com,6," 6  www.ixbt.com (91.208.42.67)  22.055 ms  25.324 ms  23.009 ms
+"

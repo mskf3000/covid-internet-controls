@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+capitaller.ru,0,"traceroute to capitaller.ru (91.227.52.210), 30 hops max, 60 byte packets
+"
+capitaller.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.332 ms  0.375 ms
+"
+capitaller.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.502 ms  0.448 ms  0.484 ms
+"
+capitaller.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.938 ms  15.887 ms  15.878 ms
+"
+capitaller.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.805 ms  15.813 ms  15.804 ms
+"
+capitaller.ru,5," 5  88.210.48.237 (88.210.48.237)  17.272 ms  17.146 ms  17.010 ms
+"
+capitaller.ru,6," 6  91.227.52.210 (91.227.52.210)  16.906 ms  16.618 ms  16.730 ms
+"

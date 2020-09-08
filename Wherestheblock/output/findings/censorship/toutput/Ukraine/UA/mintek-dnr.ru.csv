@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+mintek-dnr.ru,0,"traceroute to mintek-dnr.ru (193.109.247.20), 30 hops max, 60 byte packets
+"
+mintek-dnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.284 ms  0.301 ms
+"
+mintek-dnr.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.444 ms  0.581 ms  0.647 ms
+"
+mintek-dnr.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  18.243 ms  17.538 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.052 ms
+"
+mintek-dnr.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.908 ms  15.947 ms *
+"
+mintek-dnr.ru,5," 5  10.0.9.185 (10.0.9.185)  20.585 ms  19.470 ms 10.0.9.61 (10.0.9.61)  18.125 ms
+"
+mintek-dnr.ru,6," 6  ddos-guard.net (185.129.101.142)  18.892 ms  18.278 ms  18.441 ms
+"
+mintek-dnr.ru,7," 7  ddos-guard.net (185.129.103.17)  17.433 ms ddos-guard.net (185.129.101.142)  18.132 ms ddos-guard.net (185.129.103.17)  17.848 ms
+"
+mintek-dnr.ru,8," 8  ddos-guard.net (185.129.103.17)  16.241 ms  16.204 ms *
+"
+mintek-dnr.ru,9," 9  * * *
+"
+mintek-dnr.ru,10,"10  dev.ucoz.net (193.109.247.20)  20.183 ms  18.395 ms  20.023 ms
+"

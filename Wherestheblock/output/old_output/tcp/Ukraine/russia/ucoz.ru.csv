@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ucoz.ru,0,"traceroute to ucoz.ru (195.216.243.246), 50 hops max, 60 byte packets
+"
+ucoz.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.287 ms  0.309 ms
+"
+ucoz.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.816 ms  16.836 ms  16.184 ms
+"
+ucoz.ru,3," 3  * * *
+"
+ucoz.ru,4," 4  10.0.9.181 (10.0.9.181)  16.991 ms 10.0.9.165 (10.0.9.165)  16.980 ms 10.0.9.181 (10.0.9.181)  19.497 ms
+"
+ucoz.ru,5," 5  10.0.91.1 (10.0.91.1)  18.187 ms  17.461 ms  17.694 ms
+"
+ucoz.ru,6," 6  ddos-guard.net (185.129.101.137)  19.259 ms  23.821 ms  22.334 ms
+"
+ucoz.ru,7," 7  * * *
+"
+ucoz.ru,8," 8  s96.unet.com (195.216.243.246)  17.773 ms  17.988 ms  19.409 ms
+"

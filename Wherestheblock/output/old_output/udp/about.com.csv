@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+about.com,0,"traceroute to about.com (151.101.194.114), 50 hops max, 60 byte packets
+"
+about.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.328 ms  0.358 ms
+"
+about.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.497 ms  0.581 ms  0.467 ms
+"
+about.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.138 ms  16.110 ms  16.161 ms
+"
+about.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.197 ms  16.180 ms  16.161 ms
+"
+about.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  53.975 ms  42.817 ms  42.868 ms
+"
+about.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  43.940 ms  43.902 ms  43.889 ms
+"
+about.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.997 ms  41.925 ms  42.127 ms
+"
+about.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  45.261 ms  44.234 ms  44.250 ms
+"
+about.com,9," 9  * * *
+"
+about.com,10,"10  * * *
+"
+about.com,11,"11  * * *
+"
+about.com,12,"12  * * *
+"
+about.com,13,"13  * * *
+"
+about.com,14,"14  * * *
+"
+about.com,15,"15  * * *
+"
+about.com,16,"16  * * *
+"
+about.com,17,"17  * * *
+"
+about.com,18,"18  * * *
+"
+about.com,19,"19  * * *
+"
+about.com,20,"20  * * *
+"
+about.com,21,"21  * * *
+"
+about.com,22,"22  * * *
+"
+about.com,23,"23  * * *
+"
+about.com,24,"24  * * *
+"
+about.com,25,"25  * * *
+"
+about.com,26,"26  * * *
+"
+about.com,27,"27  * * *
+"
+about.com,28,"28  * * *
+"
+about.com,29,"29  * * *
+"
+about.com,30,"30  * * *
+"
+about.com,31,"31  * * *
+"
+about.com,32,"32  * * *
+"
+about.com,33,"33  * * *
+"
+about.com,34,"34  * * *
+"
+about.com,35,"35  * * *
+"
+about.com,36,"36  * * *
+"
+about.com,37,"37  * * *
+"
+about.com,38,"38  * * *
+"
+about.com,39,"39  * * *
+"
+about.com,40,"40  * * *
+"
+about.com,41,"41  * * *
+"
+about.com,42,"42  * * *
+"
+about.com,43,"43  * * *
+"
+about.com,44,"44  * * *
+"
+about.com,45,"45  * * *
+"
+about.com,46,"46  * * *
+"
+about.com,47,"47  * * *
+"
+about.com,48,"48  * * *
+"
+about.com,49,"49  * * *
+"
+about.com,50,"50  * * *
+"

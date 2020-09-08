@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+003ms.ru,0,"traceroute to 003ms.ru (104.26.3.202), 50 hops max, 60 byte packets
+"
+003ms.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.347 ms  0.378 ms
+"
+003ms.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.987 ms  0.919 ms  1.055 ms
+"
+003ms.ru,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.961 ms  0.896 ms  1.071 ms
+"
+003ms.ru,4," 4  149.6.191.138 (149.6.191.138)  7.334 ms  7.315 ms  7.319 ms
+"
+003ms.ru,5," 5  104.26.3.202 (104.26.3.202)  0.649 ms  0.629 ms  0.636 ms
+"

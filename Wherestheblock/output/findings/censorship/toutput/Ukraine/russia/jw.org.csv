@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+jw.org,0,"traceroute to jw.org (2.19.38.165), 50 hops max, 60 byte packets
+"
+jw.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.395 ms  0.379 ms  0.372 ms
+"
+jw.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.596 ms  0.547 ms  0.536 ms
+"
+jw.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.132 ms  26.151 ms  26.141 ms
+"
+jw.org,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  31.393 ms  31.439 ms  28.895 ms
+"
+jw.org,5," 5  a2-19-38-165.deploy.static.akamaitechnologies.com (2.19.38.165)  31.374 ms  28.366 ms  28.497 ms
+"

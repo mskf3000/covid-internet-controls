@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+mbc.net,0,"traceroute to mbc.net (50.19.210.76), 30 hops max, 60 byte packets
+"
+mbc.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.293 ms  0.336 ms  0.335 ms
+"
+mbc.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.915 ms  0.937 ms  1.020 ms
+"
+mbc.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.135 ms  17.142 ms  17.141 ms
+"
+mbc.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.616 ms  22.640 ms  22.702 ms
+"
+mbc.net,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  33.805 ms  33.807 ms  33.806 ms
+"
+mbc.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  42.751 ms  42.841 ms  42.832 ms
+"
+mbc.net,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.627 ms  116.772 ms  116.924 ms
+"
+mbc.net,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  114.976 ms  114.975 ms  114.980 ms
+"
+mbc.net,9," 9  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.026 ms  115.147 ms  115.185 ms
+"
+mbc.net,10,"10  38.140.107.42 (38.140.107.42)  114.933 ms  115.068 ms  115.055 ms
+"
+mbc.net,11,"11  52.93.31.49 (52.93.31.49)  117.489 ms  117.490 ms  117.488 ms
+"
+mbc.net,12,"12  52.93.4.0 (52.93.4.0)  110.821 ms  110.798 ms  110.940 ms
+"
+mbc.net,13,"13  * * *
+"
+mbc.net,14,"14  54.240.229.145 (54.240.229.145)  116.440 ms  116.429 ms  116.466 ms
+"
+mbc.net,15,"15  * * *
+"
+mbc.net,16,"16  * * *
+"
+mbc.net,17,"17  * * *
+"
+mbc.net,18,"18  * * *
+"
+mbc.net,19,"19  * * *
+"
+mbc.net,20,"20  * * *
+"
+mbc.net,21,"21  * * *
+"
+mbc.net,22,"22  * * *
+"
+mbc.net,23,"23  * * *
+"
+mbc.net,24,"24  * * *
+"
+mbc.net,25,"25  52.93.28.198 (52.93.28.198)  116.062 ms  116.074 ms  116.028 ms
+"
+mbc.net,26,"26  * * *
+"
+mbc.net,27,"27  * * *
+"
+mbc.net,28,"28  * * *
+"
+mbc.net,29,"29  * * *
+"
+mbc.net,30,"30  * * *
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+engadget.com,0,"traceroute to engadget.com (66.218.87.12), 30 hops max, 60 byte packets
+"
+engadget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.291 ms  0.337 ms
+"
+engadget.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.675 ms  0.676 ms  0.725 ms
+"
+engadget.com,3," 3  ae0-8.RT.TLX.NYC.US.retn.net (87.245.233.114)  107.031 ms  107.042 ms  107.042 ms
+"
+engadget.com,4," 4  de-cix.pat1.nyc.yahoo.com (206.82.104.49)  107.275 ms  107.275 ms  107.302 ms
+"
+engadget.com,5," 5  ae-0.pat1.bfw.yahoo.com (216.115.111.24)  121.640 ms  121.642 ms  121.642 ms
+"
+engadget.com,6," 6  et-19-0-1.msr1.bf1.yahoo.com (74.6.227.55)  118.924 ms  118.916 ms  118.932 ms
+"
+engadget.com,7," 7  et-0-1-0.clr2-a-gdc.bf1.yahoo.com (74.6.122.17)  119.059 ms  119.060 ms  119.059 ms
+"
+engadget.com,8," 8  lo0.fab5-2-gdc.bf1.yahoo.com (74.6.123.224)  118.629 ms  118.624 ms  118.611 ms
+"
+engadget.com,9," 9  lo0.usw2-1-lba.bf1.yahoo.com (98.137.192.167)  117.327 ms  118.138 ms  118.119 ms
+"
+engadget.com,10,"10  w2.src4.vip.bf1.yahoo.com (66.218.87.12)  118.113 ms  118.114 ms  118.112 ms
+"

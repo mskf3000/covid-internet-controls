@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+doski.ru,0,"traceroute to doski.ru (185.10.63.173), 50 hops max, 60 byte packets
+"
+doski.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.339 ms  1.369 ms  1.408 ms
+"
+doski.ru,2," 2  * * *
+"
+doski.ru,3," 3  * * *
+"
+doski.ru,4," 4  10.0.92.141 (10.0.92.141)  16.927 ms  16.857 ms  16.207 ms
+"
+doski.ru,5," 5  ddos-guard.net (185.129.101.215)  17.114 ms  17.139 ms  17.820 ms
+"
+doski.ru,6," 6  10.0.72.1 (10.0.72.1)  17.031 ms  18.533 ms  16.264 ms
+"
+doski.ru,7," 7  doski.ru (185.10.63.173)  17.084 ms  17.069 ms  18.730 ms
+"

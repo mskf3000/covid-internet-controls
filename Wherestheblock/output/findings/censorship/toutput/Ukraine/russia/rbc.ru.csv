@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+rbc.ru,0,"traceroute to rbc.ru (80.68.253.13), 50 hops max, 60 byte packets
+"
+rbc.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.276 ms  0.270 ms  0.297 ms
+"
+rbc.ru,2," 2  * * *
+"
+rbc.ru,3," 3  as199599.ix.dataix.ru (178.18.224.113)  20.280 ms  20.285 ms  20.278 ms
+"
+rbc.ru,4," 4  190-230-9-185.host.cirex.ru (185.9.230.190)  18.111 ms  18.757 ms  18.099 ms
+"
+rbc.ru,5," 5  redirector.rbc.ru (80.68.253.13)  17.716 ms  18.804 ms  20.005 ms
+"

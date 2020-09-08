@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+62.ua,0,"traceroute to 62.ua (104.31.91.234), 30 hops max, 60 byte packets
+"
+62.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.093 ms  1.066 ms  1.101 ms
+"
+62.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.885 ms  0.876 ms  1.012 ms
+"
+62.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  20.543 ms  20.520 ms  20.538 ms
+"
+62.ua,4," 4  149.6.50.74 (149.6.50.74)  20.672 ms  20.690 ms  20.640 ms
+"
+62.ua,5," 5  104.31.91.234 (104.31.91.234)  20.220 ms  20.199 ms  20.170 ms
+"

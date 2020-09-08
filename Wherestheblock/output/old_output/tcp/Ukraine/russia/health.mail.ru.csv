@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+health.mail.ru,0,"traceroute to health.mail.ru (94.100.180.243), 50 hops max, 60 byte packets
+"
+health.mail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.343 ms  0.315 ms  0.344 ms
+"
+health.mail.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.988 ms  1.057 ms  1.039 ms
+"
+health.mail.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.356 ms  17.286 ms  16.990 ms
+"
+health.mail.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.138 ms  18.451 ms  18.438 ms
+"
+health.mail.ru,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  110.525 ms  110.524 ms  110.509 ms
+"
+health.mail.ru,6," 6  ae-125-3515.bar1.Helsinki1.Level3.net (4.69.203.26)  137.793 ms ae-126-3516.bar1.Helsinki1.Level3.net (4.69.203.30)  137.797 ms ae-125-3515.bar1.Helsinki1.Level3.net (4.69.203.26)  137.780 ms
+"
+health.mail.ru,7," 7  212.73.248.6 (212.73.248.6)  44.566 ms  45.021 ms  44.450 ms
+"
+health.mail.ru,8," 8  * * *
+"
+health.mail.ru,9," 9  * * *
+"
+health.mail.ru,10,"10  * * *
+"
+health.mail.ru,11,"11  health.mail.ru (94.100.180.243)  44.886 ms  44.740 ms  45.917 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+vrachirf.ru,0,"traceroute to vrachirf.ru (89.108.116.110), 50 hops max, 60 byte packets
+"
+vrachirf.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.808 ms  4.801 ms  4.838 ms
+"
+vrachirf.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.564 ms  0.538 ms  0.537 ms
+"
+vrachirf.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.924 ms  15.885 ms  15.909 ms
+"
+vrachirf.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.326 ms  16.255 ms  16.532 ms
+"
+vrachirf.ru,5," 5  * * *
+"
+vrachirf.ru,6," 6  172.16.62.1 (172.16.62.1)  16.490 ms  16.566 ms  16.798 ms
+"
+vrachirf.ru,7," 7  vrachirf.ru (89.108.116.110)  16.400 ms  16.433 ms  16.594 ms
+"

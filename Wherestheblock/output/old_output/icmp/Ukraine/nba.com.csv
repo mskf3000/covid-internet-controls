@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+nba.com,0,"traceroute to nba.com (18.210.212.54), 30 hops max, 60 byte packets
+"
+nba.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.394 ms  0.386 ms  0.433 ms
+"
+nba.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.961 ms  1.040 ms  1.112 ms
+"
+nba.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.034 ms  17.117 ms  17.318 ms
+"
+nba.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.483 ms  22.524 ms  22.573 ms
+"
+nba.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.387 ms  30.465 ms  30.513 ms
+"
+nba.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.807 ms  39.867 ms  39.859 ms
+"
+nba.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.910 ms  115.252 ms  115.793 ms
+"
+nba.com,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  116.160 ms  115.697 ms  115.571 ms
+"
+nba.com,9," 9  be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.780 ms  115.812 ms  115.859 ms
+"
+nba.com,10,"10  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.615 ms  115.735 ms  115.793 ms
+"
+nba.com,11,"11  38.140.107.42 (38.140.107.42)  114.974 ms  114.556 ms  114.546 ms
+"
+nba.com,12,"12  52.93.31.51 (52.93.31.51)  111.175 ms  117.864 ms  112.760 ms
+"
+nba.com,13,"13  52.93.4.34 (52.93.4.34)  110.672 ms  110.676 ms  110.692 ms
+"
+nba.com,14,"14  * * *
+"
+nba.com,15,"15  54.240.229.153 (54.240.229.153)  121.227 ms  121.253 ms  117.035 ms
+"
+nba.com,16,"16  * * *
+"
+nba.com,17,"17  * * *
+"
+nba.com,18,"18  * * *
+"
+nba.com,19,"19  * * *
+"
+nba.com,20,"20  * * *
+"
+nba.com,21,"21  * * *
+"
+nba.com,22,"22  * * *
+"
+nba.com,23,"23  * * *
+"
+nba.com,24,"24  * * *
+"
+nba.com,25,"25  * * *
+"
+nba.com,26,"26  52.93.28.212 (52.93.28.212)  118.966 ms  118.978 ms  115.865 ms
+"
+nba.com,27,"27  * * *
+"
+nba.com,28,"28  * * *
+"
+nba.com,29,"29  * * *
+"
+nba.com,30,"30  * * *
+"

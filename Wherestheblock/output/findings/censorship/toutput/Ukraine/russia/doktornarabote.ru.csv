@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+doktornarabote.ru,0,"traceroute to doktornarabote.ru (62.76.103.164), 50 hops max, 60 byte packets
+"
+doktornarabote.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.627 ms  6.615 ms  6.649 ms
+"
+doktornarabote.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.829 ms  18.823 ms  19.909 ms
+"
+doktornarabote.ru,3," 3  109.239.134.86 (109.239.134.86)  18.403 ms  18.123 ms  18.849 ms
+"
+doktornarabote.ru,4," 4  212.8.232.5 (212.8.232.5)  17.815 ms 212.8.232.12 (212.8.232.12)  19.148 ms  17.013 ms
+"
+doktornarabote.ru,5," 5  62.76.103.164 (62.76.103.164)  16.862 ms  16.819 ms  17.566 ms
+"

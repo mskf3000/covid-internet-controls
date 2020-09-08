@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+ukrnews24.com,0,"traceroute to ukrnews24.com (37.1.205.40), 30 hops max, 60 byte packets
+"
+ukrnews24.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.424 ms  0.443 ms  0.483 ms
+"
+ukrnews24.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.004 ms  1.100 ms  1.019 ms
+"
+ukrnews24.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.187 ms  17.168 ms  17.168 ms
+"
+ukrnews24.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.327 ms  22.525 ms  22.316 ms
+"
+ukrnews24.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.475 ms  30.438 ms  30.541 ms
+"
+ukrnews24.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.352 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.781 ms  39.687 ms
+"
+ukrnews24.com,7," 7  be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  39.626 ms  39.935 ms  39.718 ms
+"
+ukrnews24.com,8," 8  149.11.39.189 (149.11.39.189)  40.383 ms 149.11.39.188 (149.11.39.188)  42.623 ms 149.11.39.186 (149.11.39.186)  41.370 ms
+"
+ukrnews24.com,9," 9  185.8.179.39 (185.8.179.39)  42.598 ms 185.8.179.40 (185.8.179.40)  41.594 ms  43.221 ms
+"
+ukrnews24.com,10,"10  185.8.177.35 (185.8.177.35)  46.266 ms  46.376 ms  45.948 ms
+"
+ukrnews24.com,11,"11  5.45.85.85 (5.45.85.85)  39.179 ms  38.947 ms  38.933 ms
+"
+ukrnews24.com,12,"12  37.1.205.40 (37.1.205.40)  40.260 ms  42.466 ms  42.583 ms
+"

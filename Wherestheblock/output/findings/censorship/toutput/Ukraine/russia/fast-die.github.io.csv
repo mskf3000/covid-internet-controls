@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+fast-die.github.io,0,"traceroute to fast-die.github.io (185.199.109.153), 50 hops max, 60 byte packets
+"
+fast-die.github.io,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.384 ms  0.410 ms  0.405 ms
+"
+fast-die.github.io,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.615 ms  0.602 ms *
+"
+fast-die.github.io,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.809 ms  16.130 ms  16.091 ms
+"
+fast-die.github.io,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.167 ms  16.154 ms  16.196 ms
+"
+fast-die.github.io,5," 5  mow-b3-link.telia.net (213.248.77.226)  63.134 ms  42.884 ms  42.970 ms
+"
+fast-die.github.io,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.006 ms  44.110 ms  43.963 ms
+"
+fast-die.github.io,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.332 ms  41.306 ms  41.382 ms
+"
+fast-die.github.io,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.315 ms  44.169 ms  44.150 ms
+"
+fast-die.github.io,9," 9  fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  46.395 ms fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  46.791 ms fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  46.341 ms
+"
+fast-die.github.io,10,"10  185.199.109.153 (185.199.109.153)  46.359 ms  46.361 ms  42.782 ms
+"

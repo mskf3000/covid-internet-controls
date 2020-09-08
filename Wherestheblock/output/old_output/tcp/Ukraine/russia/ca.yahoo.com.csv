@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+ca.yahoo.com,0,"traceroute to ca.yahoo.com (87.248.98.8), 50 hops max, 60 byte packets
+"
+ca.yahoo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.624 ms  1.630 ms  1.672 ms
+"
+ca.yahoo.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.682 ms  0.677 ms  0.605 ms
+"
+ca.yahoo.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.362 ms  19.398 ms  19.437 ms
+"
+ca.yahoo.com,4," 4  193.203.0.242 (193.203.0.242)  19.309 ms 193.203.0.42 (193.203.0.42)  19.799 ms 193.203.0.242 (193.203.0.242)  19.789 ms
+"
+ca.yahoo.com,5," 5  UNKNOWN-188-125-89-X.yahoo.com (188.125.89.125)  20.712 ms  20.493 ms  20.572 ms
+"
+ca.yahoo.com,6," 6  ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  42.241 ms  41.635 ms  41.718 ms
+"
+ca.yahoo.com,7," 7  ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  41.705 ms UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  50.924 ms ge-4-2-0.pat1.the.yahoo.com (66.196.65.208)  57.960 ms
+"
+ca.yahoo.com,8," 8  UNKNOWN-66-196-65-X.yahoo.com (66.196.65.217)  51.285 ms  51.276 ms  51.247 ms
+"
+ca.yahoo.com,9," 9  ge-0-3-9-d104.pat1.the.yahoo.com (66.196.65.21)  51.759 ms  51.663 ms eth-2-5.bas2-1-prd.ir2.yahoo.com (217.146.186.95)  49.548 ms
+"
+ca.yahoo.com,10,"10  eth-1-1.bas2-1-prd.ir2.yahoo.com (217.146.186.81)  51.825 ms eth-2-1.bas1-1-prd.ir2.yahoo.com (217.146.186.67)  51.411 ms *
+"
+ca.yahoo.com,11,"11  media-router-fp2.prod1.media.vip.ir2.yahoo.com (87.248.98.8)  49.742 ms * *
+"

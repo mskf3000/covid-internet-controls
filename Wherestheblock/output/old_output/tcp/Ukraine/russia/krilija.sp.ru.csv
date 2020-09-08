@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+krilija.sp.ru,0,"traceroute to krilija.sp.ru (80.90.177.237), 50 hops max, 60 byte packets
+"
+krilija.sp.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.283 ms  0.311 ms
+"
+krilija.sp.ru,2," 2  * 178.18.230.251.dataix (178.18.230.251)  16.604 ms *
+"
+krilija.sp.ru,3," 3  as12714.ix.dataix.ru (178.18.224.158)  24.091 ms  23.667 ms  24.821 ms
+"
+krilija.sp.ru,4," 4  * * *
+"
+krilija.sp.ru,5," 5  80.90.177.237 (80.90.177.237)  24.144 ms  26.954 ms  27.475 ms
+"

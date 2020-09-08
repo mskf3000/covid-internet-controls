@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+fca.narod.ru,0,"traceroute to fca.narod.ru (193.109.247.224), 30 hops max, 60 byte packets
+"
+fca.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.398 ms  0.386 ms  0.382 ms
+"
+fca.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.572 ms  0.566 ms  0.554 ms
+"
+fca.narod.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.617 ms  17.219 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.209 ms
+"
+fca.narod.ru,4," 4  * msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.007 ms *
+"
+fca.narod.ru,5," 5  10.0.9.185 (10.0.9.185)  20.026 ms  18.921 ms *
+"
+fca.narod.ru,6," 6  ddos-guard.net (185.129.101.142)  17.490 ms  17.582 ms  17.541 ms
+"
+fca.narod.ru,7," 7  ddos-guard.net (185.129.101.142)  16.424 ms  16.348 ms ddos-guard.net (185.129.103.17)  17.366 ms
+"
+fca.narod.ru,8," 8  * ddos-guard.net (185.129.103.17)  16.264 ms *
+"
+fca.narod.ru,9," 9  dev.ucoz.net (193.109.247.224)  18.713 ms * *
+"

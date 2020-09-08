@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+refugee.ru,0,"traceroute to refugee.ru (91.106.206.26), 50 hops max, 60 byte packets
+"
+refugee.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.294 ms  0.288 ms
+"
+refugee.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.554 ms  17.971 ms  18.090 ms
+"
+refugee.ru,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  23.878 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  32.406 ms bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  23.756 ms
+"
+refugee.ru,4," 4  cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  28.579 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.301 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  25.354 ms
+"
+refugee.ru,5," 5  * * *
+"
+refugee.ru,6," 6  kengurh4.customers.mta.beget.ru (91.106.206.26)  28.528 ms  27.712 ms  27.734 ms
+"

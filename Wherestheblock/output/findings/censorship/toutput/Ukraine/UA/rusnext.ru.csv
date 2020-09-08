@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+rusnext.ru,0,"traceroute to rusnext.ru (188.225.17.18), 30 hops max, 60 byte packets
+"
+rusnext.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.250 ms  0.279 ms  0.319 ms
+"
+rusnext.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.043 ms  16.782 ms  16.620 ms
+"
+rusnext.ru,3," 3  as20764.ix.dataix.ru (178.18.224.34)  25.184 ms  23.686 ms  24.553 ms
+"
+rusnext.ru,4," 4  * * *
+"
+rusnext.ru,5," 5  81.27.252.94.rascom.as20764.net (81.27.252.94)  35.525 ms  35.529 ms  35.520 ms
+"
+rusnext.ru,6," 6  sdn04.timeweb.ru (188.225.17.18)  30.413 ms  27.303 ms  29.550 ms
+"

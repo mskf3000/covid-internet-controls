@@ -1,0 +1,43 @@
+URL,TTL,Response_Message
+namba.kz,0,"traceroute to namba.kz (89.218.14.11), 50 hops max, 60 byte packets
+"
+namba.kz,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.311 ms  0.351 ms
+"
+namba.kz,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.870 ms  1.019 ms  0.899 ms
+"
+namba.kz,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.106 ms  17.381 ms  17.294 ms
+"
+namba.kz,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.281 ms  22.263 ms  22.091 ms
+"
+namba.kz,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.451 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.454 ms  30.473 ms
+"
+namba.kz,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.486 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.254 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.622 ms
+"
+namba.kz,7," 7  be3376.ccr21.sto01.atlas.cogentco.com (130.117.50.226)  49.612 ms  45.928 ms  45.946 ms
+"
+namba.kz,8," 8  149.6.168.14 (149.6.168.14)  46.467 ms 149.6.168.38 (149.6.168.38)  45.766 ms  49.387 ms
+"
+namba.kz,9," 9  * * *
+"
+namba.kz,10,"10  * * *
+"
+namba.kz,11,"11  * * *
+"
+namba.kz,12,"12  * * *
+"
+namba.kz,13,"13  78.25.80.194 (78.25.80.194)  71.974 ms  69.820 ms  69.452 ms
+"
+namba.kz,14,"14  95.59.172.32.static.telecom.kz (95.59.172.32)  96.651 ms  115.063 ms  114.782 ms
+"
+namba.kz,15,"15  95.59.172.42.static.telecom.kz (95.59.172.42)  112.654 ms 95.59.172.10.static.telecom.kz (95.59.172.10)  95.281 ms  99.007 ms
+"
+namba.kz,16,"16  * * *
+"
+namba.kz,17,"17  178.88.174.234 (178.88.174.234)  99.406 ms 89.218.250.138 (89.218.250.138)  136.435 ms  136.408 ms
+"
+namba.kz,18,"18  89.218.10.54 (89.218.10.54)  136.359 ms  136.351 ms  134.727 ms
+"
+namba.kz,19,"19  ns.ort.kz (212.154.143.194)  129.605 ms  129.674 ms  129.571 ms
+"
+namba.kz,20,"20  namba.net (89.218.14.11)  96.311 ms  104.867 ms  95.970 ms
+"

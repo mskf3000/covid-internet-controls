@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+southwest.com,0,"traceroute to southwest.com (208.94.153.99), 50 hops max, 60 byte packets
+"
+southwest.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.286 ms  0.309 ms
+"
+southwest.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.886 ms  1.035 ms  0.953 ms
+"
+southwest.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.973 ms  17.400 ms  17.344 ms
+"
+southwest.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.245 ms  22.189 ms  22.267 ms
+"
+southwest.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.327 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.359 ms  30.307 ms
+"
+southwest.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.534 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.749 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.579 ms
+"
+southwest.com,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.671 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  138.927 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.952 ms
+"
+southwest.com,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.835 ms  140.569 ms  140.580 ms
+"
+southwest.com,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.334 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.055 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.264 ms
+"
+southwest.com,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.775 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.821 ms  135.753 ms
+"
+southwest.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.359 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.989 ms  136.200 ms
+"
+southwest.com,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  152.690 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  146.853 ms be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  161.582 ms
+"
+southwest.com,13,"13  be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  162.218 ms be2432.ccr31.dfw01.atlas.cogentco.com (154.54.3.133)  189.499 ms  176.836 ms
+"
+southwest.com,14,"14  be2939.rcr21.dfw04.atlas.cogentco.com (154.54.6.114)  162.899 ms  162.754 ms  162.601 ms
+"
+southwest.com,15,"15  be3795.nr51.b028597-0.dfw04.atlas.cogentco.com (154.24.61.202)  163.608 ms  163.350 ms  163.018 ms
+"
+southwest.com,16,"16  38.140.239.18 (38.140.239.18)  165.741 ms  158.732 ms  163.412 ms
+"
+southwest.com,17,"17  mpr2.po1-bbnet1.ext1.dal.pnap.net (216.52.191.7)  149.651 ms  153.478 ms mpr2.po1-bbnet2.ext1.dal.pnap.net (216.52.191.69)  149.156 ms
+"
+southwest.com,18,"18  * * *
+"
+southwest.com,19,"19  * * *
+"
+southwest.com,20,"20  * * *
+"
+southwest.com,21,"21  * * *
+"
+southwest.com,22,"22  * * *
+"
+southwest.com,23,"23  * * *
+"
+southwest.com,24,"24  * * *
+"
+southwest.com,25,"25  * * *
+"
+southwest.com,26,"26  * * *
+"
+southwest.com,27,"27  * * *
+"
+southwest.com,28,"28  * * *
+"
+southwest.com,29,"29  * * *
+"
+southwest.com,30,"30  * * *
+"
+southwest.com,31,"31  * * *
+"
+southwest.com,32,"32  * * *
+"
+southwest.com,33,"33  * * *
+"
+southwest.com,34,"34  * * *
+"
+southwest.com,35,"35  * * *
+"
+southwest.com,36,"36  * * *
+"
+southwest.com,37,"37  * * *
+"
+southwest.com,38,"38  * * *
+"
+southwest.com,39,"39  * * *
+"
+southwest.com,40,"40  * * *
+"
+southwest.com,41,"41  * * *
+"
+southwest.com,42,"42  * * *
+"
+southwest.com,43,"43  * * *
+"
+southwest.com,44,"44  * * *
+"
+southwest.com,45,"45  * * *
+"
+southwest.com,46,"46  * * *
+"
+southwest.com,47,"47  * * *
+"
+southwest.com,48,"48  * * *
+"
+southwest.com,49,"49  * * *
+"
+southwest.com,50,"50  * * *
+"

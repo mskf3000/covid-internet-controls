@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+yalta-tv.ru,0,"traceroute to yalta-tv.ru (91.205.164.53), 30 hops max, 60 byte packets
+"
+yalta-tv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.300 ms  0.314 ms
+"
+yalta-tv.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.508 ms  0.786 ms  0.773 ms
+"
+yalta-tv.ru,3," 3  khar-atr-b1-ae1-vlan2038.fiord.net (80.77.167.150)  7.120 ms  7.081 ms  6.386 ms
+"
+yalta-tv.ru,4," 4  vrn-kvt-b1-ae1-vlan2041.fiord.net (62.140.239.8)  56.491 ms  56.468 ms  56.470 ms
+"
+yalta-tv.ru,5," 5  185.214.245.25 (185.214.245.25)  30.811 ms sim.umlc.ru (185.214.245.7)  33.176 ms 185.214.245.25 (185.214.245.25)  30.605 ms
+"
+yalta-tv.ru,6," 6  185.214.245.245 (185.214.245.245)  35.932 ms  36.736 ms  33.786 ms
+"
+yalta-tv.ru,7," 7  * * *
+"
+yalta-tv.ru,8," 8  unknown-host.yaltanet.ru (91.205.164.53)  33.917 ms  31.791 ms  33.402 ms
+"

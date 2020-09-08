@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+directory.mblog.ru,0,"traceroute to directory.mblog.ru (91.195.240.136), 30 hops max, 60 byte packets
+"
+directory.mblog.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.300 ms  0.293 ms
+"
+directory.mblog.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.556 ms  0.543 ms  0.537 ms
+"
+directory.mblog.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.155 ms  26.148 ms  26.116 ms
+"
+directory.mblog.ru,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.724 ms  29.368 ms  29.363 ms
+"
+directory.mblog.ru,5," 5  ffm-bb3-link.telia.net (62.115.141.236)  36.042 ms ffm-bb3-link.telia.net (62.115.121.2)  38.607 ms ffm-bb3-link.telia.net (62.115.121.4)  36.012 ms
+"
+directory.mblog.ru,6," 6  mcn-b2-link.telia.net (62.115.120.126)  38.228 ms mcn-b2-link.telia.net (62.115.120.130)  38.387 ms mcn-b2-link.telia.net (62.115.120.132)  35.821 ms
+"
+directory.mblog.ru,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  115.389 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  115.768 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  117.950 ms
+"
+directory.mblog.ru,8," 8  91.195.241.102 (91.195.241.102)  117.946 ms  115.262 ms  117.843 ms
+"
+directory.mblog.ru,9," 9  91.195.241.106 (91.195.241.106)  118.965 ms  118.783 ms  116.651 ms
+"
+directory.mblog.ru,10,"10  91.195.240.136 (91.195.240.136)  115.361 ms  118.388 ms  117.394 ms
+"

@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+putin-itogi.ru,0,"traceroute to putin-itogi.ru (34.195.54.136), 30 hops max, 60 byte packets
+"
+putin-itogi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.340 ms  0.362 ms
+"
+putin-itogi.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.076 ms  0.974 ms  1.128 ms
+"
+putin-itogi.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.913 ms  17.362 ms  17.310 ms
+"
+putin-itogi.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.384 ms  22.414 ms  22.467 ms
+"
+putin-itogi.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.410 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.512 ms  30.401 ms
+"
+putin-itogi.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.356 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.520 ms  39.393 ms
+"
+putin-itogi.ru,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.944 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.591 ms  117.991 ms
+"
+putin-itogi.ru,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.661 ms  115.323 ms  115.317 ms
+"
+putin-itogi.ru,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  117.153 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.561 ms  115.457 ms
+"
+putin-itogi.ru,10,"10  38.140.106.162 (38.140.106.162)  117.449 ms  117.480 ms  118.351 ms
+"
+putin-itogi.ru,11,"11  52.93.31.55 (52.93.31.55)  119.038 ms 52.93.31.49 (52.93.31.49)  119.326 ms 52.93.31.45 (52.93.31.45)  116.558 ms
+"
+putin-itogi.ru,12,"12  52.93.4.28 (52.93.4.28)  113.556 ms 52.93.4.26 (52.93.4.26)  114.053 ms 52.93.4.36 (52.93.4.36)  114.062 ms
+"
+putin-itogi.ru,13,"13  * * *
+"
+putin-itogi.ru,14,"14  54.240.229.139 (54.240.229.139)  116.905 ms 54.240.229.147 (54.240.229.147)  119.968 ms 54.240.229.143 (54.240.229.143)  116.669 ms
+"
+putin-itogi.ru,15,"15  * * *
+"
+putin-itogi.ru,16,"16  * * *
+"
+putin-itogi.ru,17,"17  * * *
+"
+putin-itogi.ru,18,"18  * * *
+"
+putin-itogi.ru,19,"19  * * *
+"
+putin-itogi.ru,20,"20  * * *
+"
+putin-itogi.ru,21,"21  * * *
+"
+putin-itogi.ru,22,"22  * * *
+"
+putin-itogi.ru,23,"23  * * *
+"
+putin-itogi.ru,24,"24  * * *
+"
+putin-itogi.ru,25,"25  * 52.93.28.116 (52.93.28.116)  119.725 ms *
+"
+putin-itogi.ru,26,"26  * * 52.93.28.86 (52.93.28.86)  116.006 ms
+"
+putin-itogi.ru,27,"27  * * *
+"
+putin-itogi.ru,28,"28  * * *
+"
+putin-itogi.ru,29,"29  * * *
+"
+putin-itogi.ru,30,"30  * * *
+"

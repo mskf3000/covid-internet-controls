@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+diplomaticsecondpassport.com,0,"traceroute to diplomaticsecondpassport.com (185.25.23.56), 30 hops max, 60 byte packets
+"
+diplomaticsecondpassport.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.285 ms  0.292 ms  0.279 ms
+"
+diplomaticsecondpassport.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.865 ms  1.047 ms  0.943 ms
+"
+diplomaticsecondpassport.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.236 ms  17.363 ms  17.397 ms
+"
+diplomaticsecondpassport.com,4," 4  be3263.ccr31.bud01.atlas.cogentco.com (154.54.59.178)  19.621 ms  19.613 ms  19.275 ms
+"
+diplomaticsecondpassport.com,5," 5  be3422.ccr51.beg03.atlas.cogentco.com (130.117.0.126)  24.809 ms  24.681 ms  24.874 ms
+"
+diplomaticsecondpassport.com,6," 6  be2024.rcr51.tia01.atlas.cogentco.com (154.54.59.234)  32.281 ms  32.426 ms  32.292 ms
+"
+diplomaticsecondpassport.com,7," 7  be2023.rcr21.ath01.atlas.cogentco.com (154.54.59.229)  44.589 ms  44.654 ms  44.728 ms
+"
+diplomaticsecondpassport.com,8," 8  149.11.120.194 (149.11.120.194)  44.954 ms  45.017 ms  45.036 ms
+"
+diplomaticsecondpassport.com,9," 9  109.68.144.65 (109.68.144.65)  51.053 ms  50.943 ms  51.058 ms
+"
+diplomaticsecondpassport.com,10,"10  178.21.170.174 (178.21.170.174)  51.295 ms  51.259 ms  51.260 ms
+"
+diplomaticsecondpassport.com,11,"11  linux28.name-servers.gr (185.25.23.56)  51.471 ms  51.509 ms  51.448 ms
+"

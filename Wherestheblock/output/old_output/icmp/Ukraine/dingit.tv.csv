@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+dingit.tv,0,"traceroute to dingit.tv (104.26.2.38), 30 hops max, 60 byte packets
+"
+dingit.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.368 ms  0.363 ms  0.364 ms
+"
+dingit.tv,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.909 ms  1.044 ms  1.045 ms
+"
+dingit.tv,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.041 ms  1.104 ms  1.142 ms
+"
+dingit.tv,4," 4  149.6.191.138 (149.6.191.138)  2.163 ms  2.163 ms  2.163 ms
+"
+dingit.tv,5," 5  104.26.2.38 (104.26.2.38)  0.881 ms  0.881 ms  0.880 ms
+"

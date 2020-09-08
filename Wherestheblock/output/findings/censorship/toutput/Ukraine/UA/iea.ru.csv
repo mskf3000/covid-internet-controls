@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+iea.ru,0,"traceroute to iea.ru (90.156.201.37), 30 hops max, 60 byte packets
+"
+iea.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.294 ms  0.335 ms
+"
+iea.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.682 ms  0.667 ms  0.745 ms
+"
+iea.ru,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  21.024 ms  21.000 ms  21.001 ms
+"
+iea.ru,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.746 ms  19.851 ms  19.846 ms
+"
+iea.ru,5," 5  * * *
+"
+iea.ru,6," 6  fe.shared.masterhost.ru (90.156.201.37)  19.288 ms  18.979 ms  19.445 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+sovminlnr.ru,0,"traceroute to sovminlnr.ru (193.228.160.49), 30 hops max, 60 byte packets
+"
+sovminlnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.385 ms  0.369 ms  0.366 ms
+"
+sovminlnr.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.626 ms  0.655 ms  0.601 ms
+"
+sovminlnr.ru,3," 3  10.11.12.17 (10.11.12.17)  0.848 ms  0.907 ms  0.997 ms
+"
+sovminlnr.ru,4," 4  * * *
+"
+sovminlnr.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  7.098 ms  0.929 ms  7.080 ms
+"
+sovminlnr.ru,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  19.329 ms  19.450 ms  19.314 ms
+"
+sovminlnr.ru,7," 7  GW-Telematika.retn.net (87.245.239.187)  26.160 ms  30.433 ms  31.300 ms
+"
+sovminlnr.ru,8," 8  193.228.160.49 (193.228.160.49)  28.135 ms  26.338 ms  28.767 ms
+"

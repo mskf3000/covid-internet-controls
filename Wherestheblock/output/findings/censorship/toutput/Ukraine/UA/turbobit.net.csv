@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+turbobit.net,0,"traceroute to turbobit.net (5.61.56.86), 30 hops max, 60 byte packets
+"
+turbobit.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.316 ms  0.310 ms
+"
+turbobit.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.751 ms  0.956 ms  0.993 ms
+"
+turbobit.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.956 ms  17.042 ms  17.224 ms
+"
+turbobit.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.824 ms  22.875 ms  22.928 ms
+"
+turbobit.net,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.673 ms  30.772 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.646 ms
+"
+turbobit.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.581 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.870 ms  39.861 ms
+"
+turbobit.net,7," 7  be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  39.852 ms be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  39.830 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  39.852 ms
+"
+turbobit.net,8," 8  149.11.39.189 (149.11.39.189)  39.623 ms 149.11.39.188 (149.11.39.188)  42.479 ms 149.11.39.189 (149.11.39.189)  39.409 ms
+"
+turbobit.net,9," 9  185.8.179.39 (185.8.179.39)  42.311 ms 185.8.179.40 (185.8.179.40)  41.824 ms 185.8.179.39 (185.8.179.39)  42.386 ms
+"
+turbobit.net,10,"10  185.8.177.35 (185.8.177.35)  45.540 ms  43.774 ms  44.575 ms
+"
+turbobit.net,11,"11  5.61.56.86 (5.61.56.86)  39.750 ms  43.053 ms  41.549 ms
+"

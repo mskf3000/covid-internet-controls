@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+crimea24.info,0,"traceroute to crimea24.info (77.120.107.183), 30 hops max, 60 byte packets
+"
+crimea24.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.408 ms  0.396 ms  0.373 ms
+"
+crimea24.info,2," 2  volia-40G-gw.ix.net.ua (195.35.65.221)  1.446 ms  3.001 ms  1.187 ms
+"
+crimea24.info,3," 3  lag41-80g.agg-1.ss13.kiev.volia.net (77.120.1.82)  1.175 ms  0.948 ms  1.353 ms
+"
+crimea24.info,4," 4  lag2-60g.dc-1.ss13.kiev.volia.net (77.120.1.162)  1.287 ms lag3-60g.dc-1.ss13.kiev.volia.net (77.120.1.170)  1.531 ms  1.696 ms
+"
+crimea24.info,5," 5  hostua01.fornex.org (77.120.107.183)  0.780 ms  0.792 ms  0.823 ms
+"

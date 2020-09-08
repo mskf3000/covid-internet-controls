@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+wcons.org.ru,0,"traceroute to wcons.org.ru (92.53.96.31), 30 hops max, 60 byte packets
+"
+wcons.org.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.921 ms  0.949 ms  0.935 ms
+"
+wcons.org.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.663 ms  0.612 ms  0.637 ms
+"
+wcons.org.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  34.685 ms  34.680 ms  34.669 ms
+"
+wcons.org.ru,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  35.161 ms  31.710 ms  35.163 ms
+"
+wcons.org.ru,5," 5  angela.timeweb.ru (92.53.96.31)  32.796 ms  29.162 ms  32.795 ms
+"

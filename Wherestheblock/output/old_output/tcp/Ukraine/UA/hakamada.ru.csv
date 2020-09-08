@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+hakamada.ru,0,"traceroute to hakamada.ru (185.143.173.59), 30 hops max, 60 byte packets
+"
+hakamada.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.301 ms  0.318 ms
+"
+hakamada.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.774 ms  16.818 ms  16.105 ms
+"
+hakamada.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  19.586 ms  19.457 ms  19.627 ms
+"
+hakamada.ru,4," 4  188.93.17.122 (188.93.17.122)  16.740 ms  16.659 ms  16.711 ms
+"
+hakamada.ru,5," 5  urbanretreatwatford.com (185.143.173.59)  16.889 ms  19.864 ms  17.271 ms
+"

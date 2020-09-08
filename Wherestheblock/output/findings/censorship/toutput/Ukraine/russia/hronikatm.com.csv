@@ -1,0 +1,37 @@
+URL,TTL,Response_Message
+hronikatm.com,0,"traceroute to hronikatm.com (145.239.138.235), 50 hops max, 60 byte packets
+"
+hronikatm.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.533 ms  0.519 ms  0.501 ms
+"
+hronikatm.com,2," 2  * * *
+"
+hronikatm.com,3," 3  * * *
+"
+hronikatm.com,4," 4  be101.waw1-oza1-g1-nc5.pl.eu (91.121.131.151)  15.912 ms  16.384 ms  17.277 ms
+"
+hronikatm.com,5," 5  * * *
+"
+hronikatm.com,6," 6  waw1-oza1-vac1-a75-1-firewall.pl.eu (54.36.50.18)  14.620 ms  14.621 ms  14.543 ms
+"
+hronikatm.com,7," 7  waw1-oza1-vac1-a75-2.pl.eu (54.36.50.16)  14.612 ms  14.674 ms  14.596 ms
+"
+hronikatm.com,8," 8  waw1-oza1-vac1-a75-3.pl.eu (54.36.50.17)  14.576 ms  14.606 ms  14.618 ms
+"
+hronikatm.com,9," 9  * * *
+"
+hronikatm.com,10,"10  * * *
+"
+hronikatm.com,11,"11  * * *
+"
+hronikatm.com,12,"12  * * *
+"
+hronikatm.com,13,"13  * * *
+"
+hronikatm.com,14,"14  * * *
+"
+hronikatm.com,15,"15  * * *
+"
+hronikatm.com,16,"16  ip235.ip-145-239-138.eu (145.239.138.235)  35.253 ms  35.218 ms  35.249 ms
+"
+hronikatm.com,17,"17  ip235.ip-145-239-138.eu (145.239.138.235)  35.526 ms  35.494 ms  36.140 ms
+"

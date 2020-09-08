@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+bitnet.ru,0,"traceroute to bitnet.ru (176.31.5.124), 30 hops max, 60 byte packets
+"
+bitnet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.347 ms  0.335 ms  0.330 ms
+"
+bitnet.ru,2," 2  * * *
+"
+bitnet.ru,3," 3  * * *
+"
+bitnet.ru,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  34.005 ms  33.601 ms  33.992 ms
+"
+bitnet.ru,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  37.174 ms  37.313 ms  37.683 ms
+"
+bitnet.ru,6," 6  * * *
+"
+bitnet.ru,7," 7  be50-5.sbg-4b-a9.fr.eu (188.165.9.74)  40.265 ms be50-5.sbg-4a-a9.fr.eu (188.165.9.70)  36.479 ms  36.414 ms
+"
+bitnet.ru,8," 8  ip124.ip-176-31-5.eu (176.31.5.124)  35.838 ms  36.053 ms  36.636 ms
+"

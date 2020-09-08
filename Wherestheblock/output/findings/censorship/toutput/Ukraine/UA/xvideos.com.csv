@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+xvideos.com,0,"traceroute to xvideos.com (185.88.181.5), 30 hops max, 60 byte packets
+"
+xvideos.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.352 ms  0.340 ms  0.364 ms
+"
+xvideos.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.569 ms  0.553 ms  0.543 ms
+"
+xvideos.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.862 ms  35.855 ms  35.877 ms
+"
+xvideos.com,4," 4  80.249.211.163 (80.249.211.163)  36.451 ms  36.434 ms  38.742 ms
+"
+xvideos.com,5," 5  138.197.244.93 (138.197.244.93)  34.356 ms  34.360 ms 138.197.244.95 (138.197.244.95)  34.413 ms
+"
+xvideos.com,6," 6  185.88.181.5 (185.88.181.5)  33.710 ms  36.182 ms  38.840 ms
+"

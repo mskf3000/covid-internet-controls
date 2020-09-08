@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+kasyanov.ru,0,"traceroute to kasyanov.ru (89.253.236.186), 50 hops max, 60 byte packets
+"
+kasyanov.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.370 ms  0.358 ms  0.371 ms
+"
+kasyanov.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.695 ms  0.532 ms  0.678 ms
+"
+kasyanov.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.647 ms  20.831 ms  20.620 ms
+"
+kasyanov.ru,4," 4  87.245.193.162 (87.245.193.162)  20.733 ms  20.766 ms 87.245.193.163 (87.245.193.163)  20.706 ms
+"
+kasyanov.ru,5," 5  * * *
+"
+kasyanov.ru,6," 6  hw36.rusonyx.ru (89.253.200.32)  20.765 ms  20.666 ms  20.745 ms
+"
+kasyanov.ru,7," 7  89.253.236.186 (89.253.236.186)  20.728 ms  20.686 ms  20.738 ms
+"

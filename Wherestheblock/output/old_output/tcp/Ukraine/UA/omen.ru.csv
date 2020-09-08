@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+omen.ru,0,"traceroute to omen.ru (188.225.80.163), 30 hops max, 60 byte packets
+"
+omen.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.309 ms  0.318 ms
+"
+omen.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  18.788 ms  15.978 ms  16.783 ms
+"
+omen.ru,3," 3  as20764.ix.dataix.ru (178.18.224.34)  23.978 ms  23.660 ms  25.779 ms
+"
+omen.ru,4," 4  * * *
+"
+omen.ru,5," 5  81.27.252.94.rascom.as20764.net (81.27.252.94)  34.502 ms  34.485 ms  34.481 ms
+"
+omen.ru,6," 6  sdl8.timeweb.ru (188.225.80.163)  27.155 ms  29.233 ms  29.147 ms
+"

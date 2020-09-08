@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+minstroy-dnr.ru,0,"traceroute to minstroy-dnr.ru (87.226.218.132), 30 hops max, 60 byte packets
+"
+minstroy-dnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.341 ms  0.380 ms
+"
+minstroy-dnr.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.541 ms  0.527 ms  0.584 ms
+"
+minstroy-dnr.ru,3," 3  100.64.65.25 (100.64.65.25)  10.903 ms  8.285 ms  28.686 ms
+"
+minstroy-dnr.ru,4," 4  100.64.64.141 (100.64.64.141)  30.401 ms  30.435 ms  29.929 ms
+"
+minstroy-dnr.ru,5," 5  frkt-ar2.intl.ip.rostelecom.ru (80.81.194.31)  42.959 ms  42.530 ms  42.536 ms
+"
+minstroy-dnr.ru,6," 6  213.59.212.217 (213.59.212.217)  41.829 ms 213.59.211.255 (213.59.211.255)  45.421 ms 213.59.212.217 (213.59.212.217)  42.998 ms
+"
+minstroy-dnr.ru,7," 7  87.226.196.97 (87.226.196.97)  74.354 ms  58.732 ms  74.423 ms
+"
+minstroy-dnr.ru,8," 8  87.226.218.132 (87.226.218.132)  73.379 ms  81.260 ms  76.652 ms
+"

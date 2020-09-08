@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+bok-o-bok.ru,0,"traceroute to bok-o-bok.ru (81.177.159.5), 50 hops max, 60 byte packets
+"
+bok-o-bok.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.285 ms  0.266 ms  0.286 ms
+"
+bok-o-bok.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.993 ms  1.975 ms  1.973 ms
+"
+bok-o-bok.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.885 ms  18.194 ms  18.400 ms
+"
+bok-o-bok.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.010 ms  29.985 ms  30.009 ms
+"
+bok-o-bok.ru,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  31.394 ms  31.385 ms  31.364 ms
+"
+bok-o-bok.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  55.744 ms  55.649 ms  55.634 ms
+"
+bok-o-bok.ru,7," 7  87.226.183.91 (87.226.183.91)  45.057 ms  44.880 ms 213.59.212.113 (213.59.212.113)  45.341 ms
+"
+bok-o-bok.ru,8," 8  213.24.114.170 (213.24.114.170)  46.529 ms  43.079 ms  43.044 ms
+"
+bok-o-bok.ru,9," 9  msk-bgw0-lsq-0-1-0-52.rt-comm.ru (217.106.1.181)  40.909 ms  41.685 ms  41.619 ms
+"
+bok-o-bok.ru,10,"10  msk-bgw0-lsq-0-1-0-52.rt-comm.ru (217.106.1.181)  40.925 ms  41.668 ms  40.864 ms
+"
+bok-o-bok.ru,11,"11  81.177.159.5 (81.177.159.5)  49.309 ms  49.179 ms  52.956 ms
+"

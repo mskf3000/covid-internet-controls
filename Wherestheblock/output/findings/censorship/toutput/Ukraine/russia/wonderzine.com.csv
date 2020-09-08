@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+wonderzine.com,0,"traceroute to wonderzine.com (148.251.204.132), 50 hops max, 60 byte packets
+"
+wonderzine.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.403 ms  0.371 ms  0.403 ms
+"
+wonderzine.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.604 ms  0.526 ms  0.466 ms
+"
+wonderzine.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.157 ms  28.753 ms  28.789 ms
+"
+wonderzine.com,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.065 ms  28.582 ms  31.035 ms
+"
+wonderzine.com,5," 5  core4.fra.hetzner.com (213.239.245.85)  29.178 ms  31.520 ms core5.fra.hetzner.com (213.239.224.218)  32.978 ms
+"
+wonderzine.com,6," 6  core24.fsn1.hetzner.com (213.239.252.42)  40.325 ms core23.fsn1.hetzner.com (213.239.203.154)  35.708 ms core23.fsn1.hetzner.com (213.239.229.74)  39.928 ms
+"
+wonderzine.com,7," 7  ex9k1.dc10.fsn1.hetzner.com (213.239.229.50)  34.269 ms ex9k1.dc10.fsn1.hetzner.com (213.239.229.54)  34.259 ms  34.272 ms
+"
+wonderzine.com,8," 8  static.67.29.76.144.clients.your-server.de (144.76.29.67)  40.132 ms  37.548 ms  37.556 ms
+"
+wonderzine.com,9," 9  static.132.204.251.148.clients.your-server.de (148.251.204.132)  40.207 ms  35.986 ms  36.091 ms
+"

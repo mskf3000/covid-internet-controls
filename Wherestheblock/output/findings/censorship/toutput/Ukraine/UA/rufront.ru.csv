@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+rufront.ru,0,"traceroute to rufront.ru (216.92.40.5), 30 hops max, 60 byte packets
+"
+rufront.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.371 ms  0.388 ms  0.425 ms
+"
+rufront.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.915 ms  0.997 ms  1.048 ms
+"
+rufront.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.064 ms  17.154 ms  17.059 ms
+"
+rufront.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.369 ms  22.363 ms  22.401 ms
+"
+rufront.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  34.987 ms  34.967 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  34.971 ms
+"
+rufront.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.663 ms  39.526 ms  39.554 ms
+"
+rufront.ru,7," 7  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  49.068 ms  49.310 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  49.141 ms
+"
+rufront.ru,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  118.713 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  118.487 ms be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  118.730 ms
+"
+rufront.ru,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  125.838 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  125.735 ms be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  125.823 ms
+"
+rufront.ru,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  132.827 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  132.783 ms  132.984 ms
+"
+rufront.ru,11,"11  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  136.223 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  136.281 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  136.077 ms
+"
+rufront.ru,12,"12  38.104.120.218 (38.104.120.218)  136.050 ms  136.047 ms  136.032 ms
+"
+rufront.ru,13,"13  192.168.1.205 (192.168.1.205)  135.951 ms  135.961 ms  135.879 ms
+"
+rufront.ru,14,"14  rufront.ru (216.92.40.5)  136.290 ms  136.265 ms  136.203 ms
+"

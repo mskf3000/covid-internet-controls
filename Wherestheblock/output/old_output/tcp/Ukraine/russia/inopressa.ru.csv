@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+inopressa.ru,0,"traceroute to inopressa.ru (216.41.223.62), 50 hops max, 60 byte packets
+"
+inopressa.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.288 ms  0.254 ms
+"
+inopressa.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.929 ms  1.117 ms  1.107 ms
+"
+inopressa.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.221 ms  17.214 ms  16.999 ms
+"
+inopressa.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.412 ms  22.501 ms  22.424 ms
+"
+inopressa.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.742 ms  30.792 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.713 ms
+"
+inopressa.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.615 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.645 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.416 ms
+"
+inopressa.ru,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.763 ms  46.944 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  46.884 ms
+"
+inopressa.ru,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  108.915 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  108.871 ms  108.875 ms
+"
+inopressa.ru,9," 9  be2120.rcr21.hpn04.atlas.cogentco.com (154.54.47.146)  113.707 ms be2119.rcr21.hpn04.atlas.cogentco.com (154.54.47.142)  113.454 ms be2120.rcr21.hpn04.atlas.cogentco.com (154.54.47.146)  113.594 ms
+"
+inopressa.ru,10,"10  38.104.241.162 (38.104.241.162)  113.264 ms  113.300 ms  113.253 ms
+"
+inopressa.ru,11,"11  vln1100.int.ae1-20g.er3.ex1.ct1.amnetsystems.com (216.41.208.4)  113.282 ms  113.340 ms  113.308 ms
+"
+inopressa.ru,12,"12  216.41.208.49 (216.41.208.49)  113.620 ms  113.997 ms  113.773 ms
+"
+inopressa.ru,13,"13  216.41.213.132 (216.41.213.132)  113.814 ms  113.620 ms  113.590 ms
+"
+inopressa.ru,14,"14  216.41.223.62 (216.41.223.62)  114.121 ms  115.739 ms  115.937 ms
+"

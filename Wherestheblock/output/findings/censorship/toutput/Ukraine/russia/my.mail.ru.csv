@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+my.mail.ru,0,"traceroute to my.mail.ru (94.100.180.38), 50 hops max, 60 byte packets
+"
+my.mail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.292 ms  0.287 ms
+"
+my.mail.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.957 ms  0.976 ms  1.016 ms
+"
+my.mail.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.963 ms  16.963 ms  17.012 ms
+"
+my.mail.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.488 ms  18.114 ms  18.475 ms
+"
+my.mail.ru,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  115.556 ms  115.563 ms  115.555 ms
+"
+my.mail.ru,6," 6  ae-125-3515.bar1.Helsinki1.Level3.net (4.69.203.26)  137.677 ms  137.541 ms  137.794 ms
+"
+my.mail.ru,7," 7  212.73.248.6 (212.73.248.6)  44.686 ms  45.692 ms  44.460 ms
+"
+my.mail.ru,8," 8  * * *
+"
+my.mail.ru,9," 9  * * *
+"
+my.mail.ru,10,"10  * * *
+"
+my.mail.ru,11,"11  * * *
+"
+my.mail.ru,12,"12  * * *
+"
+my.mail.ru,13,"13  * * *
+"
+my.mail.ru,14,"14  * * *
+"
+my.mail.ru,15,"15  my.mail.ru (94.100.180.38)  45.865 ms  44.717 ms  46.613 ms
+"

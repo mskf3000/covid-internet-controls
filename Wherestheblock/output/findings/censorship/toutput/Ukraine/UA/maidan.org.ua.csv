@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+maidan.org.ua,0,"traceroute to maidan.org.ua (158.69.162.66), 30 hops max, 60 byte packets
+"
+maidan.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  13.455 ms  13.449 ms  13.416 ms
+"
+maidan.org.ua,2," 2  * * *
+"
+maidan.org.ua,3," 3  * * *
+"
+maidan.org.ua,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  38.011 ms  37.982 ms  37.991 ms
+"
+maidan.org.ua,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  50.631 ms  51.681 ms  50.498 ms
+"
+maidan.org.ua,6," 6  be100-1041.ldn-1-a9.uk.eu (94.23.122.145)  58.535 ms  55.065 ms  55.083 ms
+"
+maidan.org.ua,7," 7  be100-1295.nwk-1-a9.nj.us (192.99.146.127)  124.626 ms  124.363 ms  124.375 ms
+"
+maidan.org.ua,8," 8  be100-1319.bhs-g1-nc5.qc.ca (198.27.73.204)  132.077 ms  132.636 ms  132.023 ms
+"
+maidan.org.ua,9," 9  * * *
+"
+maidan.org.ua,10,"10  be50-5.bhs-3b-a9.qc.ca (198.27.73.96)  132.013 ms be50-5.bhs-3a-a9.qc.ca (198.27.73.92)  133.594 ms be50-5.bhs-3b-a9.qc.ca (198.27.73.96)  132.530 ms
+"
+maidan.org.ua,11,"11  maidan.org.ua (158.69.162.66)  128.772 ms  128.664 ms  128.039 ms
+"

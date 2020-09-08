@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+scepsis.ru,0,"traceroute to scepsis.ru (64.90.51.209), 30 hops max, 60 byte packets
+"
+scepsis.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.357 ms  1.356 ms  1.351 ms
+"
+scepsis.ru,2," 2  * hurricane-ix.giganet.ua (185.1.62.230)  5.617 ms  5.634 ms
+"
+scepsis.ru,3," 3  100ge15-1.core1.vie1.he.net (184.104.192.225)  20.809 ms  20.795 ms  20.933 ms
+"
+scepsis.ru,4," 4  100ge13-1.core1.par2.he.net (184.105.65.5)  36.058 ms  36.053 ms  36.072 ms
+"
+scepsis.ru,5," 5  100ge14-1.core1.nyc4.he.net (184.105.81.77)  107.018 ms  107.063 ms  107.092 ms
+"
+scepsis.ru,6," 6  100ge2-1.core2.chi1.he.net (184.104.193.173)  123.153 ms 100ge9-1.core2.chi1.he.net (184.105.223.161)  123.031 ms  123.099 ms
+"
+scepsis.ru,7," 7  100ge14-2.core1.msp1.he.net (184.105.223.178)  130.918 ms  131.099 ms  130.976 ms
+"
+scepsis.ru,8," 8  100ge11-2.core1.sea1.he.net (184.104.194.21)  163.611 ms  163.496 ms  163.495 ms
+"
+scepsis.ru,9," 9  100ge15-1.core1.pdx1.he.net (184.105.64.138)  167.090 ms  166.979 ms  167.003 ms
+"
+scepsis.ru,10,"10  dreamhost.10gigabitethernet10-5.core1.pdx1.he.net (65.49.80.226)  168.432 ms  167.711 ms  168.038 ms
+"
+scepsis.ru,11,"11  pdx1-cr-1.sd.dreamhost.com (66.33.200.2)  168.110 ms pdx1-cr-2.sd.dreamhost.com (66.33.200.3)  167.993 ms pdx1-cr-1.sd.dreamhost.com (66.33.200.2)  168.161 ms
+"
+scepsis.ru,12,"12  pdx1-a4u27-acc.sd.dreamhost.com (66.33.200.12)  168.962 ms  168.985 ms  168.945 ms
+"
+scepsis.ru,13,"13  apache2-adamant.willamina.dreamhost.com (64.90.51.209)  168.457 ms  167.996 ms  168.648 ms
+"

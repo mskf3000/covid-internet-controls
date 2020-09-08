@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+medkrug.ru,0,"traceroute to medkrug.ru (185.11.74.11), 50 hops max, 60 byte packets
+"
+medkrug.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.297 ms  0.336 ms
+"
+medkrug.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.777 ms  16.066 ms  16.804 ms
+"
+medkrug.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  22.137 ms  19.584 ms  18.803 ms
+"
+medkrug.ru,4," 4  57.msk.net.selectel.ru (188.93.17.57)  17.271 ms  17.268 ms  16.610 ms
+"
+medkrug.ru,5," 5  medkrug.ru (185.11.74.11)  16.592 ms  17.239 ms  17.312 ms
+"
+medkrug.ru,6," 6  medkrug.ru (185.11.74.11)  17.402 ms  20.762 ms  17.344 ms
+"

@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+udn.com,0,"traceroute to udn.com (104.103.77.83), 50 hops max, 60 byte packets
+"
+udn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.472 ms  0.457 ms  0.469 ms
+"
+udn.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.517 ms  0.551 ms  0.522 ms
+"
+udn.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.086 ms  28.652 ms  28.637 ms
+"
+udn.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  27.722 ms  35.203 ms  27.703 ms
+"
+udn.com,5," 5  ffm-bb2-link.telia.net (62.115.116.165)  31.452 ms ffm-bb3-link.telia.net (62.115.141.240)  28.977 ms ffm-bb3-link.telia.net (62.115.121.2)  28.924 ms
+"
+udn.com,6," 6  win-bb2-link.telia.net (62.115.133.78)  38.786 ms prag-bb1-link.telia.net (62.115.121.119)  35.204 ms  32.704 ms
+"
+udn.com,7," 7  win-b4-link.telia.net (62.115.113.69)  43.699 ms  41.236 ms  41.256 ms
+"
+udn.com,8," 8  akamai-ic-317493-win-b4.c.telia.net (62.115.147.101)  28.976 ms  31.347 ms  28.934 ms
+"
+udn.com,9," 9  * * *
+"
+udn.com,10,"10  * * *
+"
+udn.com,11,"11  * * *
+"
+udn.com,12,"12  * * *
+"
+udn.com,13,"13  * * *
+"
+udn.com,14,"14  * * *
+"
+udn.com,15,"15  * * *
+"
+udn.com,16,"16  * * *
+"
+udn.com,17,"17  * * *
+"
+udn.com,18,"18  * * *
+"
+udn.com,19,"19  * * *
+"
+udn.com,20,"20  * * *
+"
+udn.com,21,"21  * * *
+"
+udn.com,22,"22  * * *
+"
+udn.com,23,"23  * * *
+"
+udn.com,24,"24  * * *
+"
+udn.com,25,"25  * * *
+"
+udn.com,26,"26  * * *
+"
+udn.com,27,"27  * * *
+"
+udn.com,28,"28  * * *
+"
+udn.com,29,"29  * * *
+"
+udn.com,30,"30  * * *
+"
+udn.com,31,"31  * * *
+"
+udn.com,32,"32  * * *
+"
+udn.com,33,"33  * * *
+"
+udn.com,34,"34  * * *
+"
+udn.com,35,"35  * * *
+"
+udn.com,36,"36  * * *
+"
+udn.com,37,"37  * * *
+"
+udn.com,38,"38  * * *
+"
+udn.com,39,"39  * * *
+"
+udn.com,40,"40  * * *
+"
+udn.com,41,"41  * * *
+"
+udn.com,42,"42  * * *
+"
+udn.com,43,"43  * * *
+"
+udn.com,44,"44  * * *
+"
+udn.com,45,"45  * * *
+"
+udn.com,46,"46  * * *
+"
+udn.com,47,"47  * * *
+"
+udn.com,48,"48  * * *
+"
+udn.com,49,"49  * * *
+"
+udn.com,50,"50  * * *
+"

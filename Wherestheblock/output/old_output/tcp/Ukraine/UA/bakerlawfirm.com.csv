@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+bakerlawfirm.com,0,"traceroute to bakerlawfirm.com (184.168.131.241), 30 hops max, 60 byte packets
+"
+bakerlawfirm.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.407 ms  0.427 ms  0.419 ms
+"
+bakerlawfirm.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.659 ms  0.627 ms  2.646 ms
+"
+bakerlawfirm.com,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.005 ms  31.011 ms  43.134 ms
+"
+bakerlawfirm.com,4," 4  * * *
+"
+bakerlawfirm.com,5," 5  * * *
+"
+bakerlawfirm.com,6," 6  4.28.83.74 (4.28.83.74)  165.845 ms  167.135 ms  167.132 ms
+"
+bakerlawfirm.com,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  165.990 ms  165.326 ms  166.206 ms
+"
+bakerlawfirm.com,8," 8  * * *
+"
+bakerlawfirm.com,9," 9  148.72.32.9 (148.72.32.9)  165.811 ms  167.224 ms 148.72.32.5 (148.72.32.5)  181.810 ms
+"
+bakerlawfirm.com,10,"10  ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  166.048 ms  165.889 ms  167.147 ms
+"
+bakerlawfirm.com,11,"11  ip-184-168-1-134.ip.secureserver.net (184.168.1.134)  166.559 ms  166.222 ms  167.447 ms
+"
+bakerlawfirm.com,12,"12  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.643 ms  167.449 ms  166.871 ms
+"
+bakerlawfirm.com,13,"13  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.182 ms  167.053 ms  166.396 ms
+"
+bakerlawfirm.com,14,"14  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.512 ms  167.691 ms  165.858 ms
+"

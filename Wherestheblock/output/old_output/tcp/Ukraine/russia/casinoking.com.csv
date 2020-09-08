@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+casinoking.com,0,"traceroute to casinoking.com (207.154.224.200), 50 hops max, 60 byte packets
+"
+casinoking.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.289 ms  0.300 ms
+"
+casinoking.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.626 ms  0.659 ms  0.690 ms
+"
+casinoking.com,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  32.461 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.394 ms  30.631 ms
+"
+casinoking.com,4," 4  * * *
+"
+casinoking.com,5," 5  * * *
+"
+casinoking.com,6," 6  * * *
+"
+casinoking.com,7," 7  108208-83563.cloudwaysapps.com (207.154.224.200)  41.455 ms  43.726 ms  43.684 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+finmarket.ru,0,"traceroute to finmarket.ru (46.28.17.61), 50 hops max, 60 byte packets
+"
+finmarket.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.359 ms  0.346 ms  0.371 ms
+"
+finmarket.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.781 ms  16.023 ms  16.806 ms
+"
+finmarket.ru,3," 3  as20764.ix.dataix.ru (178.18.224.44)  18.020 ms  18.203 ms  18.457 ms
+"
+finmarket.ru,4," 4  m9-frr-04.tel.ru (176.126.46.35)  20.895 ms  21.122 ms  20.432 ms
+"
+finmarket.ru,5," 5  elzd24-frr-tr.tel.ru (176.126.46.33)  20.277 ms  19.509 ms  19.594 ms
+"
+finmarket.ru,6," 6  static-78-108-195-230.tel.ru (78.108.195.230)  22.174 ms  21.552 ms  22.182 ms
+"
+finmarket.ru,7," 7  46.28.17.61 (46.28.17.61)  21.207 ms  21.530 ms  17.923 ms
+"

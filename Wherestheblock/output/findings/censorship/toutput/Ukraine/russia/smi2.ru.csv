@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+smi2.ru,0,"traceroute to smi2.ru (46.161.36.4), 50 hops max, 60 byte packets
+"
+smi2.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.291 ms  2.317 ms  2.363 ms
+"
+smi2.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.765 ms  16.773 ms  16.764 ms
+"
+smi2.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  23.689 ms  24.682 ms  24.804 ms
+"
+smi2.ru,4," 4  141.spb.net.selectel.ru (188.93.17.141)  25.290 ms  24.310 ms  26.514 ms
+"
+smi2.ru,5," 5  ads3-1.sselp3.imcmdb.net (46.161.36.4)  29.691 ms  27.842 ms  26.169 ms
+"

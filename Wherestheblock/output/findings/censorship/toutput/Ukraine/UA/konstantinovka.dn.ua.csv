@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+konstantinovka.dn.ua,0,"traceroute to konstantinovka.dn.ua (104.24.96.237), 30 hops max, 60 byte packets
+"
+konstantinovka.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.325 ms  0.316 ms  0.335 ms
+"
+konstantinovka.dn.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.593 ms  0.543 ms  0.577 ms
+"
+konstantinovka.dn.ua,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.331 ms  16.266 ms  16.274 ms
+"
+konstantinovka.dn.ua,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  23.654 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.979 ms  16.081 ms
+"
+konstantinovka.dn.ua,5," 5  104.24.96.237 (104.24.96.237)  18.222 ms  18.203 ms  18.030 ms
+"

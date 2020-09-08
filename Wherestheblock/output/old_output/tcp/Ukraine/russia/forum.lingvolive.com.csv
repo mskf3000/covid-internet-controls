@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+forum.lingvolive.com,0,"traceroute to forum.lingvolive.com (62.213.108.142), 50 hops max, 60 byte packets
+"
+forum.lingvolive.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.322 ms  0.331 ms
+"
+forum.lingvolive.com,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.466 ms  0.597 ms  0.493 ms
+"
+forum.lingvolive.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.961 ms  15.961 ms  15.960 ms
+"
+forum.lingvolive.com,4," 4  as7979-gw.fiord.net (62.140.239.159)  17.105 ms  16.372 ms  17.177 ms
+"
+forum.lingvolive.com,5," 5  xcore-mo1-r2-se.servers.com (188.42.176.251)  22.244 ms  19.669 ms  19.557 ms
+"
+forum.lingvolive.com,6," 6  188.42.148.3 (188.42.148.3)  16.941 ms  16.673 ms  16.759 ms
+"
+forum.lingvolive.com,7," 7  * * *
+"
+forum.lingvolive.com,8," 8  62.213.108.142 (62.213.108.142)  16.299 ms  16.442 ms  16.381 ms
+"

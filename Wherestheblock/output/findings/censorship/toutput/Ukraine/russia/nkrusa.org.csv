@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+nkrusa.org,0,"traceroute to nkrusa.org (64.29.151.221), 50 hops max, 60 byte packets
+"
+nkrusa.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.383 ms  0.379 ms  0.401 ms
+"
+nkrusa.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.034 ms  1.031 ms  1.052 ms
+"
+nkrusa.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.250 ms  17.233 ms  17.254 ms
+"
+nkrusa.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.652 ms  22.644 ms  22.701 ms
+"
+nkrusa.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.644 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.445 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.640 ms
+"
+nkrusa.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.660 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.535 ms  39.517 ms
+"
+nkrusa.org,7," 7  be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.301 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.289 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.077 ms
+"
+nkrusa.org,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.174 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.619 ms be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)  116.515 ms
+"
+nkrusa.org,9," 9  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  123.999 ms  122.638 ms  121.694 ms
+"
+nkrusa.org,10,"10  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  133.864 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  131.689 ms be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  134.660 ms
+"
+nkrusa.org,11,"11  be3483.ccr22.mia01.atlas.cogentco.com (154.54.28.50)  150.559 ms be3482.ccr21.mia01.atlas.cogentco.com (154.54.24.146)  148.823 ms be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  131.099 ms
+"
+nkrusa.org,12,"12  be3482.ccr21.mia01.atlas.cogentco.com (154.54.24.146)  146.523 ms be2025.ccr22.mia03.atlas.cogentco.com (154.54.47.230)  146.317 ms  147.201 ms
+"
+nkrusa.org,13,"13  38.104.94.62 (38.104.94.62)  147.641 ms  148.909 ms  147.481 ms
+"
+nkrusa.org,14,"14  core1-vl50.50.mia.megarouting.com (64.29.159.9)  146.274 ms 38.104.94.62 (38.104.94.62)  146.291 ms core1-vl50.50.mia.megarouting.com (64.29.159.9)  145.533 ms
+"
+nkrusa.org,15,"15  hostedc40.carrierzone.com (64.29.151.221)  149.986 ms  148.491 ms  146.156 ms
+"

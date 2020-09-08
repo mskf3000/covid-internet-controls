@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+meta.wikimedia.org,0,"traceroute to meta.wikimedia.org (91.198.174.192), 30 hops max, 60 byte packets
+"
+meta.wikimedia.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.279 ms  0.299 ms
+"
+meta.wikimedia.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.626 ms  0.617 ms  0.641 ms
+"
+meta.wikimedia.org,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.627 ms  32.648 ms  32.674 ms
+"
+meta.wikimedia.org,4," 4  ae2.cr2-esams.wikimedia.org (80.249.209.176)  33.365 ms  33.401 ms  33.418 ms
+"
+meta.wikimedia.org,5," 5  text-lb.esams.wikimedia.org (91.198.174.192)  33.006 ms  32.755 ms  33.006 ms
+"

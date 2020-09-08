@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+blogs.wsj.com,0,"traceroute to blogs.wsj.com (52.222.174.19), 30 hops max, 60 byte packets
+"
+blogs.wsj.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.275 ms  0.288 ms  0.328 ms
+"
+blogs.wsj.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.889 ms  0.927 ms  0.995 ms
+"
+blogs.wsj.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.214 ms  17.237 ms  17.230 ms
+"
+blogs.wsj.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.036 ms  18.087 ms  18.350 ms
+"
+blogs.wsj.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.635 ms  24.433 ms  24.665 ms
+"
+blogs.wsj.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.771 ms  29.826 ms  29.808 ms
+"
+blogs.wsj.com,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  37.881 ms  44.212 ms  44.220 ms
+"
+blogs.wsj.com,8," 8  52.93.111.4 (52.93.111.4)  31.929 ms 52.93.111.10 (52.93.111.10)  35.779 ms 52.93.111.8 (52.93.111.8)  32.389 ms
+"
+blogs.wsj.com,9," 9  54.239.107.17 (54.239.107.17)  39.715 ms 54.239.107.127 (54.239.107.127)  39.526 ms 54.239.107.171 (54.239.107.171)  39.569 ms
+"
+blogs.wsj.com,10,"10  54.239.4.219 (54.239.4.219)  31.239 ms  31.328 ms  30.856 ms
+"
+blogs.wsj.com,11,"11  54.239.5.223 (54.239.5.223)  30.908 ms  30.794 ms  30.825 ms
+"
+blogs.wsj.com,12,"12  * * *
+"
+blogs.wsj.com,13,"13  * * *
+"
+blogs.wsj.com,14,"14  * * *
+"
+blogs.wsj.com,15,"15  server-52-222-174-19.fra54.r.cloudfront.net (52.222.174.19)  28.335 ms  28.337 ms  28.320 ms
+"

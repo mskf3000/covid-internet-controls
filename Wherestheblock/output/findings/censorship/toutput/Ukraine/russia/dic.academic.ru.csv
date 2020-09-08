@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+dic.academic.ru,0,"traceroute to dic.academic.ru (95.217.42.33), 50 hops max, 60 byte packets
+"
+dic.academic.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.332 ms  0.367 ms
+"
+dic.academic.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.676 ms  0.659 ms  0.690 ms
+"
+dic.academic.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.768 ms  28.749 ms  28.729 ms
+"
+dic.academic.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  30.991 ms  31.040 ms  28.669 ms
+"
+dic.academic.ru,5," 5  core32.hel1.hetzner.com (213.239.224.154)  44.027 ms  44.066 ms  41.926 ms
+"
+dic.academic.ru,6," 6  ex9k1.dc2.hel1.hetzner.com (213.239.224.134)  43.939 ms ex9k1.dc2.hel1.hetzner.com (213.239.224.138)  42.779 ms  40.142 ms
+"
+dic.academic.ru,7," 7  static.33.42.217.95.clients.your-server.de (95.217.42.33)  40.225 ms  43.602 ms  40.119 ms
+"

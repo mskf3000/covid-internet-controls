@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+russialist.org,0,"traceroute to russialist.org (107.180.51.231), 30 hops max, 60 byte packets
+"
+russialist.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.285 ms  0.273 ms  0.293 ms
+"
+russialist.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.727 ms  0.722 ms  0.713 ms
+"
+russialist.org,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.541 ms  29.908 ms  29.898 ms
+"
+russialist.org,4," 4  * * *
+"
+russialist.org,5," 5  * * *
+"
+russialist.org,6," 6  4.15.136.122 (4.15.136.122)  118.496 ms  119.798 ms  118.447 ms
+"
+russialist.org,7," 7  ip-184-168-6-81.ip.secureserver.net (184.168.6.81)  118.734 ms  120.090 ms  120.131 ms
+"
+russialist.org,8," 8  * * *
+"
+russialist.org,9," 9  * * *
+"
+russialist.org,10,"10  * * *
+"
+russialist.org,11,"11  * * *
+"
+russialist.org,12,"12  * * *
+"
+russialist.org,13,"13  ip-107-180-51-231.ip.secureserver.net (107.180.51.231)  121.787 ms  118.887 ms  122.053 ms
+"

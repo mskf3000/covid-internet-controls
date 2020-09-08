@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+fileshare.in.ua,0,"traceroute to fileshare.in.ua (91.206.200.104), 30 hops max, 60 byte packets
+"
+fileshare.in.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.308 ms  0.297 ms
+"
+fileshare.in.ua,2," 2  deltax2-ix.giganet.ua (185.1.63.61)  0.639 ms  0.633 ms  0.617 ms
+"
+fileshare.in.ua,3," 3  * * *
+"
+fileshare.in.ua,4," 4  web142.default-host.net (91.206.200.104)  0.635 ms  0.746 ms  0.678 ms
+"

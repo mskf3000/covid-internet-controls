@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novindoosh.com,0,"traceroute to novindoosh.com (104.24.109.32), 30 hops max, 60 byte packets
+"
+novindoosh.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.287 ms  0.317 ms
+"
+novindoosh.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.570 ms  0.558 ms  0.553 ms
+"
+novindoosh.com,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.891 ms  17.835 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.229 ms
+"
+novindoosh.com,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  17.534 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.039 ms cloudflare-peering.fiord.net (80.77.167.7)  18.087 ms
+"
+novindoosh.com,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  16.559 ms  16.559 ms 104.24.109.32 (104.24.109.32)  21.089 ms
+"

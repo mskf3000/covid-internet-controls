@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+en.rian.ru,0,"traceroute to en.rian.ru (195.93.247.150), 30 hops max, 60 byte packets
+"
+en.rian.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.296 ms  0.318 ms
+"
+en.rian.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.824 ms  18.813 ms  18.798 ms
+"
+en.rian.ru,3," 3  equant.inet2.ru (85.112.122.71)  18.718 ms  18.767 ms  18.761 ms
+"
+en.rian.ru,4," 4  Moscow-GIN-PE04-ae1-0.rosprint.net (195.151.234.227)  18.936 ms  18.924 ms  18.919 ms
+"
+en.rian.ru,5," 5  195.151.251.147 (195.151.251.147)  19.136 ms  19.134 ms  19.114 ms
+"
+en.rian.ru,6," 6  195.93.247.150 (195.93.247.150)  19.570 ms  19.951 ms  19.715 ms
+"
+en.rian.ru,7," 7  * 195.93.247.150 (195.93.247.150)  19.932 ms  19.900 ms
+"
+en.rian.ru,8," 8  195.93.247.150 (195.93.247.150)  20.675 ms  20.927 ms  19.647 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+medikforum.ru,0,"traceroute to medikforum.ru (104.31.76.195), 50 hops max, 60 byte packets
+"
+medikforum.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.317 ms  0.323 ms  0.319 ms
+"
+medikforum.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.263 ms  1.249 ms  0.577 ms
+"
+medikforum.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.810 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.289 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.792 ms
+"
+medikforum.ru,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  23.038 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.055 ms cloudflare-peering.fiord.net (80.77.167.7)  18.037 ms
+"
+medikforum.ru,5," 5  104.31.76.195 (104.31.76.195)  17.846 ms  18.431 ms  21.526 ms
+"

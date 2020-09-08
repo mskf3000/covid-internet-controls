@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+kupiproday.ru,0,"traceroute to kupiproday.ru (77.222.61.183), 30 hops max, 60 byte packets
+"
+kupiproday.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.259 ms  0.249 ms  0.274 ms
+"
+kupiproday.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.919 ms  1.094 ms  1.151 ms
+"
+kupiproday.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.945 ms  17.153 ms  16.945 ms
+"
+kupiproday.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.007 ms  29.949 ms  29.948 ms
+"
+kupiproday.ru,5," 5  et-0-0-17.cr2-fra6.ip4.gtt.net (89.149.180.74)  33.172 ms  33.174 ms  33.164 ms
+"
+kupiproday.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  42.952 ms  42.847 ms  43.020 ms
+"
+kupiproday.ru,7," 7  188.254.2.85 (188.254.2.85)  61.864 ms  51.174 ms  50.309 ms
+"
+kupiproday.ru,8," 8  213.59.214.154 (213.59.214.154)  52.096 ms  54.865 ms  60.715 ms
+"
+kupiproday.ru,9," 9  spb-sdn-gw1.net.p8.ru (31.177.85.165)  48.633 ms  62.590 ms  60.233 ms
+"
+kupiproday.ru,10,"10  vip2.sweb.ru (77.222.61.183)  60.849 ms  57.097 ms  61.383 ms
+"

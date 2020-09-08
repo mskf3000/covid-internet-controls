@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+dmitriyev.hiblogger.net,0,"traceroute to dmitriyev.hiblogger.net (91.194.251.69), 30 hops max, 60 byte packets
+"
+dmitriyev.hiblogger.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.268 ms  0.296 ms
+"
+dmitriyev.hiblogger.net,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  1.113 ms  1.108 ms  1.022 ms
+"
+dmitriyev.hiblogger.net,3," 3  hiblogger.net (91.194.251.69)  0.417 ms  0.503 ms  0.444 ms
+"

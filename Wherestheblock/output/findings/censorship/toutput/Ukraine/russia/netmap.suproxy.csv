@@ -1,0 +1,5 @@
+URL,TTL,Response_Message
+netmap.suproxy,0,"netmap.suproxy: Name or service not known
+"
+netmap.suproxy,1,"Cannot handle ""host"" cmdline arg `netmap.suproxy' on position 1 (argc 4)
+"

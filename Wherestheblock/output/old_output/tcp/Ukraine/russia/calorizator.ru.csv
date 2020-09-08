@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+calorizator.ru,0,"traceroute to calorizator.ru (164.132.27.240), 50 hops max, 60 byte packets
+"
+calorizator.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.687 ms  6.675 ms  6.694 ms
+"
+calorizator.ru,2," 2  * * *
+"
+calorizator.ru,3," 3  * * *
+"
+calorizator.ru,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.848 ms  33.729 ms  33.893 ms
+"
+calorizator.ru,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  36.906 ms  106.235 ms  106.512 ms
+"
+calorizator.ru,6," 6  * * *
+"
+calorizator.ru,7," 7  * * *
+"
+calorizator.ru,8," 8  * * *
+"
+calorizator.ru,9," 9  * * *
+"
+calorizator.ru,10,"10  th3.vps-private.net (164.132.27.240)  35.707 ms  35.729 ms  36.439 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+radiosputnik.ria.ru,0,"traceroute to radiosputnik.ria.ru (178.248.233.32), 50 hops max, 60 byte packets
+"
+radiosputnik.ria.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.274 ms  0.264 ms  0.295 ms
+"
+radiosputnik.ria.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.592 ms  0.740 ms  0.573 ms
+"
+radiosputnik.ria.ru,3," 3  10.11.12.17 (10.11.12.17)  9.225 ms  9.275 ms  9.222 ms
+"
+radiosputnik.ria.ru,4," 4  * * *
+"
+radiosputnik.ria.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.229 ms  1.225 ms  0.911 ms
+"
+radiosputnik.ria.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.571 ms  19.512 ms  19.581 ms
+"
+radiosputnik.ria.ru,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.479 ms  19.490 ms  19.520 ms
+"
+radiosputnik.ria.ru,8," 8  178.248.233.32 (178.248.233.32)  19.449 ms  19.472 ms  19.440 ms
+"

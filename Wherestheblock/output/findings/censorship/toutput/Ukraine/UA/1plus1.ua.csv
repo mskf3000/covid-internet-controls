@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+1plus1.ua,0,"traceroute to 1plus1.ua (195.137.240.80), 30 hops max, 60 byte packets
+"
+1plus1.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.282 ms  0.276 ms
+"
+1plus1.ua,2," 2  1plus1-ix.b.giganet.ua (185.1.111.10)  0.675 ms  0.822 ms  0.706 ms
+"
+1plus1.ua,3," 3  front02.1plus1.ua (195.137.240.80)  0.746 ms  0.875 ms  0.742 ms
+"

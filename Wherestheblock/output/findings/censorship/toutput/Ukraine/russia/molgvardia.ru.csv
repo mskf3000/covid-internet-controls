@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+molgvardia.ru,0,"traceroute to molgvardia.ru (193.104.59.249), 50 hops max, 60 byte packets
+"
+molgvardia.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.333 ms  0.311 ms  0.351 ms
+"
+molgvardia.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.040 ms  17.043 ms  17.391 ms
+"
+molgvardia.ru,3," 3  109.239.138.133 (109.239.138.133)  70.745 ms  70.739 ms  70.723 ms
+"
+molgvardia.ru,4," 4  40g-lag.highspeednetwork.ru (92.63.203.69)  19.577 ms  20.100 ms  20.454 ms
+"
+molgvardia.ru,5," 5  46.28.94.155 (46.28.94.155)  19.812 ms  19.320 ms  24.004 ms
+"
+molgvardia.ru,6," 6  193.104.59.249 (193.104.59.249)  23.970 ms  56.063 ms  56.007 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+vestifinance.ru,0,"traceroute to vestifinance.ru (80.247.33.214), 50 hops max, 60 byte packets
+"
+vestifinance.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.139 ms  2.165 ms  2.193 ms
+"
+vestifinance.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.554 ms  0.509 ms  0.538 ms
+"
+vestifinance.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  18.100 ms  18.086 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.772 ms
+"
+vestifinance.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.882 ms  15.968 ms *
+"
+vestifinance.ru,5," 5  * 80.247.32.14 (80.247.32.14)  21.269 ms  21.495 ms
+"
+vestifinance.ru,6," 6  80.247.33.214 (80.247.33.214)  20.522 ms  22.401 ms 80.247.32.14 (80.247.32.14)  20.550 ms
+"

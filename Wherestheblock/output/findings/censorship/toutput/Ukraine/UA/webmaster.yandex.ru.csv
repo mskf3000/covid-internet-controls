@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+webmaster.yandex.ru,0,"traceroute to webmaster.yandex.ru (87.250.250.61), 30 hops max, 60 byte packets
+"
+webmaster.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.009 ms  0.991 ms  1.022 ms
+"
+webmaster.yandex.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.068 ms  1.238 ms  1.233 ms
+"
+webmaster.yandex.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.380 ms  17.071 ms  17.081 ms
+"
+webmaster.yandex.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.477 ms  22.550 ms  22.482 ms
+"
+webmaster.yandex.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.670 ms  30.677 ms  30.671 ms
+"
+webmaster.yandex.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.240 ms  45.549 ms  45.545 ms
+"
+webmaster.yandex.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  55.996 ms  52.761 ms  56.028 ms
+"
+webmaster.yandex.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  52.856 ms  53.064 ms  56.315 ms
+"
+webmaster.yandex.ru,9," 9  149.11.124.74 (149.11.124.74)  52.370 ms  52.643 ms  52.624 ms
+"
+webmaster.yandex.ru,10,"10  wmfront-balancer.stable.qloud-b.yandex.net (87.250.250.61)  55.397 ms  63.381 ms  58.317 ms
+"

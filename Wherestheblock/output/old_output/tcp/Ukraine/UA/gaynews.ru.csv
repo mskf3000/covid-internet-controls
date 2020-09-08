@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+gaynews.ru,0,"traceroute to gaynews.ru (78.46.210.47), 30 hops max, 60 byte packets
+"
+gaynews.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.305 ms  0.286 ms  0.286 ms
+"
+gaynews.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.700 ms  0.641 ms  0.716 ms
+"
+gaynews.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.711 ms  26.163 ms  26.102 ms
+"
+gaynews.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.580 ms  31.038 ms  31.027 ms
+"
+gaynews.ru,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.074 ms core5.fra.hetzner.com (213.239.224.218)  32.790 ms core4.fra.hetzner.com (213.239.245.85)  31.647 ms
+"
+gaynews.ru,6," 6  core21.fsn1.hetzner.com (213.239.224.241)  36.338 ms core22.fsn1.hetzner.com (213.239.224.245)  37.392 ms core21.fsn1.hetzner.com (213.239.245.13)  33.594 ms
+"
+gaynews.ru,7," 7  spine1.cloud2.fsn1.hetzner.com (213.239.239.126)  34.053 ms  34.382 ms spine2.cloud2.fsn1.hetzner.com (213.239.239.130)  39.930 ms
+"
+gaynews.ru,8," 8  * * *
+"
+gaynews.ru,9," 9  82.your-cloud.host (195.201.48.253)  35.659 ms  33.027 ms  33.049 ms
+"
+gaynews.ru,10,"10  outloudmag.eu (78.46.210.47)  36.180 ms  36.166 ms  36.155 ms
+"
+gaynews.ru,11,"11  outloudmag.eu (78.46.210.47)  36.201 ms  35.873 ms  35.849 ms
+"

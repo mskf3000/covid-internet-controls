@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+versii.com,0,"traceroute to versii.com (188.226.228.14), 30 hops max, 60 byte packets
+"
+versii.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.359 ms  1.348 ms  1.383 ms
+"
+versii.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.609 ms  0.590 ms  0.593 ms
+"
+versii.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.920 ms  38.364 ms  35.912 ms
+"
+versii.com,4," 4  digital-ocean-ams-peering.fiord.net (62.140.243.19)  38.454 ms  38.727 ms  36.328 ms
+"
+versii.com,5," 5  138.197.244.70 (138.197.244.70)  39.191 ms  39.189 ms 138.197.244.72 (138.197.244.72)  36.732 ms
+"
+versii.com,6," 6  * * *
+"
+versii.com,7," 7  versii.com (188.226.228.14)  36.342 ms  33.857 ms  36.236 ms
+"

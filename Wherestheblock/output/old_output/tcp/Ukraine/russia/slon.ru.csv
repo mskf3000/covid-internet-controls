@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+slon.ru,0,"traceroute to slon.ru (82.202.255.34), 50 hops max, 60 byte packets
+"
+slon.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.970 ms  6.964 ms  6.957 ms
+"
+slon.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.067 ms  16.765 ms  16.059 ms
+"
+slon.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  25.764 ms  24.261 ms  24.870 ms
+"
+slon.ru,4," 4  141.spb.net.selectel.ru (188.93.17.141)  26.674 ms  24.478 ms  25.702 ms
+"
+slon.ru,5," 5  82.202.255.34 (82.202.255.34)  27.814 ms  27.535 ms  27.784 ms
+"
+slon.ru,6," 6  82.202.255.34 (82.202.255.34)  25.792 ms  25.147 ms  26.961 ms
+"

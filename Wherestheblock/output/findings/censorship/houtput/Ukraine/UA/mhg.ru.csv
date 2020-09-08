@@ -1,0 +1,1686 @@
+URL,TTL,Message
+mhg.ru,1,timed out
+mhg.ru,2,timed out
+mhg.ru,3,timed out
+mhg.ru,4,timed out
+mhg.ru,5,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:48 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animatio"
+mhg.ru,6,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:49 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,7,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:49 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,8,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:50 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,9,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:50 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,10,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,11,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,12,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:52 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,13,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:52 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,14,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:52 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,15,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:53 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,16,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:53 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,17,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:54 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animatio"
+mhg.ru,18,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:54 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,19,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:55 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,20,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:55 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,21,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:56 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,22,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:56 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,23,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:57 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,24,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:57 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,25,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animatio"
+mhg.ru,26,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,27,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:59 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,28,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:48:59 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"
+mhg.ru,29,"HTTP/1.1 404 Not Found
+Server: openresty
+Date: Thu, 23 Jan 2020 09:49:00 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+
+28c9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сайта с таким именем нет на сервере</title>
+
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"" />
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/fonts.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/index.css?10"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""https://index.from.sh/stub.css?10"" />
+</head>
+<body>
+<div id=""content-wrapper"" class=""page-content"">
+    <div id=""message-wrapper"" class=""message-content fl-n-xs"">
+        <div id=""message-inner"" class=""message-inner"">
+            <h1>Сайта с таким именем нет на сервере</h1>
+            <p>Имя сайта, по которому вы зашли, указывает на сервер,</br>но сервер не сконфигурирован для работы с этим сайтом.</p>
+            <p>По всем вопросам вы можете связаться со <a href=""https://sprinthost.ru/support/"">службой поддержки</a>.</p>            <span id=""error-code"">Код ответа #4040</span>
+                            <span id=""error-help"">Информация для владельца сайта</span>
+                <div id=""error-div"" style=""visibility: hidden;""><p>На текущих NS-серверах для домена указана А-запись с некорректным IP-адресом сервера.<br>
+        Измените IP-адрес в адресной записи домена на тот, который указан в Панели управления хостингом — «Аккаунт» → «<a href=""https://cp.sprinthost.ru/customer/ips/list"">IP-адреса</a>».</p></div>
+                <img src=""https://index.from.sh/img/sellers/sprinthost/logo.svg"" class=""sprinthost-logo"" style=""height: 60px; width: 128px;""
+                     title=""Хостинг от Спринтхост"">
+                    </div>
+    </div>
+
+            <div id=""game-cat-link"" class=""hidden-xs"" onclick=""CatLink.start();"">
+            <div class=""game-cat-link-arrow-bottom push-me-animation""></div>
+            <div class=""game-cat-link-animal animation-cat""></div>
+        </div>
+    
+    <div id=""game-cat-wrapper"" style=""display: none;"">
+        <div id=""game-cat-content"">
+            <div id=""game-cat-link-end"" onclick=""CatLink.end();"">
+                <div class=""game-cat-link-arrow-top push-me-animation""></div>
+                <div class=""game-cat-link-animal animation-cat""></div>
+            </div>
+
+            <canvas width=""935"" height=""282""></canvas>
+            <div id=""start"" onclick=""game.initStart(); this.style.visibility = 'hidden';""></div>
+            <div id=""skip"" onclick=""game.startNewGame(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""replay-end"" onclick=""game.replay(); this.style.visibility = 'hidden';""></div>
+            <div id=""sound"" onclick=""game.soundToggle();""></div>
+
+            <div id=""games-sph-cat-link"" style=""display: none;"">
+                <a href=""//games.sprinthost.ru"" target=""_blank"">хотите сыграть в другую игру?</a>
+            </div>
+        </div>
+    </div>
+
+    <div id=""game-wrapper"" class=""game-content hidden-xs"" style=""display: none;"">
+        <div id=""game-svg""></div>
+
+        <div id=""game-sound"" class=""game-sound sound-on"" onclick=""Points.sound();""></div>
+        <div id=""game-exit"" class=""game-link-arrow-left"" onclick=""Points.exit();""></div>
+        <div id=""game-points"">
+            <div id=""game-un"

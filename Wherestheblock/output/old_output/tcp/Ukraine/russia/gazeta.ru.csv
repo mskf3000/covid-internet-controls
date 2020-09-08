@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+gazeta.ru,0,"traceroute to gazeta.ru (81.19.72.1), 50 hops max, 60 byte packets
+"
+gazeta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.750 ms  2.739 ms  2.767 ms
+"
+gazeta.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.795 ms  20.110 ms  20.650 ms
+"
+gazeta.ru,3," 3  109.239.134.66 (109.239.134.66)  21.329 ms  19.527 ms  19.504 ms
+"
+gazeta.ru,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  18.884 ms  21.649 ms  19.724 ms
+"
+gazeta.ru,5," 5  * * *
+"
+gazeta.ru,6," 6  * * *
+"
+gazeta.ru,7," 7  gazeta.ru (81.19.72.1)  18.929 ms  17.432 ms  17.391 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+alexabarboss.blogspot.com,0,"traceroute to alexabarboss.blogspot.com (216.58.209.1), 30 hops max, 60 byte packets
+"
+alexabarboss.blogspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.674 ms  0.665 ms  0.659 ms
+"
+alexabarboss.blogspot.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.858 ms  0.855 ms  0.844 ms
+"
+alexabarboss.blogspot.com,3," 3  100.64.64.58 (100.64.64.58)  0.974 ms  0.912 ms  0.954 ms
+"
+alexabarboss.blogspot.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.946 ms  0.981 ms  0.822 ms
+"
+alexabarboss.blogspot.com,5," 5  108.170.248.131 (108.170.248.131)  1.112 ms  1.100 ms  2.067 ms
+"
+alexabarboss.blogspot.com,6," 6  209.85.248.105 (209.85.248.105)  14.099 ms  13.872 ms 108.170.234.224 (108.170.234.224)  1.873 ms
+"
+alexabarboss.blogspot.com,7," 7  216.239.46.121 (216.239.46.121)  15.157 ms 108.170.250.193 (108.170.250.193)  13.811 ms 216.239.46.121 (216.239.46.121)  14.913 ms
+"
+alexabarboss.blogspot.com,8," 8  108.170.250.193 (108.170.250.193)  13.802 ms 172.253.68.29 (172.253.68.29)  14.412 ms 108.170.250.193 (108.170.250.193)  14.641 ms
+"
+alexabarboss.blogspot.com,9," 9  172.253.68.29 (172.253.68.29)  14.386 ms  14.934 ms 172.253.68.31 (172.253.68.31)  14.429 ms
+"
+alexabarboss.blogspot.com,10,"10  sof01s12-in-f1.1e100.net (216.58.209.1)  14.673 ms  13.835 ms  15.198 ms
+"

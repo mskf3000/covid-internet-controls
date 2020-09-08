@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+dikoe-pole.info,0,"traceroute to dikoe-pole.info (185.42.12.130), 30 hops max, 60 byte packets
+"
+dikoe-pole.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.290 ms  0.314 ms  0.362 ms
+"
+dikoe-pole.info,2," 2  * * *
+"
+dikoe-pole.info,3," 3  * * *
+"
+dikoe-pole.info,4," 4  10.0.9.181 (10.0.9.181)  16.341 ms  17.551 ms  16.302 ms
+"
+dikoe-pole.info,5," 5  10.0.91.1 (10.0.91.1)  19.856 ms  17.880 ms  18.933 ms
+"
+dikoe-pole.info,6," 6  ddos-guard.net (185.129.101.191)  17.254 ms  17.432 ms  17.532 ms
+"
+dikoe-pole.info,7," 7  * s30.multihost.cloud (185.42.12.130)  17.078 ms  17.003 ms
+"

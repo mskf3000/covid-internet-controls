@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+provokator-ua.narod.ru,0,"traceroute to provokator-ua.narod.ru (193.109.247.227), 30 hops max, 60 byte packets
+"
+provokator-ua.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.369 ms  0.353 ms  0.365 ms
+"
+provokator-ua.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.647 ms  0.630 ms  0.620 ms
+"
+provokator-ua.narod.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.818 ms  17.811 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.081 ms
+"
+provokator-ua.narod.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.992 ms * *
+"
+provokator-ua.narod.ru,5," 5  * 10.0.9.185 (10.0.9.185)  19.407 ms *
+"
+provokator-ua.narod.ru,6," 6  10.0.9.185 (10.0.9.185)  17.682 ms ddos-guard.net (185.129.101.142)  18.036 ms  17.841 ms
+"
+provokator-ua.narod.ru,7," 7  ddos-guard.net (185.129.103.17)  17.477 ms  17.886 ms ddos-guard.net (185.129.101.142)  16.572 ms
+"
+provokator-ua.narod.ru,8," 8  ddos-guard.net (185.129.103.17)  16.244 ms * *
+"
+provokator-ua.narod.ru,9," 9  dev.ucoz.net (193.109.247.227)  18.772 ms * *
+"

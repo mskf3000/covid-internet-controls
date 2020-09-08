@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+afew.org,0,"traceroute to afew.org (83.172.180.127), 30 hops max, 60 byte packets
+"
+afew.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.779 ms  2.811 ms  2.803 ms
+"
+afew.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.881 ms  0.941 ms  1.025 ms
+"
+afew.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.901 ms  17.130 ms  16.893 ms
+"
+afew.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.563 ms  22.583 ms  22.570 ms
+"
+afew.org,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.457 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.603 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.597 ms
+"
+afew.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.362 ms  39.562 ms  39.336 ms
+"
+afew.org,7," 7  be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  39.351 ms be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  39.435 ms be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  39.308 ms
+"
+afew.org,8," 8  149.11.64.174 (149.11.64.174)  36.763 ms  36.888 ms  36.921 ms
+"
+afew.org,9," 9  94.103.144.122 (94.103.144.122)  39.186 ms  39.012 ms  39.229 ms
+"
+afew.org,10,"10  sub1.stb.i-s-e.nl (94.103.151.98)  38.280 ms  38.313 ms  38.375 ms
+"
+afew.org,11,"11  hosted.by.i-s-e.nl (83.172.159.143)  38.182 ms  38.379 ms  38.399 ms
+"
+afew.org,12,"12  vps188.123-webhost.net (83.172.180.127)  38.793 ms  39.173 ms  38.471 ms
+"

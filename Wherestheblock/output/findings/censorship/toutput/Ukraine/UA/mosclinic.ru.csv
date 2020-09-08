@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+mosclinic.ru,0,"traceroute to mosclinic.ru (136.243.204.74), 30 hops max, 60 byte packets
+"
+mosclinic.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.274 ms  0.304 ms
+"
+mosclinic.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.681 ms  0.672 ms  0.663 ms
+"
+mosclinic.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  27.954 ms  27.957 ms  28.586 ms
+"
+mosclinic.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.706 ms  28.679 ms  31.272 ms
+"
+mosclinic.ru,5," 5  core4.fra.hetzner.com (213.239.245.85)  31.511 ms core1.fra.hetzner.com (213.239.245.125)  28.516 ms core5.fra.hetzner.com (213.239.224.218)  35.415 ms
+"
+mosclinic.ru,6," 6  core24.fsn1.hetzner.com (213.239.252.42)  36.442 ms core24.fsn1.hetzner.com (213.239.229.78)  33.574 ms core24.fsn1.hetzner.com (213.239.203.150)  39.711 ms
+"
+mosclinic.ru,7," 7  ex9k1.dc11.fsn1.hetzner.com (213.239.203.142)  37.152 ms  39.650 ms  37.161 ms
+"
+mosclinic.ru,8," 8  static.242.217.76.144.clients.your-server.de (144.76.217.242)  37.717 ms  37.756 ms  37.870 ms
+"
+mosclinic.ru,9," 9  static.74.204.243.136.clients.your-server.de (136.243.204.74)  35.871 ms  33.430 ms  34.030 ms
+"

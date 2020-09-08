@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+rutor.org,0,"traceroute to rutor.org (5.61.49.61), 50 hops max, 60 byte packets
+"
+rutor.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.283 ms  0.272 ms
+"
+rutor.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.925 ms  0.975 ms  1.014 ms
+"
+rutor.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  85.678 ms  85.651 ms  85.654 ms
+"
+rutor.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  85.656 ms  85.645 ms  85.633 ms
+"
+rutor.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  85.628 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  85.617 ms  85.609 ms
+"
+rutor.org,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  85.600 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  81.648 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  81.656 ms
+"
+rutor.org,7," 7  be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  81.645 ms  81.636 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  81.628 ms
+"
+rutor.org,8," 8  * * *
+"
+rutor.org,9," 9  185.8.179.40 (185.8.179.40)  42.077 ms 185.8.179.39 (185.8.179.39)  42.459 ms 185.8.179.40 (185.8.179.40)  41.516 ms
+"
+rutor.org,10,"10  185.8.177.33 (185.8.177.33)  76.134 ms  76.110 ms 185.8.177.35 (185.8.177.35)  76.119 ms
+"
+rutor.org,11,"11  free.ispiria.net (5.61.49.61)  38.847 ms  41.451 ms  38.954 ms
+"

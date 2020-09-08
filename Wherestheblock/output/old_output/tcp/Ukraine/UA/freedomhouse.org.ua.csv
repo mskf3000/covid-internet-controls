@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+freedomhouse.org.ua,0,"traceroute to freedomhouse.org.ua (195.64.155.20), 30 hops max, 60 byte packets
+"
+freedomhouse.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.285 ms  0.303 ms
+"
+freedomhouse.org.ua,2," 2  dtel-ix.ukrnames.com (193.25.180.154)  7.900 ms  7.874 ms  7.932 ms
+"
+freedomhouse.org.ua,3," 3  ovz9.ukrnames.com (195.64.154.240)  9.328 ms  9.214 ms  9.311 ms
+"
+freedomhouse.org.ua,4," 4  195.64.155.20.ip.ukrnames.com (195.64.155.20)  8.452 ms  9.292 ms  9.219 ms
+"

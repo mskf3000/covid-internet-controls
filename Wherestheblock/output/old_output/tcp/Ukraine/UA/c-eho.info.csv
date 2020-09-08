@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+c-eho.info,0,"traceroute to c-eho.info (151.248.116.121), 30 hops max, 60 byte packets
+"
+c-eho.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.254 ms  0.284 ms  0.321 ms
+"
+c-eho.info,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.559 ms  0.609 ms  0.534 ms
+"
+c-eho.info,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.945 ms  15.963 ms  15.951 ms
+"
+c-eho.info,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.189 ms  17.181 ms  17.508 ms
+"
+c-eho.info,5," 5  * * *
+"
+c-eho.info,6," 6  172.16.71.11 (172.16.71.11)  16.564 ms  16.632 ms  16.582 ms
+"
+c-eho.info,7," 7  ovzhost86.vps.reg.ru (37.140.193.73)  17.316 ms  17.305 ms  17.292 ms
+"
+c-eho.info,8," 8  151-248-116-121.ovz.vps.regruhosting.ru (151.248.116.121)  16.683 ms  16.602 ms  17.313 ms
+"

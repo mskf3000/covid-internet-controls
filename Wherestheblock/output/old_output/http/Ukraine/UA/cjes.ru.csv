@@ -1,0 +1,976 @@
+URL,TTL,Message
+cjes.ru,1,timed out
+cjes.ru,2,timed out
+cjes.ru,3,timed out
+cjes.ru,4,timed out
+cjes.ru,5,timed out
+cjes.ru,6,timed out
+cjes.ru,7,timed out
+cjes.ru,8,timed out
+cjes.ru,9,timed out
+cjes.ru,10,timed out
+cjes.ru,11,timed out
+cjes.ru,12,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,13,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,14,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,15,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,16,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,17,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,18,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,19,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,20,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:27 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,21,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,22,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,23,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,24,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,25,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+       "
+cjes.ru,26,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,27,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"
+cjes.ru,28,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-"
+cjes.ru,29,"HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 23 Jan 2020 07:25:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3805
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+        <meta charset=""utf-8"">
+        <title>Домен ojaloberoi.in продается</title>
+        <link rel=""shortcut icon"" href=""/favicon.ico"" type=""image/png"">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,100,300,500,700,900&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+        <link rel=""stylesheet"" href=""/css/style.css"">
+        <link rel=""stylesheet"" href=""/css/font-awesome.css"">
+        <!--[if lt IE 9]> 
+        <script src=""http://html5shiv.googlecode.com/svn/trunk/html5.js""></script> 
+        <![endif]-->
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    </head>
+    <body>
+        <div class=""container"">
+            <div class=""content"">
+                <h1>Домен <span>ojaloberoi.in</span><br />может стать визитной карточкой<br />вашего бизнеса.</h1>
+                <p>Компании из рейтинга Forbes TOP-100<br />выросли из малого бизнеса благодаря<br /> запоминающимся именам.</p>
+                <span id=""result""><i class=""fa fa-check-circle"" aria-hidden=""true""></i> Ваш запрос успешно направлен владельцу домена.</span>
+
+                
+                                <div id=""reqwrapper"">
+                    <h2>Узнайте стоимость</h2>
+                    <form id=""contact"" name=""contact"" action=""/"" method=""post"">
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-user fa-fw""></i></span><input type=""name"" id=""name-r"" name=""user"" class=""txt"" placeholder=""Ваше имя""><input type=""name"" id=""name"" name=""name"" class=""txt"" placeholder=""Ваше имя""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-phone fa-fw""></i></span><input type=""phone"" id=""phone-r"" name=""tel"" class=""txt"" placeholder=""Ваш телефон""><input type=""phone"" id=""phone"" name=""phone"" class=""txt"" placeholder=""Ваш телефон""></div>
+                        <div class=""input-group margin-bottom-sm""><span class=""input-group-addon""><i class=""fa fa-envelope fa-fw""></i></span><input type=""email"" id=""mail-r"" name=""mail"" class=""txt"" placeholder=""Ваш e-mail""><input type=""email"" id=""email"" name=""email"" class=""txt verif"" placeholder=""Ваш e-mail""></div>
+                        <textarea id=""msg-r"" name=""message"" class=""txtarea"" placeholder=""Ваше сообщение:""></textarea>
+                        <textarea class=""txtarea margin-bottom-sm"" id=""msg"" name=""msg"" placeholder=""Ваше сообщение:""></textarea>
+                        <button id=""send"">Узнать цену</button>
+                    </form>
+                </div>
+                            </div>
+        </div>
+        <script type=""text/javascript"" src=""/js/jquery-3.2.0.min.js""></script>
+        <script type=""text/javascript"" src=""/js/script.js""></script>
+        <script type=""text/javascript"" src=""/js/jquery.maskedinput.js""></script>
+        <script type=""text/javascript"">
+            jQuery(function($){
+                $(""#phone"").mask(""+7 (999) 999-99-99"");
+                $(""#phone2"").mask(""+7 (999) 999-99-99"");
+            });
+        </script>
+        <script type=""text/javascript"">document.write('<img id=""cntr"" src=""http://holdcenter.com/stat/?ref='+escape(document.referrer)+'&url='+escape(document.URL)+'&title='+document.title.substring(0,80)+'&scr='+((typeof(screen)==""undefined"")?"""":screen.width+"" x ""+screen.height)+'"" width=0 height=0 border=0>')</script>
+    </body>
+</html>"

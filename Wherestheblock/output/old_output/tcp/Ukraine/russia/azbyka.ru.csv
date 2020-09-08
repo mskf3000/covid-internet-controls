@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+azbyka.ru,0,"traceroute to azbyka.ru (136.243.107.44), 50 hops max, 60 byte packets
+"
+azbyka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.285 ms  0.308 ms
+"
+azbyka.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.506 ms  0.550 ms  0.537 ms
+"
+azbyka.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  29.700 ms  29.691 ms  29.679 ms
+"
+azbyka.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.096 ms  29.645 ms  31.091 ms
+"
+azbyka.ru,5," 5  core0.fra.hetzner.com (213.239.252.10)  29.643 ms core4.fra.hetzner.com (213.239.245.85)  75.215 ms core5.fra.hetzner.com (213.239.224.218)  35.602 ms
+"
+azbyka.ru,6," 6  core23.fsn1.hetzner.com (213.239.229.74)  39.912 ms core24.fsn1.hetzner.com (213.239.252.42)  33.532 ms core24.fsn1.hetzner.com (213.239.203.150)  49.395 ms
+"
+azbyka.ru,7," 7  ex9k1.dc8.fsn1.hetzner.com (213.239.203.230)  33.145 ms  33.137 ms ex9k1.dc8.fsn1.hetzner.com (213.239.203.234)  39.283 ms
+"
+azbyka.ru,8," 8  azbyka.ru (136.243.107.44)  35.512 ms  33.006 ms  32.970 ms
+"
+azbyka.ru,9," 9  azbyka.ru (136.243.107.44)  37.229 ms  39.739 ms  35.951 ms
+"

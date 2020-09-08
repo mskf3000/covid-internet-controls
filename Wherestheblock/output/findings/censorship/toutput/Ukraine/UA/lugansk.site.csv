@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+lugansk.site,0,"traceroute to lugansk.site (170.178.168.203), 30 hops max, 60 byte packets
+"
+lugansk.site,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.284 ms  0.324 ms  0.346 ms
+"
+lugansk.site,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.594 ms  0.584 ms  0.479 ms
+"
+lugansk.site,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.629 ms  26.109 ms  26.132 ms
+"
+lugansk.site,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  29.294 ms  30.749 ms  30.974 ms
+"
+lugansk.site,5," 5  et-0-0-67.cr4-lax2.ip4.gtt.net (89.149.140.77)  174.988 ms et-0-0-53.cr4-lax2.ip4.gtt.net (213.254.230.250)  172.906 ms et-0-0-67.cr4-lax2.ip4.gtt.net (89.149.140.77)  174.963 ms
+"
+lugansk.site,6," 6  gtt-100g.po6.la.ca.sharktech.net (107.167.0.233)  178.232 ms  178.137 ms  175.996 ms
+"
+lugansk.site,7," 7  10.0.0.22 (10.0.0.22)  178.488 ms 10.0.0.6 (10.0.0.6)  179.785 ms  179.922 ms
+"
+lugansk.site,8," 8  becrawl-show.flatreutic.com (170.178.168.203)  177.829 ms  177.060 ms  174.509 ms
+"

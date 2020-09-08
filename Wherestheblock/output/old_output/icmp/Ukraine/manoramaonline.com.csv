@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+manoramaonline.com,0,"traceroute to manoramaonline.com (184.50.164.249), 30 hops max, 60 byte packets
+"
+manoramaonline.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.009 ms  2.039 ms  2.038 ms
+"
+manoramaonline.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.575 ms  0.521 ms  0.573 ms
+"
+manoramaonline.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.954 ms  35.947 ms  35.946 ms
+"
+manoramaonline.com,4," 4  amsix-ams8.netarch.akamai.com (80.249.209.208)  33.622 ms  33.714 ms  33.705 ms
+"
+manoramaonline.com,5," 5  a184-50-164-249.deploy.static.akamaitechnologies.com (184.50.164.249)  33.756 ms  33.759 ms  33.753 ms
+"

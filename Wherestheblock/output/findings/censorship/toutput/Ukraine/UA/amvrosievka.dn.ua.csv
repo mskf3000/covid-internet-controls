@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+amvrosievka.dn.ua,0,"traceroute to amvrosievka.dn.ua (91.200.60.66), 30 hops max, 60 byte packets
+"
+amvrosievka.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.431 ms  0.420 ms  0.413 ms
+"
+amvrosievka.dn.ua,2," 2  status-2-ix.giganet.ua (185.1.62.232)  11.205 ms  16.247 ms  11.461 ms
+"
+amvrosievka.dn.ua,3," 3  linevps.ix.ks.ua (185.1.39.14)  13.643 ms  13.717 ms  13.595 ms
+"
+amvrosievka.dn.ua,4," 4  serv2.domainsnow.org (91.200.60.66)  17.649 ms  12.640 ms  62.040 ms
+"

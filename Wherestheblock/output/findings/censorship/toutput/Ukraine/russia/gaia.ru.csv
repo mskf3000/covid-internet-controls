@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+gaia.ru,0,"traceroute to gaia.ru (109.95.76.188), 50 hops max, 60 byte packets
+"
+gaia.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.344 ms  0.329 ms  0.349 ms
+"
+gaia.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  19.383 ms  16.061 ms  16.032 ms
+"
+gaia.ru,3," 3  as42511.ix.dataix.ru (178.18.226.22)  18.154 ms  18.224 ms  18.153 ms
+"
+gaia.ru,4," 4  h-109-95-76-188.st-net.ru (109.95.76.188)  17.707 ms  16.925 ms  16.960 ms
+"
+gaia.ru,5," 5  h-109-95-76-188.st-net.ru (109.95.76.188)  18.390 ms  18.138 ms  17.801 ms
+"
+gaia.ru,6," 6  h-109-95-76-188.st-net.ru (109.95.76.188)  33.963 ms  36.602 ms  34.910 ms
+"

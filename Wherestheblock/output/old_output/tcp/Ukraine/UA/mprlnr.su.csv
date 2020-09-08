@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mprlnr.su,0,"traceroute to mprlnr.su (193.228.160.57), 30 hops max, 60 byte packets
+"
+mprlnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.167 ms  5.147 ms  5.140 ms
+"
+mprlnr.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  4.010 ms  4.005 ms  4.034 ms
+"
+mprlnr.su,3," 3  10.11.12.17 (10.11.12.17)  0.832 ms  0.996 ms  0.859 ms
+"
+mprlnr.su,4," 4  * * *
+"
+mprlnr.su,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  2.766 ms  2.750 ms  0.921 ms
+"
+mprlnr.su,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  19.428 ms  19.407 ms  19.368 ms
+"
+mprlnr.su,7," 7  GW-Telematika.retn.net (87.245.239.187)  32.186 ms  26.221 ms  41.441 ms
+"
+mprlnr.su,8," 8  193.228.160.57 (193.228.160.57)  28.255 ms  41.143 ms  25.862 ms
+"

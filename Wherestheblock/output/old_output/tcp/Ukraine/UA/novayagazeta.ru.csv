@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novayagazeta.ru,0,"traceroute to novayagazeta.ru (82.202.208.93), 30 hops max, 60 byte packets
+"
+novayagazeta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.273 ms  0.297 ms  0.322 ms
+"
+novayagazeta.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.090 ms  16.829 ms  16.578 ms
+"
+novayagazeta.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  24.385 ms  24.862 ms  24.855 ms
+"
+novayagazeta.ru,4," 4  141.spb.net.selectel.ru (188.93.17.141)  25.847 ms  26.334 ms  26.141 ms
+"
+novayagazeta.ru,5," 5  82.202.208.93 (82.202.208.93)  24.396 ms  27.128 ms  25.121 ms
+"

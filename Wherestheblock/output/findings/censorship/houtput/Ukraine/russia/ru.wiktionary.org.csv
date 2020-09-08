@@ -1,0 +1,1202 @@
+URL,TTL,Message
+ru.wiktionary.org,1,
+ru.wiktionary.org,2,
+ru.wiktionary.org,3,
+ru.wiktionary.org,4,
+ru.wiktionary.org,5,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 594786649
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 594786649<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,6,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 604520882
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 604520882<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,7,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 596866405
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 596866405<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,8,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 606114214
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 606114214<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,9,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 606775257
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 606775257<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,10,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 599219677
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikime"
+ru.wiktionary.org,11,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 607555528
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 607555528<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,12,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 609323610
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 609323610<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,13,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 596665292
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 596665292<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,14,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 601636558
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikime"
+ru.wiktionary.org,15,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 612044223
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 612044223<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,16,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 612729281
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 612729281<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,17,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 602528354
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 602528354<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,18,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 603433279
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 603433279<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,19,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:42 GMT
+Server: Varnish
+X-Varnish: 609650416
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 609650416<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:42 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,20,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 597458020
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 597458020<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,21,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 612959200
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 612959200<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,22,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 597055264
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 597055264<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,23,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 605097894
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 605097894<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,24,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 594565331
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 594565331<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,25,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 591624973
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 591624973<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,26,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 603304775
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 603304775<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,27,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 613056935
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 613056935<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,28,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 594565338
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 594565338<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"
+ru.wiktionary.org,29,"HTTP/1.1 400 
+Date: Thu, 23 Jan 2020 00:58:43 GMT
+Server: Varnish
+X-Varnish: 609356010
+X-Cache: cp3050 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc=""int-front""
+Set-Cookie: WMF-Last-Access=23-Jan-2020;Path=/;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=23-Jan-2020;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Mon, 24 Feb 2020 00:00:00 GMT
+X-Client-IP: 176.107.176.62
+Content-Type: text/html; charset=utf-8
+Content-Length: 1807
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 176.107.176.62 via cp3050 frontend, Varnish XID 609356010<br>Upstream caches: cp3050 int<br>Error: 400,  at Thu, 23 Jan 2020 00:58:43 GMT</code></p>
+</div>
+</html>
+"

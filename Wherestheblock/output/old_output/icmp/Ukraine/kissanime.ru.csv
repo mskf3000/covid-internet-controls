@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+kissanime.ru,0,"traceroute to kissanime.ru (104.20.26.43), 30 hops max, 60 byte packets
+"
+kissanime.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.234 ms  0.273 ms  0.316 ms
+"
+kissanime.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.863 ms  0.960 ms  1.033 ms
+"
+kissanime.ru,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  2.002 ms  2.003 ms  2.437 ms
+"
+kissanime.ru,4," 4  149.6.191.138 (149.6.191.138)  4.032 ms  4.033 ms  4.033 ms
+"
+kissanime.ru,5," 5  104.20.26.43 (104.20.26.43)  1.075 ms  1.065 ms  1.066 ms
+"

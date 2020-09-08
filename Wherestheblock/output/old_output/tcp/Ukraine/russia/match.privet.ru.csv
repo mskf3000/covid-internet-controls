@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+match.privet.ru,0,"traceroute to match.privet.ru (213.109.79.11), 50 hops max, 60 byte packets
+"
+match.privet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.944 ms  7.962 ms  8.000 ms
+"
+match.privet.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.741 ms  0.756 ms  0.874 ms
+"
+match.privet.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  46.479 ms  20.540 ms  20.534 ms
+"
+match.privet.ru,4," 4  GW-MailRU.retn.net (87.245.253.215)  19.740 ms  19.728 ms  19.668 ms
+"
+match.privet.ru,5," 5  * * *
+"
+match.privet.ru,6," 6  * * *
+"
+match.privet.ru,7," 7  teamo.ru (213.109.79.11)  22.556 ms  20.952 ms  20.815 ms
+"

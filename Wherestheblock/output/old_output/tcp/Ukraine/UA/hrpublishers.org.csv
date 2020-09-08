@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+hrpublishers.org,0,"traceroute to hrpublishers.org (95.80.214.220), 30 hops max, 60 byte packets
+"
+hrpublishers.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.943 ms  1.927 ms  1.921 ms
+"
+hrpublishers.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.644 ms  0.710 ms  0.638 ms
+"
+hrpublishers.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.719 ms  28.710 ms  28.692 ms
+"
+hrpublishers.org,4," 4  decix.dialtelecom.cz (80.81.192.217)  33.969 ms  34.037 ms  31.409 ms
+"
+hrpublishers.org,5," 5  cz-prg-p1sit-hunge0-2-0-1.dialtelecom.cz (82.119.246.102)  34.164 ms  34.191 ms  34.183 ms
+"
+hrpublishers.org,6," 6  cz-prg-bbr2-sit-be1.diatelecom.cz (82.119.246.166)  31.568 ms  33.802 ms  33.699 ms
+"
+hrpublishers.org,7," 7  gw1.domenu.cz (95.80.214.162)  31.564 ms  33.995 ms  31.738 ms
+"
+hrpublishers.org,8," 8  mars.abzone.cz (95.80.214.220)  34.496 ms  32.298 ms  34.735 ms
+"

@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+shiltirs.com,0,"traceroute to shiltirs.com (78.140.190.92), 30 hops max, 60 byte packets
+"
+shiltirs.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.016 ms  1.011 ms  1.047 ms
+"
+shiltirs.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.990 ms  0.949 ms  1.063 ms
+"
+shiltirs.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.284 ms  17.347 ms  17.201 ms
+"
+shiltirs.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.385 ms  22.367 ms  22.360 ms
+"
+shiltirs.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.480 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.542 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.670 ms
+"
+shiltirs.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.603 ms  39.323 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.333 ms
+"
+shiltirs.com,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  39.948 ms be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  39.799 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  39.865 ms
+"
+shiltirs.com,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.22)  39.766 ms 149.6.1.230 (149.6.1.230)  40.216 ms universal-cdn.demarc.cogentco.com (149.6.1.46)  39.734 ms
+"
+shiltirs.com,9," 9  xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  46.664 ms xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  37.902 ms  37.896 ms
+"
+shiltirs.com,10,"10  * * *
+"
+shiltirs.com,11,"11  * * *
+"
+shiltirs.com,12,"12  * * *
+"
+shiltirs.com,13,"13  * * *
+"
+shiltirs.com,14,"14  * * *
+"
+shiltirs.com,15,"15  * * *
+"
+shiltirs.com,16,"16  * * *
+"
+shiltirs.com,17,"17  * * *
+"
+shiltirs.com,18,"18  * * *
+"
+shiltirs.com,19,"19  * * *
+"
+shiltirs.com,20,"20  * * *
+"
+shiltirs.com,21,"21  * * *
+"
+shiltirs.com,22,"22  * * *
+"
+shiltirs.com,23,"23  * * *
+"
+shiltirs.com,24,"24  * * *
+"
+shiltirs.com,25,"25  * * *
+"
+shiltirs.com,26,"26  * * *
+"
+shiltirs.com,27,"27  * * *
+"
+shiltirs.com,28,"28  * * *
+"
+shiltirs.com,29,"29  * * *
+"
+shiltirs.com,30,"30  * * *
+"

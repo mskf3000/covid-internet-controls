@@ -1,0 +1,65 @@
+URL,TTL,Response_Message
+pkkonline.org,0,"traceroute to pkkonline.org (52.0.7.30), 50 hops max, 60 byte packets
+"
+pkkonline.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.345 ms  0.350 ms  0.392 ms
+"
+pkkonline.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.193 ms  1.010 ms  1.084 ms
+"
+pkkonline.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.014 ms  17.278 ms  17.332 ms
+"
+pkkonline.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.635 ms  22.162 ms  22.135 ms
+"
+pkkonline.org,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.714 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.425 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.728 ms
+"
+pkkonline.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.812 ms  39.522 ms  39.456 ms
+"
+pkkonline.org,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.216 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.698 ms  115.629 ms
+"
+pkkonline.org,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.691 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  119.088 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  115.677 ms
+"
+pkkonline.org,9," 9  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.893 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.830 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  116.068 ms
+"
+pkkonline.org,10,"10  38.140.106.162 (38.140.106.162)  120.470 ms  138.094 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.138 ms
+"
+pkkonline.org,11,"11  38.140.106.162 (38.140.106.162)  137.234 ms 52.93.31.53 (52.93.31.53)  115.382 ms 52.93.31.61 (52.93.31.61)  122.109 ms
+"
+pkkonline.org,12,"12  52.93.4.6 (52.93.4.6)  113.450 ms 52.93.4.56 (52.93.4.56)  112.464 ms 52.93.4.26 (52.93.4.26)  111.109 ms
+"
+pkkonline.org,13,"13  * * *
+"
+pkkonline.org,14,"14  54.240.229.149 (54.240.229.149)  116.999 ms 52.93.131.180 (52.93.131.180)  118.942 ms  117.204 ms
+"
+pkkonline.org,15,"15  54.240.229.143 (54.240.229.143)  119.143 ms * *
+"
+pkkonline.org,16,"16  * * *
+"
+pkkonline.org,17,"17  * * *
+"
+pkkonline.org,18,"18  * * *
+"
+pkkonline.org,19,"19  * * *
+"
+pkkonline.org,20,"20  * * *
+"
+pkkonline.org,21,"21  * * *
+"
+pkkonline.org,22,"22  * * *
+"
+pkkonline.org,23,"23  * * *
+"
+pkkonline.org,24,"24  * * *
+"
+pkkonline.org,25,"25  * * 52.93.28.108 (52.93.28.108)  116.209 ms
+"
+pkkonline.org,26,"26  * * *
+"
+pkkonline.org,27,"27  * * *
+"
+pkkonline.org,28,"28  * * *
+"
+pkkonline.org,29,"29  * * *
+"
+pkkonline.org,30,"30  * * *
+"
+pkkonline.org,31,"31  ec2-52-0-7-30.compute-1.amazonaws.com (52.0.7.30)  118.619 ms  118.720 ms  116.407 ms
+"

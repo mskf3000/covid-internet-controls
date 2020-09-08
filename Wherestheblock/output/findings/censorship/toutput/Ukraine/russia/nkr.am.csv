@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+nkr.am,0,"traceroute to nkr.am (188.164.155.20), 50 hops max, 60 byte packets
+"
+nkr.am,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.365 ms  0.371 ms  0.361 ms
+"
+nkr.am,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.526 ms  0.652 ms  0.586 ms
+"
+nkr.am,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.101 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.587 ms  17.879 ms
+"
+nkr.am,4," 4  msk-ix-m9.gnc.net (195.208.209.161)  46.687 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.059 ms msk-ix-m9.gnc.net (195.208.209.161)  45.685 ms
+"
+nkr.am,5," 5  46.19.96.254 (46.19.96.254)  75.822 ms  77.031 ms  76.335 ms
+"
+nkr.am,6," 6  46.19.96.254 (46.19.96.254)  78.624 ms 212.42.196.245 (212.42.196.245)  78.164 ms  78.043 ms
+"
+nkr.am,7," 7  212.42.196.245 (212.42.196.245)  79.704 ms  76.567 ms  76.556 ms
+"
+nkr.am,8," 8  212.42.196.246 (212.42.196.246)  83.772 ms  80.909 ms rou1.host.am (188.164.152.242)  86.174 ms
+"
+nkr.am,9," 9  * * *
+"
+nkr.am,10,"10  * * *
+"
+nkr.am,11,"11  * * *
+"
+nkr.am,12,"12  host-20.155.164.188.customer.host.am (188.164.155.20)  77.023 ms  83.300 ms  82.105 ms
+"

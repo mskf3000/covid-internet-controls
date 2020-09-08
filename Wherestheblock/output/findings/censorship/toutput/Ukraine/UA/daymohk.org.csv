@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+daymohk.org,0,"traceroute to daymohk.org (64.98.145.30), 30 hops max, 60 byte packets
+"
+daymohk.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.412 ms  0.411 ms  0.397 ms
+"
+daymohk.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.996 ms  0.910 ms  0.999 ms
+"
+daymohk.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  21.291 ms  21.290 ms  21.274 ms
+"
+daymohk.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  21.328 ms  21.319 ms  21.305 ms
+"
+daymohk.org,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  21.339 ms  21.390 ms  21.380 ms
+"
+daymohk.org,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  118.032 ms  117.970 ms  117.817 ms
+"
+daymohk.org,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.582 ms  30.406 ms  29.714 ms
+"
+daymohk.org,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  118.075 ms  118.341 ms  118.083 ms
+"
+daymohk.org,9," 9  ae-1.r05.asbnva02.us.bb.gin.ntt.net (129.250.2.20)  118.563 ms ae-7.r06.asbnva02.us.bb.gin.ntt.net (129.250.2.121)  118.712 ms ae-1.r05.asbnva02.us.bb.gin.ntt.net (129.250.2.20)  118.526 ms
+"
+daymohk.org,10,"10  ae-0.a00.asbnva02.us.bb.gin.ntt.net (129.250.5.152)  118.526 ms  118.501 ms ae-1.a00.asbnva02.us.bb.gin.ntt.net (129.250.5.154)  117.854 ms
+"
+daymohk.org,11,"11  xe-0-0-15-0.a00.asbnva02.us.ce.gin.ntt.net (130.94.195.234)  118.274 ms  119.073 ms  119.042 ms
+"
+daymohk.org,12,"12  64.98.0.34 (64.98.0.34)  120.153 ms  120.129 ms  120.172 ms
+"
+daymohk.org,13,"13  csr-p14.ash.tucows.net (64.98.128.110)  117.986 ms  118.154 ms  118.433 ms
+"
+daymohk.org,14,"14  url.hover.com (64.98.145.30)  118.365 ms  118.823 ms  120.680 ms
+"

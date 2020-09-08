@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+dpni.ru,0,"traceroute to dpni.ru (194.58.112.165), 30 hops max, 60 byte packets
+"
+dpni.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.317 ms  0.327 ms  0.367 ms
+"
+dpni.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.782 ms  16.114 ms  19.416 ms
+"
+dpni.ru,3," 3  * * *
+"
+dpni.ru,4," 4  10.0.9.165 (10.0.9.165)  16.915 ms  16.956 ms 10.0.9.181 (10.0.9.181)  16.242 ms
+"
+dpni.ru,5," 5  * * *
+"
+dpni.ru,6," 6  * * *
+"
+dpni.ru,7," 7  * * *
+"
+dpni.ru,8," 8  parking.reg.ru (194.58.112.165)  17.585 ms  18.211 ms  21.180 ms
+"

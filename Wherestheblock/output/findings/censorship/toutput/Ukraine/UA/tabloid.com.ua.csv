@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+tabloid.com.ua,0,"traceroute to tabloid.com.ua (5.39.10.93), 30 hops max, 60 byte packets
+"
+tabloid.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.304 ms  0.294 ms
+"
+tabloid.com.ua,2," 2  * * *
+"
+tabloid.com.ua,3," 3  * * *
+"
+tabloid.com.ua,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  37.690 ms  37.693 ms  37.685 ms
+"
+tabloid.com.ua,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  47.764 ms  45.950 ms  47.942 ms
+"
+tabloid.com.ua,6," 6  * * *
+"
+tabloid.com.ua,7," 7  * * *
+"
+tabloid.com.ua,8," 8  * * *
+"
+tabloid.com.ua,9," 9  * * *
+"
+tabloid.com.ua,10,"10  park.dnshosting.org (5.39.10.93)  44.850 ms  44.865 ms  45.507 ms
+"

@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+webmoney.ru,0,"traceroute to webmoney.ru (151.80.149.182), 30 hops max, 60 byte packets
+"
+webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.331 ms  0.362 ms
+"
+webmoney.ru,2," 2  * * *
+"
+webmoney.ru,3," 3  * * *
+"
+webmoney.ru,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.599 ms  33.813 ms  33.676 ms
+"
+webmoney.ru,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  36.957 ms  129.689 ms  129.594 ms
+"
+webmoney.ru,6," 6  * * *
+"
+webmoney.ru,7," 7  be5.sbg-z2g2-a75.fr.eu (37.187.232.51)  36.458 ms be5.sbg-z2g1-a75.fr.eu (37.187.232.49)  35.871 ms  35.842 ms
+"
+webmoney.ru,8," 8  * * *
+"
+webmoney.ru,9," 9  51.255.190.214 (51.255.190.214)  35.917 ms  35.858 ms  35.908 ms
+"
+webmoney.ru,10,"10  * * *
+"
+webmoney.ru,11,"11  182.ip-151-80-149.eu (151.80.149.182)  36.095 ms  36.101 ms  36.035 ms
+"

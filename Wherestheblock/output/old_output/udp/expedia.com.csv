@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+expedia.com,0,"traceroute to expedia.com (52.26.234.148), 50 hops max, 60 byte packets
+"
+expedia.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.415 ms  0.390 ms  0.379 ms
+"
+expedia.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.995 ms  1.071 ms  1.005 ms
+"
+expedia.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.217 ms  17.209 ms  17.427 ms
+"
+expedia.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.365 ms  22.310 ms  22.380 ms
+"
+expedia.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.804 ms  30.829 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.472 ms
+"
+expedia.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.324 ms  39.722 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.632 ms
+"
+expedia.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.384 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.788 ms  186.639 ms
+"
+expedia.com,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.512 ms  186.559 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.538 ms
+"
+expedia.com,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.332 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.273 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.704 ms
+"
+expedia.com,10,"10  be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.715 ms  135.728 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  139.377 ms
+"
+expedia.com,11,"11  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.641 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  185.336 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.566 ms
+"
+expedia.com,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.736 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  147.014 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.877 ms
+"
+expedia.com,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.247 ms  185.332 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  158.893 ms
+"
+expedia.com,14,"14  be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  174.321 ms  169.488 ms  169.159 ms
+"
+expedia.com,15,"15  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  188.630 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  185.671 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  183.989 ms
+"
+expedia.com,16,"16  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  189.966 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  190.099 ms  185.184 ms
+"
+expedia.com,17,"17  38.88.224.186 (38.88.224.186)  174.889 ms  174.904 ms  174.783 ms
+"
+expedia.com,18,"18  52.93.70.180 (52.93.70.180)  175.657 ms 38.88.224.218 (38.88.224.218)  190.356 ms 52.93.70.176 (52.93.70.176)  180.596 ms
+"
+expedia.com,19,"19  54.240.242.81 (54.240.242.81)  176.762 ms 54.240.242.117 (54.240.242.117)  179.713 ms 54.240.242.77 (54.240.242.77)  175.658 ms
+"
+expedia.com,20,"20  * * *
+"
+expedia.com,21,"21  52.93.128.34 (52.93.128.34)  194.641 ms 52.93.130.28 (52.93.130.28)  195.528 ms 52.93.132.220 (52.93.132.220)  194.535 ms
+"
+expedia.com,22,"22  * * 54.239.46.100 (54.239.46.100)  201.819 ms
+"
+expedia.com,23,"23  52.93.12.186 (52.93.12.186)  200.004 ms 52.93.12.194 (52.93.12.194)  194.809 ms *
+"
+expedia.com,24,"24  52.93.12.71 (52.93.12.71)  195.451 ms 52.93.12.107 (52.93.12.107)  199.643 ms 52.93.12.37 (52.93.12.37)  194.229 ms
+"
+expedia.com,25,"25  52.93.12.176 (52.93.12.176)  200.566 ms 52.93.12.248 (52.93.12.248)  195.577 ms 52.93.12.150 (52.93.12.150)  195.030 ms
+"
+expedia.com,26,"26  52.93.246.109 (52.93.246.109)  195.351 ms 52.93.246.99 (52.93.246.99)  196.649 ms 52.93.13.53 (52.93.13.53)  194.870 ms
+"
+expedia.com,27,"27  52.93.12.99 (52.93.12.99)  202.041 ms 52.93.15.213 (52.93.15.213)  199.731 ms 52.93.12.135 (52.93.12.135)  201.004 ms
+"
+expedia.com,28,"28  52.93.246.11 (52.93.246.11)  202.297 ms * 52.93.13.65 (52.93.13.65)  195.403 ms
+"
+expedia.com,29,"29  * * *
+"
+expedia.com,30,"30  * * *
+"
+expedia.com,31,"31  * * *
+"
+expedia.com,32,"32  * * *
+"
+expedia.com,33,"33  * * *
+"
+expedia.com,34,"34  * * *
+"
+expedia.com,35,"35  * * *
+"
+expedia.com,36,"36  * * *
+"
+expedia.com,37,"37  * * *
+"
+expedia.com,38,"38  * * *
+"
+expedia.com,39,"39  * * *
+"
+expedia.com,40,"40  * * *
+"
+expedia.com,41,"41  * * *
+"
+expedia.com,42,"42  * * *
+"
+expedia.com,43,"43  * * *
+"
+expedia.com,44,"44  * * *
+"
+expedia.com,45,"45  * * *
+"
+expedia.com,46,"46  * * *
+"
+expedia.com,47,"47  * * *
+"
+expedia.com,48,"48  * * *
+"
+expedia.com,49,"49  * * *
+"
+expedia.com,50,"50  * * *
+"

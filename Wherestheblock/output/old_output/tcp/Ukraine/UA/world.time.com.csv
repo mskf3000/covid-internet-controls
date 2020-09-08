@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+world.time.com,0,"traceroute to world.time.com (192.0.79.33), 30 hops max, 60 byte packets
+"
+world.time.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.339 ms  0.328 ms  0.345 ms
+"
+world.time.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.605 ms  0.627 ms  0.660 ms
+"
+world.time.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.455 ms  24.514 ms  19.454 ms
+"
+world.time.com,4," 4  as2635.vix.at (193.203.0.221)  19.561 ms  19.500 ms  19.500 ms
+"
+world.time.com,5," 5  wordpress.com (192.0.79.33)  18.945 ms  18.946 ms  19.462 ms
+"

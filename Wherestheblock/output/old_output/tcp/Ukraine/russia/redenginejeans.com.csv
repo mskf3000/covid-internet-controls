@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+redenginejeans.com,0,"traceroute to redenginejeans.com (199.16.172.25), 50 hops max, 60 byte packets
+"
+redenginejeans.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.279 ms  0.299 ms  0.459 ms
+"
+redenginejeans.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.654 ms  0.642 ms  0.693 ms
+"
+redenginejeans.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  19.448 ms  19.482 ms  19.369 ms
+"
+redenginejeans.com,4," 4  as2635.vix.at (193.203.0.221)  19.403 ms  19.207 ms  19.450 ms
+"
+redenginejeans.com,5," 5  199.16.172.25 (199.16.172.25)  19.441 ms  19.183 ms  19.100 ms
+"

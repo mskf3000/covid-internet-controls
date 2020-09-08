@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+merchant.wmtransfer.com,0,"traceroute to merchant.wmtransfer.com (91.200.28.157), 30 hops max, 60 byte packets
+"
+merchant.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.288 ms  0.308 ms
+"
+merchant.wmtransfer.com,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.528 ms  17.719 ms  17.504 ms
+"
+merchant.wmtransfer.com,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  88.389 ms  88.429 ms  88.296 ms
+"
+merchant.wmtransfer.com,4," 4  80.85.240.85 (80.85.240.85)  20.366 ms  20.439 ms  23.353 ms
+"
+merchant.wmtransfer.com,5," 5  91.200.28.157 (91.200.28.157)  19.862 ms  19.866 ms  17.381 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+korrespondent.net,0,"traceroute to korrespondent.net (193.29.200.154), 30 hops max, 60 byte packets
+"
+korrespondent.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.340 ms  0.330 ms  0.341 ms
+"
+korrespondent.net,2," 2  gigatrans-ix.giganet.ua (185.1.62.92)  34.871 ms  34.881 ms  35.224 ms
+"
+korrespondent.net,3," 3  46.182.87.216 (46.182.87.216)  34.917 ms  34.911 ms  35.405 ms
+"
+korrespondent.net,4," 4  193.29.200.154 (193.29.200.154)  35.077 ms  35.182 ms  35.065 ms
+"
+korrespondent.net,5," 5  193.29.200.154 (193.29.200.154)  35.996 ms  35.694 ms  35.643 ms
+"

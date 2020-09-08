@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ovdinfo.org,0,"traceroute to ovdinfo.org (139.162.132.217), 50 hops max, 60 byte packets
+"
+ovdinfo.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  49.058 ms  49.043 ms  49.039 ms
+"
+ovdinfo.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  48.997 ms  49.005 ms  49.001 ms
+"
+ovdinfo.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  49.366 ms  49.352 ms  49.368 ms
+"
+ovdinfo.org,4," 4  gw1.fra1.de.linode.com (80.81.194.193)  49.365 ms  49.356 ms  49.351 ms
+"
+ovdinfo.org,5," 5  139.162.129.17 (139.162.129.17)  49.341 ms 139.162.129.13 (139.162.129.13)  49.338 ms 139.162.129.17 (139.162.129.17)  49.324 ms
+"
+ovdinfo.org,6," 6  ovdinfo.org (139.162.132.217)  49.297 ms  64.664 ms  64.639 ms
+"

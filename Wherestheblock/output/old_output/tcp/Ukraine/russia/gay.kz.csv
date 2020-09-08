@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+gay.kz,0,"traceroute to gay.kz (176.9.51.36), 50 hops max, 60 byte packets
+"
+gay.kz,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.327 ms  0.352 ms
+"
+gay.kz,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.425 ms  2.340 ms  2.394 ms
+"
+gay.kz,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  29.286 ms  29.281 ms  29.273 ms
+"
+gay.kz,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  35.451 ms  35.515 ms  35.434 ms
+"
+gay.kz,5," 5  core0.fra.hetzner.com (213.239.252.10)  28.481 ms  28.519 ms core5.fra.hetzner.com (213.239.224.218)  32.813 ms
+"
+gay.kz,6," 6  core22.fsn1.hetzner.com (213.239.224.245)  39.634 ms  37.372 ms core21.fsn1.hetzner.com (213.239.245.13)  41.067 ms
+"
+gay.kz,7," 7  ex9k1.dc6.fsn1.hetzner.com (213.239.229.90)  40.102 ms ex9k1.dc6.fsn1.hetzner.com (213.239.229.94)  33.114 ms  33.066 ms
+"
+gay.kz,8," 8  static.36.51.9.176.clients.your-server.de (176.9.51.36)  33.097 ms  33.104 ms  36.004 ms
+"

@@ -1,0 +1,45 @@
+URL,TTL,Response_Message
+mlb.com,0,"traceroute to mlb.com (209.102.213.14), 30 hops max, 60 byte packets
+"
+mlb.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.944 ms  2.933 ms  3.029 ms
+"
+mlb.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.190 ms  1.331 ms  1.380 ms
+"
+mlb.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.370 ms  17.378 ms  17.373 ms
+"
+mlb.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.817 ms  22.914 ms  23.031 ms
+"
+mlb.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.079 ms  31.087 ms  31.085 ms
+"
+mlb.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.917 ms  39.793 ms  39.663 ms
+"
+mlb.com,7," 7  be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.381 ms  117.576 ms  117.570 ms
+"
+mlb.com,8," 8  be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  118.757 ms  120.310 ms  120.303 ms
+"
+mlb.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  119.118 ms  118.111 ms  118.306 ms
+"
+mlb.com,10,"10  att.jfk10.atlas.cogentco.com (154.54.10.98)  118.342 ms  118.057 ms  118.051 ms
+"
+mlb.com,11,"11  cr2.n54ny.ip.att.net (12.122.130.170)  162.109 ms  161.110 ms  160.414 ms
+"
+mlb.com,12,"12  wswdc22crs.ip.att.net (12.122.28.42)  170.508 ms  164.497 ms  170.764 ms
+"
+mlb.com,13,"13  attga21crs.ip.att.net (12.122.2.29)  164.351 ms  162.822 ms  164.170 ms
+"
+mlb.com,14,"14  dlstx22crs.ip.att.net (12.122.2.110)  162.193 ms  162.191 ms  163.122 ms
+"
+mlb.com,15,"15  12.123.18.241 (12.123.18.241)  160.451 ms  160.115 ms  160.090 ms
+"
+mlb.com,16,"16  32.130.248.200 (32.130.248.200)  160.828 ms  161.555 ms  160.709 ms
+"
+mlb.com,17,"17  32.130.248.225 (32.130.248.225)  160.050 ms  160.103 ms  160.292 ms
+"
+mlb.com,18,"18  63.241.199.142 (63.241.199.142)  159.523 ms  159.514 ms  159.477 ms
+"
+mlb.com,19,"19  206.16.31.18 (206.16.31.18)  160.473 ms  160.562 ms  160.781 ms
+"
+mlb.com,20,"20  209.102.213.14 (209.102.213.14)  162.382 ms  162.383 ms  161.574 ms
+"
+mlb.com,21,"21  209.102.213.14 (209.102.213.14)  161.288 ms  161.295 ms  161.308 ms
+"

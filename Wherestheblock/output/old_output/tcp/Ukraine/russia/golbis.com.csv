@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+golbis.com,0,"traceroute to golbis.com (138.201.19.155), 50 hops max, 60 byte packets
+"
+golbis.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.284 ms  0.315 ms
+"
+golbis.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.609 ms  0.548 ms  0.494 ms
+"
+golbis.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.167 ms  26.213 ms  26.215 ms
+"
+golbis.com,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.748 ms  31.061 ms  31.055 ms
+"
+golbis.com,5," 5  core0.fra.hetzner.com (213.239.252.10)  55.731 ms core5.fra.hetzner.com (213.239.224.218)  32.854 ms core4.fra.hetzner.com (213.239.245.85)  28.917 ms
+"
+golbis.com,6," 6  core24.fsn1.hetzner.com (213.239.252.42)  39.440 ms core24.fsn1.hetzner.com (213.239.203.150)  42.472 ms core23.fsn1.hetzner.com (213.239.203.154)  33.254 ms
+"
+golbis.com,7," 7  ex9k1.dc8.fsn1.hetzner.com (213.239.203.234)  39.810 ms ex9k1.dc8.fsn1.hetzner.com (213.239.203.230)  33.160 ms ex9k1.dc8.fsn1.hetzner.com (213.239.203.234)  39.780 ms
+"
+golbis.com,8," 8  golbis.net (138.201.19.155)  33.543 ms  33.494 ms  37.416 ms
+"

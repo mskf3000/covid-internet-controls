@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+kavkazcenter.com,0,"traceroute to kavkazcenter.com (104.28.6.128), 30 hops max, 60 byte packets
+"
+kavkazcenter.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.292 ms  0.294 ms  0.330 ms
+"
+kavkazcenter.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.834 ms  2.404 ms  2.390 ms
+"
+kavkazcenter.com,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  10.075 ms  9.035 ms  8.982 ms
+"
+kavkazcenter.com,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.824 ms  11.852 ms  11.892 ms
+"
+kavkazcenter.com,5," 5  149.14.58.106 (149.14.58.106)  12.588 ms  12.263 ms  12.256 ms
+"
+kavkazcenter.com,6," 6  104.28.6.128 (104.28.6.128)  11.551 ms  12.004 ms  11.795 ms
+"

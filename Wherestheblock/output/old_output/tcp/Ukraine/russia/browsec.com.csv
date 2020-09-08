@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+browsec.com,0,"traceroute to browsec.com (138.201.57.222), 50 hops max, 60 byte packets
+"
+browsec.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.903 ms  0.934 ms  0.969 ms
+"
+browsec.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.542 ms  0.539 ms  0.558 ms
+"
+browsec.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.624 ms  28.756 ms  26.109 ms
+"
+browsec.com,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.252 ms  28.530 ms  28.511 ms
+"
+browsec.com,5," 5  * core4.fra.hetzner.com (213.239.245.85)  31.452 ms core1.fra.hetzner.com (213.239.245.125)  31.178 ms
+"
+browsec.com,6," 6  core23.fsn1.hetzner.com (213.239.224.249)  36.090 ms core23.fsn1.hetzner.com (213.239.229.74)  37.429 ms core23.fsn1.hetzner.com (213.239.224.249)  33.292 ms
+"
+browsec.com,7," 7  ex9k2.dc8.fsn1.hetzner.com (213.239.229.22)  37.410 ms ex9k2.dc8.fsn1.hetzner.com (213.239.229.18)  35.986 ms  35.962 ms
+"
+browsec.com,8," 8  static.222.57.201.138.clients.your-server.de (138.201.57.222)  35.994 ms  35.578 ms  33.028 ms
+"

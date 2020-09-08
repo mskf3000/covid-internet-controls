@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+odnarodyna.org,0,"traceroute to odnarodyna.org (104.26.0.193), 30 hops max, 60 byte packets
+"
+odnarodyna.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.727 ms  1.713 ms  1.728 ms
+"
+odnarodyna.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.841 ms  0.708 ms  0.930 ms
+"
+odnarodyna.org,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.965 ms  0.838 ms  0.882 ms
+"
+odnarodyna.org,4," 4  149.6.191.138 (149.6.191.138)  0.638 ms  0.626 ms  0.672 ms
+"
+odnarodyna.org,5," 5  104.26.0.193 (104.26.0.193)  0.596 ms  0.565 ms  0.631 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+antifashist.com,0,"traceroute to antifashist.com (78.24.217.132), 30 hops max, 60 byte packets
+"
+antifashist.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.344 ms  0.340 ms
+"
+antifashist.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.408 ms  17.813 ms  17.807 ms
+"
+antifashist.com,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  17.086 ms  19.265 ms  17.584 ms
+"
+antifashist.com,4," 4  core.webdc.ru (92.63.108.98)  19.699 ms  19.695 ms  18.977 ms
+"
+antifashist.com,5," 5  172.31.160.46 (172.31.160.46)  16.992 ms  17.038 ms  17.702 ms
+"
+antifashist.com,6," 6  antifashistcom.fvds.ru (78.24.217.132)  20.964 ms  17.755 ms  17.607 ms
+"

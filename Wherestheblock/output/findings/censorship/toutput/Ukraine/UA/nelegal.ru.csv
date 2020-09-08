@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+nelegal.ru,0,"traceroute to nelegal.ru (46.17.41.104), 30 hops max, 60 byte packets
+"
+nelegal.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.664 ms  1.657 ms  1.659 ms
+"
+nelegal.ru,2," 2  * * *
+"
+nelegal.ru,3," 3  as20764.ix.dataix.ru (178.18.224.44)  19.685 ms  18.542 ms  18.143 ms
+"
+nelegal.ru,4," 4  81.27.254.227.rascom.as20764.net (81.27.254.227)  16.976 ms msk-m9-cr3.ae40-0.rascom.as20764.net (80.64.96.245)  17.008 ms 81.27.254.227.rascom.as20764.net (81.27.254.227)  16.965 ms
+"
+nelegal.ru,5," 5  81.27.254.225.rascom.as20764.net (81.27.254.225)  19.430 ms 10.128.0.6 (10.128.0.6)  19.407 ms 81.27.254.225.rascom.as20764.net (81.27.254.225)  19.506 ms
+"
+nelegal.ru,6," 6  46.17.41.104 (46.17.41.104)  18.663 ms 10.128.0.6 (10.128.0.6)  18.659 ms  21.045 ms
+"
+nelegal.ru,7," 7  46.17.41.104 (46.17.41.104)  17.857 ms  40.199 ms  19.156 ms
+"

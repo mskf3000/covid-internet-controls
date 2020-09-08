@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+fotostrana.ru,0,"traceroute to fotostrana.ru (185.5.72.33), 50 hops max, 60 byte packets
+"
+fotostrana.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.309 ms  0.333 ms
+"
+fotostrana.ru,2," 2  * * *
+"
+fotostrana.ru,3," 3  as50453.ix.dataix.ru (178.18.224.134)  26.914 ms  27.634 ms  27.618 ms
+"
+fotostrana.ru,4," 4  fsa-2.addr.fotocdn.net (185.5.72.2)  27.426 ms  28.593 ms  28.551 ms
+"
+fotostrana.ru,5," 5  fsa-33.addr.fotocdn.net (185.5.72.33)  26.860 ms  26.860 ms  23.881 ms
+"

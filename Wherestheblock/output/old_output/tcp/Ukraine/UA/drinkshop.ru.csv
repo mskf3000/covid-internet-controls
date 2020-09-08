@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+drinkshop.ru,0,"traceroute to drinkshop.ru (5.101.125.106), 30 hops max, 60 byte packets
+"
+drinkshop.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.113 ms  1.099 ms  1.093 ms
+"
+drinkshop.ru,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.529 ms  1.645 ms  1.627 ms
+"
+drinkshop.ru,3," 3  77.88.211.129 (77.88.211.129)  10.402 ms  10.399 ms  10.390 ms
+"
+drinkshop.ru,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  31.860 ms  31.867 ms  31.858 ms
+"
+drinkshop.ru,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  38.528 ms  38.542 ms  38.630 ms
+"
+drinkshop.ru,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  37.780 ms  37.498 ms  32.379 ms
+"
+drinkshop.ru,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  32.436 ms  32.418 ms  32.833 ms
+"
+drinkshop.ru,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.285 ms  33.257 ms  33.247 ms
+"
+drinkshop.ru,9," 9  * * *
+"
+drinkshop.ru,10,"10  s05657d6a.fastvps-server.com (5.101.125.106)  37.965 ms  38.674 ms  33.294 ms
+"

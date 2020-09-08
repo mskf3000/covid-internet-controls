@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+lt-lnr.su,0,"traceroute to lt-lnr.su (185.178.247.13), 30 hops max, 60 byte packets
+"
+lt-lnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.376 ms  6.365 ms  6.374 ms
+"
+lt-lnr.su,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.938 ms  0.946 ms  0.986 ms
+"
+lt-lnr.su,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.928 ms  17.410 ms  17.256 ms
+"
+lt-lnr.su,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  29.949 ms  29.946 ms  30.014 ms
+"
+lt-lnr.su,5," 5  et-0-0-19.cr2-fra6.ip4.gtt.net (89.149.133.62)  32.631 ms  32.626 ms  32.615 ms
+"
+lt-lnr.su,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.282 ms  41.007 ms  41.074 ms
+"
+lt-lnr.su,7," 7  87.226.183.89 (87.226.183.89)  42.479 ms  42.408 ms  42.340 ms
+"
+lt-lnr.su,8," 8  217.107.80.59 (217.107.80.59)  57.413 ms  58.396 ms  58.722 ms
+"
+lt-lnr.su,9," 9  193.228.160.239 (193.228.160.239)  70.225 ms  70.211 ms 193.228.160.113 (193.228.160.113)  69.985 ms
+"
+lt-lnr.su,10,"10  pool.luganet.ru (194.31.154.9)  58.381 ms  60.612 ms  61.284 ms
+"
+lt-lnr.su,11,"11  * * *
+"
+lt-lnr.su,12,"12  * * *
+"
+lt-lnr.su,13,"13  * * *
+"
+lt-lnr.su,14,"14  * * *
+"
+lt-lnr.su,15,"15  * * *
+"
+lt-lnr.su,16,"16  * * *
+"
+lt-lnr.su,17,"17  * * *
+"
+lt-lnr.su,18,"18  * * *
+"
+lt-lnr.su,19,"19  * * *
+"
+lt-lnr.su,20,"20  * * *
+"
+lt-lnr.su,21,"21  * * *
+"
+lt-lnr.su,22,"22  * * *
+"
+lt-lnr.su,23,"23  * * *
+"
+lt-lnr.su,24,"24  * * *
+"
+lt-lnr.su,25,"25  * * *
+"
+lt-lnr.su,26,"26  * * *
+"
+lt-lnr.su,27,"27  * * *
+"
+lt-lnr.su,28,"28  * * *
+"
+lt-lnr.su,29,"29  * * *
+"
+lt-lnr.su,30,"30  * * *
+"

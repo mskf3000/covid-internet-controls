@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+growclub.org,0,"traceroute to growclub.org (37.48.94.4), 30 hops max, 60 byte packets
+"
+growclub.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.355 ms  0.359 ms  0.394 ms
+"
+growclub.org,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.558 ms  0.553 ms  0.598 ms
+"
+growclub.org,3," 3  100.64.65.25 (100.64.65.25)  14.841 ms  8.284 ms  14.830 ms
+"
+growclub.org,4," 4  100.64.64.125 (100.64.64.125)  14.754 ms  14.778 ms  14.544 ms
+"
+growclub.org,5," 5  100.64.65.237 (100.64.65.237)  33.106 ms  33.122 ms  33.074 ms
+"
+growclub.org,6," 6  et-1-0-0.bb04.ams-01.leaseweb.net (80.249.209.215)  33.336 ms  34.128 ms  33.361 ms
+"
+growclub.org,7," 7  be-104.br02.ams-01.nl.leaseweb.net (31.31.38.143)  36.999 ms  36.180 ms  36.918 ms
+"
+growclub.org,8," 8  be-10.cr02.ams-01.nl.leaseweb.net (81.17.34.21)  36.901 ms be-11.cr02.ams-01.nl.leaseweb.net (81.17.34.23)  37.232 ms be-10.cr02.ams-01.nl.leaseweb.net (81.17.34.21)  37.221 ms
+"
+growclub.org,9," 9  po-1001.ce01.ams-01.nl.leaseweb.net (81.17.33.121)  33.257 ms po-1001.ce02.ams-01.nl.leaseweb.net (81.17.33.133)  34.094 ms  33.281 ms
+"
+growclub.org,10,"10  po-1003.ce01.ams-01.nl.leaseweb.net (81.17.33.125)  3033.570 ms !H po-1005.ce02.ams-01.nl.leaseweb.net (81.17.33.141)  3035.057 ms !H po-1005.ce01.ams-01.nl.leaseweb.net (81.17.33.129)  3015.323 ms !H
+"

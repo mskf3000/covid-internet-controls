@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+sprotyv.info,0,"traceroute to sprotyv.info (104.26.12.189), 50 hops max, 60 byte packets
+"
+sprotyv.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.232 ms  1.247 ms  1.251 ms
+"
+sprotyv.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.537 ms  1.769 ms  1.844 ms
+"
+sprotyv.info,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.693 ms  1.685 ms  1.774 ms
+"
+sprotyv.info,4," 4  149.6.191.138 (149.6.191.138)  5.104 ms  5.098 ms  5.048 ms
+"
+sprotyv.info,5," 5  104.26.12.189 (104.26.12.189)  1.435 ms  1.407 ms  1.412 ms
+"

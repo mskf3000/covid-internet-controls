@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+nuruddin-info.blogspot.com,0,"traceroute to nuruddin-info.blogspot.com (216.58.209.1), 30 hops max, 60 byte packets
+"
+nuruddin-info.blogspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.387 ms  0.379 ms  0.419 ms
+"
+nuruddin-info.blogspot.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.570 ms  0.938 ms  0.554 ms
+"
+nuruddin-info.blogspot.com,3," 3  100.64.64.58 (100.64.64.58)  0.776 ms  0.760 ms  0.743 ms
+"
+nuruddin-info.blogspot.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.725 ms  0.711 ms  0.770 ms
+"
+nuruddin-info.blogspot.com,5," 5  108.170.248.131 (108.170.248.131)  0.879 ms  0.874 ms  0.889 ms
+"
+nuruddin-info.blogspot.com,6," 6  209.85.248.105 (209.85.248.105)  17.123 ms  16.848 ms 108.170.234.206 (108.170.234.206)  1.214 ms
+"
+nuruddin-info.blogspot.com,7," 7  108.170.250.209 (108.170.250.209)  16.062 ms 108.170.250.193 (108.170.250.193)  13.835 ms 216.239.46.121 (216.239.46.121)  14.949 ms
+"
+nuruddin-info.blogspot.com,8," 8  172.253.68.29 (172.253.68.29)  14.622 ms  15.113 ms 108.170.250.193 (108.170.250.193)  13.853 ms
+"
+nuruddin-info.blogspot.com,9," 9  sof01s12-in-f1.1e100.net (216.58.209.1)  14.997 ms 172.253.68.31 (172.253.68.31)  14.564 ms  14.651 ms
+"

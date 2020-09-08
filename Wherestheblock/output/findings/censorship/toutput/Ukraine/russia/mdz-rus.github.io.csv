@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+mdz-rus.github.io,0,"traceroute to mdz-rus.github.io (185.199.110.153), 50 hops max, 60 byte packets
+"
+mdz-rus.github.io,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.265 ms  0.287 ms  0.321 ms
+"
+mdz-rus.github.io,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.603 ms  0.560 ms  0.619 ms
+"
+mdz-rus.github.io,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.212 ms  16.212 ms  16.192 ms
+"
+mdz-rus.github.io,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  18.068 ms  16.224 ms  18.034 ms
+"
+mdz-rus.github.io,5," 5  mow-b3-link.telia.net (213.248.77.226)  68.799 ms  68.781 ms  42.839 ms
+"
+mdz-rus.github.io,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.957 ms  44.022 ms  43.913 ms
+"
+mdz-rus.github.io,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.205 ms  41.256 ms  41.398 ms
+"
+mdz-rus.github.io,8," 8  hls-b2-link.telia.net (62.115.115.250)  46.523 ms  44.176 ms  44.144 ms
+"
+mdz-rus.github.io,9," 9  fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  46.405 ms fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  46.714 ms fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  46.511 ms
+"
+mdz-rus.github.io,10,"10  185.199.110.153 (185.199.110.153)  42.819 ms  42.792 ms  42.815 ms
+"

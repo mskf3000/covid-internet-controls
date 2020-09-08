@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+novorosinform.org,0,"traceroute to novorosinform.org (185.112.80.16), 50 hops max, 60 byte packets
+"
+novorosinform.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.300 ms  0.346 ms
+"
+novorosinform.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.570 ms  0.566 ms  0.507 ms
+"
+novorosinform.org,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.155 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.919 ms  17.417 ms
+"
+novorosinform.org,4," 4  * * *
+"
+novorosinform.org,5," 5  * 10.0.9.57 (10.0.9.57)  21.230 ms 10.0.9.41 (10.0.9.41)  21.370 ms
+"
+novorosinform.org,6," 6  10.0.9.41 (10.0.9.41)  21.351 ms  17.877 ms novoros.deserv.net (185.112.80.16)  17.860 ms
+"

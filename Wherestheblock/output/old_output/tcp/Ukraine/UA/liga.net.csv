@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+liga.net,0,"traceroute to liga.net (193.150.7.32), 30 hops max, 60 byte packets
+"
+liga.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.537 ms  0.525 ms  0.557 ms
+"
+liga.net,2," 2  volz-2-ix.giganet.ua (185.1.62.12)  0.551 ms  0.540 ms  0.537 ms
+"
+liga.net,3," 3  213.160.159.34 (213.160.159.34)  0.907 ms  0.982 ms  0.975 ms
+"
+liga.net,4," 4  UNUSED.ligazakon.net (193.150.7.32)  1.646 ms  1.598 ms  1.480 ms
+"

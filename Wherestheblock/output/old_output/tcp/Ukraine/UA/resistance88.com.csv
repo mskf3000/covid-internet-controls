@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+resistance88.com,0,"traceroute to resistance88.com (104.31.88.77), 30 hops max, 60 byte packets
+"
+resistance88.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.387 ms  2.372 ms  2.428 ms
+"
+resistance88.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.927 ms  0.892 ms  1.010 ms
+"
+resistance88.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.893 ms  18.815 ms  18.787 ms
+"
+resistance88.com,4," 4  149.6.50.74 (149.6.50.74)  50.921 ms  50.886 ms  50.884 ms
+"
+resistance88.com,5," 5  104.31.88.77 (104.31.88.77)  18.542 ms  18.652 ms  18.581 ms
+"

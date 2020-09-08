@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+nts-tv.com,0,"traceroute to nts-tv.com (82.202.160.193), 30 hops max, 60 byte packets
+"
+nts-tv.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.762 ms  1.754 ms  1.825 ms
+"
+nts-tv.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.577 ms  17.954 ms  16.636 ms
+"
+nts-tv.com,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  17.604 ms  17.005 ms  16.991 ms
+"
+nts-tv.com,4," 4  core.webdc.ru (92.63.108.98)  41.843 ms  21.180 ms  41.814 ms
+"
+nts-tv.com,5," 5  nts-tv.com (82.202.160.193)  17.731 ms  17.887 ms  16.951 ms
+"

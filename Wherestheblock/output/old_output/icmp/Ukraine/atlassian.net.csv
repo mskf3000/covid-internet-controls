@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+atlassian.net,0,"traceroute to atlassian.net (18.184.99.129), 30 hops max, 60 byte packets
+"
+atlassian.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.277 ms  0.302 ms
+"
+atlassian.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.582 ms  0.571 ms  0.570 ms
+"
+atlassian.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.122 ms  26.126 ms  26.147 ms
+"
+atlassian.net,4," 4  amazon-fra-peering.fiord.net (62.140.243.53)  28.872 ms  28.887 ms  28.852 ms
+"
+atlassian.net,5," 5  54.239.106.54 (54.239.106.54)  41.964 ms  42.042 ms  41.935 ms
+"
+atlassian.net,6," 6  * * *
+"
+atlassian.net,7," 7  52.93.111.211 (52.93.111.211)  27.661 ms  27.678 ms  27.611 ms
+"
+atlassian.net,8," 8  54.239.106.29 (54.239.106.29)  29.574 ms  29.887 ms  29.877 ms
+"
+atlassian.net,9," 9  150.222.104.38 (150.222.104.38)  29.263 ms  29.233 ms  29.245 ms
+"
+atlassian.net,10,"10  * * *
+"
+atlassian.net,11,"11  * * *
+"
+atlassian.net,12,"12  * * *
+"
+atlassian.net,13,"13  * * *
+"
+atlassian.net,14,"14  * * *
+"
+atlassian.net,15,"15  * * *
+"
+atlassian.net,16,"16  * * *
+"
+atlassian.net,17,"17  * * *
+"
+atlassian.net,18,"18  * * *
+"
+atlassian.net,19,"19  * * *
+"
+atlassian.net,20,"20  * * *
+"
+atlassian.net,21,"21  * * *
+"
+atlassian.net,22,"22  * * *
+"
+atlassian.net,23,"23  * * *
+"
+atlassian.net,24,"24  * * *
+"
+atlassian.net,25,"25  * * *
+"
+atlassian.net,26,"26  * * *
+"
+atlassian.net,27,"27  * * *
+"
+atlassian.net,28,"28  * * *
+"
+atlassian.net,29,"29  * * *
+"
+atlassian.net,30,"30  * * *
+"

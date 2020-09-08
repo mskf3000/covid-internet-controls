@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+video.bigmir.net,0,"traceroute to video.bigmir.net (193.239.71.100), 30 hops max, 60 byte packets
+"
+video.bigmir.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.294 ms  0.286 ms
+"
+video.bigmir.net,2," 2  dtel-ix-2.datagroup.ua (193.25.180.244)  2.033 ms  0.888 ms  0.873 ms
+"
+video.bigmir.net,3," 3  * * *
+"
+video.bigmir.net,4," 4  rs.img.com.ua (193.239.71.100)  0.946 ms  1.017 ms  0.862 ms
+"

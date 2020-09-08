@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+webmasterpro.com.ua,0,"traceroute to webmasterpro.com.ua (188.40.203.249), 30 hops max, 60 byte packets
+"
+webmasterpro.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.357 ms  0.343 ms  0.362 ms
+"
+webmasterpro.com.ua,2," 2  * * kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.468 ms
+"
+webmasterpro.com.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.700 ms  26.091 ms  28.715 ms
+"
+webmasterpro.com.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.143 ms  31.175 ms  31.167 ms
+"
+webmasterpro.com.ua,5," 5  core0.fra.hetzner.com (213.239.252.10)  31.106 ms core4.fra.hetzner.com (213.239.245.85)  31.477 ms core1.fra.hetzner.com (213.239.245.125)  31.184 ms
+"
+webmasterpro.com.ua,6," 6  core21.fsn1.hetzner.com (213.239.245.13)  36.465 ms core22.fsn1.hetzner.com (213.239.245.178)  39.602 ms core21.fsn1.hetzner.com (213.239.252.30)  33.273 ms
+"
+webmasterpro.com.ua,7," 7  ex9k1.dc14.fsn1.hetzner.com (213.239.245.122)  35.668 ms  35.644 ms ex9k1.dc14.fsn1.hetzner.com (213.239.245.82)  33.067 ms
+"
+webmasterpro.com.ua,8," 8  static.249.203.40.188.clients.your-server.de (188.40.203.249)  35.493 ms  37.286 ms  35.647 ms
+"

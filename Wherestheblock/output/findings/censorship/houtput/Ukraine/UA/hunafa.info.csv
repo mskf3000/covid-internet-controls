@@ -1,0 +1,44 @@
+URL,TTL,Message
+hunafa.info,1,
+hunafa.info,2,
+hunafa.info,3,
+hunafa.info,4,
+hunafa.info,5,
+hunafa.info,6,
+hunafa.info,7,
+hunafa.info,8,
+hunafa.info,9,
+hunafa.info,10,
+hunafa.info,11,
+hunafa.info,12,
+hunafa.info,13,
+hunafa.info,14,"HTTP/1.1 302 Found
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 11
+date: Thu, 23 Jan 2020 08:39:39 GMT
+location: http://survey-smiles.com
+server: nginx
+set-cookie: sid=e54f6b5c-3dbb-11ea-953c-b1a2602a91a6; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 11:53:47 GMT; max-age=2147483647; HttpOnly
+
+Redirecting"
+hunafa.info,15,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 08:39:39 GMT
+server: nginx
+set-cookie: sid=e577d038-3dbb-11ea-bae4-b1a20d8b636d; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 11:53:47 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc3NTk4MCwiaWF0IjoxNTc5NzY4NzgwLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm03ZWxnNHYyaTM4c2J2aHMxYm9mOGYiLCJuYmYiOjE1Nzk3Njg3ODAsInRzIjoxNTc5NzY4NzgwNjM0MzA4fQ.oNNIcmatjZzgMZTajXbXD4eAJkTgf0XBygcL3yM11pw&sid=e577d038-3dbb-11ea-bae4-b1a20d8b636d');</script></body></html>"
+hunafa.info,16,"HTTP/1.1 200 OK
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 469
+content-type: text/html; charset=utf-8
+date: Thu, 23 Jan 2020 08:39:47 GMT
+server: nginx
+set-cookie: sid=e9f634f6-3dbb-11ea-a45f-b1a2d68ad2b8; path=/; domain=.ojaloberoi.in; expires=Tue, 10 Feb 2088 11:53:55 GMT; max-age=2147483647; HttpOnly
+
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://ojaloberoi.in/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTU3OTc3NTk4OCwiaWF0IjoxNTc5NzY4Nzg4LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIybm03ZWx1NjcxanI0M3NxbDQxODFlNmsiLCJuYmYiOjE1Nzk3Njg3ODgsInRzIjoxNTc5NzY4Nzg4MTcxNTU1fQ.xkUN-tEPTv1IhENqHFTSvFrIREUS1Y_kJ0q0yHE3VKg&sid=e9f634f6-3dbb-11ea-a45f-b1a2d68ad2b8');</script></body></html>"

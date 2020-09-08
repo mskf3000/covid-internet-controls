@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+kavkazjihad.com,0,"traceroute to kavkazjihad.com (104.128.123.234), 30 hops max, 60 byte packets
+"
+kavkazjihad.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.010 ms  0.991 ms  0.984 ms
+"
+kavkazjihad.com,2," 2  185.1.50.207 (185.1.50.207)  0.463 ms  0.486 ms  0.511 ms
+"
+kavkazjihad.com,3," 3  100ge15-1.core1.vie1.he.net (184.104.192.225)  20.692 ms  20.828 ms  20.909 ms
+"
+kavkazjihad.com,4," 4  100ge13-1.core1.par2.he.net (184.105.65.5)  50.254 ms  50.252 ms  50.261 ms
+"
+kavkazjihad.com,5," 5  100ge10-2.core1.ash1.he.net (184.105.213.173)  113.086 ms  113.059 ms  113.095 ms
+"
+kavkazjihad.com,6," 6  100ge2-1.core1.lax1.he.net (184.105.80.202)  167.846 ms  167.477 ms  167.598 ms
+"
+kavkazjihad.com,7," 7  104.128.123.234 (104.128.123.234)  167.340 ms  167.329 ms  167.265 ms
+"

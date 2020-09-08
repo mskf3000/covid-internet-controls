@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+goldfaq.ru,0,"traceroute to goldfaq.ru (92.53.98.158), 30 hops max, 60 byte packets
+"
+goldfaq.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.360 ms  0.342 ms  0.376 ms
+"
+goldfaq.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.648 ms  1.636 ms  0.694 ms
+"
+goldfaq.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.980 ms  30.966 ms  30.987 ms
+"
+goldfaq.ru,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  34.085 ms  34.074 ms  34.080 ms
+"
+goldfaq.ru,5," 5  ellen.timeweb.ru (92.53.98.158)  34.661 ms  29.001 ms  29.044 ms
+"

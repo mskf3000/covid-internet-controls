@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+mirzayanov.com,0,"traceroute to mirzayanov.com (208.91.197.27), 30 hops max, 60 byte packets
+"
+mirzayanov.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.766 ms  0.777 ms  0.816 ms
+"
+mirzayanov.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.219 ms  0.567 ms  0.563 ms
+"
+mirzayanov.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.155 ms  26.129 ms  28.657 ms
+"
+mirzayanov.com,4," 4  * * *
+"
+mirzayanov.com,5," 5  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  28.595 ms  31.036 ms  32.979 ms
+"
+mirzayanov.com,6," 6  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  155.960 ms  155.937 ms  153.434 ms
+"
+mirzayanov.com,7," 7  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  155.675 ms  155.715 ms  153.161 ms
+"
+mirzayanov.com,8," 8  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  155.669 ms  155.654 ms  155.693 ms
+"
+mirzayanov.com,9," 9  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  156.335 ms  156.302 ms  156.000 ms
+"
+mirzayanov.com,10,"10  * ae0.cs3.lhr11.uk.eth.zayo.com (64.125.29.118)  153.643 ms *
+"
+mirzayanov.com,11,"11  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  153.359 ms  153.189 ms  155.670 ms
+"
+mirzayanov.com,12,"12  ae0.cs2.lga5.us.eth.zayo.com (64.125.29.187)  154.403 ms  156.401 ms  161.024 ms
+"
+mirzayanov.com,13,"13  ae4.cs2.dca2.us.eth.zayo.com (64.125.29.31)  153.058 ms  153.325 ms  153.074 ms
+"
+mirzayanov.com,14,"14  ae3.cs2.iah1.us.eth.zayo.com (64.125.29.45)  158.432 ms  155.561 ms  153.018 ms
+"
+mirzayanov.com,15,"15  ae2.mpr2.aus1.us.zip.zayo.com (64.125.31.250)  155.517 ms  155.435 ms  155.427 ms
+"
+mirzayanov.com,16,"16  ae4.er1.aus3.us.zip.zayo.com (64.125.31.27)  155.667 ms  155.637 ms  155.640 ms
+"
+mirzayanov.com,17,"17  64.125.192.114.IPYX-082035-002-ZYO.above.net (64.125.192.114)  147.430 ms  144.518 ms  144.850 ms
+"
+mirzayanov.com,18,"18  208.91.197.27 (208.91.197.27)  154.101 ms  153.236 ms  153.040 ms
+"

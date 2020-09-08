@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+graniru.org,0,"traceroute to graniru.org (95.211.178.194), 50 hops max, 60 byte packets
+"
+graniru.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.308 ms  0.323 ms
+"
+graniru.org,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.619 ms  0.547 ms *
+"
+graniru.org,3," 3  100.64.65.25 (100.64.65.25)  7.798 ms  17.778 ms  17.774 ms
+"
+graniru.org,4," 4  100.64.64.125 (100.64.64.125)  14.795 ms  14.539 ms  14.491 ms
+"
+graniru.org,5," 5  100.64.65.237 (100.64.65.237)  32.412 ms  31.950 ms  32.623 ms
+"
+graniru.org,6," 6  et-1-0-0.bb04.ams-01.leaseweb.net (80.249.209.215)  33.264 ms  33.172 ms  33.997 ms
+"
+graniru.org,7," 7  be-104.br02.ams-01.nl.leaseweb.net (31.31.38.143)  36.476 ms ae-104.br01.ams-01.nl.leaseweb.net (31.31.38.141)  35.766 ms  36.051 ms
+"
+graniru.org,8," 8  po-2.ce07.ams-01.nl.leaseweb.net (81.17.33.109)  36.238 ms  36.496 ms po-1.ce07.ams-01.nl.leaseweb.net (81.17.33.105)  36.437 ms
+"
+graniru.org,9," 9  giganda.grani.ru (95.211.178.194)  36.402 ms  36.074 ms  36.240 ms
+"

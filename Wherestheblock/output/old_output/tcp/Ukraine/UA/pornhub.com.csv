@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+pornhub.com,0,"traceroute to pornhub.com (66.254.114.41), 30 hops max, 60 byte packets
+"
+pornhub.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.293 ms  0.282 ms
+"
+pornhub.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.817 ms  0.785 ms  0.524 ms
+"
+pornhub.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.706 ms  28.688 ms  28.689 ms
+"
+pornhub.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  27.321 ms  29.024 ms  29.017 ms
+"
+pornhub.com,5," 5  ffm-bb3-link.telia.net (62.115.137.128)  29.303 ms ffm-bb2-link.telia.net (62.115.121.8)  29.291 ms ffm-bb2-link.telia.net (62.115.137.168)  26.624 ms
+"
+pornhub.com,6," 6  * ffm-b5-link.telia.net (62.115.114.91)  29.343 ms  29.270 ms
+"
+pornhub.com,7," 7  reflected-ic-344387-ffm-b4.c.telia.net (62.115.174.147)  28.920 ms  28.907 ms reflected-ic-340048-ffm-b4.c.telia.net (62.115.166.39)  28.884 ms
+"
+pornhub.com,8," 8  66.254.114.41 (66.254.114.41)  28.176 ms  28.308 ms  30.577 ms
+"

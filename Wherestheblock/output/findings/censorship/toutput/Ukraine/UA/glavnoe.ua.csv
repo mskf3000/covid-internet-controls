@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+glavnoe.ua,0,"traceroute to glavnoe.ua (104.18.36.176), 30 hops max, 60 byte packets
+"
+glavnoe.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.289 ms  0.320 ms
+"
+glavnoe.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.870 ms  0.927 ms  1.315 ms
+"
+glavnoe.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.279 ms  19.316 ms  19.309 ms
+"
+glavnoe.ua,4," 4  149.6.50.74 (149.6.50.74)  19.984 ms  19.422 ms  19.463 ms
+"
+glavnoe.ua,5," 5  104.18.36.176 (104.18.36.176)  18.657 ms  18.656 ms  18.628 ms
+"

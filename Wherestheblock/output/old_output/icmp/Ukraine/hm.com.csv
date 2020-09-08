@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+hm.com,0,"traceroute to hm.com (104.96.93.149), 30 hops max, 60 byte packets
+"
+hm.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.363 ms  0.359 ms  0.374 ms
+"
+hm.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  13.087 ms  13.142 ms  13.142 ms
+"
+hm.com,3," 3  100.64.65.25 (100.64.65.25)  7.824 ms  7.831 ms  7.830 ms
+"
+hm.com,4," 4  100.64.65.85 (100.64.65.85)  101.199 ms  101.209 ms  101.207 ms
+"
+hm.com,5," 5  193.203.0.167 (193.203.0.167)  39.059 ms  39.064 ms *
+"
+hm.com,6," 6  a104-96-93-149.deploy.static.akamaitechnologies.com (104.96.93.149)  19.076 ms  19.338 ms  19.326 ms
+"

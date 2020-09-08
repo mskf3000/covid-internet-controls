@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+meendo.net,0,"traceroute to meendo.net (88.208.29.189), 50 hops max, 60 byte packets
+"
+meendo.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.330 ms  0.374 ms
+"
+meendo.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.977 ms  1.003 ms  1.060 ms
+"
+meendo.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.302 ms  17.016 ms  16.989 ms
+"
+meendo.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.829 ms  22.844 ms  22.831 ms
+"
+meendo.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.345 ms  30.322 ms  30.807 ms
+"
+meendo.net,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.404 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.483 ms  39.525 ms
+"
+meendo.net,7," 7  be2755.rcr21.ams08.atlas.cogentco.com (130.117.48.58)  39.500 ms  39.473 ms  39.532 ms
+"
+meendo.net,8," 8  149.11.135.106 (149.11.135.106)  39.660 ms  39.755 ms  39.680 ms
+"
+meendo.net,9," 9  10.10.251.251 (10.10.251.251)  39.834 ms  39.572 ms  39.673 ms
+"
+meendo.net,10,"10  88.208.29.189 (88.208.29.189)  39.522 ms  39.389 ms  39.362 ms
+"
+meendo.net,11,"11  88.208.29.189 (88.208.29.189)  39.392 ms  39.432 ms  39.337 ms
+"

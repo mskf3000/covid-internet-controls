@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+hm.com,0,"traceroute to hm.com (104.96.93.149), 30 hops max, 60 byte packets
+"
+hm.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.476 ms  1.452 ms  1.437 ms
+"
+hm.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.561 ms  0.544 ms  0.594 ms
+"
+hm.com,3," 3  100.64.65.25 (100.64.65.25)  7.790 ms  8.217 ms  9.332 ms
+"
+hm.com,4," 4  100.64.65.85 (100.64.65.85)  36.590 ms  36.585 ms  36.570 ms
+"
+hm.com,5," 5  * * *
+"
+hm.com,6," 6  * * *
+"
+hm.com,7," 7  * * *
+"
+hm.com,8," 8  * * *
+"
+hm.com,9," 9  * * *
+"
+hm.com,10,"10  * * *
+"
+hm.com,11,"11  * * *
+"
+hm.com,12,"12  * * *
+"
+hm.com,13,"13  * * *
+"
+hm.com,14,"14  * * *
+"
+hm.com,15,"15  * * *
+"
+hm.com,16,"16  * * *
+"
+hm.com,17,"17  * * *
+"
+hm.com,18,"18  * * *
+"
+hm.com,19,"19  * * *
+"
+hm.com,20,"20  * * *
+"
+hm.com,21,"21  * * *
+"
+hm.com,22,"22  * * *
+"
+hm.com,23,"23  * * *
+"
+hm.com,24,"24  * * *
+"
+hm.com,25,"25  * * *
+"
+hm.com,26,"26  * * *
+"
+hm.com,27,"27  * * *
+"
+hm.com,28,"28  * * *
+"
+hm.com,29,"29  * * *
+"
+hm.com,30,"30  * * *
+"

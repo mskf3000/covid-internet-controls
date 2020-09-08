@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+pochta.ru,0,"traceroute to pochta.ru (91.215.37.238), 50 hops max, 60 byte packets
+"
+pochta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.326 ms  0.357 ms
+"
+pochta.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.023 ms  1.118 ms  0.906 ms
+"
+pochta.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.153 ms  17.382 ms  17.204 ms
+"
+pochta.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  29.961 ms  29.999 ms  29.950 ms
+"
+pochta.ru,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  30.724 ms  30.718 ms  30.709 ms
+"
+pochta.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.261 ms  41.204 ms  41.192 ms
+"
+pochta.ru,7," 7  213.59.211.255 (213.59.211.255)  43.313 ms  40.848 ms  41.214 ms
+"
+pochta.ru,8," 8  * * *
+"
+pochta.ru,9," 9  91.215.37.238 (91.215.37.238)  57.086 ms  42.999 ms  42.980 ms
+"
+pochta.ru,10,"10  91.215.37.238 (91.215.37.238)  41.551 ms  42.033 ms  42.420 ms
+"

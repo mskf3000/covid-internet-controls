@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+rusmedserv.com,0,"traceroute to rusmedserv.com (67.225.196.195), 50 hops max, 60 byte packets
+"
+rusmedserv.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.319 ms  0.312 ms
+"
+rusmedserv.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.968 ms  0.977 ms  1.050 ms
+"
+rusmedserv.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.735 ms  17.751 ms  17.742 ms
+"
+rusmedserv.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.649 ms  22.332 ms  22.381 ms
+"
+rusmedserv.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.428 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.514 ms  30.721 ms
+"
+rusmedserv.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.441 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.580 ms  39.422 ms
+"
+rusmedserv.com,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.742 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  136.331 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.817 ms
+"
+rusmedserv.com,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.836 ms  135.772 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  135.457 ms
+"
+rusmedserv.com,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.733 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  135.110 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.385 ms
+"
+rusmedserv.com,10,"10  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  140.300 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.461 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  138.115 ms
+"
+rusmedserv.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.580 ms  140.092 ms  140.218 ms
+"
+rusmedserv.com,12,"12  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  136.104 ms  135.534 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  135.029 ms
+"
+rusmedserv.com,13,"13  38.32.96.98 (38.32.96.98)  135.694 ms  135.901 ms  135.582 ms
+"
+rusmedserv.com,14,"14  lw-dc2-core1-nexus-eth3-19.rtr.liquidweb.com (209.59.157.224)  143.560 ms  143.549 ms  143.400 ms
+"
+rusmedserv.com,15,"15  lw-dc2-dist3.rtr.liquidweb.com (209.59.157.101)  142.572 ms server.rusmedserv.com (67.225.196.195)  145.492 ms lw-dc2-dist4.rtr.liquidweb.com (209.59.157.99)  147.247 ms
+"

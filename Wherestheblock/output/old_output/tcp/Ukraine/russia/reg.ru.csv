@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+reg.ru,0,"traceroute to reg.ru (194.58.116.31), 50 hops max, 60 byte packets
+"
+reg.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.265 ms  0.288 ms
+"
+reg.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.544 ms  0.577 ms  0.517 ms
+"
+reg.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.956 ms  15.943 ms  15.911 ms
+"
+reg.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.617 ms  17.208 ms  17.583 ms
+"
+reg.ru,5," 5  * * *
+"
+reg.ru,6," 6  * * *
+"
+reg.ru,7," 7  * * *
+"
+reg.ru,8," 8  www.reg.ru (194.58.116.31)  17.291 ms  17.314 ms  17.255 ms
+"

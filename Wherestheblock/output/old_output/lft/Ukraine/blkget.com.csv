@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+blkget.com,0,"traceroute to blkget.com (96.45.82.26), 30 hops max, 60 byte packets
+"
+blkget.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.311 ms  0.306 ms  5.068 ms  0.343 ms  2.348 ms  0.910 ms  0.257 ms  3.239 ms  0.267 ms  0.242 ms
+"
+blkget.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.821 ms  0.762 ms  0.841 ms  0.739 ms  0.675 ms  0.967 ms  0.702 ms  0.822 ms  0.693 ms  0.655 ms
+"
+blkget.com,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  50.374 ms  44.543 ms  31.033 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.635 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.990 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.796 ms  29.786 ms  29.665 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.066 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.736 ms
+"
+blkget.com,4," 4  ix-ae-6-0.tcore2.fr0-frankfurt.as6453.net (80.231.65.1)  32.214 ms  32.216 ms  31.010 ms  31.078 ms  32.233 ms  31.033 ms  32.194 ms  31.106 ms  32.359 ms  32.498 ms
+"
+blkget.com,5," 5  if-ae-9-2.tcore1.fnm-frankfurt.as6453.net (5.23.30.16)  120.173 ms  119.949 ms  118.853 ms  118.751 ms  118.954 ms  119.925 ms  120.068 ms  120.055 ms  119.023 ms  120.063 ms
+"
+blkget.com,6," 6  if-ae-12-60.tcore2.fnm-frankfurt.as6453.net (195.219.156.133)  118.538 ms if-ae-6-2.tcore1.av2-amsterdam.as6453.net (195.219.194.149)  121.441 ms if-ae-12-80.tcore2.fnm-frankfurt.as6453.net (195.219.156.134)  119.745 ms if-ae-6-2.tcore1.av2-amsterdam.as6453.net (195.219.194.149)  121.112 ms if-ae-12-60.tcore2.fnm-frankfurt.as6453.net (195.219.156.133)  120.734 ms if-ae-12-80.tcore2.fnm-frankfurt.as6453.net (195.219.156.134)  121.260 ms if-ae-12-2.tcore2.fnm-frankfurt.as6453.net (195.219.87.1)  124.184 ms  124.810 ms if-ae-12-60.tcore2.fnm-frankfurt.as6453.net (195.219.156.133)  118.621 ms  118.588 ms
+"
+blkget.com,7," 7  if-ae-9-2.tcore1.pvu-paris.as6453.net (195.219.87.10)  119.771 ms if-ae-30-2.tcore1.pvu-paris.as6453.net (80.231.153.89)  124.113 ms if-ae-2-2.tcore2.av2-amsterdam.as6453.net (195.219.194.6)  120.358 ms if-ae-30-2.tcore1.pvu-paris.as6453.net (80.231.153.89)  124.265 ms  124.133 ms  124.118 ms  123.625 ms  124.325 ms if-ae-9-2.tcore1.pvu-paris.as6453.net (195.219.87.10)  121.298 ms if-ae-2-2.tcore2.av2-amsterdam.as6453.net (195.219.194.6)  116.567 ms
+"
+blkget.com,8," 8  if-ae-11-2.tcore1.pye-paris.as6453.net (80.231.153.50)  121.364 ms  121.288 ms if-ae-14-2.tcore2.l78-london.as6453.net (80.231.131.160)  116.919 ms if-ae-11-2.tcore1.pye-paris.as6453.net (80.231.153.50)  122.637 ms  121.620 ms  122.515 ms  121.356 ms  122.516 ms  122.595 ms  121.644 ms
+"
+blkget.com,9," 9  if-ae-3-2.tcore1.l78-london.as6453.net (80.231.154.143)  122.949 ms  122.671 ms if-ae-2-2.tcore1.l78-london.as6453.net (80.231.131.2)  121.457 ms  122.904 ms if-ae-3-2.tcore1.l78-london.as6453.net (80.231.154.143)  122.912 ms  121.835 ms if-ae-2-2.tcore1.l78-london.as6453.net (80.231.131.2)  121.665 ms if-ae-3-2.tcore1.l78-london.as6453.net (80.231.154.143)  122.699 ms  121.667 ms  122.868 ms
+"
+blkget.com,10,"10  if-ae-15-2.tcore3.njy-newark.as6453.net (80.231.130.26)  119.979 ms  116.516 ms  119.455 ms  119.805 ms  117.705 ms  120.717 ms  120.420 ms  119.401 ms  120.904 ms  120.505 ms
+"
+blkget.com,11,"11  if-ae-1-3.tcore4.njy-newark.as6453.net (216.6.57.6)  119.133 ms  118.671 ms  117.587 ms  118.682 ms  118.774 ms  119.694 ms  120.472 ms  115.823 ms  119.663 ms  121.541 ms
+"
+blkget.com,12,"12  if-ae-12-2.tcore2.aeq-ashburn.as6453.net (216.6.87.42)  117.240 ms  119.751 ms  121.239 ms  118.113 ms  119.784 ms  122.204 ms  116.743 ms  121.037 ms  121.343 ms  119.830 ms
+"
+blkget.com,13,"13  if-ae-2-2.tcore1.aeq-ashburn.as6453.net (216.6.87.2)  119.896 ms  120.285 ms  119.725 ms  120.241 ms  119.641 ms  118.438 ms  120.763 ms  118.430 ms  121.293 ms  117.247 ms
+"
+blkget.com,14,"14  66.198.155.129 (66.198.155.129)  123.641 ms  123.623 ms  123.420 ms  133.508 ms  123.374 ms  124.682 ms  124.715 ms  123.661 ms  124.750 ms  123.494 ms
+"
+blkget.com,15,"15  redirection.dnsmadeeasy.com (96.45.82.26)  124.808 ms  118.241 ms  118.344 ms  126.654 ms  120.415 ms  123.409 ms  124.746 ms  123.236 ms  119.081 ms  122.197 ms
+"

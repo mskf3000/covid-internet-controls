@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+mterra.ru,0,"traceroute to mterra.ru (192.64.147.177), 30 hops max, 60 byte packets
+"
+mterra.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.318 ms  0.343 ms
+"
+mterra.ru,2," 2  hurricane-ix.giganet.ua (185.1.62.230)  0.430 ms  0.425 ms  0.486 ms
+"
+mterra.ru,3," 3  100ge15-1.core1.vie1.he.net (184.104.192.225)  20.740 ms  20.782 ms  20.827 ms
+"
+mterra.ru,4," 4  100ge13-1.core1.par2.he.net (184.105.65.5)  35.998 ms  36.096 ms  36.127 ms
+"
+mterra.ru,5," 5  100ge14-1.core1.nyc4.he.net (184.105.81.77)  106.552 ms  106.551 ms  106.542 ms
+"
+mterra.ru,6," 6  100ge8-1.core1.nyc6.he.net (184.105.64.178)  133.429 ms  114.802 ms  114.796 ms
+"
+mterra.ru,7," 7  hivelocity-ventures-corp.e0-1.switch1.nyc9.he.net (216.66.1.134)  107.469 ms  107.434 ms  107.763 ms
+"
+mterra.ru,8," 8  10.253.8.1 (10.253.8.1)  108.125 ms  108.267 ms  108.295 ms
+"
+mterra.ru,9," 9  10.254.0.113 (10.254.0.113)  127.566 ms  127.848 ms  127.814 ms
+"
+mterra.ru,10,"10  10.254.0.10 (10.254.0.10)  155.131 ms  144.201 ms  144.264 ms
+"
+mterra.ru,11,"11  96-31-83-106.static.hvvc.us (96.31.83.106)  145.254 ms  144.166 ms  145.432 ms
+"
+mterra.ru,12,"12  192.64.147.177.voodoo.com (192.64.147.177)  143.945 ms  144.451 ms  145.539 ms
+"

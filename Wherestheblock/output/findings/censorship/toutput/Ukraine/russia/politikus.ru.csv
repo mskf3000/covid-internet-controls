@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+politikus.ru,0,"traceroute to politikus.ru (5.45.76.24), 50 hops max, 60 byte packets
+"
+politikus.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.530 ms  0.514 ms  0.564 ms
+"
+politikus.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.141 ms  1.197 ms  2.637 ms
+"
+politikus.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.262 ms  17.238 ms  17.317 ms
+"
+politikus.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.461 ms  22.494 ms  22.551 ms
+"
+politikus.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.612 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.488 ms  30.466 ms
+"
+politikus.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.559 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.399 ms  39.683 ms
+"
+politikus.ru,7," 7  be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  41.297 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  40.749 ms be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  40.749 ms
+"
+politikus.ru,8," 8  149.11.39.188 (149.11.39.188)  60.869 ms * *
+"
+politikus.ru,9," 9  * 178.21.17.2 (178.21.17.2)  41.518 ms  41.337 ms
+"
+politikus.ru,10,"10  5.178.67.27 (5.178.67.27)  50.392 ms 185.8.179.38 (185.8.179.38)  39.917 ms *
+"
+politikus.ru,11,"11  mail.politikus.ru (5.45.76.24)  40.698 ms  38.338 ms 5.178.67.27 (5.178.67.27)  47.331 ms
+"

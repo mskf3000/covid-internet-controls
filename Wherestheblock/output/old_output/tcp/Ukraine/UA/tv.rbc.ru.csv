@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+tv.rbc.ru,0,"traceroute to tv.rbc.ru (80.68.253.7), 30 hops max, 60 byte packets
+"
+tv.rbc.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.970 ms  0.961 ms  0.969 ms
+"
+tv.rbc.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.873 ms  16.877 ms  16.870 ms
+"
+tv.rbc.ru,3," 3  as199599.ix.dataix.ru (178.18.224.113)  18.536 ms  18.380 ms  18.414 ms
+"
+tv.rbc.ru,4," 4  190-230-9-185.host.cirex.ru (185.9.230.190)  18.773 ms  18.054 ms  18.746 ms
+"
+tv.rbc.ru,5," 5  sm-ssl.rbc.ru (80.68.253.7)  17.312 ms  18.002 ms  18.704 ms
+"

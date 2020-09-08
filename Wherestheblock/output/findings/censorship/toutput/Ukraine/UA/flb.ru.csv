@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+flb.ru,0,"traceroute to flb.ru (88.99.148.194), 30 hops max, 60 byte packets
+"
+flb.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.267 ms  0.287 ms
+"
+flb.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.690 ms  0.557 ms  0.650 ms
+"
+flb.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.240 ms  28.611 ms  28.685 ms
+"
+flb.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.468 ms  31.206 ms  31.200 ms
+"
+flb.ru,5," 5  core5.fra.hetzner.com (213.239.224.218)  32.920 ms  32.916 ms core4.fra.hetzner.com (213.239.245.85)  31.529 ms
+"
+flb.ru,6," 6  core22.fsn1.hetzner.com (213.239.224.245)  39.866 ms core22.fsn1.hetzner.com (213.239.252.34)  37.792 ms core21.fsn1.hetzner.com (213.239.252.30)  33.101 ms
+"
+flb.ru,7," 7  ex9k1.dc1.fsn1.hetzner.com (213.239.245.230)  39.836 ms ex9k1.dc1.fsn1.hetzner.com (213.239.245.234)  37.675 ms ex9k1.dc1.fsn1.hetzner.com (213.239.245.230)  39.730 ms
+"
+flb.ru,8," 8  static.194.148.99.88.clients.your-server.de (88.99.148.194)  33.124 ms  35.569 ms  33.082 ms
+"

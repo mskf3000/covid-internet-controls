@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+costco.com,0,"traceroute to costco.com (170.167.117.81), 50 hops max, 60 byte packets
+"
+costco.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.756 ms  0.738 ms  0.736 ms
+"
+costco.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.855 ms  0.919 ms  0.962 ms
+"
+costco.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.022 ms  17.061 ms  16.973 ms
+"
+costco.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.517 ms  18.457 ms  18.197 ms
+"
+costco.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.299 ms  24.770 ms  24.459 ms
+"
+costco.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.096 ms  29.846 ms  30.153 ms
+"
+costco.com,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  30.129 ms  29.788 ms  29.982 ms
+"
+costco.com,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  29.604 ms  29.698 ms  29.663 ms
+"
+costco.com,9," 9  ae27.cs1.fra9.de.eth.zayo.com (64.125.30.254)  177.702 ms  177.684 ms  177.737 ms
+"
+costco.com,10,"10  ae0.cs1.fra6.de.eth.zayo.com (64.125.29.54)  177.712 ms  177.776 ms  177.744 ms
+"
+costco.com,11,"11  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  177.668 ms  177.619 ms  177.684 ms
+"
+costco.com,12,"12  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  177.766 ms  177.952 ms  178.915 ms
+"
+costco.com,13,"13  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  177.765 ms  177.674 ms  177.751 ms
+"
+costco.com,14,"14  * * *
+"
+costco.com,15,"15  * * *
+"
+costco.com,16,"16  ae3.cs3.ord2.us.eth.zayo.com (64.125.29.209)  178.521 ms * *
+"
+costco.com,17,"17  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  177.563 ms  177.513 ms  177.552 ms
+"
+costco.com,18,"18  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  177.484 ms  177.498 ms  177.489 ms
+"
+costco.com,19,"19  209.66.92.98.IPYX-149781-ZYO.zip.zayo.com (209.66.92.98)  183.184 ms  181.985 ms  182.189 ms
+"
+costco.com,20,"20  * * *
+"
+costco.com,21,"21  * * *
+"
+costco.com,22,"22  * * *
+"
+costco.com,23,"23  * * *
+"
+costco.com,24,"24  * * *
+"
+costco.com,25,"25  * * *
+"
+costco.com,26,"26  * * *
+"
+costco.com,27,"27  * * *
+"
+costco.com,28,"28  * * *
+"
+costco.com,29,"29  * * *
+"
+costco.com,30,"30  * * *
+"
+costco.com,31,"31  * * *
+"
+costco.com,32,"32  * * *
+"
+costco.com,33,"33  * * *
+"
+costco.com,34,"34  * * *
+"
+costco.com,35,"35  * * *
+"
+costco.com,36,"36  * * *
+"
+costco.com,37,"37  * * *
+"
+costco.com,38,"38  * * *
+"
+costco.com,39,"39  * * *
+"
+costco.com,40,"40  * * *
+"
+costco.com,41,"41  * * *
+"
+costco.com,42,"42  * * *
+"
+costco.com,43,"43  * * *
+"
+costco.com,44,"44  * * *
+"
+costco.com,45,"45  * * *
+"
+costco.com,46,"46  * * *
+"
+costco.com,47,"47  * * *
+"
+costco.com,48,"48  * * *
+"
+costco.com,49,"49  * * *
+"
+costco.com,50,"50  * * *
+"

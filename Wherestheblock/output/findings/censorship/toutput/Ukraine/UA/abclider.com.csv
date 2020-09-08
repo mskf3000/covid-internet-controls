@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+abclider.com,0,"traceroute to abclider.com (78.140.185.169), 30 hops max, 60 byte packets
+"
+abclider.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.305 ms  0.294 ms  0.322 ms
+"
+abclider.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.583 ms  2.606 ms  2.671 ms
+"
+abclider.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  18.764 ms  18.819 ms  18.896 ms
+"
+abclider.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  24.358 ms  24.034 ms  24.402 ms
+"
+abclider.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  33.138 ms  33.769 ms  34.918 ms
+"
+abclider.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  41.534 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  41.666 ms  41.667 ms
+"
+abclider.com,7," 7  be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  42.067 ms  40.781 ms  40.766 ms
+"
+abclider.com,8," 8  149.6.1.230 (149.6.1.230)  45.479 ms universal-cdn.demarc.cogentco.com (149.6.1.50)  39.403 ms universal-cdn.demarc.cogentco.com (149.6.1.30)  45.026 ms
+"
+abclider.com,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  38.391 ms  38.054 ms  38.576 ms
+"
+abclider.com,10,"10  * * *
+"
+abclider.com,11,"11  cpanel6.v.fozzy.com (78.140.185.169)  39.182 ms  39.423 ms  39.455 ms
+"

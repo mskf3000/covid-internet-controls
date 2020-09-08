@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+semyanich.co,0,"traceroute to semyanich.co (104.28.13.155), 30 hops max, 60 byte packets
+"
+semyanich.co,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.304 ms  0.336 ms
+"
+semyanich.co,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.927 ms  0.977 ms  0.995 ms
+"
+semyanich.co,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.143 ms  8.848 ms  9.001 ms
+"
+semyanich.co,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.810 ms  11.931 ms  11.989 ms
+"
+semyanich.co,5," 5  149.14.58.106 (149.14.58.106)  21.083 ms  55.199 ms  55.291 ms
+"
+semyanich.co,6," 6  104.28.13.155 (104.28.13.155)  11.814 ms  11.722 ms  11.655 ms
+"

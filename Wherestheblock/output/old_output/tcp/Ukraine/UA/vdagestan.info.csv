@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+vdagestan.info,0,"traceroute to vdagestan.info (18.213.250.117), 30 hops max, 60 byte packets
+"
+vdagestan.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.095 ms  2.116 ms  2.156 ms
+"
+vdagestan.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.976 ms  0.959 ms  1.030 ms
+"
+vdagestan.info,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.110 ms  17.318 ms  17.335 ms
+"
+vdagestan.info,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  23.992 ms  23.107 ms  24.181 ms
+"
+vdagestan.info,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.559 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.516 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.593 ms
+"
+vdagestan.info,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.715 ms  39.452 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.842 ms
+"
+vdagestan.info,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.810 ms  118.439 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.314 ms
+"
+vdagestan.info,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.412 ms  117.464 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.220 ms
+"
+vdagestan.info,9," 9  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.394 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.455 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  119.261 ms
+"
+vdagestan.info,10,"10  38.140.107.42 (38.140.107.42)  117.774 ms 38.140.106.162 (38.140.106.162)  117.136 ms  117.987 ms
+"
+vdagestan.info,11,"11  52.93.31.49 (52.93.31.49)  114.321 ms 38.140.107.42 (38.140.107.42)  114.895 ms 52.93.31.55 (52.93.31.55)  122.587 ms
+"
+vdagestan.info,12,"12  52.93.31.33 (52.93.31.33)  112.614 ms 52.93.4.34 (52.93.4.34)  112.222 ms 52.93.4.60 (52.93.4.60)  113.887 ms
+"
+vdagestan.info,13,"13  * * *
+"
+vdagestan.info,14,"14  54.240.229.153 (54.240.229.153)  118.601 ms 54.240.229.139 (54.240.229.139)  119.434 ms *
+"
+vdagestan.info,15,"15  * * *
+"
+vdagestan.info,16,"16  * * *
+"
+vdagestan.info,17,"17  * * *
+"
+vdagestan.info,18,"18  * * *
+"
+vdagestan.info,19,"19  * * *
+"
+vdagestan.info,20,"20  * * *
+"
+vdagestan.info,21,"21  * * *
+"
+vdagestan.info,22,"22  * * *
+"
+vdagestan.info,23,"23  * * *
+"
+vdagestan.info,24,"24  * * *
+"
+vdagestan.info,25,"25  52.93.28.86 (52.93.28.86)  117.248 ms * *
+"
+vdagestan.info,26,"26  * * *
+"
+vdagestan.info,27,"27  * * *
+"
+vdagestan.info,28,"28  * * *
+"
+vdagestan.info,29,"29  * * *
+"
+vdagestan.info,30,"30  * * *
+"

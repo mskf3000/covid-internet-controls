@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+keeper.wmtransfer.com,0,"traceroute to keeper.wmtransfer.com (91.200.28.105), 30 hops max, 60 byte packets
+"
+keeper.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.295 ms  0.307 ms
+"
+keeper.wmtransfer.com,2," 2  dtel-ix.netorn.net (193.25.180.128)  18.224 ms  16.690 ms  18.201 ms
+"
+keeper.wmtransfer.com,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  17.623 ms  17.629 ms  17.717 ms
+"
+keeper.wmtransfer.com,4," 4  80.85.240.85 (80.85.240.85)  20.165 ms  21.797 ms  19.522 ms
+"
+keeper.wmtransfer.com,5," 5  91.200.28.105 (91.200.28.105)  17.902 ms  18.580 ms  18.911 ms
+"

@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+osp-ua.info,0,"traceroute to osp-ua.info (194.28.86.52), 30 hops max, 60 byte packets
+"
+osp-ua.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.285 ms  0.278 ms  0.315 ms
+"
+osp-ua.info,2," 2  * * *
+"
+osp-ua.info,3," 3  server.osp-ua.info (194.28.86.52)  0.590 ms  0.595 ms  0.666 ms
+"

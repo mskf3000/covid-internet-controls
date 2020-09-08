@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+kp.ru,0,"traceroute to kp.ru (95.163.94.199), 50 hops max, 60 byte packets
+"
+kp.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.263 ms  0.292 ms  0.439 ms
+"
+kp.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.651 ms  0.687 ms  0.728 ms
+"
+kp.ru,3," 3  * * *
+"
+kp.ru,4," 4  kp.msk.cloud-ix.net (31.28.19.208)  23.835 ms  16.531 ms  17.013 ms
+"
+kp.ru,5," 5  * * *
+"
+kp.ru,6," 6  95.163.94.199 (95.163.94.199)  17.603 ms  25.275 ms  16.432 ms
+"

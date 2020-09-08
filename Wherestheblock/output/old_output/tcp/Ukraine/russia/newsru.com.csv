@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+newsru.com,0,"traceroute to newsru.com (216.41.223.54), 50 hops max, 60 byte packets
+"
+newsru.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.290 ms  0.317 ms
+"
+newsru.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.997 ms  1.979 ms  2.007 ms
+"
+newsru.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.142 ms  17.176 ms  17.367 ms
+"
+newsru.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.317 ms  22.514 ms  22.310 ms
+"
+newsru.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.496 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.599 ms  30.487 ms
+"
+newsru.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.755 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.353 ms  39.380 ms
+"
+newsru.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  46.936 ms  46.875 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.841 ms
+"
+newsru.com,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  109.380 ms  108.943 ms  108.790 ms
+"
+newsru.com,9," 9  be2119.rcr21.hpn04.atlas.cogentco.com (154.54.47.142)  113.627 ms be2120.rcr21.hpn04.atlas.cogentco.com (154.54.47.146)  113.672 ms  113.922 ms
+"
+newsru.com,10,"10  38.104.241.162 (38.104.241.162)  113.248 ms  113.231 ms  113.223 ms
+"
+newsru.com,11,"11  vln1100.int.ae1-20g.er3.ex1.ct1.amnetsystems.com (216.41.208.4)  113.215 ms  113.162 ms  113.144 ms
+"
+newsru.com,12,"12  216.41.208.49 (216.41.208.49)  113.844 ms  113.936 ms  113.971 ms
+"
+newsru.com,13,"13  216.41.213.132 (216.41.213.132)  120.762 ms  117.806 ms  117.790 ms
+"
+newsru.com,14,"14  216.41.223.54 (216.41.223.54)  118.756 ms  117.687 ms  117.723 ms
+"

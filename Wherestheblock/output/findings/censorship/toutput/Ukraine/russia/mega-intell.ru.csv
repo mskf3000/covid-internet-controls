@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mega-intell.ru,0,"traceroute to mega-intell.ru (92.53.96.133), 50 hops max, 60 byte packets
+"
+mega-intell.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.343 ms  0.368 ms  0.333 ms
+"
+mega-intell.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.678 ms  0.673 ms  0.578 ms
+"
+mega-intell.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.301 ms  30.290 ms  30.276 ms
+"
+mega-intell.ru,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  34.424 ms  34.412 ms  34.396 ms
+"
+mega-intell.ru,5," 5  vh80.timeweb.ru (92.53.96.133)  30.071 ms  30.051 ms  30.018 ms
+"

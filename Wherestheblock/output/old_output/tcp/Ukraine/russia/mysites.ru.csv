@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mysites.ru,0,"traceroute to mysites.ru (90.156.201.50), 50 hops max, 60 byte packets
+"
+mysites.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.688 ms  6.676 ms  6.681 ms
+"
+mysites.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.717 ms  0.709 ms  0.696 ms
+"
+mysites.ru,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  32.398 ms  32.390 ms  21.275 ms
+"
+mysites.ru,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.676 ms  19.709 ms  19.810 ms
+"
+mysites.ru,5," 5  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  21.754 ms * msk-ff-22-vl18.masterhost.ru (217.16.23.242)  19.275 ms
+"
+mysites.ru,6," 6  fe.shared.masterhost.ru (90.156.201.50)  19.124 ms  19.936 ms  21.452 ms
+"

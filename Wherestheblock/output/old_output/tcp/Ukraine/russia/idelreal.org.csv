@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+idelreal.org,0,"traceroute to idelreal.org (2.16.187.27), 50 hops max, 60 byte packets
+"
+idelreal.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.319 ms  0.351 ms
+"
+idelreal.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.087 ms  2.608 ms  2.594 ms
+"
+idelreal.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.869 ms  16.919 ms  17.274 ms
+"
+idelreal.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.282 ms  18.374 ms  18.432 ms
+"
+idelreal.org,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.255 ms  24.257 ms  24.344 ms
+"
+idelreal.org,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.195 ms  29.719 ms  29.816 ms
+"
+idelreal.org,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  29.753 ms  29.906 ms  30.267 ms
+"
+idelreal.org,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  29.701 ms  29.758 ms  29.720 ms
+"
+idelreal.org,9," 9  * * *
+"
+idelreal.org,10,"10  a2-16-187-27.deploy.static.akamaitechnologies.com (2.16.187.27)  29.639 ms  29.571 ms  29.568 ms
+"

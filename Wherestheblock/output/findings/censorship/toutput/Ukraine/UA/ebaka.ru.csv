@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ebaka.ru,0,"traceroute to ebaka.ru (31.31.205.163), 30 hops max, 60 byte packets
+"
+ebaka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.371 ms  0.360 ms  0.394 ms
+"
+ebaka.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.539 ms  0.628 ms  0.567 ms
+"
+ebaka.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.055 ms  15.932 ms  16.036 ms
+"
+ebaka.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.462 ms  17.448 ms  17.426 ms
+"
+ebaka.ru,5," 5  * * *
+"
+ebaka.ru,6," 6  * * *
+"
+ebaka.ru,7," 7  * * *
+"
+ebaka.ru,8," 8  ns1.domainparking.int.reg.ru (31.31.205.163)  83.242 ms  16.742 ms  17.390 ms
+"

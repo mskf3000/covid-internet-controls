@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novorossia.su,0,"traceroute to novorossia.su (104.31.68.121), 30 hops max, 60 byte packets
+"
+novorossia.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.290 ms  0.280 ms
+"
+novorossia.su,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.560 ms  0.669 ms  0.653 ms
+"
+novorossia.su,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.118 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.376 ms  18.025 ms
+"
+novorossia.su,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.062 ms  16.050 ms cloudflare-peering.fiord.net (80.77.167.7)  19.160 ms
+"
+novorossia.su,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  19.142 ms 104.31.68.121 (104.31.68.121)  18.384 ms  18.413 ms
+"

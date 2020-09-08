@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+zaprava.ru,0,"traceroute to zaprava.ru (75.119.198.55), 30 hops max, 60 byte packets
+"
+zaprava.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.620 ms  2.590 ms  2.576 ms
+"
+zaprava.ru,2," 2  hurricane-ix.giganet.ua (185.1.62.230)  0.428 ms  0.457 ms  0.501 ms
+"
+zaprava.ru,3," 3  100ge15-1.core1.vie1.he.net (184.104.192.225)  20.770 ms  20.699 ms  20.865 ms
+"
+zaprava.ru,4," 4  100ge13-1.core1.par2.he.net (184.105.65.5)  50.811 ms  51.500 ms  51.488 ms
+"
+zaprava.ru,5," 5  100ge14-1.core1.nyc4.he.net (184.105.81.77)  106.478 ms  106.478 ms  106.517 ms
+"
+zaprava.ru,6," 6  100ge9-1.core2.chi1.he.net (184.105.223.161)  123.115 ms  122.992 ms 100ge2-1.core2.chi1.he.net (184.104.193.173)  123.092 ms
+"
+zaprava.ru,7," 7  100ge14-2.core1.msp1.he.net (184.105.223.178)  131.098 ms  130.879 ms  131.204 ms
+"
+zaprava.ru,8," 8  100ge11-2.core1.sea1.he.net (184.104.194.21)  163.659 ms  163.738 ms  163.470 ms
+"
+zaprava.ru,9," 9  100ge15-1.core1.pdx1.he.net (184.105.64.138)  167.190 ms  167.061 ms  166.921 ms
+"
+zaprava.ru,10,"10  dreamhost.10gigabitethernet10-5.core1.pdx1.he.net (65.49.80.226)  167.724 ms  168.005 ms  168.013 ms
+"
+zaprava.ru,11,"11  pdx1-cr-2.sd.dreamhost.com (66.33.200.3)  167.961 ms  168.047 ms  167.718 ms
+"
+zaprava.ru,12,"12  pdx1-a5u56-acc.sd.dreamhost.com (66.33.200.43)  168.967 ms  168.949 ms  169.749 ms
+"
+zaprava.ru,13,"13  apache2-pat.bayocean.dreamhost.com (75.119.198.55)  168.044 ms  167.922 ms  168.459 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+anonymox.net,0,"traceroute to anonymox.net (148.251.55.155), 50 hops max, 60 byte packets
+"
+anonymox.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.516 ms  4.501 ms  4.540 ms
+"
+anonymox.net,2," 2  * * kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.218 ms
+"
+anonymox.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  29.183 ms  28.768 ms  26.194 ms
+"
+anonymox.net,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.695 ms  28.653 ms  28.646 ms
+"
+anonymox.net,5," 5  core5.fra.hetzner.com (213.239.224.218)  35.607 ms core0.fra.hetzner.com (213.239.252.10)  28.617 ms  31.173 ms
+"
+anonymox.net,6," 6  core24.fsn1.hetzner.com (213.239.252.42)  36.122 ms core24.fsn1.hetzner.com (213.239.224.253)  33.580 ms  33.452 ms
+"
+anonymox.net,7," 7  ex9k2.dc11.fsn1.hetzner.com (213.239.229.14)  157.331 ms ex9k2.dc11.fsn1.hetzner.com (213.239.229.10)  157.745 ms ex9k2.dc11.fsn1.hetzner.com (213.239.229.14)  154.878 ms
+"
+anonymox.net,8," 8  vmhost1.anonymox.net (148.251.42.21)  32.990 ms  35.562 ms  35.595 ms
+"
+anonymox.net,9," 9  web2-2.anonymox.net (148.251.55.155)  33.049 ms  33.545 ms  40.173 ms
+"

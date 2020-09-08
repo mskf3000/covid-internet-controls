@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+publicverdict.org,0,"traceroute to publicverdict.org (213.167.240.143), 50 hops max, 60 byte packets
+"
+publicverdict.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.434 ms  0.418 ms  0.407 ms
+"
+publicverdict.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.577 ms  0.513 ms  0.600 ms
+"
+publicverdict.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.613 ms  28.657 ms  28.677 ms
+"
+publicverdict.org,4," 4  g0-0-0-1.decix-core2-lux.gandi.net (80.81.193.41)  53.114 ms  53.149 ms  50.565 ms
+"
+publicverdict.org,5," 5  xe3-x.dist2-lux.gandi.net (217.70.186.50)  45.536 ms xe3-x.dist1-lux.gandi.net (217.70.186.34)  53.163 ms xe3-x.dist2-lux.gandi.net (217.70.186.50)  47.953 ms
+"
+publicverdict.org,6," 6  xvm-240-143.dc2.ghst.net (213.167.240.143)  47.479 ms  50.523 ms  50.507 ms
+"

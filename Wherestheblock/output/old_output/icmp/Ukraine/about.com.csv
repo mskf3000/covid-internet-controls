@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+about.com,0,"traceroute to about.com (151.101.194.114), 30 hops max, 60 byte packets
+"
+about.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.915 ms  0.905 ms  0.901 ms
+"
+about.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.615 ms  2.548 ms  0.620 ms
+"
+about.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.182 ms  16.198 ms  16.183 ms
+"
+about.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.245 ms  16.244 ms  16.186 ms
+"
+about.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.879 ms  42.888 ms  42.882 ms
+"
+about.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  43.983 ms  44.021 ms  43.999 ms
+"
+about.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.820 ms  41.641 ms  41.739 ms
+"
+about.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.123 ms  44.104 ms  44.103 ms
+"
+about.com,9," 9  fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  42.791 ms  42.809 ms  42.851 ms
+"
+about.com,10,"10  151.101.194.114 (151.101.194.114)  46.319 ms  46.449 ms  46.452 ms
+"

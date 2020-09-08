@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+censor.net.ua,0,"traceroute to censor.net.ua (104.20.53.111), 50 hops max, 60 byte packets
+"
+censor.net.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.546 ms  1.532 ms  1.564 ms
+"
+censor.net.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.259 ms  1.260 ms  1.246 ms
+"
+censor.net.ua,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.233 ms  1.228 ms  1.216 ms
+"
+censor.net.ua,4," 4  149.6.191.138 (149.6.191.138)  5.352 ms  5.256 ms  5.262 ms
+"
+censor.net.ua,5," 5  104.20.53.111 (104.20.53.111)  0.639 ms  1.019 ms  0.595 ms
+"

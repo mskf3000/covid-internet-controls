@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+go.mail.ru,0,"traceroute to go.mail.ru (217.69.139.52), 50 hops max, 60 byte packets
+"
+go.mail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.298 ms  0.305 ms
+"
+go.mail.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.973 ms  1.002 ms  1.036 ms
+"
+go.mail.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.350 ms  17.355 ms  17.343 ms
+"
+go.mail.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.516 ms  18.596 ms  18.693 ms
+"
+go.mail.ru,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  137.695 ms  137.699 ms  137.688 ms
+"
+go.mail.ru,6," 6  ae-123-3513.bar1.Helsinki1.Level3.net (4.69.203.18)  140.445 ms ae-124-3514.bar1.Helsinki1.Level3.net (4.69.203.22)  137.682 ms  139.811 ms
+"
+go.mail.ru,7," 7  212.73.248.6 (212.73.248.6)  65.513 ms  65.173 ms  65.142 ms
+"
+go.mail.ru,8," 8  * * *
+"
+go.mail.ru,9," 9  * * *
+"
+go.mail.ru,10,"10  * * *
+"
+go.mail.ru,11,"11  go.mail.ru (217.69.139.52)  71.067 ms  47.187 ms  45.583 ms
+"

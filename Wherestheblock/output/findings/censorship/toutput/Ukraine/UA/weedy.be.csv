@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+weedy.be,0,"traceroute to weedy.be (148.251.188.47), 30 hops max, 60 byte packets
+"
+weedy.be,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.363 ms  0.351 ms  0.365 ms
+"
+weedy.be,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.620 ms  0.563 ms  0.558 ms
+"
+weedy.be,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.162 ms  26.189 ms  28.716 ms
+"
+weedy.be,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.478 ms  28.476 ms  32.593 ms
+"
+weedy.be,5," 5  core0.fra.hetzner.com (213.239.252.10)  40.084 ms core5.fra.hetzner.com (213.239.224.218)  35.376 ms core4.fra.hetzner.com (213.239.245.85)  31.450 ms
+"
+weedy.be,6," 6  core24.fsn1.hetzner.com (213.239.203.150)  39.814 ms  39.720 ms core23.fsn1.hetzner.com (213.239.224.249)  36.972 ms
+"
+weedy.be,7," 7  ex9k1.dc12.fsn1.hetzner.com (213.239.203.186)  33.502 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.174)  36.030 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.186)  33.565 ms
+"
+weedy.be,8," 8  u-turn.jacum.com (148.251.188.47)  40.286 ms  39.640 ms  33.345 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+torrents.net.ua,0,"traceroute to torrents.net.ua (104.28.21.106), 30 hops max, 60 byte packets
+"
+torrents.net.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.553 ms  6.564 ms  6.587 ms
+"
+torrents.net.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.933 ms  1.010 ms  0.999 ms
+"
+torrents.net.ua,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.920 ms  9.247 ms  8.839 ms
+"
+torrents.net.ua,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  12.285 ms  12.263 ms  12.252 ms
+"
+torrents.net.ua,5," 5  149.14.58.106 (149.14.58.106)  12.678 ms  12.274 ms  12.269 ms
+"
+torrents.net.ua,6," 6  104.28.21.106 (104.28.21.106)  11.780 ms  11.815 ms  11.714 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+orbita.dn.ua,0,"traceroute to orbita.dn.ua (195.234.5.241), 30 hops max, 60 byte packets
+"
+orbita.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.964 ms  0.931 ms  0.948 ms
+"
+orbita.dn.ua,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.564 ms  0.551 ms  9.077 ms
+"
+orbita.dn.ua,3," 3  te2-0-1.LR01.L9.KBP.topnet.ua (77.88.206.2)  6.372 ms  6.408 ms  6.458 ms
+"
+orbita.dn.ua,4," 4  77.88.206.3 (77.88.206.3)  0.631 ms  0.666 ms  0.608 ms
+"
+orbita.dn.ua,5," 5  hv195-234-5-241.1gb.ua (195.234.5.241)  1.517 ms  1.146 ms  1.154 ms
+"

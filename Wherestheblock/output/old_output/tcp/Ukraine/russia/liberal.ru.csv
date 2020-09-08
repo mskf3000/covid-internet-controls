@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+liberal.ru,0,"traceroute to liberal.ru (185.178.44.111), 50 hops max, 60 byte packets
+"
+liberal.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.198 ms  2.195 ms  2.234 ms
+"
+liberal.ru,2," 2  * * *
+"
+liberal.ru,3," 3  as20764.ix.dataix.ru (178.18.224.34)  23.650 ms  23.973 ms  23.669 ms
+"
+liberal.ru,4," 4  * * *
+"
+liberal.ru,5," 5  81.27.252.94.rascom.as20764.net (81.27.252.94)  32.865 ms  32.873 ms  32.877 ms
+"
+liberal.ru,6," 6  * * *
+"
+liberal.ru,7," 7  vds-citex.timeweb.ru (185.178.44.111)  27.221 ms  29.366 ms  29.924 ms
+"

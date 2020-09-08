@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+1sev.tv,0,"traceroute to 1sev.tv (194.58.112.173), 30 hops max, 60 byte packets
+"
+1sev.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.364 ms  1.355 ms  1.348 ms
+"
+1sev.tv,2," 2  * * *
+"
+1sev.tv,3," 3  * * *
+"
+1sev.tv,4," 4  10.0.9.181 (10.0.9.181)  18.544 ms  17.569 ms 10.0.9.165 (10.0.9.165)  17.036 ms
+"
+1sev.tv,5," 5  * * *
+"
+1sev.tv,6," 6  * * *
+"
+1sev.tv,7," 7  * * *
+"
+1sev.tv,8," 8  parking.reg.ru (194.58.112.173)  18.096 ms  18.391 ms  16.971 ms
+"

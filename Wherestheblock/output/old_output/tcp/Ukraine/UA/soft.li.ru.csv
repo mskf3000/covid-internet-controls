@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+soft.li.ru,0,"traceroute to soft.li.ru (88.212.202.15), 30 hops max, 60 byte packets
+"
+soft.li.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.310 ms  0.305 ms
+"
+soft.li.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.653 ms  0.647 ms  0.658 ms
+"
+soft.li.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.903 ms  15.905 ms  15.918 ms
+"
+soft.li.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.370 ms  17.364 ms  17.393 ms
+"
+soft.li.ru,5," 5  87.kiae-sw.exepto.ru (88.212.192.200)  29.128 ms  29.406 ms  28.515 ms
+"
+soft.li.ru,6," 6  227-194-212-88.host.exepto.ru (88.212.194.227)  22.676 ms * *
+"
+soft.li.ru,7," 7  host115.rax.ru (88.212.202.15)  16.625 ms  19.844 ms  17.103 ms
+"

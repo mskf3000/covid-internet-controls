@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novosti.dn.ua,0,"traceroute to novosti.dn.ua (104.27.167.145), 30 hops max, 60 byte packets
+"
+novosti.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.296 ms  0.321 ms
+"
+novosti.dn.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.771 ms  1.823 ms  1.755 ms
+"
+novosti.dn.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.930 ms  18.919 ms  18.906 ms
+"
+novosti.dn.ua,4," 4  149.6.50.74 (149.6.50.74)  36.398 ms  36.662 ms  36.373 ms
+"
+novosti.dn.ua,5," 5  104.27.167.145 (104.27.167.145)  18.693 ms  18.636 ms  18.654 ms
+"

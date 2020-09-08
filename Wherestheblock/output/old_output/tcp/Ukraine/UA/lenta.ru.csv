@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+lenta.ru,0,"traceroute to lenta.ru (81.19.72.32), 30 hops max, 60 byte packets
+"
+lenta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.305 ms  0.293 ms  0.325 ms
+"
+lenta.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  20.693 ms  17.514 ms  19.695 ms
+"
+lenta.ru,3," 3  109.239.134.66 (109.239.134.66)  20.826 ms  18.547 ms  19.482 ms
+"
+lenta.ru,4," 4  ae4.j-mx240.os.ramtel.ru (81.19.64.83)  17.393 ms  17.396 ms  18.053 ms
+"
+lenta.ru,5," 5  * * *
+"
+lenta.ru,6," 6  * * *
+"
+lenta.ru,7," 7  lenta.ru (81.19.72.32)  17.295 ms  17.395 ms  16.639 ms
+"

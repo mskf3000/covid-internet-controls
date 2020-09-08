@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+europaplus.ru,0,"traceroute to europaplus.ru (188.93.21.98), 30 hops max, 60 byte packets
+"
+europaplus.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.333 ms  0.348 ms
+"
+europaplus.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.565 ms  0.602 ms  0.591 ms
+"
+europaplus.ru,3," 3  100.64.64.62 (100.64.64.62)  30.347 ms  18.646 ms  30.337 ms
+"
+europaplus.ru,4," 4  100.64.65.21 (100.64.65.21)  20.243 ms  18.813 ms  40.449 ms
+"
+europaplus.ru,5," 5  100.64.64.93 (100.64.64.93)  31.396 ms  31.391 ms  31.382 ms
+"
+europaplus.ru,6," 6  109.239.136.186 (109.239.136.186)  27.727 ms  27.964 ms  27.700 ms
+"
+europaplus.ru,7," 7  141.spb.net.selectel.ru (188.93.17.141)  27.494 ms  26.552 ms  27.766 ms
+"
+europaplus.ru,8," 8  188.93.21.98 (188.93.21.98)  28.747 ms  30.177 ms  28.763 ms
+"

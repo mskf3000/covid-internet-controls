@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+bestmaza.biz,0,"traceroute to bestmaza.biz (23.225.64.114), 30 hops max, 60 byte packets
+"
+bestmaza.biz,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.303 ms  0.336 ms
+"
+bestmaza.biz,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.558 ms  0.548 ms  0.573 ms
+"
+bestmaza.biz,3," 3  100.64.65.25 (100.64.65.25)  7.909 ms  7.906 ms  7.898 ms
+"
+bestmaza.biz,4," 4  100.64.64.141 (100.64.64.141)  56.227 ms  30.436 ms  30.425 ms
+"
+bestmaza.biz,5," 5  xe-10-1-6-574.cr1-fra6.ip4.gtt.net (77.67.120.125)  30.482 ms  30.514 ms  30.918 ms
+"
+bestmaza.biz,6," 6  et-0-0-59.cr3-lax2.ip4.gtt.net (89.149.130.94)  176.221 ms  176.518 ms  176.102 ms
+"
+bestmaza.biz,7," 7  ip4.gtt.net (69.174.6.174)  185.271 ms ip4.ceranetworks.com (69.174.2.154)  185.122 ms ip4.gtt.net (69.174.6.174)  185.526 ms
+"
+bestmaza.biz,8," 8  23.225.225.221 (23.225.225.221)  183.376 ms  183.666 ms  183.596 ms
+"
+bestmaza.biz,9," 9  23.225.225.242 (23.225.225.242)  183.637 ms  183.820 ms  183.708 ms
+"
+bestmaza.biz,10,"10  900gbps-a.suite101-1200street (23.224.58.2)  184.781 ms  184.839 ms  184.919 ms
+"
+bestmaza.biz,11,"11  23.224.58.58 (23.224.58.58)  183.856 ms  185.565 ms  184.276 ms
+"
+bestmaza.biz,12,"12  23.225.64.114 (23.225.64.114)  185.124 ms  184.048 ms  183.987 ms
+"

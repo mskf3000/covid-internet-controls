@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+seedjah.com,0,"traceroute to seedjah.com (104.28.10.27), 30 hops max, 60 byte packets
+"
+seedjah.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.159 ms  4.150 ms  4.180 ms
+"
+seedjah.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.068 ms  0.963 ms  1.109 ms
+"
+seedjah.com,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.414 ms  10.736 ms  9.477 ms
+"
+seedjah.com,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  12.064 ms  12.090 ms  12.079 ms
+"
+seedjah.com,5," 5  149.14.58.106 (149.14.58.106)  12.532 ms  12.522 ms  12.507 ms
+"
+seedjah.com,6," 6  104.28.10.27 (104.28.10.27)  11.761 ms  11.663 ms  11.911 ms
+"

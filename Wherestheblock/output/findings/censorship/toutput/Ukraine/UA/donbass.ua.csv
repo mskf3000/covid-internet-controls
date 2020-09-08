@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+donbass.ua,0,"traceroute to donbass.ua (104.24.96.246), 30 hops max, 60 byte packets
+"
+donbass.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.280 ms  0.298 ms  0.469 ms
+"
+donbass.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.522 ms  0.561 ms  0.601 ms
+"
+donbass.ua,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  25.813 ms  17.327 ms  18.393 ms
+"
+donbass.ua,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  18.289 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.044 ms  16.049 ms
+"
+donbass.ua,5," 5  104.24.96.246 (104.24.96.246)  19.118 ms  27.581 ms  18.457 ms
+"

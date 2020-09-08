@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+araxgroup.ru,0,"traceroute to araxgroup.ru (212.193.251.170), 50 hops max, 60 byte packets
+"
+araxgroup.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.307 ms  0.296 ms
+"
+araxgroup.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.843 ms  18.820 ms  18.825 ms
+"
+araxgroup.ru,3," 3  rucenter.w-ix.ru (193.106.112.62)  18.895 ms  18.884 ms  18.879 ms
+"
+araxgroup.ru,4," 4  MSK-CTV-R1.nic.ru (193.232.147.51)  19.175 ms  19.160 ms  19.157 ms
+"
+araxgroup.ru,5," 5  MSK-DP-GW1.nic.ru (193.232.147.214)  71.279 ms  71.384 ms  71.358 ms
+"
+araxgroup.ru,6," 6  web1196.sys.nichost.ru (31.177.95.72)  19.363 ms  19.388 ms  19.377 ms
+"
+araxgroup.ru,7," 7  araxgroup.nichost.ru (212.193.251.170)  19.491 ms  19.952 ms  19.588 ms
+"

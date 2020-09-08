@@ -1,0 +1,43 @@
+URL,TTL,Response_Message
+adplxmd.com,0,"traceroute to adplxmd.com (103.224.182.251), 30 hops max, 60 byte packets
+"
+adplxmd.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.347 ms  0.386 ms
+"
+adplxmd.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.894 ms  0.992 ms  1.059 ms
+"
+adplxmd.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.407 ms  17.417 ms  17.416 ms
+"
+adplxmd.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.481 ms  22.485 ms  22.481 ms
+"
+adplxmd.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  32.643 ms  32.650 ms  32.650 ms
+"
+adplxmd.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.685 ms  39.706 ms  39.873 ms
+"
+adplxmd.com,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.652 ms  140.710 ms  140.730 ms
+"
+adplxmd.com,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.543 ms  140.889 ms  140.877 ms
+"
+adplxmd.com,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.723 ms  140.002 ms  140.005 ms
+"
+adplxmd.com,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.509 ms  140.128 ms  140.185 ms
+"
+adplxmd.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.794 ms  140.655 ms  141.133 ms
+"
+adplxmd.com,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  152.172 ms  152.064 ms  152.298 ms
+"
+adplxmd.com,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  163.663 ms  163.695 ms  163.738 ms
+"
+adplxmd.com,14,"14  be3047.ccr21.elp01.atlas.cogentco.com (154.54.1.125)  176.818 ms  176.828 ms  176.828 ms
+"
+adplxmd.com,15,"15  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  185.501 ms  185.511 ms  185.388 ms
+"
+adplxmd.com,16,"16  be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  194.147 ms  194.186 ms  194.248 ms
+"
+adplxmd.com,17,"17  te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  195.469 ms  197.883 ms  195.587 ms
+"
+adplxmd.com,18,"18  38.140.111.58 (38.140.111.58)  194.353 ms  194.488 ms  194.493 ms
+"
+adplxmd.com,19,"19  sw03-san.trellian.com (103.224.213.253)  195.088 ms  195.137 ms  195.133 ms
+"
+adplxmd.com,20,"20  lb-182-251.above.com (103.224.182.251)  195.168 ms  195.121 ms  195.113 ms
+"

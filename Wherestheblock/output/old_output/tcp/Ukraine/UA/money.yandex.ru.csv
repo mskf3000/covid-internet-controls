@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+money.yandex.ru,0,"traceroute to money.yandex.ru (185.71.78.14), 30 hops max, 60 byte packets
+"
+money.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.296 ms  0.289 ms
+"
+money.yandex.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.864 ms  0.853 ms  0.885 ms
+"
+money.yandex.ru,3," 3  10.11.12.17 (10.11.12.17)  0.982 ms  0.805 ms  0.836 ms
+"
+money.yandex.ru,4," 4  * * *
+"
+money.yandex.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.946 ms  0.889 ms  0.928 ms
+"
+money.yandex.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.661 ms ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  20.001 ms ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.606 ms
+"
+money.yandex.ru,7," 7  GW-Yandex.retn.net (87.245.229.253)  20.547 ms  20.763 ms  20.764 ms
+"
+money.yandex.ru,8," 8  dante-ae14.yndx.net (87.250.239.63)  21.630 ms gw-ugre1-vlan515.yamoney.ru (77.75.156.49)  18.879 ms money.yandex.ru (185.71.78.14)  20.688 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mshiplnr.su,0,"traceroute to mshiplnr.su (193.228.160.57), 30 hops max, 60 byte packets
+"
+mshiplnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.399 ms  0.388 ms  0.445 ms
+"
+mshiplnr.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.570 ms  0.676 ms  0.669 ms
+"
+mshiplnr.su,3," 3  10.11.12.17 (10.11.12.17)  0.891 ms  0.886 ms  1.006 ms
+"
+mshiplnr.su,4," 4  * * *
+"
+mshiplnr.su,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.968 ms  1.004 ms  1.049 ms
+"
+mshiplnr.su,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  19.409 ms  19.428 ms  19.315 ms
+"
+mshiplnr.su,7," 7  GW-Telematika.retn.net (87.245.239.187)  26.571 ms  32.664 ms  26.243 ms
+"
+mshiplnr.su,8," 8  193.228.160.57 (193.228.160.57)  28.653 ms  31.535 ms  25.607 ms
+"

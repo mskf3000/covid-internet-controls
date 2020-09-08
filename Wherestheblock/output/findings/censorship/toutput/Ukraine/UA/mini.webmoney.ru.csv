@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mini.webmoney.ru,0,"traceroute to mini.webmoney.ru (91.227.52.33), 30 hops max, 60 byte packets
+"
+mini.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.544 ms  2.531 ms  2.526 ms
+"
+mini.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.574 ms  0.565 ms  0.550 ms
+"
+mini.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  20.782 ms  20.776 ms  20.821 ms
+"
+mini.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.882 ms  15.884 ms  15.879 ms
+"
+mini.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.097 ms  17.152 ms  17.272 ms
+"
+mini.webmoney.ru,6," 6  91.227.52.33 (91.227.52.33)  16.653 ms  16.628 ms  16.621 ms
+"

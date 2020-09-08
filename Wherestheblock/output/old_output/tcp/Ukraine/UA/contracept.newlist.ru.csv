@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+contracept.newlist.ru,0,"traceroute to contracept.newlist.ru (185.12.92.221), 30 hops max, 60 byte packets
+"
+contracept.newlist.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.909 ms  0.920 ms  0.912 ms
+"
+contracept.newlist.ru,2," 2  * * *
+"
+contracept.newlist.ru,3," 3  * * *
+"
+contracept.newlist.ru,4," 4  10.0.92.145 (10.0.92.145)  18.522 ms  18.036 ms 10.0.92.141 (10.0.92.141)  17.364 ms
+"
+contracept.newlist.ru,5," 5  ddos-guard.net (185.129.101.215)  21.096 ms  21.057 ms  21.040 ms
+"
+contracept.newlist.ru,6," 6  188.92.242.246 (188.92.242.246)  21.921 ms  20.975 ms  20.982 ms
+"
+contracept.newlist.ru,7," 7  buro.deserv.net (185.12.92.221)  18.542 ms  17.425 ms  18.828 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+nbp-info.ru,0,"traceroute to nbp-info.ru (188.165.138.249), 30 hops max, 60 byte packets
+"
+nbp-info.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.303 ms  0.312 ms
+"
+nbp-info.ru,2," 2  * * *
+"
+nbp-info.ru,3," 3  * * *
+"
+nbp-info.ru,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.639 ms  33.589 ms  33.586 ms
+"
+nbp-info.ru,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  36.755 ms  36.752 ms  36.738 ms
+"
+nbp-info.ru,6," 6  * * *
+"
+nbp-info.ru,7," 7  be50-5.sbg-4b-a9.fr.eu (188.165.9.74)  36.728 ms be50-5.sbg-4a-a9.fr.eu (188.165.9.70)  37.003 ms  39.384 ms
+"
+nbp-info.ru,8," 8  188.165.138.249 (188.165.138.249)  35.960 ms  36.486 ms  35.815 ms
+"

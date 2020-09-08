@@ -1,0 +1,2164 @@
+URL,TTL,Message
+zagony.ru,1,timed out
+zagony.ru,2,timed out
+zagony.ru,3,timed out
+zagony.ru,4,timed out
+zagony.ru,5,timed out
+zagony.ru,6,timed out
+zagony.ru,7,timed out
+zagony.ru,8,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:01 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=oujj3113qvddgdmok6j8s03dt2; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,9,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:02 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=3778qpnot335e77p424p3lkfv0; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,10,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:03 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=9l92i5eid9rqb6gbq102n6lup3; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,11,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:03 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=mpf8f5d6p37643mahlj4pgnei2; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,12,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:04 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=pqn77mq4fhmt7cs6b8apqj9806; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,13,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:05 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=dkqrq9tcoalrk422th0eel6kc2; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,14,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:05 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=2eobnb7ohppu2i613jsmmrfpj0; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,15,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:06 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=aod4jkmnbvjj2mruego6f837v5; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,16,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:06 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=i2v0krdehilbcgvpd1neloecu1; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,17,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:07 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=sugo37iqtkg5087i1bai4va5k0; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,18,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:08 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=dfgn2a6dc6rquu3th1lokfipm1; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,19,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:08 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=icfpj1d0flh5p6lotbdsvine54; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,20,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:09 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=7v80ulbbjrbfbm59rot2a7s0m5; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,21,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:09 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=ca4ihfpvjrr93cgaksgh7r7eq3; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,22,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:10 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=akn7e6r9m78i54pudoeafmmf81; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,23,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:10 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=k4daf9tphisfda5tm3b703did5; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,24,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:11 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=12mps7ckj88ql7j9m8cu2rsjm1; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,25,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:12 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=358av8r5f85pfva0n1qg64k665; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,26,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:12 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=p27fep39jpcd60a4e8vsfjg2n5; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,27,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:13 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=ro3qblu5sih56ipm1omtioc537; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,28,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:13 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=lipnbal0a1iardjad8vjbuvuu7; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"
+zagony.ru,29,"HTTP/1.1 200 OK
+Server: nginx/1.2.1
+Date: Thu, 23 Jan 2020 01:13:14 GMT
+Content-Type: text/html; charset=CP1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=lags823l1h88pnqia950fa8eb4; path=/; domain=.ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dle_user_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Set-Cookie: dle_hash=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.ojaloberoi.in; httponly
+Vary: Accept-Encoding
+
+1d20
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1251"" />
+<title>МэйкUP всем - бьюти блог Дарьи Иодель</title>
+<meta name=""description"" content=""Уроки макияжа, обзор косметики, тенденции в стиле"" />
+<meta name=""keywords"" content=""Мэйкап, макияж, косметика, стиль, мода, красота, фэшн, фотосет"" />
+<meta name=""generator"" content=""DataLife Engine (http://dle-news.ru)"" />
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" />
+<link rel=""alternate"" type=""application/rss+xml"" title=""МэйкUP всем - бьюти блог Дарьи Иодель"" href=""http://ojaloberoi.in/rss.xml"" />
+<script type=""text/javascript"" src=""/engine/classes/js/jquery.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/jqueryui.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/js/dle_js.js""></script>
+<script type=""text/javascript"" src=""/engine/classes/highslide/highslide.js""></script>
+<link rel=""stylesheet"" type=""text/css"" href=""/engine/classes/min/index.php?f=/templates/SoftEye/style/reset.css,/templates/SoftEye/style/style.css,/templates/SoftEye/style/dle.css"" />
+<script type=""text/javascript"" src=""/templates/SoftEye/js/jmpopups.js""></script>
+<script type=""text/javascript"">
+//<![CDATA[
+  $.setupJMPopups({
+    screenLockerBackground: ""#000"",
+    screenLockerOpacity: ""0.7""
+  });
+
+  function openStaticPopup() {
+    $.openPopupLayer({
+      name: ""loginPopup"",
+      width: 310,
+      target: ""loginform""
+    });
+  }
+//]]>
+</script>
+
+<!--[if IE 6]>
+  <link media=""screen"" href=""/templates/SoftEye/style/ie6.css"" type=""text/css"" rel=""stylesheet"" />
+  <script src=""/templates/SoftEye/js/DD_belatedPNG.js""></script>
+  <script>DD_belatedPNG.fix('#login_name, #login_password, #story, .editNews');</script>
+  <script type=""text/javascript"">
+  $(document).ready(function(){
+    $('.search').hover(function() {
+      $(this).addClass('hover');
+    }, function() {
+      $(this).removeClass('hover');
+    });
+    
+      $('.button').hover(function() {
+      $(this).addClass('buttonHover');
+    }, function() {
+      $(this).removeClass('buttonHover');
+    });
+    
+      $('.buttonReds').hover(function() {
+      $(this).addClass('buttonRedHover');
+    }, function() {
+      $(this).removeClass('buttonRedHover');
+    });
+  });
+</script>
+<![endif]-->
+
+<!--[if lte IE 7]><link media=""screen"" href=""/templates/SoftEye/style/ie7.css"" type=""text/css"" rel=""stylesheet"" /><![endif]-->
+</head>
+
+<body>
+<div id=""loading-layer"" style=""display:none"">Загрузка. Пожалуйста, подождите...</div>
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'SoftEye';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+v"

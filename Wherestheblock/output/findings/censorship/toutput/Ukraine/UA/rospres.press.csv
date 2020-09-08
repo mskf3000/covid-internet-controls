@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+rospres.press,0,"traceroute to rospres.press (198.54.125.161), 30 hops max, 60 byte packets
+"
+rospres.press,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.267 ms  0.297 ms  0.336 ms
+"
+rospres.press,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.007 ms  0.861 ms  0.888 ms
+"
+rospres.press,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.945 ms  17.165 ms  17.203 ms
+"
+rospres.press,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.177 ms  18.141 ms  18.303 ms
+"
+rospres.press,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.583 ms  18.723 ms  18.847 ms
+"
+rospres.press,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  178.418 ms  178.732 ms  178.705 ms
+"
+rospres.press,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  30.142 ms  31.200 ms  31.240 ms
+"
+rospres.press,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  117.984 ms  118.339 ms  118.308 ms
+"
+rospres.press,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  183.823 ms  179.299 ms  181.984 ms
+"
+rospres.press,10,"10  ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  181.430 ms  183.145 ms  181.094 ms
+"
+rospres.press,11,"11  192.80.17.102 (192.80.17.102)  178.501 ms  181.011 ms  180.759 ms
+"
+rospres.press,12,"12  172.20.0.198 (172.20.0.198)  179.433 ms  182.060 ms  183.922 ms
+"
+rospres.press,13,"13  199.193.7.170 (199.193.7.170)  183.074 ms  178.657 ms  181.268 ms
+"
+rospres.press,14,"14  * * *
+"
+rospres.press,15,"15  server261-1.web-hosting.com (198.54.125.161)  182.053 ms  185.675 ms  185.667 ms
+"

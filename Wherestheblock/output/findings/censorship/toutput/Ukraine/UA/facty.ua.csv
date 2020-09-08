@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+facty.ua,0,"traceroute to facty.ua (5.39.10.93), 30 hops max, 60 byte packets
+"
+facty.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.294 ms  0.317 ms
+"
+facty.ua,2," 2  * * *
+"
+facty.ua,3," 3  * * *
+"
+facty.ua,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.886 ms  33.886 ms  33.922 ms
+"
+facty.ua,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  49.981 ms  45.946 ms  50.200 ms
+"
+facty.ua,6," 6  * * *
+"
+facty.ua,7," 7  * * *
+"
+facty.ua,8," 8  * * *
+"
+facty.ua,9," 9  * * *
+"
+facty.ua,10,"10  park.dnshosting.org (5.39.10.93)  44.830 ms  44.861 ms  44.849 ms
+"

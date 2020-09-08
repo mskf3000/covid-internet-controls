@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+minjust-dnr.ru,0,"traceroute to minjust-dnr.ru (82.146.58.99), 30 hops max, 60 byte packets
+"
+minjust-dnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.249 ms  0.231 ms  0.258 ms
+"
+minjust-dnr.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.682 ms  16.984 ms  18.563 ms
+"
+minjust-dnr.ru,3," 3  mail-ru.gw.gblnet.ru (109.239.134.30)  29.384 ms  29.377 ms  29.356 ms
+"
+minjust-dnr.ru,4," 4  core.webdc.ru (92.63.108.98)  17.404 ms  17.745 ms  18.394 ms
+"
+minjust-dnr.ru,5," 5  172.17.23.73 (172.17.23.73)  18.655 ms  19.092 ms  19.533 ms
+"
+minjust-dnr.ru,6," 6  * * *
+"
+minjust-dnr.ru,7," 7  minjust-dnr.ru (82.146.58.99)  18.950 ms  18.886 ms  19.614 ms
+"

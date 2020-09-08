@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+anna-news.info,0,"traceroute to anna-news.info (186.2.163.116), 30 hops max, 60 byte packets
+"
+anna-news.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.215 ms  1.181 ms  1.217 ms
+"
+anna-news.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.646 ms  0.584 ms  0.618 ms
+"
+anna-news.info,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.523 ms  16.534 ms  16.490 ms
+"
+anna-news.info,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  18.380 ms * *
+"
+anna-news.info,5," 5  10.0.9.57 (10.0.9.57)  21.541 ms  18.823 ms 10.0.9.41 (10.0.9.41)  21.767 ms
+"
+anna-news.info,6," 6  ddos-guard.net (186.2.163.116)  18.324 ms 10.0.9.57 (10.0.9.57)  17.779 ms  17.652 ms
+"

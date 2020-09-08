@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+kleo.ru,0,"traceroute to kleo.ru (104.27.187.75), 50 hops max, 60 byte packets
+"
+kleo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.275 ms  0.298 ms
+"
+kleo.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.908 ms  0.945 ms  1.026 ms
+"
+kleo.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.112 ms  18.823 ms  18.947 ms
+"
+kleo.ru,4," 4  149.6.50.74 (149.6.50.74)  21.915 ms  21.897 ms  22.960 ms
+"
+kleo.ru,5," 5  104.27.187.75 (104.27.187.75)  18.573 ms  18.480 ms  18.506 ms
+"

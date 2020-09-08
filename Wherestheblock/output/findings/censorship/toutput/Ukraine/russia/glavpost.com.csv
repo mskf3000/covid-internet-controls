@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+glavpost.com,0,"traceroute to glavpost.com (5.45.115.149), 50 hops max, 60 byte packets
+"
+glavpost.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.458 ms  0.440 ms  0.440 ms
+"
+glavpost.com,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.830 ms  0.809 ms  0.862 ms
+"
+glavpost.com,3," 3  77.88.211.129 (77.88.211.129)  0.566 ms  0.645 ms  0.634 ms
+"
+glavpost.com,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  39.021 ms  39.018 ms  39.055 ms
+"
+glavpost.com,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  31.945 ms  32.020 ms  32.111 ms
+"
+glavpost.com,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  31.706 ms  31.742 ms  31.730 ms
+"
+glavpost.com,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  31.837 ms  31.913 ms  31.877 ms
+"
+glavpost.com,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.166 ms  33.119 ms  33.117 ms
+"
+glavpost.com,9," 9  * * *
+"
+glavpost.com,10,"10  s052d7395.fastvps-server.com (5.45.115.149)  32.316 ms  33.412 ms  33.447 ms
+"

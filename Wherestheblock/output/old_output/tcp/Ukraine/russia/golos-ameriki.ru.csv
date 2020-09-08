@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+golos-ameriki.ru,0,"traceroute to golos-ameriki.ru (23.14.94.50), 50 hops max, 60 byte packets
+"
+golos-ameriki.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.622 ms  0.609 ms  0.593 ms
+"
+golos-ameriki.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.868 ms  0.604 ms  0.560 ms
+"
+golos-ameriki.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  30.823 ms  26.121 ms  28.750 ms
+"
+golos-ameriki.ru,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  31.421 ms  31.362 ms  28.930 ms
+"
+golos-ameriki.ru,5," 5  a23-14-94-50.deploy.static.akamaitechnologies.com (23.14.94.50)  28.455 ms  28.454 ms  28.892 ms
+"

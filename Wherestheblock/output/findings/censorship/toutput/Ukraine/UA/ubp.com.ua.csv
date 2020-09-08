@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ubp.com.ua,0,"traceroute to ubp.com.ua (104.24.125.206), 30 hops max, 60 byte packets
+"
+ubp.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.343 ms  1.329 ms  1.347 ms
+"
+ubp.com.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.042 ms  0.913 ms  0.977 ms
+"
+ubp.com.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.941 ms  18.820 ms  18.751 ms
+"
+ubp.com.ua,4," 4  149.6.50.74 (149.6.50.74)  19.196 ms  19.145 ms  19.141 ms
+"
+ubp.com.ua,5," 5  104.24.125.206 (104.24.125.206)  18.447 ms  18.589 ms  18.494 ms
+"

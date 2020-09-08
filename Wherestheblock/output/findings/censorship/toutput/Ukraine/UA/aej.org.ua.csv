@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+aej.org.ua,0,"traceroute to aej.org.ua (176.114.1.110), 30 hops max, 60 byte packets
+"
+aej.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.401 ms  1.383 ms  1.421 ms
+"
+aej.org.ua,2," 2  MaximumaNet-ix.giganet.ua (185.1.62.52)  0.751 ms  0.524 ms  0.531 ms
+"
+aej.org.ua,3," 3  gw.thehost.com.ua (91.196.149.36)  0.827 ms  0.836 ms  0.828 ms
+"
+aej.org.ua,4," 4  s16.thehost.com.ua (176.114.1.110)  1.204 ms  1.217 ms  1.235 ms
+"

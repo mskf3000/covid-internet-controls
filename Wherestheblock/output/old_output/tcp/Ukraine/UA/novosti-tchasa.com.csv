@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novosti-tchasa.com,0,"traceroute to novosti-tchasa.com (92.53.98.245), 30 hops max, 60 byte packets
+"
+novosti-tchasa.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.258 ms  0.275 ms  0.307 ms
+"
+novosti-tchasa.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.823 ms  0.856 ms  0.604 ms
+"
+novosti-tchasa.com,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.298 ms  30.247 ms  30.245 ms
+"
+novosti-tchasa.com,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  69.087 ms  69.055 ms  69.028 ms
+"
+novosti-tchasa.com,5," 5  pink.timeweb.ru (92.53.98.245)  31.556 ms  29.511 ms  29.407 ms
+"

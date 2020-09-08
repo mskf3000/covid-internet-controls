@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+trust.org,0,"traceroute to trust.org (54.165.160.6), 30 hops max, 60 byte packets
+"
+trust.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.817 ms  0.822 ms  0.817 ms
+"
+trust.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.857 ms  2.221 ms  2.207 ms
+"
+trust.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.162 ms  17.163 ms  17.200 ms
+"
+trust.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.717 ms  22.705 ms  22.700 ms
+"
+trust.org,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.347 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.922 ms  30.917 ms
+"
+trust.org,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.462 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.572 ms  39.583 ms
+"
+trust.org,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.141 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.833 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.537 ms
+"
+trust.org,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.071 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  118.640 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  117.622 ms
+"
+trust.org,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  116.993 ms  117.175 ms  116.893 ms
+"
+trust.org,10,"10  38.140.107.42 (38.140.107.42)  122.888 ms  134.451 ms  133.899 ms
+"
+trust.org,11,"11  52.93.31.59 (52.93.31.59)  116.821 ms 38.140.106.162 (38.140.106.162)  121.338 ms 38.140.107.42 (38.140.107.42)  124.131 ms
+"
+trust.org,12,"12  52.93.4.20 (52.93.4.20)  114.491 ms * 52.93.4.34 (52.93.4.34)  113.388 ms
+"
+trust.org,13,"13  * * 52.93.4.62 (52.93.4.62)  111.088 ms
+"
+trust.org,14,"14  * * *
+"
+trust.org,15,"15  * * *
+"
+trust.org,16,"16  * * *
+"
+trust.org,17,"17  * * *
+"
+trust.org,18,"18  * * *
+"
+trust.org,19,"19  * * *
+"
+trust.org,20,"20  * * *
+"
+trust.org,21,"21  * * *
+"
+trust.org,22,"22  * * *
+"
+trust.org,23,"23  * * *
+"
+trust.org,24,"24  * * *
+"
+trust.org,25,"25  52.93.28.76 (52.93.28.76)  118.440 ms * *
+"
+trust.org,26,"26  * * *
+"
+trust.org,27,"27  * * *
+"
+trust.org,28,"28  * * *
+"
+trust.org,29,"29  * * *
+"
+trust.org,30,"30  * * *
+"

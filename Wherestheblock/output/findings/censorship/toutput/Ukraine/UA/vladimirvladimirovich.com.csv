@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+vladimirvladimirovich.com,0,"traceroute to vladimirvladimirovich.com (104.31.69.1), 30 hops max, 60 byte packets
+"
+vladimirvladimirovich.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.445 ms  0.447 ms  0.435 ms
+"
+vladimirvladimirovich.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.553 ms  0.651 ms  0.577 ms
+"
+vladimirvladimirovich.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.144 ms  16.135 ms  16.430 ms
+"
+vladimirvladimirovich.com,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.935 ms  15.939 ms cloudflare-peering.fiord.net (80.77.167.7)  22.668 ms
+"
+vladimirvladimirovich.com,5," 5  104.31.69.1 (104.31.69.1)  18.573 ms cloudflare-peering.fiord.net (80.77.167.7)  19.530 ms  19.525 ms
+"

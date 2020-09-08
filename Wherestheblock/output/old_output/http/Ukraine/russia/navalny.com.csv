@@ -1,0 +1,399 @@
+URL,TTL,Message
+navalny.com,1,timed out
+navalny.com,2,timed out
+navalny.com,3,timed out
+navalny.com,4,timed out
+navalny.com,5,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:07 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d489fbaca9b8e49eaf73e6ee5dada67fa1579737667; expires=Sat, 22-Feb-20 00:01:07 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:13 GMT
+Server: cloudflare
+CF-RAY: 55957dc4ba1e2924-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,6,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:07 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d297aff0bddc774fb8a498e395893e71c1579737667; expires=Sat, 22-Feb-20 00:01:07 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:13 GMT
+Server: cloudflare
+CF-RAY: 55957dc4fd93ac9a-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,7,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:07 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de24ef20b22ef011aac9a7db81ea161f81579737667; expires=Sat, 22-Feb-20 00:01:07 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:13 GMT
+Server: cloudflare
+CF-RAY: 55957dc53e4cfd09-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,8,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:07 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d51ec47105699ca1d81095221aca119921579737667; expires=Sat, 22-Feb-20 00:01:07 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:13 GMT
+Server: cloudflare
+CF-RAY: 55957dc57a2aad2a-OTP
+
+10
+error code: 1001
+"
+navalny.com,9,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:07 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da6f8b88b7aa0dd89e268c13a56650b9d1579737667; expires=Sat, 22-Feb-20 00:01:07 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:13 GMT
+Server: cloudflare
+CF-RAY: 55957dc5c8f1ad00-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,10,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df7112769dedb4206e9d3d59aa69549b01579737668; expires=Sat, 22-Feb-20 00:01:08 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:14 GMT
+Server: cloudflare
+CF-RAY: 55957dcc6b20ad06-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,11,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9a046cb760fa76d0cca1222d489448371579737668; expires=Sat, 22-Feb-20 00:01:08 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:14 GMT
+Server: cloudflare
+CF-RAY: 55957dce1e49acee-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,12,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d449124c957273a0e1b92406c5597e4ec1579737668; expires=Sat, 22-Feb-20 00:01:08 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:14 GMT
+Server: cloudflare
+CF-RAY: 55957dce69bbfcf9-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,13,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d74031bb6ddf4b1f89c124035c118bca71579737668; expires=Sat, 22-Feb-20 00:01:08 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:14 GMT
+Server: cloudflare
+CF-RAY: 55957dcead5f290c-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,14,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db262b24f5ffaf31d9ee87599a64c89ed1579737668; expires=Sat, 22-Feb-20 00:01:08 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:14 GMT
+Server: cloudflare
+CF-RAY: 55957dceed6face8-OTP
+
+10
+error code: 1001
+"
+navalny.com,15,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dffe23f51b75c55309a0c04e300424ac71579737668; expires=Sat, 22-Feb-20 00:01:08 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:14 GMT
+Server: cloudflare
+CF-RAY: 55957dcf2fd4acd6-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,16,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d4fd1c8e9c5a3285882ea6544748ae0aa1579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dcf6e7afd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,17,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d690684d3f75d44548cbeac2459143ac01579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dcfae7eacca-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,18,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d99aa4088a7f17696e9c9e4d077ab94111579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dcfeaa9ad24-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,19,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=daeee735b11821341f505a6b1604d46831579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd02c5dacac-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,20,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dd4909c1c8d05c2a254c362c6311993ba1579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd06de2aca6-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,21,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d81e18f0f9e4a87a1c305459754ecccb31579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd0ae10ace8-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,22,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0275e8be85f8ca5808bd0c96b78ee8741579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd0ecadfd11-OTP
+
+10
+error code: 1001
+"
+navalny.com,23,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=daeee735b11821341f505a6b1604d46831579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd12cc9acac-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,24,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d095169104a3039b0c00e2625d0a4466e1579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd16e85fd05-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,25,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d4f614ef8365ba64146247676ffbb7da81579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd1af68ad0c-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,26,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=ddfb6c5894bbc7201a407616a210ee65d1579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd1eddefcf9-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,27,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d05068de754638e79d0c0c594cd6d6e041579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd22dd8ad06-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,28,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d4f614ef8365ba64146247676ffbb7da81579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd26fc9ad0c-OTP
+
+10
+error code: 1001
+0
+
+"
+navalny.com,29,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:01:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dff642ea815b281438427da0224ef7f071579737669; expires=Sat, 22-Feb-20 00:01:09 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:01:15 GMT
+Server: cloudflare
+CF-RAY: 55957dd2ab302900-OTP
+
+10
+error code: 1001
+0
+
+"

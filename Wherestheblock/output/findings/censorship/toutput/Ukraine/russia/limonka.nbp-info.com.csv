@@ -1,0 +1,35 @@
+URL,TTL,Response_Message
+limonka.nbp-info.com,0,"traceroute to limonka.nbp-info.com (67.227.226.240), 50 hops max, 60 byte packets
+"
+limonka.nbp-info.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.325 ms  0.313 ms  0.306 ms
+"
+limonka.nbp-info.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.165 ms  1.222 ms  1.272 ms
+"
+limonka.nbp-info.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.370 ms  17.375 ms  17.334 ms
+"
+limonka.nbp-info.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.943 ms  22.981 ms  22.935 ms
+"
+limonka.nbp-info.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.170 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.923 ms  31.221 ms
+"
+limonka.nbp-info.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.919 ms  39.996 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  40.223 ms
+"
+limonka.nbp-info.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  136.030 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  141.033 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.949 ms
+"
+limonka.nbp-info.com,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  135.629 ms be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.979 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  135.471 ms
+"
+limonka.nbp-info.com,9," 9  be2890.ccr22.cle04.atlas.cogentco.com (154.54.82.245)  136.886 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.420 ms be2890.ccr22.cle04.atlas.cogentco.com (154.54.82.245)  136.787 ms
+"
+limonka.nbp-info.com,10,"10  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  139.791 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  135.623 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.408 ms
+"
+limonka.nbp-info.com,11,"11  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.390 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.210 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.923 ms
+"
+limonka.nbp-info.com,12,"12  be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  139.765 ms be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  140.263 ms  136.193 ms
+"
+limonka.nbp-info.com,13,"13  38.32.96.98 (38.32.96.98)  141.214 ms  136.501 ms  141.726 ms
+"
+limonka.nbp-info.com,14,"14  lw-dc3-core1-eth2-19.rtr.liquidweb.com (209.59.157.244)  144.334 ms  144.331 ms  148.909 ms
+"
+limonka.nbp-info.com,15,"15  lw-dc3-dist13-po6.rtr.liquidweb.com (69.167.128.77)  161.454 ms lw-dc3-dist14-po6.rtr.liquidweb.com (69.167.128.79)  143.130 ms lw-dc3-dist13-po6.rtr.liquidweb.com (69.167.128.77)  147.907 ms
+"
+limonka.nbp-info.com,16,"16  67.227.226.240 (67.227.226.240)  144.468 ms  145.916 ms  147.297 ms
+"

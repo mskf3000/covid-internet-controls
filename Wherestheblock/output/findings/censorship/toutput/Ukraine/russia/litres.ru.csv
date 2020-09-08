@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+litres.ru,0,"traceroute to litres.ru (193.26.19.221), 50 hops max, 60 byte packets
+"
+litres.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.748 ms  0.718 ms  0.708 ms
+"
+litres.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  19.825 ms  19.146 ms  20.235 ms
+"
+litres.ru,3," 3  109.239.134.86 (109.239.134.86)  17.957 ms  20.389 ms  19.248 ms
+"
+litres.ru,4," 4  91.227.35.115 (91.227.35.115)  17.973 ms 91.227.35.114 (91.227.35.114)  17.526 ms 91.227.35.115 (91.227.35.115)  17.448 ms
+"
+litres.ru,5," 5  bgp002.litres.ru (195.42.164.200)  22.135 ms bgp001.litres.ru (195.42.164.194)  19.748 ms bgp002.litres.ru (195.42.164.200)  20.077 ms
+"
+litres.ru,6," 6  www.litres.ru (193.26.19.221)  18.427 ms  18.582 ms  19.891 ms
+"

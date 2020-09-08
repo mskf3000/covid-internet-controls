@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+worldmeets.us,0,"traceroute to worldmeets.us (208.97.149.183), 30 hops max, 60 byte packets
+"
+worldmeets.us,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.300 ms  0.310 ms
+"
+worldmeets.us,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.024 ms  1.046 ms  1.085 ms
+"
+worldmeets.us,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.013 ms  17.251 ms  17.050 ms
+"
+worldmeets.us,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.570 ms  22.210 ms  22.548 ms
+"
+worldmeets.us,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.551 ms  30.548 ms  30.616 ms
+"
+worldmeets.us,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.631 ms  39.715 ms  39.701 ms
+"
+worldmeets.us,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.903 ms  114.887 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.473 ms
+"
+worldmeets.us,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.750 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.683 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.408 ms
+"
+worldmeets.us,9," 9  be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.873 ms be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  116.186 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.813 ms
+"
+worldmeets.us,10,"10  be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  121.744 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.568 ms be2676.ccr22.iad02.atlas.cogentco.com (154.54.47.166)  122.654 ms
+"
+worldmeets.us,11,"11  be3563.rcr51.b037327-0.iad02.atlas.cogentco.com (154.54.25.226)  124.348 ms  123.072 ms  122.040 ms
+"
+worldmeets.us,12,"12  38.122.62.254 (38.122.62.254)  121.596 ms  124.009 ms  123.962 ms
+"
+worldmeets.us,13,"13  ip-208-113-156-8.dreamhost.com (208.113.156.8)  126.482 ms  126.820 ms iad1-cr-2.sd.dreamhost.com (208.113.156.58)  125.151 ms
+"
+worldmeets.us,14,"14  ip-208-113-156-14.dreamhost.com (208.113.156.14)  127.918 ms iad1-cr-2.sd.dreamhost.com (208.113.156.58)  123.984 ms ip-208-113-156-8.dreamhost.com (208.113.156.8)  127.025 ms
+"
+worldmeets.us,15,"15  apache2-noxim.putnam.dreamhost.com (208.97.149.183)  127.836 ms ip-208-113-156-49.dreamhost.com (208.113.156.49)  125.908 ms apache2-noxim.putnam.dreamhost.com (208.97.149.183)  124.183 ms
+"

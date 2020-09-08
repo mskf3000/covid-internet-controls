@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+porjati.net,0,"traceroute to porjati.net (5.45.75.21), 30 hops max, 60 byte packets
+"
+porjati.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.299 ms  0.320 ms
+"
+porjati.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.875 ms  2.512 ms  1.024 ms
+"
+porjati.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.263 ms  17.217 ms  17.230 ms
+"
+porjati.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.391 ms  22.421 ms  22.169 ms
+"
+porjati.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.408 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.390 ms  31.396 ms
+"
+porjati.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  41.492 ms  41.117 ms  41.102 ms
+"
+porjati.net,7," 7  be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  41.070 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  40.018 ms be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  39.835 ms
+"
+porjati.net,8," 8  149.11.39.187 (149.11.39.187)  38.682 ms 149.11.39.189 (149.11.39.189)  39.977 ms *
+"
+porjati.net,9," 9  185.8.179.37 (185.8.179.37)  41.879 ms *  43.322 ms
+"
+porjati.net,10,"10  5.178.67.27 (5.178.67.27)  49.853 ms  49.463 ms  50.104 ms
+"
+porjati.net,11,"11  5.45.75.21 (5.45.75.21)  43.332 ms  38.937 ms  39.055 ms
+"

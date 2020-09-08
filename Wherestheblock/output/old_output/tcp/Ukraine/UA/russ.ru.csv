@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+russ.ru,0,"traceroute to russ.ru (91.218.113.184), 30 hops max, 60 byte packets
+"
+russ.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.289 ms  0.313 ms
+"
+russ.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  0.729 ms  0.726 ms  0.717 ms
+"
+russ.ru,3," 3  * * *
+"
+russ.ru,4," 4  hostkey.msk.cloud-ix.net (31.28.19.226)  17.624 ms hostkey2.msk.cloud-ix.net (31.28.19.227)  24.404 ms hostkey.msk.cloud-ix.net (31.28.19.226)  17.148 ms
+"
+russ.ru,5," 5  91.218.245.202 (91.218.245.202)  16.699 ms  17.197 ms  23.194 ms
+"
+russ.ru,6," 6  91.218.113.184 (91.218.113.184)  22.255 ms  21.986 ms  17.138 ms
+"

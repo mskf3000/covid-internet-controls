@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+sportmaster.ru,0,"traceroute to sportmaster.ru (62.76.79.245), 50 hops max, 60 byte packets
+"
+sportmaster.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.334 ms  4.333 ms  4.327 ms
+"
+sportmaster.ru,2," 2  * * *
+"
+sportmaster.ru,3," 3  178.18.225.227.ix.dataix.ru (178.18.225.227)  26.568 ms  29.062 ms  29.058 ms
+"
+sportmaster.ru,4," 4  palantir-north.inet.tz.ru (194.149.234.3)  26.047 ms  27.592 ms  26.938 ms
+"
+sportmaster.ru,5," 5  85.90.118.117 (85.90.118.117)  26.895 ms  26.506 ms  26.499 ms
+"
+sportmaster.ru,6," 6  m.sportmaster.ru (62.76.79.245)  26.966 ms  29.125 ms  30.652 ms
+"

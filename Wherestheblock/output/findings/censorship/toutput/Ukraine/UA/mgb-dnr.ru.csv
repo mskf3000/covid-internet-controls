@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mgb-dnr.ru,0,"traceroute to mgb-dnr.ru (87.226.218.132), 30 hops max, 60 byte packets
+"
+mgb-dnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.929 ms  1.914 ms  1.950 ms
+"
+mgb-dnr.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.543 ms  0.643 ms  0.563 ms
+"
+mgb-dnr.ru,3," 3  100.64.65.25 (100.64.65.25)  25.549 ms  8.294 ms  7.856 ms
+"
+mgb-dnr.ru,4," 4  100.64.64.141 (100.64.64.141)  30.023 ms  30.415 ms  30.002 ms
+"
+mgb-dnr.ru,5," 5  frkt-ar2.intl.ip.rostelecom.ru (80.81.194.31)  42.538 ms  42.633 ms  42.588 ms
+"
+mgb-dnr.ru,6," 6  213.59.212.235 (213.59.212.235)  42.169 ms  41.685 ms 188.254.25.77 (188.254.25.77)  40.842 ms
+"
+mgb-dnr.ru,7," 7  87.226.196.97 (87.226.196.97)  63.433 ms  73.994 ms  73.126 ms
+"
+mgb-dnr.ru,8," 8  87.226.218.132 (87.226.218.132)  83.110 ms  74.613 ms  90.099 ms
+"

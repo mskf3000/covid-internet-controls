@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+prison.org,0,"traceroute to prison.org (169.50.132.197), 50 hops max, 60 byte packets
+"
+prison.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.377 ms  0.436 ms  0.428 ms
+"
+prison.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.652 ms  0.642 ms  0.681 ms
+"
+prison.org,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.119 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  33.617 ms  33.648 ms
+"
+prison.org,4," 4  bbr01.xn01.fra01.networklayer.com (80.81.194.167)  30.259 ms  30.264 ms  30.508 ms
+"
+prison.org,5," 5  ae5.cbs02.xn01.fra01.networklayer.com (169.45.18.170)  32.426 ms  33.795 ms  32.636 ms
+"
+prison.org,6," 6  29.10.35a9.ip4.static.sl-reverse.com (169.53.16.41)  31.620 ms  33.050 ms  31.463 ms
+"
+prison.org,7," 7  30.10.35a9.ip4.static.sl-reverse.com (169.53.16.48)  36.205 ms  36.302 ms *
+"
+prison.org,8," 8  ae15.dar01.ams03.networklayer.com (169.45.18.21)  35.082 ms ae15.dar02.ams03.networklayer.com (169.45.18.23)  35.527 ms ae15.dar01.ams03.networklayer.com (169.45.18.21)  36.305 ms
+"
+prison.org,9," 9  po2.fcr01b.ams03.networklayer.com (159.8.198.137)  36.731 ms  36.851 ms po1.fcr01b.ams03.networklayer.com (159.8.198.135)  35.833 ms
+"
+prison.org,10,"10  c5.84.32a9.ip4.static.sl-reverse.com (169.50.132.197)  35.104 ms  35.304 ms  35.457 ms
+"

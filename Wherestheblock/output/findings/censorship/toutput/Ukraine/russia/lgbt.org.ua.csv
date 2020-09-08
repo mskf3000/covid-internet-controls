@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+lgbt.org.ua,0,"traceroute to lgbt.org.ua (104.20.163.8), 50 hops max, 60 byte packets
+"
+lgbt.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.995 ms  0.977 ms  1.013 ms
+"
+lgbt.org.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.917 ms  1.041 ms  0.877 ms
+"
+lgbt.org.ua,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.787 ms  17.461 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  18.662 ms
+"
+lgbt.org.ua,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  22.007 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.948 ms  16.776 ms
+"
+lgbt.org.ua,5," 5  104.20.163.8 (104.20.163.8)  19.887 ms cloudflare-peering.fiord.net (80.77.167.7)  17.020 ms 104.20.163.8 (104.20.163.8)  18.207 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+scripts.protoplex.ru,0,"traceroute to scripts.protoplex.ru (163.172.55.53), 30 hops max, 60 byte packets
+"
+scripts.protoplex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.033 ms  2.022 ms  2.017 ms
+"
+scripts.protoplex.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.647 ms  0.644 ms  0.656 ms
+"
+scripts.protoplex.ru,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.435 ms  32.439 ms  32.624 ms
+"
+scripts.protoplex.ru,4," 4  * * *
+"
+scripts.protoplex.ru,5," 5  195.154.2.105 (195.154.2.105)  48.302 ms 195.154.2.103 (195.154.2.103)  48.302 ms 195.154.2.105 (195.154.2.105)  48.290 ms
+"
+scripts.protoplex.ru,6," 6  ex45-s44-1-a9k2.dc3.poneytelecom.eu (195.154.1.121)  44.635 ms 49-s45-2-a9k2.dc3.poneytelecom.eu (195.154.1.117)  48.212 ms 195.154.1.249 (195.154.1.249)  44.583 ms
+"
+scripts.protoplex.ru,7," 7  supersnimki.ru (163.172.55.53)  44.399 ms  47.536 ms  48.296 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+netman.ru,0,"traceroute to netman.ru (89.108.121.117), 50 hops max, 60 byte packets
+"
+netman.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.300 ms  0.340 ms
+"
+netman.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.518 ms  0.509 ms  2.499 ms
+"
+netman.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.929 ms  15.885 ms  15.889 ms
+"
+netman.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.230 ms  16.394 ms  16.482 ms
+"
+netman.ru,5," 5  * * *
+"
+netman.ru,6," 6  172.16.62.1 (172.16.62.1)  16.505 ms  16.485 ms  16.775 ms
+"
+netman.ru,7," 7  unknown-8364.agava.net (89.108.121.117)  16.526 ms  16.524 ms  16.462 ms
+"

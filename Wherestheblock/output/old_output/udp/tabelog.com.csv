@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+tabelog.com,0,"traceroute to tabelog.com (202.239.30.129), 50 hops max, 60 byte packets
+"
+tabelog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.450 ms  0.470 ms  0.505 ms
+"
+tabelog.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.548 ms  0.570 ms  0.515 ms
+"
+tabelog.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.650 ms  28.645 ms  28.627 ms
+"
+tabelog.com,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  28.823 ms  28.812 ms  31.284 ms
+"
+tabelog.com,5," 5  ae18.franco32.fra.seabone.net (195.22.211.207)  26.384 ms ae17.franco32.fra.seabone.net (195.22.211.205)  31.691 ms ae18.franco32.fra.seabone.net (195.22.211.207)  26.753 ms
+"
+tabelog.com,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  34.366 ms  33.473 ms  33.243 ms
+"
+tabelog.com,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  33.231 ms  34.093 ms  39.339 ms
+"
+tabelog.com,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  117.232 ms * *
+"
+tabelog.com,9," 9  * * ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  180.721 ms
+"
+tabelog.com,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  302.979 ms  302.908 ms  289.975 ms
+"
+tabelog.com,11,"11  ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  292.903 ms  298.096 ms ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  286.903 ms
+"
+tabelog.com,12,"12  ae-0.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.183)  283.605 ms ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  290.721 ms ae-0.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.183)  287.340 ms
+"
+tabelog.com,13,"13  xe-0-0-17-1.a01.tokyjp05.jp.ce.gin.ntt.net (61.213.161.6)  249.887 ms xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  251.215 ms  244.131 ms
+"
+tabelog.com,14,"14  158.205.92.242 (158.205.92.242)  243.228 ms 158.205.92.246 (158.205.92.246)  242.926 ms 158.205.92.242 (158.205.92.242)  240.473 ms
+"
+tabelog.com,15,"15  * * *
+"
+tabelog.com,16,"16  * * *
+"
+tabelog.com,17,"17  * * *
+"
+tabelog.com,18,"18  * * *
+"
+tabelog.com,19,"19  * * *
+"
+tabelog.com,20,"20  * * *
+"
+tabelog.com,21,"21  * * *
+"
+tabelog.com,22,"22  * * *
+"
+tabelog.com,23,"23  * * *
+"
+tabelog.com,24,"24  * * *
+"
+tabelog.com,25,"25  * * *
+"
+tabelog.com,26,"26  * * *
+"
+tabelog.com,27,"27  * * *
+"
+tabelog.com,28,"28  * * *
+"
+tabelog.com,29,"29  * * *
+"
+tabelog.com,30,"30  * * *
+"
+tabelog.com,31,"31  * * *
+"
+tabelog.com,32,"32  * * *
+"
+tabelog.com,33,"33  * * *
+"
+tabelog.com,34,"34  * * *
+"
+tabelog.com,35,"35  * * *
+"
+tabelog.com,36,"36  * * *
+"
+tabelog.com,37,"37  * * *
+"
+tabelog.com,38,"38  * * *
+"
+tabelog.com,39,"39  * * *
+"
+tabelog.com,40,"40  * * *
+"
+tabelog.com,41,"41  * * *
+"
+tabelog.com,42,"42  * * *
+"
+tabelog.com,43,"43  * * *
+"
+tabelog.com,44,"44  * * *
+"
+tabelog.com,45,"45  * * *
+"
+tabelog.com,46,"46  * * *
+"
+tabelog.com,47,"47  * * *
+"
+tabelog.com,48,"48  * * *
+"
+tabelog.com,49,"49  * * *
+"
+tabelog.com,50,"50  * * *
+"

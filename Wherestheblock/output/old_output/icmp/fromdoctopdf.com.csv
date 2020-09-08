@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+fromdoctopdf.com,0,"traceroute to fromdoctopdf.com (35.244.218.203), 30 hops max, 60 byte packets
+"
+fromdoctopdf.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.720 ms  7.717 ms  7.737 ms
+"
+fromdoctopdf.com,2," 2  google-ix.giganet.ua (185.1.62.69)  0.597 ms  0.593 ms  0.669 ms
+"
+fromdoctopdf.com,3," 3  108.170.248.131 (108.170.248.131)  0.870 ms  0.869 ms  0.905 ms
+"
+fromdoctopdf.com,4," 4  209.85.248.105 (209.85.248.105)  14.990 ms  15.074 ms  15.121 ms
+"
+fromdoctopdf.com,5," 5  209.85.251.188 (209.85.251.188)  14.426 ms  15.332 ms  14.667 ms
+"
+fromdoctopdf.com,6," 6  108.170.250.209 (108.170.250.209)  15.542 ms  15.548 ms  15.535 ms
+"
+fromdoctopdf.com,7," 7  216.239.41.167 (216.239.41.167)  14.244 ms  14.206 ms  14.201 ms
+"
+fromdoctopdf.com,8," 8  203.218.244.35.bc.googleusercontent.com (35.244.218.203)  13.708 ms  13.699 ms  13.693 ms
+"

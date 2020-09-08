@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+spr.ru,0,"traceroute to spr.ru (89.208.163.2), 50 hops max, 60 byte packets
+"
+spr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.334 ms  0.327 ms
+"
+spr.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.849 ms  16.086 ms  16.836 ms
+"
+spr.ru,3," 3  as12695.ix.dataix.ru (178.18.226.50)  16.831 ms  16.552 ms  16.547 ms
+"
+spr.ru,4," 4  po6.sr4.msk6.ip.di-net.ru (213.248.3.248)  19.886 ms  20.688 ms  20.684 ms
+"
+spr.ru,5," 5  * * *
+"
+spr.ru,6," 6  * * *
+"
+spr.ru,7," 7  spr.ru (89.208.163.2)  18.034 ms  20.598 ms  17.250 ms
+"

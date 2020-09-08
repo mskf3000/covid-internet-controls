@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+maximonline.ru,0,"traceroute to maximonline.ru (195.226.222.240), 50 hops max, 60 byte packets
+"
+maximonline.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.368 ms  0.355 ms  0.369 ms
+"
+maximonline.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.092 ms  16.799 ms  16.792 ms
+"
+maximonline.ru,3," 3  * * *
+"
+maximonline.ru,4," 4  10.0.92.145 (10.0.92.145)  17.326 ms  17.337 ms  17.468 ms
+"
+maximonline.ru,5," 5  185.129.102.205 (185.129.102.205)  44.273 ms  44.800 ms  46.947 ms
+"
+maximonline.ru,6," 6  host254.dc-ekat.w.rugion.ru (195.226.222.254)  44.796 ms  48.901 ms  49.015 ms
+"
+maximonline.ru,7," 7  * * *
+"
+maximonline.ru,8," 8  host240.dc-ekat.w.rugion.ru (195.226.222.240)  44.851 ms  45.968 ms  45.121 ms
+"

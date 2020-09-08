@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+kavkaznews.com,0,"traceroute to kavkaznews.com (91.237.66.110), 30 hops max, 60 byte packets
+"
+kavkaznews.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.410 ms  0.403 ms  0.445 ms
+"
+kavkaznews.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.574 ms  0.562 ms  0.607 ms
+"
+kavkaznews.com,3," 3  ae1-1.RT.TC1.STO.SE.retn.net (87.245.232.51)  29.024 ms  29.027 ms  29.019 ms
+"
+kavkaznews.com,4," 4  netnod-ix-ge-a-sth-1500.portlane.net (194.68.123.194)  41.502 ms netnod-ix-ge-b-sth-1500.portlane.net (194.68.128.194)  44.341 ms  43.988 ms
+"
+kavkaznews.com,5," 5  be-3.cr2.sto2.se.portlane.net (80.67.4.143)  42.760 ms be-1.cr2.sto1.se.portlane.net (80.67.4.227)  40.864 ms be-3.cr2.sto2.se.portlane.net (80.67.4.143)  43.031 ms
+"
+kavkaznews.com,6," 6  be-1.pe3.sto1.se.portlane.net (80.67.4.137)  41.330 ms  40.918 ms be-2.pe3.sto1.se.portlane.net (80.67.4.133)  41.206 ms
+"
+kavkaznews.com,7," 7  te-0-0-0-0.vbdc-cr4.glesys.net (80.67.0.132)  42.521 ms  42.498 ms  42.298 ms
+"
+kavkaznews.com,8," 8  te-0-1-0-0.fbg-cr2.glesys.net (46.21.96.129)  43.063 ms  43.335 ms  43.279 ms
+"
+kavkaznews.com,9," 9  te-2-1.fbg-pe2.glesys.net (193.108.196.89)  42.525 ms  42.240 ms  42.212 ms
+"
+kavkaznews.com,10,"10  et-1-47.fbg-ar1.glesys.net (185.39.145.162)  43.172 ms  43.126 ms  43.151 ms
+"
+kavkaznews.com,11,"11  91.237.66.110 (91.237.66.110)  42.511 ms  42.091 ms  42.312 ms
+"

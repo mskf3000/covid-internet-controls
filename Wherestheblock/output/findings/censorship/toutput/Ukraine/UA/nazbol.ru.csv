@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+nazbol.ru,0,"traceroute to nazbol.ru (89.223.24.91), 30 hops max, 60 byte packets
+"
+nazbol.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.758 ms  0.743 ms  0.763 ms
+"
+nazbol.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.100 ms  16.421 ms  16.102 ms
+"
+nazbol.ru,3," 3  as199599.ix.dataix.ru (178.18.224.113)  16.984 ms  16.975 ms  19.294 ms
+"
+nazbol.ru,4," 4  85-143-203-139.customer.comfortel.pro (85.143.203.139)  17.488 ms  18.142 ms  19.726 ms
+"
+nazbol.ru,5," 5  85-143-253-218.customer.comfortel.pro (85.143.253.218)  17.866 ms  18.648 ms  18.589 ms
+"
+nazbol.ru,6," 6  * * *
+"
+nazbol.ru,7," 7  214047.simplecloud.ru (89.223.24.91)  17.315 ms  20.345 ms  17.904 ms
+"

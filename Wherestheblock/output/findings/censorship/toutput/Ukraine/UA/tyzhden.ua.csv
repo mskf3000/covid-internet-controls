@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+tyzhden.ua,0,"traceroute to tyzhden.ua (62.149.21.50), 30 hops max, 60 byte packets
+"
+tyzhden.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.853 ms  0.871 ms  0.898 ms
+"
+tyzhden.ua,2," 2  colocall2-ix.giganet.ua (185.1.62.177)  0.712 ms  0.712 ms  0.702 ms
+"
+tyzhden.ua,3," 3  62.149.21.50 (62.149.21.50)  0.994 ms  1.082 ms  1.027 ms
+"
+tyzhden.ua,4," 4  62.149.21.50 (62.149.21.50)  1.390 ms  1.503 ms  1.485 ms
+"

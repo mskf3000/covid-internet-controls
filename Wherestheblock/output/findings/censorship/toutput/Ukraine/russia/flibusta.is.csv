@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+flibusta.is,0,"traceroute to flibusta.is (81.17.19.227), 50 hops max, 60 byte packets
+"
+flibusta.is,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  8.682 ms  8.657 ms  8.631 ms
+"
+flibusta.is,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  8.583 ms  8.555 ms  8.564 ms
+"
+flibusta.is,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.162 ms  37.056 ms  34.520 ms
+"
+flibusta.is,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  39.091 ms  39.089 ms  36.518 ms
+"
+flibusta.is,5," 5  et-0-0-13.cr5-mil3.ip4.gtt.net (213.254.230.178)  53.252 ms  53.311 ms  53.229 ms
+"
+flibusta.is,6," 6  ip4.gtt.net (87.119.95.34)  49.128 ms  40.765 ms  40.745 ms
+"
+flibusta.is,7," 7  31.44.43.70 (31.44.43.70)  38.423 ms  40.738 ms  38.402 ms
+"
+flibusta.is,8," 8  46.19.136.225 (46.19.136.225)  41.015 ms  40.645 ms  38.124 ms
+"
+flibusta.is,9," 9  46.19.136.166 (46.19.136.166)  37.939 ms  40.845 ms  41.126 ms
+"
+flibusta.is,10,"10  81.17.19.227 (81.17.19.227)  40.421 ms  42.536 ms  40.177 ms
+"

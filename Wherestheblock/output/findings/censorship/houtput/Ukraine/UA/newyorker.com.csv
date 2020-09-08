@@ -1,0 +1,430 @@
+URL,TTL,Message
+newyorker.com,1,timed out
+newyorker.com,2,timed out
+newyorker.com,3,timed out
+newyorker.com,4,timed out
+newyorker.com,5,timed out
+newyorker.com,6,timed out
+newyorker.com,7,timed out
+newyorker.com,8,timed out
+newyorker.com,9,timed out
+newyorker.com,10,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6823-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:29 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6823-HEL</p></body></html>"
+newyorker.com,11,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6824-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:29 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6824-HEL</p></body></html>"
+newyorker.com,12,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6820-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:29 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6820-HEL</p></body></html>"
+newyorker.com,13,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6827-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:29 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6827-HEL</p></body></html>"
+newyorker.com,14,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6822-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:29 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6822-HEL</p></body></html>"
+newyorker.com,15,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6825-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6825-HEL</p></body></html>"
+newyorker.com,16,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6821-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6821-HEL</p></body></html>"
+newyorker.com,17,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6826-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6826-HEL</p></body></html>"
+newyorker.com,18,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6823-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6823-HEL</p></body></html>"
+newyorker.com,19,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6824-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6824-HEL</p></body></html>"
+newyorker.com,20,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6820-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6820-HEL</p></body></html>"
+newyorker.com,21,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6827-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6827-HEL</p></body></html>"
+newyorker.com,22,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6822-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6822-HEL</p></body></html>"
+newyorker.com,23,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6825-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6825-HEL</p></body></html>"
+newyorker.com,24,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6821-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6821-HEL</p></body></html>"
+newyorker.com,25,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6826-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:30 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6826-HEL</p></body></html>"
+newyorker.com,26,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6827-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:31 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6827-HEL</p></body></html>"
+newyorker.com,27,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6820-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:31 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6820-HEL</p></body></html>"
+newyorker.com,28,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6824-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:31 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6824-HEL</p></body></html>"
+newyorker.com,29,"HTTP/1.1 500 Domain Not Found
+Server: Varnish
+Retry-After: 0
+content-type: text/html
+Cache-Control: private, no-cache
+connection: keep-alive
+X-Served-By: cache-hel6823-HEL
+Content-Length: 246
+Accept-Ranges: bytes
+Date: Thu, 23 Jan 2020 10:33:31 GMT
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+<html>
+<head>
+<title>Fastly error: unknown domain ojaloberoi.in</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: ojaloberoi.in. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel6823-HEL</p></body></html>"

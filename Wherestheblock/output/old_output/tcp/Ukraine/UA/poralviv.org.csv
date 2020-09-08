@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+poralviv.org,0,"traceroute to poralviv.org (193.106.248.74), 30 hops max, 60 byte packets
+"
+poralviv.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.259 ms  0.248 ms
+"
+poralviv.org,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.634 ms  0.627 ms  0.524 ms
+"
+poralviv.org,3," 3  telepark-gw.fiord.net.ua (80.77.167.218)  0.470 ms  0.462 ms  0.450 ms
+"
+poralviv.org,4," 4  k21.um.la (193.106.248.74)  0.927 ms  1.100 ms  0.919 ms
+"

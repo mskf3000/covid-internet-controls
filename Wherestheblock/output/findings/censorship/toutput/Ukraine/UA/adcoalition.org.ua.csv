@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+adcoalition.org.ua,0,"traceroute to adcoalition.org.ua (195.128.226.68), 30 hops max, 60 byte packets
+"
+adcoalition.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.281 ms  0.295 ms
+"
+adcoalition.org.ua,2," 2  fiberax-ix.giganet.ua (185.1.62.165)  13.778 ms  13.844 ms  13.829 ms
+"
+adcoalition.org.ua,3," 3  srv.adcoalition.org.ua (195.128.226.68)  13.773 ms  13.728 ms  13.796 ms
+"

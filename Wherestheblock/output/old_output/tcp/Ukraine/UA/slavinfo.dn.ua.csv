@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+slavinfo.dn.ua,0,"traceroute to slavinfo.dn.ua (78.109.29.56), 30 hops max, 60 byte packets
+"
+slavinfo.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.700 ms  3.707 ms  3.739 ms
+"
+slavinfo.dn.ua,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  4.881 ms  4.874 ms  4.901 ms
+"
+slavinfo.dn.ua,3," 3  ae0-7.RT.HST.ODS.UA.retn.net (87.245.232.165)  8.832 ms  8.834 ms  8.824 ms
+"
+slavinfo.dn.ua,4," 4  GW-HostingUA.retn.net (87.245.247.58)  8.934 ms  8.954 ms  9.089 ms
+"
+slavinfo.dn.ua,5," 5  56.29.109.78.hosting.ua (78.109.29.56)  11.230 ms  11.164 ms  8.851 ms
+"

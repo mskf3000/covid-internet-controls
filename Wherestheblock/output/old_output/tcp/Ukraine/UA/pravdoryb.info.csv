@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+pravdoryb.info,0,"traceroute to pravdoryb.info (95.142.44.8), 30 hops max, 60 byte packets
+"
+pravdoryb.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.661 ms  0.661 ms  0.647 ms
+"
+pravdoryb.info,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.782 ms  18.763 ms  18.765 ms
+"
+pravdoryb.info,3," 3  85.112.127.62 (85.112.127.62)  19.215 ms  19.951 ms  20.027 ms
+"
+pravdoryb.info,4," 4  85.112.127.102 (85.112.127.102)  19.365 ms  19.406 ms  19.445 ms
+"
+pravdoryb.info,5," 5  dhub.ihome.ru (85.112.112.129)  19.387 ms  19.274 ms  19.182 ms
+"
+pravdoryb.info,6," 6  185.130.248.18 (185.130.248.18)  20.016 ms  19.372 ms  19.390 ms
+"
+pravdoryb.info,7," 7  185.130.250.30 (185.130.250.30)  19.726 ms  19.865 ms  19.797 ms
+"
+pravdoryb.info,8," 8  * * *
+"
+pravdoryb.info,9," 9  eurobyte279.hosted-by.eb (95.142.44.8)  19.125 ms  21.300 ms  19.114 ms
+"

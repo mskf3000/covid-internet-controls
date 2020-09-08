@@ -1,0 +1,403 @@
+URL,TTL,Message
+glavcom.ua,1,timed out
+glavcom.ua,2,timed out
+glavcom.ua,3,timed out
+glavcom.ua,4,timed out
+glavcom.ua,5,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de1fab152f3b4c7a05290b64949afee481579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fbb935293c-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,6,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d76739469c7d713531edb291dc60fe8541579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fbf941acac-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,7,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d54ac1da5ecbaa8368d141a02bddb750d1579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fc3884aca0-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,8,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d63fbc9ca4eecbe45bc4777100092b0341579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fc7e2bacbe-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,9,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d87be9f2ec2a78199239a2cd2f64547c81579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fcbe42fd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,10,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de1fab152f3b4c7a05290b64949afee481579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fcf963293c-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,11,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da7a61f4f6647d145496b4ec0163e639d1579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fd3817ad4e-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,12,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d87be9f2ec2a78199239a2cd2f64547c81579738085; expires=Sat, 22-Feb-20 00:08:05 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:11 GMT
+Server: cloudflare
+CF-RAY: 559587fd7f0afd0d-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,13,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d888e70a047076d52e65328334ebe745b1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587fdbff52936-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,14,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d7b9ea5b5ae07a1dee72971c249ce0f981579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587fdf817ad30-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,15,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dddd4d0b65bbc548efcf4b6dd944d277b1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587fe3c18fd15-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,16,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dddd4d0b65bbc548efcf4b6dd944d277b1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587feac82fd15-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,17,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0505a3890dd0215c135f3110e26424f81579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587fef87afd0d-OTP
+
+10
+error code: 1001
+"
+glavcom.ua,18,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d48a98764ef89b974b334b931bfe45a531579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587ff2dfcacee-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,19,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=df2f1c0c00132819c8b0c333891ef6e9f1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587ff7c37ad12-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,20,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d48a98764ef89b974b334b931bfe45a531579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587ffbe3dacee-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,21,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d60f0cfd0f0eb78567e049a586dfc63c71579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559587fff96aad0c-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,22,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9ebf2eb178f163499dec7911af82fbdd1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559588003b73ad18-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,23,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=de8132e8394beba8ce2ece4c95f7a5a981579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 55958800886728fa-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,24,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d69d33aa22fb07cce656cd21290ce3dc61579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 55958800cad0fd09-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,25,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d47f453d14e3ac98369c9b27075da9b571579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559588010c88ace8-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,26,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db694af907b70fcd005eed8c7ed367fac1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559588014db7ace2-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,27,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d7b004683c73a1b4c6d5e4b901af311191579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 55958801891cad06-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,28,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d7b004683c73a1b4c6d5e4b901af311191579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 55958801d942ad06-OTP
+
+10
+error code: 1001
+0
+
+"
+glavcom.ua,29,"HTTP/1.1 409 Conflict
+Date: Thu, 23 Jan 2020 00:08:06 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d23f2c452c906466dfb907019ebdb703d1579738086; expires=Sat, 22-Feb-20 00:08:06 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Thu, 23 Jan 2020 00:08:12 GMT
+Server: cloudflare
+CF-RAY: 559588021f952900-OTP
+
+10
+error code: 1001
+0
+
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+blogs.voanews.com,0,"traceroute to blogs.voanews.com (104.96.149.158), 30 hops max, 60 byte packets
+"
+blogs.voanews.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.316 ms  0.296 ms  0.287 ms
+"
+blogs.voanews.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.583 ms  0.577 ms  0.569 ms
+"
+blogs.voanews.com,3," 3  100.64.65.25 (100.64.65.25)  8.271 ms  8.258 ms  8.259 ms
+"
+blogs.voanews.com,4," 4  100.64.65.85 (100.64.65.85)  25.411 ms  25.409 ms  25.402 ms
+"
+blogs.voanews.com,5," 5  * * *
+"
+blogs.voanews.com,6," 6  a104-96-149-158.deploy.static.akamaitechnologies.com (104.96.149.158)  18.912 ms  19.247 ms  19.773 ms
+"

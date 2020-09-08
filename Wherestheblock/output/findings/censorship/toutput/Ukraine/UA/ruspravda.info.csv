@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+ruspravda.info,0,"traceroute to ruspravda.info (95.142.44.8), 30 hops max, 60 byte packets
+"
+ruspravda.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.368 ms  0.336 ms  0.379 ms
+"
+ruspravda.info,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.921 ms  19.469 ms  18.954 ms
+"
+ruspravda.info,3," 3  85.112.127.62 (85.112.127.62)  20.446 ms  20.494 ms  20.530 ms
+"
+ruspravda.info,4," 4  85.112.127.102 (85.112.127.102)  19.371 ms  19.364 ms  19.401 ms
+"
+ruspravda.info,5," 5  dhub.ihome.ru (85.112.112.129)  19.245 ms  19.378 ms  19.430 ms
+"
+ruspravda.info,6," 6  185.130.248.18 (185.130.248.18)  18.790 ms  18.808 ms  18.744 ms
+"
+ruspravda.info,7," 7  185.130.250.30 (185.130.250.30)  19.860 ms  19.932 ms  19.935 ms
+"
+ruspravda.info,8," 8  * * *
+"
+ruspravda.info,9," 9  eurobyte279.hosted-by.eb (95.142.44.8)  17.934 ms  21.208 ms  18.475 ms
+"

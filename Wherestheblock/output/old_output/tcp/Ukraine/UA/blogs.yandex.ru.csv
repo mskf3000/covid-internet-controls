@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+blogs.yandex.ru,0,"traceroute to blogs.yandex.ru (213.180.204.242), 30 hops max, 60 byte packets
+"
+blogs.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.390 ms  0.261 ms  0.290 ms
+"
+blogs.yandex.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.935 ms  0.973 ms  1.046 ms
+"
+blogs.yandex.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.208 ms  17.212 ms  17.224 ms
+"
+blogs.yandex.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.283 ms  22.314 ms  22.358 ms
+"
+blogs.yandex.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.471 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.464 ms  30.453 ms
+"
+blogs.yandex.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.327 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.144 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.339 ms
+"
+blogs.yandex.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.184 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  56.089 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  52.689 ms
+"
+blogs.yandex.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  56.484 ms  56.265 ms  52.719 ms
+"
+blogs.yandex.ru,9," 9  149.11.124.74 (149.11.124.74)  56.088 ms  56.131 ms  52.681 ms
+"
+blogs.yandex.ru,10,"10  any.yandex.ru (213.180.204.242)  45.373 ms  46.112 ms  47.490 ms
+"

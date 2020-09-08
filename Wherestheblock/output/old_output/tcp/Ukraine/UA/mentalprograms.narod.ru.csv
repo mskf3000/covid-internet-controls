@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+mentalprograms.narod.ru,0,"traceroute to mentalprograms.narod.ru (193.109.247.10), 30 hops max, 60 byte packets
+"
+mentalprograms.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.364 ms  0.353 ms  0.372 ms
+"
+mentalprograms.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.603 ms  0.639 ms  1.490 ms
+"
+mentalprograms.narod.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.216 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.211 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.203 ms
+"
+mentalprograms.narod.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  19.085 ms * *
+"
+mentalprograms.narod.ru,5," 5  * 10.0.9.61 (10.0.9.61)  17.209 ms 10.0.9.185 (10.0.9.185)  25.836 ms
+"
+mentalprograms.narod.ru,6," 6  10.0.9.185 (10.0.9.185)  17.987 ms  17.698 ms ddos-guard.net (185.129.101.142)  18.203 ms
+"
+mentalprograms.narod.ru,7," 7  ddos-guard.net (185.129.103.17)  17.348 ms  17.888 ms ddos-guard.net (185.129.101.142)  16.447 ms
+"
+mentalprograms.narod.ru,8," 8  * ddos-guard.net (185.129.103.17)  16.288 ms *
+"
+mentalprograms.narod.ru,9," 9  dev.ucoz.net (193.109.247.10)  17.484 ms *  19.414 ms
+"

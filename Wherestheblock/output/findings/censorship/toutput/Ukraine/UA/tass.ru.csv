@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+tass.ru,0,"traceroute to tass.ru (82.202.190.72), 30 hops max, 60 byte packets
+"
+tass.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.166 ms  4.189 ms  4.225 ms
+"
+tass.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.055 ms  0.963 ms  1.039 ms
+"
+tass.ru,3," 3  10.11.12.17 (10.11.12.17)  1.601 ms  1.593 ms  1.610 ms
+"
+tass.ru,4," 4  * * *
+"
+tass.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  9.692 ms  0.855 ms  9.672 ms
+"
+tass.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.493 ms  19.558 ms  19.545 ms
+"
+tass.ru,7," 7  GW-Indrik.retn.net (87.245.253.219)  18.597 ms  18.628 ms  18.540 ms
+"
+tass.ru,8," 8  * * *
+"
+tass.ru,9," 9  * * *
+"
+tass.ru,10,"10  * * 82.202.190.72 (82.202.190.72)  18.379 ms
+"

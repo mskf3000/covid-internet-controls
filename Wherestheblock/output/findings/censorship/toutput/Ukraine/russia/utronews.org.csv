@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+utronews.org,0,"traceroute to utronews.org (162.255.119.117), 50 hops max, 60 byte packets
+"
+utronews.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.357 ms  0.336 ms  0.360 ms
+"
+utronews.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.934 ms  2.289 ms  2.274 ms
+"
+utronews.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.548 ms  17.312 ms  17.591 ms
+"
+utronews.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.170 ms  18.396 ms  18.201 ms
+"
+utronews.org,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.927 ms  18.720 ms  18.965 ms
+"
+utronews.org,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  178.512 ms  178.571 ms  178.544 ms
+"
+utronews.org,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.662 ms  29.636 ms  29.670 ms
+"
+utronews.org,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  117.940 ms  134.717 ms  134.181 ms
+"
+utronews.org,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  183.871 ms  183.793 ms  182.985 ms
+"
+utronews.org,10,"10  ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  181.601 ms  183.333 ms  183.298 ms
+"
+utronews.org,11,"11  192.80.17.102 (192.80.17.102)  181.082 ms  182.885 ms  181.067 ms
+"
+utronews.org,12,"12  172.20.0.198 (172.20.0.198)  181.943 ms  179.502 ms  181.764 ms
+"
+utronews.org,13,"13  * * *
+"
+utronews.org,14,"14  172.22.0.20 (172.22.0.20)  185.816 ms  185.824 ms  181.358 ms
+"
+utronews.org,15,"15  162.255.119.117 (162.255.119.117)  178.784 ms  183.884 ms  182.228 ms
+"

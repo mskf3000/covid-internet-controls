@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ru.wikisource.org,0,"traceroute to ru.wikisource.org (91.198.174.192), 30 hops max, 60 byte packets
+"
+ru.wikisource.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.294 ms  0.319 ms
+"
+ru.wikisource.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.751 ms  0.761 ms  0.802 ms
+"
+ru.wikisource.org,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.532 ms  32.534 ms  32.527 ms
+"
+ru.wikisource.org,4," 4  ae2.cr2-esams.wikimedia.org (80.249.209.176)  33.662 ms  33.645 ms  33.716 ms
+"
+ru.wikisource.org,5," 5  text-lb.esams.wikimedia.org (91.198.174.192)  33.283 ms  32.921 ms  32.862 ms
+"

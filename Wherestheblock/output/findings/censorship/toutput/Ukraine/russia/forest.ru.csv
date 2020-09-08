@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+forest.ru,0,"traceroute to forest.ru (144.76.75.231), 50 hops max, 60 byte packets
+"
+forest.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.281 ms  0.266 ms
+"
+forest.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.568 ms  0.571 ms  0.593 ms
+"
+forest.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.126 ms  28.717 ms  26.160 ms
+"
+forest.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.407 ms  29.171 ms  31.353 ms
+"
+forest.ru,5," 5  core4.fra.hetzner.com (213.239.245.85)  29.321 ms  31.652 ms  29.314 ms
+"
+forest.ru,6," 6  core24.fsn1.hetzner.com (213.239.252.42)  33.524 ms core24.fsn1.hetzner.com (213.239.224.253)  36.220 ms core24.fsn1.hetzner.com (213.239.252.42)  33.533 ms
+"
+forest.ru,7," 7  ex9k2.dc10.fsn1.hetzner.com (213.239.229.58)  33.020 ms ex9k2.dc10.fsn1.hetzner.com (213.239.229.62)  37.652 ms  40.057 ms
+"
+forest.ru,8," 8  igorz.ru (144.76.75.231)  39.346 ms  37.659 ms  39.857 ms
+"

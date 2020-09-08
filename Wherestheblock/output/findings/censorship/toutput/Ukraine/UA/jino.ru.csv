@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+jino.ru,0,"traceroute to jino.ru (81.177.135.100), 30 hops max, 60 byte packets
+"
+jino.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.284 ms  0.270 ms  0.256 ms
+"
+jino.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.022 ms  0.976 ms  1.073 ms
+"
+jino.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.273 ms  16.971 ms  16.909 ms
+"
+jino.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  29.985 ms  30.019 ms  29.972 ms
+"
+jino.ru,5," 5  et-0-0-17.cr2-fra6.ip4.gtt.net (89.149.180.74)  33.300 ms  33.295 ms  33.339 ms
+"
+jino.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  42.880 ms  43.364 ms  43.364 ms
+"
+jino.ru,7," 7  213.59.212.113 (213.59.212.113)  43.634 ms 213.59.212.115 (213.59.212.115)  42.759 ms  42.469 ms
+"
+jino.ru,8," 8  msk-bgw1-xe-2-0-0-0.rt-comm.ru (195.161.4.137)  44.949 ms 213.24.114.170 (213.24.114.170)  61.716 ms  45.025 ms
+"
+jino.ru,9," 9  msk-bgw1-xe-1-3-0-0.rt-comm.ru (217.106.0.14)  48.438 ms 81.177.135.100 (81.177.135.100)  47.283 ms msk-bgw1-xe-1-3-0-0.rt-comm.ru (217.106.0.14)  59.161 ms
+"

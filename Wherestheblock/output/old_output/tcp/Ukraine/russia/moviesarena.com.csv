@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+moviesarena.com,0,"traceroute to moviesarena.com (31.192.122.246), 50 hops max, 60 byte packets
+"
+moviesarena.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.295 ms  0.331 ms
+"
+moviesarena.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.562 ms * *
+"
+moviesarena.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.759 ms  28.739 ms  28.740 ms
+"
+moviesarena.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.297 ms  26.302 ms  26.298 ms
+"
+moviesarena.com,5," 5  ffm-bb2-link.telia.net (62.115.121.6)  46.806 ms ffm-bb3-link.telia.net (62.115.141.238)  43.001 ms ffm-bb2-link.telia.net (62.115.116.159)  43.191 ms
+"
+moviesarena.com,6," 6  hbg-bb4-link.telia.net (62.115.138.173)  48.123 ms  48.415 ms hbg-bb3-link.telia.net (62.115.123.77)  44.340 ms
+"
+moviesarena.com,7," 7  adm-bb3-link.telia.net (213.155.136.160)  44.309 ms adm-bb4-link.telia.net (80.91.246.200)  42.841 ms  42.545 ms
+"
+moviesarena.com,8," 8  adm-b2-link.telia.net (62.115.141.67)  42.062 ms adm-b2-link.telia.net (62.115.115.99)  42.106 ms adm-b2-link.telia.net (62.115.118.147)  46.891 ms
+"
+moviesarena.com,9," 9  reflected-ic-336169-adm-b2.c.telia.net (213.248.77.87)  41.450 ms reflected-ic-336168-adm-b2.c.telia.net (80.239.132.153)  42.090 ms reflected-ic-336169-adm-b2.c.telia.net (213.248.77.87)  47.728 ms
+"
+moviesarena.com,10,"10  vlan4002.dr2.ams2.reflected.net (104.152.112.219)  41.259 ms  42.090 ms  40.854 ms
+"
+moviesarena.com,11,"11  10.30.45.250 (10.30.45.250)  42.517 ms  42.522 ms 10.30.45.254 (10.30.45.254)  43.691 ms
+"
+moviesarena.com,12,"12  10.30.202.54 (10.30.202.54)  41.086 ms 10.30.202.58 (10.30.202.58)  40.965 ms 10.30.202.54 (10.30.202.54)  43.394 ms
+"
+moviesarena.com,13,"13  31.192.122.246 (31.192.122.246)  41.858 ms  39.298 ms  40.492 ms
+"

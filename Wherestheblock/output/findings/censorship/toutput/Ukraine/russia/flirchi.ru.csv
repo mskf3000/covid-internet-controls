@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+flirchi.ru,0,"traceroute to flirchi.ru (81.177.6.8), 50 hops max, 60 byte packets
+"
+flirchi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.332 ms  0.361 ms
+"
+flirchi.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.917 ms  0.984 ms  1.061 ms
+"
+flirchi.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.058 ms  17.054 ms  17.082 ms
+"
+flirchi.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  29.973 ms  30.056 ms  29.949 ms
+"
+flirchi.ru,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  29.750 ms  29.811 ms  29.801 ms
+"
+flirchi.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  55.895 ms  55.775 ms  55.755 ms
+"
+flirchi.ru,7," 7  213.59.212.217 (213.59.212.217)  45.092 ms 213.59.211.63 (213.59.211.63)  44.404 ms 213.59.212.235 (213.59.212.235)  40.079 ms
+"
+flirchi.ru,8," 8  188.254.22.222 (188.254.22.222)  41.182 ms  41.234 ms *
+"
+flirchi.ru,9," 9  srv170-h-st.jino.ru (81.177.6.8)  47.870 ms 213.24.114.170 (213.24.114.170)  43.165 ms  43.155 ms
+"

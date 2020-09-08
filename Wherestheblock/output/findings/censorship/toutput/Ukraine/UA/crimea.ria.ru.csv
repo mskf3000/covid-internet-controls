@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+crimea.ria.ru,0,"traceroute to crimea.ria.ru (178.248.233.136), 30 hops max, 60 byte packets
+"
+crimea.ria.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.289 ms  0.319 ms
+"
+crimea.ria.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.759 ms  0.627 ms  0.724 ms
+"
+crimea.ria.ru,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  26.025 ms  20.950 ms  26.005 ms
+"
+crimea.ria.ru,4," 4  GW-Xtend.retn.net (87.245.253.194)  20.841 ms  20.861 ms  20.840 ms
+"
+crimea.ria.ru,5," 5  178.248.233.136 (178.248.233.136)  20.775 ms  20.779 ms  20.770 ms
+"

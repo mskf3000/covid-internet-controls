@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+diary.ru,0,"traceroute to diary.ru (116.202.129.243), 50 hops max, 60 byte packets
+"
+diary.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.394 ms  0.381 ms  0.415 ms
+"
+diary.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.537 ms  0.527 ms  0.521 ms
+"
+diary.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.718 ms  26.149 ms  26.123 ms
+"
+diary.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.057 ms  31.054 ms  28.621 ms
+"
+diary.ru,5," 5  core5.fra.hetzner.com (213.239.224.218)  32.799 ms core4.fra.hetzner.com (213.239.245.85)  28.942 ms core5.fra.hetzner.com (213.239.224.218)  35.324 ms
+"
+diary.ru,6," 6  core21.fsn1.hetzner.com (213.239.245.13)  33.443 ms  33.438 ms core22.fsn1.hetzner.com (213.239.224.245)  37.349 ms
+"
+diary.ru,7," 7  ex9k1.dc14.fsn1.hetzner.com (213.239.245.82)  33.072 ms ex9k1.dc14.fsn1.hetzner.com (213.239.245.122)  33.204 ms ex9k1.dc14.fsn1.hetzner.com (213.239.245.82)  33.200 ms
+"
+diary.ru,8," 8  diary.ru (116.202.129.243)  37.512 ms  40.036 ms  40.011 ms
+"
+diary.ru,9," 9  diary.ru (116.202.129.243)  33.076 ms  33.017 ms  37.430 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ren.tv,0,"traceroute to ren.tv (185.165.123.168), 30 hops max, 60 byte packets
+"
+ren.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.536 ms  0.526 ms  0.604 ms
+"
+ren.tv,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.661 ms  0.648 ms  0.683 ms
+"
+ren.tv,3," 3  10.11.12.17 (10.11.12.17)  1.180 ms  0.922 ms  1.201 ms
+"
+ren.tv,4," 4  * * *
+"
+ren.tv,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.044 ms  1.148 ms  1.021 ms
+"
+ren.tv,6," 6  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  19.986 ms  20.175 ms  20.092 ms
+"
+ren.tv,7," 7  * * *
+"
+ren.tv,8," 8  185.165.123.168 (185.165.123.168)  19.754 ms  19.623 ms  19.768 ms
+"

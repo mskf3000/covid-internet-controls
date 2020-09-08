@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+reuters.com,0,"traceroute to reuters.com (52.2.61.110), 30 hops max, 60 byte packets
+"
+reuters.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.771 ms  1.746 ms  1.739 ms
+"
+reuters.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.870 ms  0.986 ms  0.874 ms
+"
+reuters.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.025 ms  16.991 ms  17.055 ms
+"
+reuters.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.218 ms  22.268 ms  22.541 ms
+"
+reuters.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.666 ms  30.642 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.417 ms
+"
+reuters.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.464 ms  39.755 ms  39.631 ms
+"
+reuters.com,7," 7  be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.205 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.073 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.083 ms
+"
+reuters.com,8," 8  be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)  117.575 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  116.103 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.888 ms
+"
+reuters.com,9," 9  be3471.ccr41.jfk02.atlas.cogentco.com (154.54.40.154)  115.630 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.460 ms  117.424 ms
+"
+reuters.com,10,"10  38.140.106.162 (38.140.106.162)  120.155 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  115.411 ms be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.840 ms
+"
+reuters.com,11,"11  38.140.106.162 (38.140.106.162)  117.365 ms 52.93.31.63 (52.93.31.63)  117.943 ms 52.93.31.51 (52.93.31.51)  122.388 ms
+"
+reuters.com,12,"12  52.93.31.59 (52.93.31.59)  114.629 ms 52.93.4.62 (52.93.4.62)  113.016 ms 52.93.4.54 (52.93.4.54)  113.889 ms
+"
+reuters.com,13,"13  * * *
+"
+reuters.com,14,"14  52.93.131.180 (52.93.131.180)  118.135 ms * 54.240.229.139 (54.240.229.139)  119.527 ms
+"
+reuters.com,15,"15  * 54.240.229.139 (54.240.229.139)  116.864 ms 54.240.229.147 (54.240.229.147)  116.636 ms
+"
+reuters.com,16,"16  * * *
+"
+reuters.com,17,"17  * * *
+"
+reuters.com,18,"18  * * *
+"
+reuters.com,19,"19  * * *
+"
+reuters.com,20,"20  * * *
+"
+reuters.com,21,"21  * * *
+"
+reuters.com,22,"22  * * *
+"
+reuters.com,23,"23  * * *
+"
+reuters.com,24,"24  * * *
+"
+reuters.com,25,"25  * * 52.93.28.146 (52.93.28.146)  117.666 ms
+"
+reuters.com,26,"26  * * *
+"
+reuters.com,27,"27  * * *
+"
+reuters.com,28,"28  * * *
+"
+reuters.com,29,"29  * * *
+"
+reuters.com,30,"30  * * *
+"

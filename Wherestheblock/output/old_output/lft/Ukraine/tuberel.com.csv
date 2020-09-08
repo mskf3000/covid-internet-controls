@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+tuberel.com,0,"traceroute to tuberel.com (104.26.14.185), 30 hops max, 60 byte packets
+"
+tuberel.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.275 ms  0.284 ms  0.258 ms  0.268 ms  0.391 ms  0.229 ms  0.264 ms  0.260 ms  0.299 ms
+"
+tuberel.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.979 ms  0.708 ms  0.864 ms  0.903 ms  0.956 ms  0.925 ms  1.002 ms  0.962 ms  0.937 ms  1.210 ms
+"
+tuberel.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.988 ms  2.297 ms  2.500 ms  0.901 ms  0.875 ms  1.166 ms  1.025 ms  1.125 ms  1.010 ms  0.945 ms
+"
+tuberel.com,4," 4  149.6.191.138 (149.6.191.138)  4.155 ms  3.917 ms  4.284 ms  3.784 ms  2.332 ms  1.699 ms  5.794 ms  5.765 ms  4.369 ms  14.145 ms
+"
+tuberel.com,5," 5  104.26.14.185 (104.26.14.185)  8.709 ms  1.708 ms  0.950 ms  1.710 ms  2.148 ms  0.664 ms  5.869 ms  0.884 ms  0.580 ms  0.594 ms
+"

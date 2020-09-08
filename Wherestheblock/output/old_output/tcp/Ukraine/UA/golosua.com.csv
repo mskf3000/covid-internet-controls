@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+golosua.com,0,"traceroute to golosua.com (94.130.143.174), 30 hops max, 60 byte packets
+"
+golosua.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.657 ms  1.633 ms  1.638 ms
+"
+golosua.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.681 ms  0.640 ms  0.639 ms
+"
+golosua.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.152 ms  28.666 ms  29.249 ms
+"
+golosua.com,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.797 ms  31.126 ms  28.771 ms
+"
+golosua.com,5," 5  core4.fra.hetzner.com (213.239.245.85)  31.415 ms core5.fra.hetzner.com (213.239.224.218)  33.009 ms core0.fra.hetzner.com (213.239.252.10)  28.484 ms
+"
+golosua.com,6," 6  core21.fsn1.hetzner.com (213.239.245.13)  36.190 ms core21.fsn1.hetzner.com (213.239.245.217)  33.131 ms core21.fsn1.hetzner.com (213.239.224.241)  33.665 ms
+"
+golosua.com,7," 7  ex9k2.dc4.fsn1.hetzner.com (213.239.229.130)  33.110 ms ex9k2.dc4.fsn1.hetzner.com (213.239.229.134)  40.098 ms  38.343 ms
+"
+golosua.com,8," 8  mops.golos.ua (94.130.143.174)  35.675 ms  33.253 ms  36.045 ms
+"

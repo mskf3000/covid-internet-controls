@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+kat.cr,0,"traceroute to kat.cr (91.195.240.126), 30 hops max, 60 byte packets
+"
+kat.cr,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.317 ms  0.348 ms
+"
+kat.cr,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.501 ms  0.502 ms  0.499 ms
+"
+kat.cr,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  31.618 ms  31.631 ms  31.624 ms
+"
+kat.cr,4," 4  ffm-b1-link.telia.net (62.115.63.109)  28.815 ms  28.799 ms  28.809 ms
+"
+kat.cr,5," 5  ffm-bb3-link.telia.net (62.115.141.238)  38.609 ms  38.666 ms  38.665 ms
+"
+kat.cr,6," 6  mcn-b2-link.telia.net (62.115.120.128)  37.117 ms  36.612 ms  36.600 ms
+"
+kat.cr,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  118.340 ms  118.256 ms  118.360 ms
+"
+kat.cr,8," 8  91.195.241.102 (91.195.241.102)  118.233 ms  118.275 ms  118.242 ms
+"
+kat.cr,9," 9  91.195.241.118 (91.195.241.118)  120.339 ms  120.534 ms  121.162 ms
+"
+kat.cr,10,"10  91.195.240.126 (91.195.240.126)  118.493 ms  118.397 ms  118.381 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+zhurnal.lib.ru,0,"traceroute to zhurnal.lib.ru (81.176.66.169), 50 hops max, 60 byte packets
+"
+zhurnal.lib.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.288 ms  0.299 ms
+"
+zhurnal.lib.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.574 ms  0.568 ms *
+"
+zhurnal.lib.ru,3," 3  100.64.65.25 (100.64.65.25)  8.305 ms  8.296 ms  7.770 ms
+"
+zhurnal.lib.ru,4," 4  100.64.64.141 (100.64.64.141)  44.360 ms  30.356 ms  30.023 ms
+"
+zhurnal.lib.ru,5," 5  frkt-ar2.intl.ip.rostelecom.ru (80.81.194.31)  42.599 ms  43.039 ms  43.029 ms
+"
+zhurnal.lib.ru,6," 6  213.59.211.255 (213.59.211.255)  45.295 ms 188.254.25.77 (188.254.25.77)  41.056 ms 213.59.212.235 (213.59.212.235)  41.547 ms
+"
+zhurnal.lib.ru,7," 7  188.254.22.222 (188.254.22.222)  42.381 ms  43.286 ms *
+"
+zhurnal.lib.ru,8," 8  213.24.114.170 (213.24.114.170)  43.171 ms msk-dsr8-tg9-2.rt-comm.ru (195.161.47.30)  45.740 ms 213.24.114.170 (213.24.114.170)  42.661 ms
+"
+zhurnal.lib.ru,9," 9  msk-dsr8-tg9-2.rt-comm.ru (195.161.47.30)  54.773 ms msk-dsr8-tg9-1.rt-comm.ru (195.161.47.26)  56.938 ms msk-dsr8-tg9-2.rt-comm.ru (195.161.47.30)  43.195 ms
+"
+zhurnal.lib.ru,10,"10  zhurnal.lib.ru (81.176.66.169)  42.809 ms  58.115 ms msk-dsr8-tg9-1.rt-comm.ru (195.161.47.26)  46.480 ms
+"

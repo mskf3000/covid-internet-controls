@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+nextmail.ru,0,"traceroute to nextmail.ru (193.138.233.46), 30 hops max, 60 byte packets
+"
+nextmail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.315 ms  0.310 ms
+"
+nextmail.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.838 ms  0.832 ms  0.823 ms
+"
+nextmail.ru,3," 3  ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.775 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.971 ms  30.966 ms
+"
+nextmail.ru,4," 4  ae7-xcr1.fix.cw.net (62.208.252.201)  27.969 ms  29.094 ms  29.360 ms
+"
+nextmail.ru,5," 5  ae17.pcr1.fnt.cw.net (195.2.20.226)  28.722 ms  28.714 ms  28.696 ms
+"
+nextmail.ru,6," 6  ae17-xcr1.skt.cw.net (195.2.8.201)  46.568 ms  46.530 ms  45.329 ms
+"
+nextmail.ru,7," 7  217.161.65.102 (217.161.65.102)  49.792 ms  74.859 ms  52.372 ms
+"
+nextmail.ru,8," 8  bras222-gi0-0.msk.corbina.net (78.107.184.105)  71.455 ms  80.144 ms  75.513 ms
+"
+nextmail.ru,9," 9  85.21.224.195 (85.21.224.195)  75.054 ms  75.340 ms  79.051 ms
+"
+nextmail.ru,10,"10  85.21.224.207 (85.21.224.207)  73.207 ms  79.238 ms  75.394 ms
+"
+nextmail.ru,11,"11  gw.mnwhost.ru (83.102.136.100)  72.172 ms  80.752 ms  75.065 ms
+"
+nextmail.ru,12,"12  virt104.denser.ru (193.138.233.46)  80.043 ms  75.052 ms  79.806 ms
+"

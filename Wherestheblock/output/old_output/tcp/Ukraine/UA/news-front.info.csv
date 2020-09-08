@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+news-front.info,0,"traceroute to news-front.info (186.2.163.162), 30 hops max, 60 byte packets
+"
+news-front.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.328 ms  0.366 ms
+"
+news-front.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.602 ms  0.534 ms  0.523 ms
+"
+news-front.info,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.319 ms  16.095 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.222 ms
+"
+news-front.info,4," 4  * * *
+"
+news-front.info,5," 5  * * 10.0.9.41 (10.0.9.41)  19.417 ms
+"
+news-front.info,6," 6  10.0.9.57 (10.0.9.57)  17.737 ms ddos-guard.net (186.2.163.162)  17.204 ms 10.0.9.41 (10.0.9.41)  21.913 ms
+"

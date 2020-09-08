@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+simya.com.ua,0,"traceroute to simya.com.ua (104.31.74.33), 30 hops max, 60 byte packets
+"
+simya.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.260 ms  0.283 ms  0.321 ms
+"
+simya.com.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.586 ms  0.616 ms  0.608 ms
+"
+simya.com.ua,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.861 ms  17.847 ms  17.412 ms
+"
+simya.com.ua,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.030 ms cloudflare-peering.fiord.net (80.77.167.7)  24.424 ms  24.408 ms
+"
+simya.com.ua,5," 5  104.31.74.33 (104.31.74.33)  18.058 ms  17.569 ms  20.536 ms
+"

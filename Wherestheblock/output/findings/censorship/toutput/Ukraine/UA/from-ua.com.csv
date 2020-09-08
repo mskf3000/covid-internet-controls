@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+from-ua.com,0,"traceroute to from-ua.com (104.26.10.116), 30 hops max, 60 byte packets
+"
+from-ua.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.140 ms  3.123 ms  3.170 ms
+"
+from-ua.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.027 ms  0.954 ms  1.000 ms
+"
+from-ua.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.981 ms  0.944 ms  1.101 ms
+"
+from-ua.com,4," 4  149.6.191.138 (149.6.191.138)  0.606 ms  0.626 ms  0.574 ms
+"
+from-ua.com,5," 5  104.26.10.116 (104.26.10.116)  0.512 ms  0.573 ms  0.548 ms
+"

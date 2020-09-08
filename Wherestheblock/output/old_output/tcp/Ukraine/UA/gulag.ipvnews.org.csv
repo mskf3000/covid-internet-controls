@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+gulag.ipvnews.org,0,"traceroute to gulag.ipvnews.org (85.31.101.152), 30 hops max, 60 byte packets
+"
+gulag.ipvnews.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.297 ms  0.326 ms
+"
+gulag.ipvnews.org,2," 2  dtel-ix.bi.lt (193.25.181.81)  28.600 ms  21.183 ms  28.707 ms
+"
+gulag.ipvnews.org,3," 3  213.252.226.182 (213.252.226.182)  33.699 ms  45.413 ms  33.600 ms
+"
+gulag.ipvnews.org,4," 4  * * *
+"
+gulag.ipvnews.org,5," 5  159.148.251.1 (159.148.251.1)  26.261 ms  26.288 ms  26.155 ms
+"
+gulag.ipvnews.org,6," 6  static-91.203.69.72.nano.lv (91.203.69.72)  25.648 ms  25.499 ms  25.598 ms
+"
+gulag.ipvnews.org,7," 7  mail.soulofukraine.foundation (85.31.101.152)  25.131 ms  25.337 ms  24.999 ms
+"

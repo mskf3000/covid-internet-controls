@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+na-svyazi.ru,0,"traceroute to na-svyazi.ru (109.195.241.180), 50 hops max, 60 byte packets
+"
+na-svyazi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.341 ms  0.385 ms
+"
+na-svyazi.ru,2," 2  * * *
+"
+na-svyazi.ru,3," 3  as9049.ix.dataix.ru (178.18.226.160)  17.873 ms  17.891 ms  16.971 ms
+"
+na-svyazi.ru,4," 4  lag-7-438.bbr01.samara.ertelecom.ru (109.195.248.30)  29.179 ms lag-3-435.bbr01.nn.ertelecom.ru (109.195.248.18)  29.045 ms lag-7-438.bbr01.samara.ertelecom.ru (109.195.248.30)  29.165 ms
+"
+na-svyazi.ru,5," 5  * * *
+"
+na-svyazi.ru,6," 6  109x195x241x252.static-business.cheb.ertelecom.ru (109.195.241.252)  29.502 ms  29.371 ms august2013.na-svyazi.ru (109.195.241.180)  28.111 ms
+"

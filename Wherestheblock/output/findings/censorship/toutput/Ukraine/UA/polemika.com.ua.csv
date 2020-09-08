@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+polemika.com.ua,0,"traceroute to polemika.com.ua (5.45.121.85), 30 hops max, 60 byte packets
+"
+polemika.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.273 ms  0.305 ms  0.345 ms
+"
+polemika.com.ua,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.525 ms  1.203 ms  1.259 ms
+"
+polemika.com.ua,3," 3  77.88.211.129 (77.88.211.129)  11.490 ms  11.455 ms  11.438 ms
+"
+polemika.com.ua,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  41.671 ms  41.670 ms  41.658 ms
+"
+polemika.com.ua,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  32.019 ms  32.012 ms  32.070 ms
+"
+polemika.com.ua,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  32.592 ms  32.028 ms  32.013 ms
+"
+polemika.com.ua,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  42.223 ms  32.151 ms  31.892 ms
+"
+polemika.com.ua,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.223 ms  33.180 ms  33.251 ms
+"
+polemika.com.ua,9," 9  * * *
+"
+polemika.com.ua,10,"10  s052d7955.fastvps-server.com (5.45.121.85)  33.426 ms  33.138 ms  34.016 ms
+"

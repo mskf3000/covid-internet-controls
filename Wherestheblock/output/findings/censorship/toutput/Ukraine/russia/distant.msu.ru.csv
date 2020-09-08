@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+distant.msu.ru,0,"traceroute to distant.msu.ru (93.180.19.248), 50 hops max, 60 byte packets
+"
+distant.msu.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.417 ms  1.413 ms  1.407 ms
+"
+distant.msu.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.748 ms  0.989 ms  0.892 ms
+"
+distant.msu.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.976 ms  17.015 ms  17.007 ms
+"
+distant.msu.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.192 ms  22.404 ms  22.216 ms
+"
+distant.msu.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.343 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.344 ms  30.369 ms
+"
+distant.msu.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.153 ms  45.503 ms  45.623 ms
+"
+distant.msu.ru,7," 7  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  56.156 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  52.533 ms  57.543 ms
+"
+distant.msu.ru,8," 8  149.6.58.42 (149.6.58.42)  42.651 ms  46.288 ms  42.659 ms
+"
+distant.msu.ru,9," 9  spb-bm18-2-gw.RUNNet.ru (194.85.40.206)  44.159 ms msk-m9-1-gw.RUNNet.ru (194.85.40.157)  42.496 ms  42.522 ms
+"
+distant.msu.ru,10,"10  msu.msk.runnet.ru (194.190.254.118)  44.157 ms  48.875 ms  44.134 ms
+"
+distant.msu.ru,11,"11  93.180.0.191 (93.180.0.191)  41.799 ms  45.435 ms  42.868 ms
+"
+distant.msu.ru,12,"12  93.180.19.248 (93.180.19.248)  44.171 ms  48.189 ms  43.319 ms
+"

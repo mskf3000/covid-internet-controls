@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+prastitutki.ru,0,"traceroute to prastitutki.ru (194.58.112.174), 30 hops max, 60 byte packets
+"
+prastitutki.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.844 ms  3.826 ms  3.839 ms
+"
+prastitutki.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.833 ms *  16.433 ms
+"
+prastitutki.ru,3," 3  * * *
+"
+prastitutki.ru,4," 4  10.0.9.165 (10.0.9.165)  17.001 ms 10.0.9.181 (10.0.9.181)  16.191 ms  19.515 ms
+"
+prastitutki.ru,5," 5  * * *
+"
+prastitutki.ru,6," 6  * * *
+"
+prastitutki.ru,7," 7  * * *
+"
+prastitutki.ru,8," 8  parking.reg.ru (194.58.112.174)  17.050 ms  19.517 ms  18.054 ms
+"

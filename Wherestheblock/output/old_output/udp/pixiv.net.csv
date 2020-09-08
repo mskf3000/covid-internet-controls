@@ -1,0 +1,103 @@
+URL,TTL,Response_Message
+pixiv.net,0,"traceroute to pixiv.net (210.140.131.220), 50 hops max, 60 byte packets
+"
+pixiv.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.278 ms  0.287 ms  0.320 ms
+"
+pixiv.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.942 ms  0.964 ms  1.030 ms
+"
+pixiv.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.030 ms  16.962 ms  16.993 ms
+"
+pixiv.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.294 ms  22.305 ms  22.335 ms
+"
+pixiv.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.441 ms  30.415 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.492 ms
+"
+pixiv.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.572 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.327 ms  39.612 ms
+"
+pixiv.net,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.474 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.695 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.359 ms
+"
+pixiv.net,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.638 ms  187.231 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.687 ms
+"
+pixiv.net,9," 9  be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.469 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.118 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.466 ms
+"
+pixiv.net,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  185.868 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.437 ms  135.424 ms
+"
+pixiv.net,11,"11  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.472 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  186.232 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.070 ms
+"
+pixiv.net,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  186.072 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  190.345 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  147.532 ms
+"
+pixiv.net,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.403 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.162 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  190.384 ms
+"
+pixiv.net,14,"14  be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  169.061 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.025 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  173.743 ms
+"
+pixiv.net,15,"15  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  183.986 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  189.712 ms  190.230 ms
+"
+pixiv.net,16,"16  be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  185.330 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.197 ms  185.240 ms
+"
+pixiv.net,17,"17  38.88.224.178 (38.88.224.178)  178.663 ms  179.167 ms  183.785 ms
+"
+pixiv.net,18,"18  111.87.3.229 (111.87.3.229)  180.258 ms  175.334 ms  175.501 ms
+"
+pixiv.net,19,"19  106.187.13.29 (106.187.13.29)  281.938 ms 106.187.13.25 (106.187.13.25)  276.299 ms 111.87.3.105 (111.87.3.105)  180.047 ms
+"
+pixiv.net,20,"20  27.85.227.105 (27.85.227.105)  279.915 ms 27.86.46.89 (27.86.46.89)  275.662 ms 27.85.227.117 (27.85.227.117)  281.046 ms
+"
+pixiv.net,21,"21  oteJIN301.int-gw.kddi.ne.jp (27.86.32.6)  280.428 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  274.398 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.6)  277.820 ms
+"
+pixiv.net,22,"22  111.108.12.170 (111.108.12.170)  243.667 ms  240.207 ms  245.826 ms
+"
+pixiv.net,23,"23  111.108.12.170 (111.108.12.170)  248.329 ms  250.450 ms 202.93.95.182 (202.93.95.182)  245.623 ms
+"
+pixiv.net,24,"24  118.151.224.194 (118.151.224.194)  249.856 ms  249.840 ms  249.829 ms
+"
+pixiv.net,25,"25  158.205.134.62 (158.205.134.62)  251.020 ms  243.757 ms  253.840 ms
+"
+pixiv.net,26,"26  * * 158.205.134.62 (158.205.134.62)  249.105 ms
+"
+pixiv.net,27,"27  * * *
+"
+pixiv.net,28,"28  * * *
+"
+pixiv.net,29,"29  * * *
+"
+pixiv.net,30,"30  * * *
+"
+pixiv.net,31,"31  * * *
+"
+pixiv.net,32,"32  * * *
+"
+pixiv.net,33,"33  * * *
+"
+pixiv.net,34,"34  * * *
+"
+pixiv.net,35,"35  * * *
+"
+pixiv.net,36,"36  * * *
+"
+pixiv.net,37,"37  * * *
+"
+pixiv.net,38,"38  * * *
+"
+pixiv.net,39,"39  * * *
+"
+pixiv.net,40,"40  * * *
+"
+pixiv.net,41,"41  * * *
+"
+pixiv.net,42,"42  * * *
+"
+pixiv.net,43,"43  * * *
+"
+pixiv.net,44,"44  * * *
+"
+pixiv.net,45,"45  * * *
+"
+pixiv.net,46,"46  * * *
+"
+pixiv.net,47,"47  * * *
+"
+pixiv.net,48,"48  * * *
+"
+pixiv.net,49,"49  * * *
+"
+pixiv.net,50,"50  * * *
+"

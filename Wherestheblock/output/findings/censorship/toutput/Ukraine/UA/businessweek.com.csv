@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+businessweek.com,0,"traceroute to businessweek.com (69.187.24.11), 30 hops max, 60 byte packets
+"
+businessweek.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.363 ms  5.359 ms  5.350 ms
+"
+businessweek.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.110 ms  1.038 ms  1.094 ms
+"
+businessweek.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.165 ms  17.307 ms  17.182 ms
+"
+businessweek.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.635 ms  22.640 ms  22.629 ms
+"
+businessweek.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.577 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.600 ms  30.477 ms
+"
+businessweek.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.432 ms  39.497 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.820 ms
+"
+businessweek.com,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.166 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  116.858 ms  117.992 ms
+"
+businessweek.com,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  117.136 ms  115.111 ms  115.777 ms
+"
+businessweek.com,9," 9  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.583 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.688 ms be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  121.550 ms
+"
+businessweek.com,10,"10  be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  124.023 ms  123.020 ms  122.883 ms
+"
+businessweek.com,11,"11  be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  123.827 ms 10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  117.034 ms be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  123.813 ms
+"
+businessweek.com,12,"12  10-1-5.BR1.IAD8.ALTER.NET (152.179.50.109)  116.606 ms  116.701 ms 0.ae13.GW14.NYC1.ALTER.NET (140.222.235.127)  123.572 ms
+"
+businessweek.com,13,"13  bloomberg-gw.customer.alter.net (157.130.250.210)  123.192 ms 0.ae14.GW14.NYC1.ALTER.NET (140.222.235.131)  124.808 ms  124.555 ms
+"
+businessweek.com,14,"14  * * bloomberg-gw.customer.alter.net (157.130.250.210)  123.959 ms
+"
+businessweek.com,15,"15  bnefpioneers.com (69.187.24.11)  125.495 ms  126.240 ms *
+"

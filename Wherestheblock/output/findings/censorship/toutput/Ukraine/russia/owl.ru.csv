@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+owl.ru,0,"traceroute to owl.ru (178.210.76.96), 50 hops max, 60 byte packets
+"
+owl.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.291 ms  0.315 ms
+"
+owl.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.792 ms  18.797 ms  18.781 ms
+"
+owl.ru,3," 3  rucenter.w-ix.ru (193.106.112.62)  18.901 ms  18.849 ms  18.840 ms
+"
+owl.ru,4," 4  MSK-CTV-R1.nic.ru (193.232.147.51)  19.304 ms  19.285 ms  19.262 ms
+"
+owl.ru,5," 5  MSK-DP-GW1.nic.ru (193.232.147.214)  34.537 ms  34.589 ms  34.631 ms
+"
+owl.ru,6," 6  uweb1118.sys.nichost.ru (31.177.95.133)  19.342 ms  19.385 ms  19.387 ms
+"
+owl.ru,7," 7  hostmaster.nichost.ru (178.210.76.96)  19.453 ms  19.560 ms  19.546 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+donmintrans.ru,0,"traceroute to donmintrans.ru (91.218.228.13), 30 hops max, 60 byte packets
+"
+donmintrans.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.400 ms  0.390 ms  0.431 ms
+"
+donmintrans.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.551 ms  0.537 ms  0.531 ms
+"
+donmintrans.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.181 ms  16.181 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.889 ms
+"
+donmintrans.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.166 ms *  16.148 ms
+"
+donmintrans.ru,5," 5  * 10.0.9.185 (10.0.9.185)  18.847 ms *
+"
+donmintrans.ru,6," 6  ddos-guard.net (185.129.101.142)  17.612 ms  17.648 ms 10.0.9.61 (10.0.9.61)  16.097 ms
+"
+donmintrans.ru,7," 7  ddos-guard.net (185.129.101.142)  16.501 ms ddos-guard.net (185.129.103.17)  18.216 ms ddos-guard.net (185.129.101.142)  16.522 ms
+"
+donmintrans.ru,8," 8  * * ddos-guard.net (185.129.103.17)  16.240 ms
+"
+donmintrans.ru,9," 9  h4.ihc.ru (91.218.228.13)  21.671 ms  18.785 ms *
+"

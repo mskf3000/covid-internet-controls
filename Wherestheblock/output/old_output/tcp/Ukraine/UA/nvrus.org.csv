@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+nvrus.org,0,"traceroute to nvrus.org (134.249.148.16), 30 hops max, 60 byte packets
+"
+nvrus.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.264 ms  0.305 ms  0.296 ms
+"
+nvrus.org,2," 2  kyivstar-30G-gw.ix.net.ua (185.1.50.27)  2.180 ms  2.214 ms  2.022 ms
+"
+nvrus.org,3," 3  134-249-148-253.broadband.kyivstar.net (134.249.148.253)  7.208 ms 172.29.40.128 (172.29.40.128)  7.326 ms  7.354 ms
+"
+nvrus.org,4," 4  134-249-148-16.broadband.kyivstar.net (134.249.148.16)  11.915 ms 172.29.40.129 (172.29.40.129)  7.292 ms 134-249-148-16.broadband.kyivstar.net (134.249.148.16)  11.915 ms
+"

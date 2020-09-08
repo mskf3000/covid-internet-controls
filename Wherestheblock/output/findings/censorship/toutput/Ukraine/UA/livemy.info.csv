@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+livemy.info,0,"traceroute to livemy.info (79.98.51.34), 30 hops max, 60 byte packets
+"
+livemy.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.291 ms  0.329 ms
+"
+livemy.info,2," 2  dtel-ix.milecom.ru (193.25.180.212)  37.913 ms  37.002 ms  37.802 ms
+"
+livemy.info,3," 3  host_91_221_180_71.milecom.ru (91.221.180.71)  36.569 ms  36.816 ms  36.550 ms
+"
+livemy.info,4," 4  185.31.108.14 (185.31.108.14)  84.626 ms  76.154 ms  78.056 ms
+"
+livemy.info,5," 5  185.11.76.70 (185.11.76.70)  71.383 ms  81.264 ms  72.170 ms
+"
+livemy.info,6," 6  79.98.48.2 (79.98.48.2)  86.016 ms  93.874 ms  81.790 ms
+"
+livemy.info,7," 7  79.98.48.1 (79.98.48.1)  90.126 ms  84.888 ms  84.824 ms
+"
+livemy.info,8," 8  79.98.51.34 (79.98.51.34)  92.698 ms  91.633 ms  91.731 ms
+"
+livemy.info,9," 9  79.98.51.34 (79.98.51.34)  81.958 ms  99.476 ms  95.881 ms
+"

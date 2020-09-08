@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+nobribes.org,0,"traceroute to nobribes.org (3.112.97.125), 30 hops max, 60 byte packets
+"
+nobribes.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.664 ms  0.645 ms  0.656 ms
+"
+nobribes.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.903 ms  0.960 ms  1.000 ms
+"
+nobribes.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.981 ms  16.944 ms  16.962 ms
+"
+nobribes.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.435 ms  18.526 ms  18.422 ms
+"
+nobribes.org,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.667 ms  18.754 ms  18.884 ms
+"
+nobribes.org,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  286.396 ms  295.193 ms  295.329 ms
+"
+nobribes.org,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.666 ms  30.905 ms  30.993 ms
+"
+nobribes.org,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  120.733 ms  120.373 ms  120.333 ms
+"
+nobribes.org,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  200.007 ms  183.758 ms  183.723 ms
+"
+nobribes.org,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  288.899 ms  288.348 ms  295.143 ms
+"
+nobribes.org,11,"11  ae-3.r01.tokyjp08.jp.bb.gin.ntt.net (129.250.6.133)  294.687 ms ae-3.r00.tokyjp08.jp.bb.gin.ntt.net (129.250.6.129)  285.660 ms  288.837 ms
+"
+nobribes.org,12,"12  ae-2.amazon.tokyjp08.jp.bb.gin.ntt.net (61.213.161.46)  226.118 ms ae-3.amazon.tokyjp08.jp.bb.gin.ntt.net (61.213.161.50)  293.015 ms  287.891 ms
+"
+nobribes.org,13,"13  * * *
+"
+nobribes.org,14,"14  * * *
+"
+nobribes.org,15,"15  * * *
+"
+nobribes.org,16,"16  * 52.95.30.20 (52.95.30.20)  211.377 ms 52.95.30.48 (52.95.30.48)  214.829 ms
+"
+nobribes.org,17,"17  * * *
+"
+nobribes.org,18,"18  * * *
+"
+nobribes.org,19,"19  * * *
+"
+nobribes.org,20,"20  52.95.31.37 (52.95.31.37)  219.372 ms 52.95.31.19 (52.95.31.19)  226.801 ms 52.95.31.9 (52.95.31.9)  229.023 ms
+"
+nobribes.org,21,"21  52.95.31.167 (52.95.31.167)  218.531 ms 52.95.31.173 (52.95.31.173)  218.800 ms 52.95.31.187 (52.95.31.187)  218.644 ms
+"
+nobribes.org,22,"22  52.95.31.192 (52.95.31.192)  220.231 ms 52.95.31.188 (52.95.31.188)  232.496 ms 52.95.31.176 (52.95.31.176)  216.922 ms
+"
+nobribes.org,23,"23  52.95.31.100 (52.95.31.100)  214.327 ms 52.95.31.92 (52.95.31.92)  220.288 ms 52.95.31.96 (52.95.31.96)  220.144 ms
+"
+nobribes.org,24,"24  54.239.52.187 (54.239.52.187)  212.030 ms 54.239.52.185 (54.239.52.185)  217.593 ms 54.239.52.187 (54.239.52.187)  224.181 ms
+"
+nobribes.org,25,"25  * * *
+"
+nobribes.org,26,"26  * * *
+"
+nobribes.org,27,"27  * * *
+"
+nobribes.org,28,"28  * * *
+"
+nobribes.org,29,"29  * * *
+"
+nobribes.org,30,"30  * * *
+"

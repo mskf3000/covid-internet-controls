@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+blogdir.ru,0,"traceroute to blogdir.ru (2.59.40.170), 50 hops max, 60 byte packets
+"
+blogdir.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.776 ms  4.791 ms  4.820 ms
+"
+blogdir.ru,2," 2  * * *
+"
+blogdir.ru,3," 3  as20764.ix.dataix.ru (178.18.224.34)  27.409 ms  27.398 ms  27.376 ms
+"
+blogdir.ru,4," 4  * * *
+"
+blogdir.ru,5," 5  81.27.252.94.rascom.as20764.net (81.27.252.94)  34.379 ms  34.380 ms  29.500 ms
+"
+blogdir.ru,6," 6  * * *
+"
+blogdir.ru,7," 7  vds-ci98571.timeweb.ru (2.59.40.170)  29.756 ms  26.238 ms  28.522 ms
+"

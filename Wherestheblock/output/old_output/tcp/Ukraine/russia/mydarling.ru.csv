@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mydarling.ru,0,"traceroute to mydarling.ru (185.134.204.236), 50 hops max, 60 byte packets
+"
+mydarling.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.287 ms  1.276 ms  1.270 ms
+"
+mydarling.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.006 ms  17.446 ms  16.040 ms
+"
+mydarling.ru,3," 3  as199599.ix.dataix.ru (178.18.224.113)  17.720 ms  17.098 ms  17.697 ms
+"
+mydarling.ru,4," 4  190-230-9-185.host.cirex.ru (185.9.230.190)  18.763 ms  18.471 ms  18.024 ms
+"
+mydarling.ru,5," 5  185.134.204.236 (185.134.204.236)  17.348 ms  17.309 ms  17.319 ms
+"

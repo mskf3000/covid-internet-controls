@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+blogroll.ru,0,"traceroute to blogroll.ru (87.236.19.165), 30 hops max, 60 byte packets
+"
+blogroll.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.346 ms  0.333 ms  0.328 ms
+"
+blogroll.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.502 ms  18.511 ms  18.513 ms
+"
+blogroll.ru,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  24.975 ms  25.289 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  29.434 ms
+"
+blogroll.ru,4," 4  cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  23.977 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.298 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  25.119 ms
+"
+blogroll.ru,5," 5  * * *
+"
+blogroll.ru,6," 6  m2.epsilon1.beget.com (87.236.19.165)  24.672 ms  28.821 ms  29.422 ms
+"

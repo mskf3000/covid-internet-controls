@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+qha.com.ua,0,"traceroute to qha.com.ua (194.247.13.185), 50 hops max, 60 byte packets
+"
+qha.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.640 ms  0.628 ms  0.642 ms
+"
+qha.com.ua,2," 2  deltax2-ix.giganet.ua (185.1.63.61)  0.683 ms  0.676 ms  0.663 ms
+"
+qha.com.ua,3," 3  * * *
+"
+qha.com.ua,4," 4  d319.default-host.net (194.247.13.185)  0.618 ms  0.657 ms  0.636 ms
+"

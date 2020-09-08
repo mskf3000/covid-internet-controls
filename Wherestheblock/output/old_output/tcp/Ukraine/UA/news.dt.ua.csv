@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+news.dt.ua,0,"traceroute to news.dt.ua (91.218.213.174), 30 hops max, 60 byte packets
+"
+news.dt.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.343 ms  0.331 ms  0.361 ms
+"
+news.dt.ua,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  0.989 ms  1.010 ms  0.998 ms
+"
+news.dt.ua,3," 3  unallocated.qos.kiev.ua (91.218.213.174)  0.372 ms  0.423 ms  0.431 ms
+"

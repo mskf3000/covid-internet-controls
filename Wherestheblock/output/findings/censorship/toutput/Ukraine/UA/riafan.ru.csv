@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+riafan.ru,0,"traceroute to riafan.ru (185.87.194.74), 30 hops max, 60 byte packets
+"
+riafan.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.148 ms  3.129 ms  3.173 ms
+"
+riafan.ru,2," 2  * * *
+"
+riafan.ru,3," 3  * * *
+"
+riafan.ru,4," 4  10.0.92.145 (10.0.92.145)  17.381 ms  18.116 ms 10.0.92.141 (10.0.92.141)  17.027 ms
+"
+riafan.ru,5," 5  ddos-guard.net (185.129.103.17)  18.448 ms  16.307 ms  17.017 ms
+"
+riafan.ru,6," 6  * * *
+"
+riafan.ru,7," 7  hosted-by.IHC.RU (185.87.194.74)  17.314 ms  17.326 ms  18.478 ms
+"

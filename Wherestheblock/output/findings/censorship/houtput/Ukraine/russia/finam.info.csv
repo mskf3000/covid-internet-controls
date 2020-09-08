@@ -1,0 +1,1645 @@
+URL,TTL,Message
+finam.info,1,timed out
+finam.info,2,timed out
+finam.info,3,timed out
+finam.info,4,timed out
+finam.info,5,timed out
+finam.info,6,timed out
+finam.info,7,timed out
+finam.info,8,timed out
+finam.info,9,timed out
+finam.info,10,timed out
+finam.info,11,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:35 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=141658af40510827843278b5d08f135a; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.165:80
+
+1a2a
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,12,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=327acb4d8fd968bf0c95bb16531c6915; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.160:80
+
+1a2a
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,13,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=4d86decb63c7e5bbfdbe4529803fa41a; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.165:80
+
+3154
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=wi"
+finam.info,14,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=5b48092461406255ecbad2f59afffcfd; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.165:80
+
+36fc
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,15,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=d271dd623dae577882a0555a933c3c19; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.165:80
+
+36fc
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,16,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=2307684a7c16880aca3ab06f66a02090; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.163:80
+
+414
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placem
+"
+finam.info,17,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:36 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=3e1ece9b0404801bd8b15ad29004e25b; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.160:80
+
+415
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placeme
+"
+finam.info,18,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:37 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=b8a750e14e9d5905393b2905df46c632; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.161:80
+
+36fc
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,19,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:37 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=7c5e4bda65a32282a36f936be53f2494; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.163:80
+
+41c2
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,20,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:37 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=864e8a13c6a24e122c8e05faef2936b8; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.160:80
+
+415
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placeme
+"
+finam.info,21,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=28d37e8bef7723159f4dd1009cac42a4; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.161:80
+
+414
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placem
+"
+finam.info,22,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=a7425fa805d70454ef308779a22959ba; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.164:80
+
+150c
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=wi"
+finam.info,23,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=9dfd7a2c32097e14dd6953d511af08b9; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.164:80
+
+f64
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                    "
+finam.info,24,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=fafc185eb8bfdd5c486e3b516118c995; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.163:80
+
+3672
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,25,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:38 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=694481b98bc0fa65bbdc6e26f45abd95; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.160:80
+
+415
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placeme
+1615
+ntId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+            "
+finam.info,26,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:39 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=10b99e12042c1eaa1cfc253bce6eac13; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.160:80
+
+1a2a
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,27,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:39 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=3919924378ad92a03984e326a7f44017; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.161:80
+
+1ab4
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "
+finam.info,28,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:39 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=91fbd70aa5caa9b44387595684796d6f; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.165:80
+
+36fc
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=wi"
+finam.info,29,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:14:39 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Set-Cookie: mirtesen=fb10bada807ca0ec5ab1c74bc2a2b5e8; path=/; domain=ojaloberoi.in; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-UPSTREAM-Address: 172.20.0.164:80
+
+695a
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""ru"" lang=""ru"">
+<head>
+    <!-- layout/v3/main -->
+
+    
+<script async src=""https://yastatic.net/pcode/adfox/header-bidding.js""></script>
+
+
+<script>
+    var adfoxBiddersMap = {
+        'criteo': '740609',
+        'betweenDigital': '1092319',
+        'myTarget': '827919',
+        'alfasense': '1126786'
+    };
+    var adUnits = [
+        {
+            // MT_D_300x600-top
+            code: 'adfox_151859926425937923',sizes: [[ 300, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1147927}},{bidder: 'myTarget',params: {placementId: 243449}}]
+        },{
+            // MT_D_160х600-left
+            code: 'adfox_152285569799354700',sizes: [[ 160, 600 ]],bids: [{bidder: 'criteo',params: {placementId: 1210962}}]
+        },{
+            // MT_D_500x300-top
+            code: 'adfox_151203721095564111',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114668}}]
+        },{
+            // MT_D_500x300-middle
+            code: 'adfox_151203726050319166',sizes: [[ 500, 300 ]],bids: [{bidder: 'criteo',params: {placementId: 1114669}}]
+        },{
+            // MT_D_500x300-down
+            code: 'adfox_151203770038871104',bids: [{bidder: 'criteo',params: {placementId: 1114670}}]
+        },{
+            // MT_D_500x300-bottom
+            code: 'adfox_151203774940566734',bids: [{bidder: 'criteo',params: {placementId: 1114671}}]
+        }    ];
+    var userTimeout = 1500;
+    
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+
+
+<!-- MIRTESEN - RU - Adblocking -->
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+<script type='text/javascript'>
+
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+
+function callAdblock(adslot,zoneid,width,height){
+    Criteo.events.push(function(){Criteo.DisplayAcceptableAdIfAdblocked({'zoneid': zoneid, 'containerid': adslot, 'overrideZoneFloor': false});});
+    window.addEventListener(""message"", function (e){
+        if(e.data && e.data == zoneid) document.getElementById(adslot).style.display = ""none"";
+        else return;
+    }, false);
+    var el = document.getElementById(adslot);
+    el.style.width=width+""px""; el.style.height=height+""px"";
+}
+
+</script><script src=""https://yastatic.net/pcode/adfox/loader.js"" crossorigin=""anonymous""></script>
+
+<script type=""text/javascript"" src=""//moe.video/js/replacer.js""></script><script>MoeVideo.Wrapper({pin:'37151811'});</script>
+
+
+<script type=""text/javascript"">
+    var hideShowcaseOnSite = false;
+</script>
+<script type=""text/javascript"" src=""http://static.mtml.ru/js/socket.io.js""></script>
+
+
+<!--  START: Implement RTBx Script on all pages of the website where RTB House will deliver ads. Please put this below GPT header tag -->
+<script>
+    (function() {
+        try {
+            var group = ""EkpgGCQOw5DDFBkwuViT"";
+            var lsKey = ""rtb_"" + group;
+            var xhr = new XMLHttpRequest(); if (!(""withCredentials"" in xhr)) return; xhr.withCredentials = true;
+            xhr.open('GET', 'https://pubs2-eu.creativecdn.com/bidder/pubs/tagging?type=json&group=' + group);
+            xhr.onload = function() {
+                try {
+                    var json = JSON.parse(xhr.responseText); json._ts = new Date().getTime();
+                    localStorage.setItem(lsKey, JSON.stringify(json));
+                } catch (e) {
+                   "

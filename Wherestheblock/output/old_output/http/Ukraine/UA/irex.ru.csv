@@ -1,0 +1,1954 @@
+URL,TTL,Message
+irex.ru,1,timed out
+irex.ru,2,timed out
+irex.ru,3,timed out
+irex.ru,4,timed out
+irex.ru,5,timed out
+irex.ru,6,timed out
+irex.ru,7,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:29 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=ecf901874983731a7d6ff88c16000c9f; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,8,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:29 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=9ca2e6bd1b92f90afd8daf937e68c69f; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,9,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:30 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=cdeb0ec00dbfbdf01c08dec42c3405b1; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,10,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:30 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=6c29a99acae6666eccde8c30e51d6091; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,11,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:30 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=50eb81c757c757f35068e6842bd31ae7; path=/; HttpOnly
+
+89ca
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,12,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=88f7158488e9c4057583fda4c2e09584; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,13,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=b55b346b4aacc22574f83073296e7cbc; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,14,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=21d15996278b73bc1116ab75695f0a74; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_"
+irex.ru,15,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=5d3c3124766b31be3aec93ff7bd5eab4; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_"
+irex.ru,16,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=1bda9e953aed87ecf67bd4acfe36b818; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,17,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=2191d3fe9e543c07594c3cb510bbe453; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,18,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=26deb76ede2a7b5bf10638ae23a800a5; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,19,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=40bf4c425585ee06615de88449f6115b; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,20,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=74a16255bc49136dec19dedf9b674fab; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_"
+irex.ru,21,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=4a187c670e5a5eeabc8c4764cd1bf239; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,22,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=5c626806dff0458eb47b3456d8332cc4; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,23,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=8048a1cea8108013a5e8bbcfaf0ee944; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_"
+irex.ru,24,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=6f0483f3ebbcf6bd632dc5bf2fed9e0d; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,25,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=8ab42241bd4290d69921dbc5b1d899ba; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,26,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=d774b984870267371557363ee1054798; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,27,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:31 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=89d06ea20d6dbdbb27971decb071d977; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,28,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:32 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=d22a601edc5318f3c1631d46853c3bbc; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"
+irex.ru,29,"HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Thu, 23 Jan 2020 08:52:32 GMT
+Content-Type: text/html; charset=windows-1251
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=5dda855f60bfd8a1f371eadf2f289f1d; path=/; HttpOnly
+
+7e48
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+	<meta charset=""windows-1251"">
+<title>Вести Москвы</title>
+<meta name=""description"" content=""Новости Москвы, Подмосковья и РФ"">
+<meta name=""keywords"" content=""новости, Москва, Московская область, РФ"">
+<link rel=""search"" type=""application/opensearchdescription+xml"" href=""http://ojaloberoi.in/engine/opensearch.php"" title=""Вести Москвы"">
+<link rel=""alternate"" type=""application/rss+xml"" title=""Вести Москвы"" href=""http://ojaloberoi.in/rss.xml"" />
+<link href=""/engine/classes/min/index.php?charset=windows-1251&amp;f=engine/editor/css/default.css&amp;v=22"" rel=""stylesheet"" type=""text/css"">
+<script type=""text/javascript"" src=""/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;v=22""></script>
+    <link rel=""icon"" href=""http://ojaloberoi.in/favicon.ico"" type=""image/x-icon"" />
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style.css""/>
+	<!--[if lte IE 7]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie.css"" type=""text/css"" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel=""stylesheet"" href=""/templates/vmv/css/style-ie8.css"" type=""text/css"" />
+	<![endif]-->
+	<script type=""text/javascript"" src=""/templates/vmv/js/navcontrol.js""></script>
+    <meta name=""google-site-verification"" content=""4SMj_8S-iaezSqOahEpRixsZFFnhMnKaPApsdRrc_NY"" />
+    <meta name=""yandex-verification"" content=""d908ea1766a4676a"" />
+</head>
+<body>
+
+<noindex>
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.10&appId=228842387306852"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+</noindex>
+
+<script type=""text/javascript"">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'bd56f9d730cc6865d55c2637420c81c8ab8f7e40';
+var dle_group      = 5;
+var dle_skin       = 'vmv';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = [""Да"", ""Нет"", ""Ввод"", ""Отмена"", ""Сохранить"", ""Удалить"", ""Загрузка. Пожалуйста, подождите...""];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+<noindex><!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []"

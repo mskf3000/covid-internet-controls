@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+lgbti-ep.eu,0,"traceroute to lgbti-ep.eu (46.30.215.247), 50 hops max, 60 byte packets
+"
+lgbti-ep.eu,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.270 ms  0.297 ms  0.324 ms
+"
+lgbti-ep.eu,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.555 ms  0.496 ms  0.573 ms
+"
+lgbti-ep.eu,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.602 ms  28.657 ms  26.149 ms
+"
+lgbti-ep.eu,4," 4  decix.cr1-fra1.net.one.com (80.81.193.119)  31.393 ms  31.390 ms  28.894 ms
+"
+lgbti-ep.eu,5," 5  xe-4-1-1-0.cr1-cph4.mpls.network.one.com (46.30.208.54)  53.297 ms  53.245 ms  53.242 ms
+"
+lgbti-ep.eu,6," 6  185.164.12.16 (185.164.12.16)  53.834 ms  53.563 ms  56.096 ms
+"
+lgbti-ep.eu,7," 7  ae1-200.dr4-cph3.pub.network.one.com (46.30.210.19)  56.211 ms  56.300 ms  53.751 ms
+"
+lgbti-ep.eu,8," 8  xe-1-0-47-200.ar1.pub.webpod8-cph3.one.com (46.30.214.31)  53.313 ms  62.697 ms  60.051 ms
+"
+lgbti-ep.eu,9," 9  webcluster56.webpod8-cph3.one.com (46.30.215.247)  49.753 ms  52.147 ms  53.202 ms
+"

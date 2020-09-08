@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+tabelog.com,0,"traceroute to tabelog.com (202.239.30.129), 30 hops max, 60 byte packets
+"
+tabelog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.318 ms  0.331 ms
+"
+tabelog.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.543 ms  0.538 ms  0.594 ms
+"
+tabelog.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.160 ms  26.172 ms  26.169 ms
+"
+tabelog.com,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  28.832 ms  28.817 ms  28.823 ms
+"
+tabelog.com,5," 5  ae17.franco32.fra.seabone.net (195.22.211.205)  29.111 ms  29.164 ms  29.118 ms
+"
+tabelog.com,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  28.586 ms  28.571 ms  28.800 ms
+"
+tabelog.com,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  30.822 ms  28.542 ms  28.532 ms
+"
+tabelog.com,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  116.715 ms * *
+"
+tabelog.com,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  178.200 ms  179.068 ms  179.005 ms
+"
+tabelog.com,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  281.568 ms  281.524 ms  281.641 ms
+"
+tabelog.com,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  276.913 ms  276.985 ms  277.030 ms
+"
+tabelog.com,12,"12  ae-1.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.189)  280.853 ms  280.864 ms  281.092 ms
+"
+tabelog.com,13,"13  xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  233.574 ms  233.584 ms  233.597 ms
+"
+tabelog.com,14,"14  158.205.92.242 (158.205.92.242)  233.149 ms  233.182 ms  233.193 ms
+"
+tabelog.com,15,"15  * * *
+"
+tabelog.com,16,"16  * * *
+"
+tabelog.com,17,"17  * * *
+"
+tabelog.com,18,"18  * * *
+"
+tabelog.com,19,"19  * * *
+"
+tabelog.com,20,"20  * * *
+"
+tabelog.com,21,"21  * * *
+"
+tabelog.com,22,"22  * * *
+"
+tabelog.com,23,"23  * * *
+"
+tabelog.com,24,"24  * * *
+"
+tabelog.com,25,"25  * * *
+"
+tabelog.com,26,"26  * * *
+"
+tabelog.com,27,"27  * * *
+"
+tabelog.com,28,"28  * * *
+"
+tabelog.com,29,"29  * * *
+"
+tabelog.com,30,"30  * * *
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+az.wikipedia.org,0,"traceroute to az.wikipedia.org (91.198.174.192), 30 hops max, 60 byte packets
+"
+az.wikipedia.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.291 ms  0.293 ms
+"
+az.wikipedia.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.640 ms  0.651 ms  0.805 ms
+"
+az.wikipedia.org,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  171.605 ms  171.601 ms  171.583 ms
+"
+az.wikipedia.org,4," 4  ae2.cr2-esams.wikimedia.org (80.249.209.176)  171.553 ms  171.528 ms  171.532 ms
+"
+az.wikipedia.org,5," 5  text-lb.esams.wikimedia.org (91.198.174.192)  171.401 ms  171.408 ms  171.476 ms
+"

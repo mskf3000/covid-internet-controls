@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+peoples.ru,0,"traceroute to peoples.ru (162.222.23.51), 50 hops max, 60 byte packets
+"
+peoples.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.360 ms  0.348 ms  0.380 ms
+"
+peoples.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.568 ms  0.661 ms  0.658 ms
+"
+peoples.ru,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.881 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  29.995 ms  29.650 ms
+"
+peoples.ru,4," 4  * * *
+"
+peoples.ru,5," 5  * * *
+"
+peoples.ru,6," 6  4.14.2.146 (4.14.2.146)  106.177 ms  107.518 ms  107.489 ms
+"
+peoples.ru,7," 7  peoples.ru (162.222.23.51)  107.558 ms  107.587 ms  107.914 ms
+"

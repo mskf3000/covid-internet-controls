@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+alternativy.ru,0,"traceroute to alternativy.ru (80.250.174.242), 50 hops max, 60 byte packets
+"
+alternativy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.231 ms  6.236 ms  6.273 ms
+"
+alternativy.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.059 ms  0.923 ms  1.044 ms
+"
+alternativy.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.988 ms  16.967 ms  16.997 ms
+"
+alternativy.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.957 ms  23.086 ms  23.010 ms
+"
+alternativy.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.395 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.364 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.395 ms
+"
+alternativy.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.471 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.399 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.687 ms
+"
+alternativy.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.269 ms  56.836 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  53.038 ms
+"
+alternativy.ru,8," 8  149.6.58.42 (149.6.58.42)  45.332 ms  46.382 ms  46.420 ms
+"
+alternativy.ru,9," 9  msk-m9-1-gw.RUNNet.ru (194.85.40.157)  46.198 ms  46.167 ms spb-bm18-2-gw.RUNNet.ru (194.85.40.206)  44.390 ms
+"
+alternativy.ru,10,"10  rudn.msk.runnet.ru (194.190.255.222)  42.979 ms  43.145 ms  44.161 ms
+"
+alternativy.ru,11,"11  80.250.174.242 (80.250.174.242)  47.431 ms  43.557 ms  44.115 ms
+"

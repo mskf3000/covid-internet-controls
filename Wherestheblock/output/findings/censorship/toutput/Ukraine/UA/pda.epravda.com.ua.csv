@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+pda.epravda.com.ua,0,"traceroute to pda.epravda.com.ua (193.178.147.155), 30 hops max, 60 byte packets
+"
+pda.epravda.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.398 ms  0.383 ms  0.411 ms
+"
+pda.epravda.com.ua,2," 2  mirohost-1-ix.giganet.ua (185.1.62.13)  2.288 ms  2.282 ms  2.302 ms
+"
+pda.epravda.com.ua,3," 3  epravda.com.ua (193.178.147.155)  0.529 ms  0.522 ms  0.519 ms
+"

@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+moscow.craigslist.org,0,"traceroute to moscow.craigslist.org (208.82.237.18), 50 hops max, 60 byte packets
+"
+moscow.craigslist.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.267 ms  0.427 ms
+"
+moscow.craigslist.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.030 ms  0.920 ms  1.035 ms
+"
+moscow.craigslist.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  68.116 ms  68.088 ms  68.091 ms
+"
+moscow.craigslist.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  68.160 ms  68.148 ms  68.137 ms
+"
+moscow.craigslist.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  68.190 ms  68.184 ms  68.176 ms
+"
+moscow.craigslist.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  68.167 ms  67.885 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  67.872 ms
+"
+moscow.craigslist.org,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.543 ms  115.376 ms  116.013 ms
+"
+moscow.craigslist.org,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.789 ms be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.959 ms  117.206 ms
+"
+moscow.craigslist.org,9," 9  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  124.013 ms be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  121.557 ms  123.597 ms
+"
+moscow.craigslist.org,10,"10  be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  126.151 ms be2658.ccr22.iad02.atlas.cogentco.com (154.54.47.138)  123.060 ms be2676.ccr22.iad02.atlas.cogentco.com (154.54.47.166)  122.630 ms
+"
+moscow.craigslist.org,11,"11  be2961.rcr22.iad01.atlas.cogentco.com (154.54.42.106)  124.329 ms be2955.rcr21.iad01.atlas.cogentco.com (154.54.30.189)  124.163 ms be2676.ccr22.iad02.atlas.cogentco.com (154.54.47.166)  121.192 ms
+"
+moscow.craigslist.org,12,"12  te0-0-1-1.nr11.b023612-0.iad01.atlas.cogentco.com (154.24.33.222)  124.682 ms  123.718 ms  122.965 ms
+"
+moscow.craigslist.org,13,"13  mail.responsiveds.com (38.104.56.106)  126.664 ms  126.839 ms  129.932 ms
+"
+moscow.craigslist.org,14,"14  s.lb32a.craigslist.org (208.82.237.26)  126.456 ms  126.515 ms mail.responsiveds.com (38.104.56.106)  123.845 ms
+"
+moscow.craigslist.org,15,"15  s.lb32a.craigslist.org (208.82.237.26)  123.832 ms cities.craigslist.org (208.82.237.18)  124.389 ms  124.831 ms
+"

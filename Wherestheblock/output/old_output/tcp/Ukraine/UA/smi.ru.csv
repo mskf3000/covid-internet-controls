@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+smi.ru,0,"traceroute to smi.ru (212.158.164.70), 30 hops max, 60 byte packets
+"
+smi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.293 ms  0.280 ms  0.335 ms
+"
+smi.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.660 ms  0.696 ms  0.646 ms
+"
+smi.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.997 ms  15.918 ms  15.967 ms
+"
+smi.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  17.306 ms  16.400 ms  17.433 ms
+"
+smi.ru,5," 5  xcore-mo1-r2-se.servers.com (188.42.176.251)  25.565 ms  25.795 ms  16.378 ms
+"
+smi.ru,6," 6  188.42.148.3 (188.42.148.3)  16.782 ms  16.463 ms  16.547 ms
+"
+smi.ru,7," 7  ext03.spbnews.ru (212.158.164.70)  16.429 ms  16.359 ms  16.496 ms
+"

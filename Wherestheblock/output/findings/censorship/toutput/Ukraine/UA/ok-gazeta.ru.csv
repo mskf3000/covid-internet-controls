@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ok-gazeta.ru,0,"traceroute to ok-gazeta.ru (45.80.69.75), 30 hops max, 60 byte packets
+"
+ok-gazeta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.317 ms  0.301 ms  0.312 ms
+"
+ok-gazeta.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.594 ms  0.585 ms  0.502 ms
+"
+ok-gazeta.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.905 ms  15.939 ms  15.929 ms
+"
+ok-gazeta.ru,4," 4  * * *
+"
+ok-gazeta.ru,5," 5  45.80.69.75 (45.80.69.75)  27.449 ms  27.449 ms  27.444 ms
+"

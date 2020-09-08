@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+banki.ru,0,"traceroute to banki.ru (185.10.61.111), 50 hops max, 60 byte packets
+"
+banki.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.310 ms  0.335 ms
+"
+banki.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  18.280 ms  16.641 ms  19.393 ms
+"
+banki.ru,3," 3  * * *
+"
+banki.ru,4," 4  10.0.9.181 (10.0.9.181)  18.423 ms  18.416 ms  16.927 ms
+"
+banki.ru,5," 5  ddos-guard.net (185.129.103.4)  17.357 ms  17.254 ms  16.543 ms
+"
+banki.ru,6," 6  185.10.61.111 (185.10.61.111)  16.518 ms  16.910 ms  17.297 ms
+"
+banki.ru,7," 7  185.10.61.111 (185.10.61.111)  17.789 ms  16.582 ms  17.433 ms
+"

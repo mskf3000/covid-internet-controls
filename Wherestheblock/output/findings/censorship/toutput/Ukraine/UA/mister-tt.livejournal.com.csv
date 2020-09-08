@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mister-tt.livejournal.com,0,"traceroute to mister-tt.livejournal.com (81.19.74.6), 30 hops max, 60 byte packets
+"
+mister-tt.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.350 ms  0.288 ms  0.300 ms
+"
+mister-tt.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  16.985 ms  16.863 ms  17.047 ms
+"
+mister-tt.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  19.262 ms  18.576 ms  18.563 ms
+"
+mister-tt.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  19.896 ms  19.934 ms  19.876 ms
+"
+mister-tt.livejournal.com,5," 5  * * *
+"
+mister-tt.livejournal.com,6," 6  * * *
+"
+mister-tt.livejournal.com,7," 7  livejournal.com (81.19.74.6)  18.100 ms  21.259 ms  16.717 ms
+"

@@ -1,0 +1,382 @@
+URL,TTL,Message
+auto.ru,1,timed out
+auto.ru,2,timed out
+auto.ru,3,timed out
+auto.ru,4,timed out
+auto.ru,5,timed out
+auto.ru,6,timed out
+auto.ru,7,timed out
+auto.ru,8,timed out
+auto.ru,9,timed out
+auto.ru,10,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:27:27 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-02-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,11,timed out
+auto.ru,12,timed out
+auto.ru,13,timed out
+auto.ru,14,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:27:57 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,15,timed out
+auto.ru,16,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:08 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,17,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:08 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,18,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:08 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-01-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,19,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:08 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,20,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:09 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-02-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,21,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:09 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-01-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,22,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:09 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-02-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,23,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:09 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,24,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:09 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-02-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,25,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:10 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-01-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,26,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:10 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-01-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,27,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:10 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-sas.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,28,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:10 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-03-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"
+auto.ru,29,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 22 Jan 2020 20:28:10 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+X-Autoru-LB: lb-01-myt.prod.vertis.yandex.net
+Strict-Transport-Security: max-age=31536000
+
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor=""white"">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+"

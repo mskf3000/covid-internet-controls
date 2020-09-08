@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mbk.news,0,"traceroute to mbk.news (104.18.57.181), 50 hops max, 60 byte packets
+"
+mbk.news,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.320 ms  0.308 ms  0.302 ms
+"
+mbk.news,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.842 ms  1.001 ms  0.992 ms
+"
+mbk.news,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.033 ms  8.971 ms  9.126 ms
+"
+mbk.news,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.800 ms  11.855 ms  11.785 ms
+"
+mbk.news,5," 5  149.14.58.106 (149.14.58.106)  12.388 ms  12.376 ms  12.370 ms
+"
+mbk.news,6," 6  104.18.57.181 (104.18.57.181)  11.814 ms  11.692 ms  11.721 ms
+"

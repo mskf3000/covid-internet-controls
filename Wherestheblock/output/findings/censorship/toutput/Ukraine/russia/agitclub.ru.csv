@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+agitclub.ru,0,"traceroute to agitclub.ru (77.222.56.43), 50 hops max, 60 byte packets
+"
+agitclub.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.284 ms  0.330 ms
+"
+agitclub.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.017 ms  0.933 ms  1.048 ms
+"
+agitclub.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.388 ms  16.961 ms  17.401 ms
+"
+agitclub.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  29.972 ms  30.038 ms  30.031 ms
+"
+agitclub.ru,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  30.235 ms  30.271 ms  30.220 ms
+"
+agitclub.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  55.886 ms  55.854 ms  55.844 ms
+"
+agitclub.ru,7," 7  213.59.212.217 (213.59.212.217)  41.583 ms 213.59.211.63 (213.59.211.63)  44.648 ms 213.59.212.235 (213.59.212.235)  40.403 ms
+"
+agitclub.ru,8," 8  213.59.214.154 (213.59.214.154)  53.051 ms  58.802 ms  56.586 ms
+"
+agitclub.ru,9," 9  spb-sdn-gw1.net.p8.ru (31.177.85.165)  52.457 ms  52.861 ms  52.900 ms
+"
+agitclub.ru,10,"10  vh231.sweb.ru (77.222.56.43)  53.922 ms  53.123 ms  67.764 ms
+"

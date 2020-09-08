@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+buddhist.ru,0,"traceroute to buddhist.ru (87.236.16.31), 50 hops max, 60 byte packets
+"
+buddhist.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.288 ms  0.329 ms
+"
+buddhist.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.302 ms  2.280 ms  0.655 ms
+"
+buddhist.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.266 ms  30.259 ms  30.241 ms
+"
+buddhist.ru,4," 4  * * *
+"
+buddhist.ru,5," 5  87.236.16.31 (87.236.16.31)  27.988 ms  28.139 ms  29.482 ms
+"

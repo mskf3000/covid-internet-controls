@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+esquire.ru,0,"traceroute to esquire.ru (185.137.235.19), 50 hops max, 60 byte packets
+"
+esquire.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.890 ms  2.920 ms  2.914 ms
+"
+esquire.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.690 ms  0.676 ms  0.717 ms
+"
+esquire.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.206 ms  21.151 ms  21.154 ms
+"
+esquire.ru,4," 4  * * *
+"
+esquire.ru,5," 5  10.0.9.57 (10.0.9.57)  28.012 ms  20.276 ms  28.004 ms
+"
+esquire.ru,6," 6  * * *
+"
+esquire.ru,7," 7  185.129.102.93 (185.129.102.93)  30.050 ms  30.123 ms  29.976 ms
+"
+esquire.ru,8," 8  92.53.92.161 (92.53.92.161)  27.288 ms  27.304 ms  27.201 ms
+"
+esquire.ru,9," 9  185.137.235.19 (185.137.235.19)  29.201 ms  30.135 ms  30.044 ms
+"

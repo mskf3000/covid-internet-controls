@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+subscribe.ru,0,"traceroute to subscribe.ru (185.76.232.230), 30 hops max, 60 byte packets
+"
+subscribe.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.335 ms  0.320 ms  0.303 ms
+"
+subscribe.ru,2," 2  * * *
+"
+subscribe.ru,3," 3  as35000.ix.dataix.ru (178.18.224.36)  23.532 ms  24.380 ms  24.833 ms
+"
+subscribe.ru,4," 4  85.235.192.146 (85.235.192.146)  27.949 ms  26.553 ms  27.336 ms
+"
+subscribe.ru,5," 5  kocka178.sndsy.ru (185.76.232.178)  25.383 ms  27.185 ms  24.769 ms
+"
+subscribe.ru,6," 6  kocka230.sndsy.ru (185.76.232.230)  24.114 ms  28.435 ms  26.092 ms
+"

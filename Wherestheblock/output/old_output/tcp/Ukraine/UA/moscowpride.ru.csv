@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+moscowpride.ru,0,"traceroute to moscowpride.ru (104.24.117.72), 30 hops max, 60 byte packets
+"
+moscowpride.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.164 ms  7.157 ms  7.190 ms
+"
+moscowpride.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.084 ms  1.204 ms  1.091 ms
+"
+moscowpride.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.875 ms  18.991 ms  18.910 ms
+"
+moscowpride.ru,4," 4  149.6.50.74 (149.6.50.74)  19.502 ms  19.493 ms  19.638 ms
+"
+moscowpride.ru,5," 5  104.24.117.72 (104.24.117.72)  18.581 ms  18.525 ms  18.591 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+shender.ru,0,"traceroute to shender.ru (176.58.118.138), 30 hops max, 60 byte packets
+"
+shender.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.365 ms  0.398 ms
+"
+shender.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.615 ms  0.609 ms  0.667 ms
+"
+shender.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.397 ms  35.892 ms  38.386 ms
+"
+shender.ru,4," 4  80.249.212.136 (80.249.212.136)  41.374 ms  41.368 ms  43.805 ms
+"
+shender.ru,5," 5  109.74.207.19 (109.74.207.19)  41.606 ms 109.74.207.11 (109.74.207.11)  40.469 ms  40.310 ms
+"
+shender.ru,6," 6  lipka.ru (176.58.118.138)  41.506 ms  41.606 ms  41.495 ms
+"

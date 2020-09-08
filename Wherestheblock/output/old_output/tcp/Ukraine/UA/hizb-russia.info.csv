@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+hizb-russia.info,0,"traceroute to hizb-russia.info (104.28.6.67), 30 hops max, 60 byte packets
+"
+hizb-russia.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.297 ms  0.282 ms  0.318 ms
+"
+hizb-russia.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.007 ms  0.873 ms  1.080 ms
+"
+hizb-russia.info,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.163 ms  9.141 ms  9.162 ms
+"
+hizb-russia.info,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.898 ms  12.159 ms  11.792 ms
+"
+hizb-russia.info,5," 5  149.14.58.106 (149.14.58.106)  25.124 ms  25.152 ms  25.145 ms
+"
+hizb-russia.info,6," 6  104.28.6.67 (104.28.6.67)  11.714 ms  11.674 ms  11.647 ms
+"

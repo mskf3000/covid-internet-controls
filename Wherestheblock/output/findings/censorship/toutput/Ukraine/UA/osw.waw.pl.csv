@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+osw.waw.pl,0,"traceroute to osw.waw.pl (195.187.133.24), 30 hops max, 60 byte packets
+"
+osw.waw.pl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.303 ms  0.314 ms
+"
+osw.waw.pl,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.562 ms  0.550 ms  0.545 ms
+"
+osw.waw.pl,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.862 ms  26.698 ms  28.686 ms
+"
+osw.waw.pl,4," 4  frankfurt-gw.nask.pl (80.81.192.97)  28.951 ms  28.944 ms  28.860 ms
+"
+osw.waw.pl,5," 5  195.187.255.102 (195.187.255.102)  30.836 ms  30.819 ms  30.792 ms
+"
+osw.waw.pl,6," 6  193.59.202.31 (193.59.202.31)  31.205 ms  28.798 ms  31.708 ms
+"
+osw.waw.pl,7," 7  195.187.253.26 (195.187.253.26)  30.625 ms  28.166 ms  28.135 ms
+"
+osw.waw.pl,8," 8  * * *
+"
+osw.waw.pl,9," 9  195.187.133.24 (195.187.133.24)  32.646 ms  31.768 ms  32.023 ms
+"

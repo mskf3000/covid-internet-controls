@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+b.growerz.online,0,"traceroute to b.growerz.online (104.28.15.114), 50 hops max, 60 byte packets
+"
+b.growerz.online,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.624 ms  0.615 ms  0.641 ms
+"
+b.growerz.online,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.943 ms  1.008 ms  1.068 ms
+"
+b.growerz.online,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  9.097 ms  8.894 ms  8.944 ms
+"
+b.growerz.online,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.989 ms  11.914 ms  11.832 ms
+"
+b.growerz.online,5," 5  149.14.58.106 (149.14.58.106)  12.374 ms  12.369 ms  12.336 ms
+"
+b.growerz.online,6," 6  104.28.15.114 (104.28.15.114)  11.759 ms  11.715 ms  11.562 ms
+"

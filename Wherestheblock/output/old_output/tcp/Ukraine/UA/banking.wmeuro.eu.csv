@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+banking.wmeuro.eu,0,"traceroute to banking.wmeuro.eu (91.200.28.185), 30 hops max, 60 byte packets
+"
+banking.wmeuro.eu,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.336 ms  0.324 ms  0.335 ms
+"
+banking.wmeuro.eu,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.496 ms  16.748 ms  17.476 ms
+"
+banking.wmeuro.eu,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  16.806 ms  17.803 ms  16.789 ms
+"
+banking.wmeuro.eu,4," 4  80.85.240.85 (80.85.240.85)  19.382 ms  20.916 ms  20.985 ms
+"
+banking.wmeuro.eu,5," 5  91.200.28.185 (91.200.28.185)  18.841 ms  17.448 ms  17.379 ms
+"

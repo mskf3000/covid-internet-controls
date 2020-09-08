@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+russianopengames.ru,0,"traceroute to russianopengames.ru (213.189.197.86), 30 hops max, 60 byte packets
+"
+russianopengames.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.712 ms  1.701 ms  1.696 ms
+"
+russianopengames.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.857 ms  16.012 ms  16.856 ms
+"
+russianopengames.ru,3," 3  178.18.225.226.ix.dataix.ru (178.18.225.226)  21.061 ms  18.896 ms  18.890 ms
+"
+russianopengames.ru,4," 4  ost-l3sw-1-vlan404.msk.zenon.net (213.189.212.71)  17.518 ms  18.092 ms  17.586 ms
+"
+russianopengames.ru,5," 5  axx86.distributed.zenon.net (213.189.197.86)  16.765 ms  16.727 ms  16.733 ms
+"

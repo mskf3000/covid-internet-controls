@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+bibliotekar.ru,0,"traceroute to bibliotekar.ru (89.108.71.27), 50 hops max, 60 byte packets
+"
+bibliotekar.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.798 ms  1.785 ms  1.796 ms
+"
+bibliotekar.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.619 ms  0.638 ms  0.621 ms
+"
+bibliotekar.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.994 ms  15.983 ms  15.953 ms
+"
+bibliotekar.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.265 ms  16.303 ms  16.296 ms
+"
+bibliotekar.ru,5," 5  * * *
+"
+bibliotekar.ru,6," 6  * * *
+"
+bibliotekar.ru,7," 7  ovzhost242.vps.reg.ru (194.58.127.14)  16.293 ms  16.179 ms  16.206 ms
+"
+bibliotekar.ru,8," 8  vm591.vps.agava.net (89.108.71.27)  16.619 ms  16.341 ms  16.375 ms
+"

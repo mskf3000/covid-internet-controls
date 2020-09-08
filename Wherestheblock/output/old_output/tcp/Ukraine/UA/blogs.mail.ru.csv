@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+blogs.mail.ru,0,"traceroute to blogs.mail.ru (94.100.184.238), 30 hops max, 60 byte packets
+"
+blogs.mail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.137 ms  6.100 ms  6.142 ms
+"
+blogs.mail.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.042 ms  1.034 ms  1.097 ms
+"
+blogs.mail.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.486 ms  17.460 ms  17.214 ms
+"
+blogs.mail.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.626 ms  18.614 ms  18.598 ms
+"
+blogs.mail.ru,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  110.077 ms  110.081 ms  110.067 ms
+"
+blogs.mail.ru,6," 6  ae-126-3516.bar1.Helsinki1.Level3.net (4.69.203.30)  137.702 ms ae-124-3514.bar1.Helsinki1.Level3.net (4.69.203.22)  137.719 ms ae-123-3513.bar1.Helsinki1.Level3.net (4.69.203.18)  137.689 ms
+"
+blogs.mail.ru,7," 7  212.73.248.6 (212.73.248.6)  44.495 ms  44.592 ms  44.464 ms
+"
+blogs.mail.ru,8," 8  * * *
+"
+blogs.mail.ru,9," 9  * * *
+"
+blogs.mail.ru,10,"10  * * *
+"
+blogs.mail.ru,11,"11  myredir2-vip.s.smailru.net (94.100.184.238)  45.700 ms  46.320 ms  44.784 ms
+"

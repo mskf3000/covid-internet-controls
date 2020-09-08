@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+kinokrad.co,0,"traceroute to kinokrad.co (94.198.242.19), 50 hops max, 60 byte packets
+"
+kinokrad.co,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.419 ms  0.406 ms  0.433 ms
+"
+kinokrad.co,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.108 ms  1.044 ms  1.147 ms
+"
+kinokrad.co,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.021 ms  17.041 ms  17.014 ms
+"
+kinokrad.co,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.219 ms  22.265 ms  22.253 ms
+"
+kinokrad.co,5," 5  be3188.rcr11.b021543-1.prg01.atlas.cogentco.com (154.54.39.10)  22.923 ms  23.140 ms  23.265 ms
+"
+kinokrad.co,6," 6  datacamp.demarc.cogentco.com (149.6.25.58)  26.589 ms  26.410 ms  26.404 ms
+"
+kinokrad.co,7," 7  94.198.242.19 (94.198.242.19)  26.620 ms  26.618 ms  26.580 ms
+"

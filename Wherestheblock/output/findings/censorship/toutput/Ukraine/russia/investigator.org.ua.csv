@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+investigator.org.ua,0,"traceroute to investigator.org.ua (91.218.212.195), 50 hops max, 60 byte packets
+"
+investigator.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.448 ms  0.443 ms  0.436 ms
+"
+investigator.org.ua,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  1.026 ms  1.016 ms  1.014 ms
+"
+investigator.org.ua,3," 3  unallocated.qos.kiev.ua (91.218.212.195)  0.609 ms  0.525 ms  0.553 ms
+"

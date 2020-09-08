@@ -1,0 +1,7 @@
+URL,TTL,Response_Message
+shram.kiev.ua,0,"traceroute to shram.kiev.ua (178.20.157.4), 50 hops max, 60 byte packets
+"
+shram.kiev.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.757 ms  0.737 ms  0.731 ms
+"
+shram.kiev.ua,2," 2  cf976020.freehost.com.ua (178.20.157.4)  0.327 ms  0.297 ms  0.289 ms
+"

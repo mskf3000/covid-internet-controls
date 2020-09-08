@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+meduza.io,0,"traceroute to meduza.io (91.227.34.40), 50 hops max, 60 byte packets
+"
+meduza.io,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.311 ms  0.354 ms
+"
+meduza.io,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.029 ms  17.510 ms  17.770 ms
+"
+meduza.io,3," 3  109.239.134.86 (109.239.134.86)  18.794 ms  18.670 ms  18.415 ms
+"
+meduza.io,4," 4  212.8.232.5 (212.8.232.5)  21.698 ms 212.8.232.12 (212.8.232.12)  17.008 ms  17.975 ms
+"
+meduza.io,5," 5  91.227.34.40 (91.227.34.40)  18.802 ms  17.410 ms  19.739 ms
+"

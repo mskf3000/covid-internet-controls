@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+kasparov.punkchords.com,0,"traceroute to kasparov.punkchords.com (184.168.204.1), 30 hops max, 60 byte packets
+"
+kasparov.punkchords.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.304 ms  0.315 ms
+"
+kasparov.punkchords.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.227 ms  0.509 ms  1.256 ms
+"
+kasparov.punkchords.com,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  30.871 ms ae1-5.RT.IRX.FKT.DE.retn.net (87.245.232.244)  32.009 ms ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.988 ms
+"
+kasparov.punkchords.com,4," 4  * * *
+"
+kasparov.punkchords.com,5," 5  * * *
+"
+kasparov.punkchords.com,6," 6  4.28.83.74 (4.28.83.74)  202.671 ms  202.274 ms  202.246 ms
+"
+kasparov.punkchords.com,7," 7  148.72.32.7 (148.72.32.7)  167.303 ms 148.72.32.11 (148.72.32.11)  166.494 ms 148.72.32.7 (148.72.32.7)  166.067 ms
+"
+kasparov.punkchords.com,8," 8  be39.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.73)  166.867 ms be38.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.69)  166.364 ms  167.658 ms
+"
+kasparov.punkchords.com,9," 9  ip-97-74-255-129.ip.secureserver.net (97.74.255.129)  166.140 ms  167.367 ms  165.883 ms
+"
+kasparov.punkchords.com,10,"10  lbma1105-03.ars2.mgmt.phx3.secureserver.net (184.168.1.240)  166.617 ms  167.209 ms  167.179 ms
+"
+kasparov.punkchords.com,11,"11  p3nlhg126c1126.shr.prod.phx3.secureserver.net (184.168.204.1)  167.796 ms  166.689 ms  165.580 ms
+"

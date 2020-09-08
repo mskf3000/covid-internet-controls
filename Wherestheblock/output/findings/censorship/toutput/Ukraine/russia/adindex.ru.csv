@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+adindex.ru,0,"traceroute to adindex.ru (5.45.117.150), 50 hops max, 60 byte packets
+"
+adindex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.273 ms  0.294 ms
+"
+adindex.ru,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.509 ms  0.538 ms  0.586 ms
+"
+adindex.ru,3," 3  77.88.211.129 (77.88.211.129)  0.885 ms  0.919 ms  0.903 ms
+"
+adindex.ru,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  31.968 ms  31.931 ms  31.936 ms
+"
+adindex.ru,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  31.959 ms  31.977 ms  32.059 ms
+"
+adindex.ru,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  57.648 ms  57.254 ms  57.236 ms
+"
+adindex.ru,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  32.065 ms  32.055 ms  32.045 ms
+"
+adindex.ru,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.262 ms  33.242 ms  33.214 ms
+"
+adindex.ru,9," 9  * * *
+"
+adindex.ru,10,"10  s052d7596.fastvps-server.com (5.45.117.150)  33.464 ms  33.476 ms  32.341 ms
+"

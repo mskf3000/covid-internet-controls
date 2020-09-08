@@ -1,0 +1,57 @@
+URL,TTL,Response_Message
+pixiv.net,0,"traceroute to pixiv.net (210.140.131.225), 30 hops max, 60 byte packets
+"
+pixiv.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.350 ms  0.373 ms
+"
+pixiv.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.721 ms  1.726 ms  1.727 ms
+"
+pixiv.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.306 ms  17.331 ms  17.330 ms
+"
+pixiv.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.633 ms  22.673 ms  22.721 ms
+"
+pixiv.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.841 ms  31.848 ms  31.852 ms
+"
+pixiv.net,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.358 ms  39.366 ms  39.405 ms
+"
+pixiv.net,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.830 ms  186.587 ms  186.580 ms
+"
+pixiv.net,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.661 ms  186.809 ms  186.843 ms
+"
+pixiv.net,9," 9  be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.208 ms  186.333 ms  185.531 ms
+"
+pixiv.net,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  185.850 ms  186.005 ms  186.044 ms
+"
+pixiv.net,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  185.514 ms  185.281 ms  185.280 ms
+"
+pixiv.net,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.382 ms  185.183 ms  185.297 ms
+"
+pixiv.net,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.291 ms  185.310 ms  185.474 ms
+"
+pixiv.net,14,"14  be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.070 ms  186.384 ms  186.383 ms
+"
+pixiv.net,15,"15  be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  185.411 ms  185.432 ms  185.460 ms
+"
+pixiv.net,16,"16  be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.582 ms  185.627 ms  185.395 ms
+"
+pixiv.net,17,"17  38.88.224.178 (38.88.224.178)  179.694 ms  179.709 ms  179.676 ms
+"
+pixiv.net,18,"18  111.87.3.113 (111.87.3.113)  174.918 ms  174.912 ms  174.952 ms
+"
+pixiv.net,19,"19  106.187.13.5 (106.187.13.5)  282.264 ms  282.239 ms  282.237 ms
+"
+pixiv.net,20,"20  27.85.227.125 (27.85.227.125)  281.533 ms  281.493 ms  281.600 ms
+"
+pixiv.net,21,"21  oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  279.973 ms  280.173 ms  280.164 ms
+"
+pixiv.net,22,"22  111.108.12.170 (111.108.12.170)  243.419 ms  243.414 ms  243.413 ms
+"
+pixiv.net,23,"23  202.93.95.182 (202.93.95.182)  245.926 ms  245.891 ms  245.884 ms
+"
+pixiv.net,24,"24  118.151.224.194 (118.151.224.194)  246.515 ms  246.800 ms  246.787 ms
+"
+pixiv.net,25,"25  158.205.134.62 (158.205.134.62)  249.267 ms  249.298 ms  249.288 ms
+"
+pixiv.net,26,"26  * * *
+"
+pixiv.net,27,"27  gate210-140-131-225.pixiv.net (210.140.131.225)  246.305 ms  246.312 ms  246.302 ms
+"

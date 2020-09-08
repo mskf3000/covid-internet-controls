@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+artv-news.ru,0,"traceroute to artv-news.ru (212.8.247.66), 30 hops max, 60 byte packets
+"
+artv-news.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.418 ms  0.409 ms  0.457 ms
+"
+artv-news.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.899 ms  2.120 ms  0.918 ms
+"
+artv-news.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.254 ms  21.241 ms  21.236 ms
+"
+artv-news.ru,4," 4  * * *
+"
+artv-news.ru,5," 5  10.0.9.185 (10.0.9.185)  21.829 ms  20.244 ms  20.222 ms
+"
+artv-news.ru,6," 6  ddos-guard.net (185.129.101.223)  21.048 ms  21.451 ms  21.427 ms
+"
+artv-news.ru,7," 7  188.92.242.246 (188.92.242.246)  20.489 ms  20.322 ms  20.478 ms
+"
+artv-news.ru,8," 8  nano231.artv-news.ru (212.8.247.66)  19.263 ms  21.129 ms  20.795 ms
+"

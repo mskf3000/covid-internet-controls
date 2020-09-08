@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+growerz.org,0,"traceroute to growerz.org (104.27.157.19), 30 hops max, 60 byte packets
+"
+growerz.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.332 ms  0.341 ms
+"
+growerz.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.931 ms  1.049 ms  1.083 ms
+"
+growerz.org,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.148 ms  19.145 ms  19.136 ms
+"
+growerz.org,4," 4  149.6.50.74 (149.6.50.74)  22.868 ms  24.055 ms  22.758 ms
+"
+growerz.org,5," 5  104.27.157.19 (104.27.157.19)  18.508 ms  18.535 ms  18.590 ms
+"

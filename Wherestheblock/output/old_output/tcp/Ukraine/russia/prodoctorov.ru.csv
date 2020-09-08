@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+prodoctorov.ru,0,"traceroute to prodoctorov.ru (95.213.170.86), 50 hops max, 60 byte packets
+"
+prodoctorov.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.351 ms  0.338 ms  0.333 ms
+"
+prodoctorov.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.576 ms  0.565 ms  0.592 ms
+"
+prodoctorov.ru,3," 3  100.64.64.62 (100.64.64.62)  8.971 ms  8.854 ms  14.097 ms
+"
+prodoctorov.ru,4," 4  100.64.65.21 (100.64.65.21)  26.750 ms  19.068 ms  54.530 ms
+"
+prodoctorov.ru,5," 5  100.64.64.93 (100.64.64.93)  36.253 ms  36.294 ms  36.291 ms
+"
+prodoctorov.ru,6," 6  109.239.136.186 (109.239.136.186)  27.696 ms  28.127 ms  27.730 ms
+"
+prodoctorov.ru,7," 7  141.spb.net.selectel.ru (188.93.17.141)  29.171 ms  26.582 ms  28.066 ms
+"
+prodoctorov.ru,8," 8  95.213.170.86 (95.213.170.86)  27.308 ms  27.481 ms  28.626 ms
+"

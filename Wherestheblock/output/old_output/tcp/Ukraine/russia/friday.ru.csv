@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+friday.ru,0,"traceroute to friday.ru (217.23.132.116), 50 hops max, 60 byte packets
+"
+friday.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.017 ms  1.003 ms  0.989 ms
+"
+friday.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  2.990 ms  2.983 ms  0.635 ms
+"
+friday.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.946 ms  17.846 ms  15.928 ms
+"
+friday.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.301 ms  16.288 ms  16.327 ms
+"
+friday.ru,5," 5  xcore-mo1-r2-se.servers.com (188.42.176.251)  16.502 ms  16.300 ms  20.089 ms
+"
+friday.ru,6," 6  188.42.148.3 (188.42.148.3)  16.352 ms  16.436 ms  16.477 ms
+"
+friday.ru,7," 7  node-116-132-23-217.caravan.ru (217.23.132.116)  16.279 ms  16.313 ms  16.378 ms
+"

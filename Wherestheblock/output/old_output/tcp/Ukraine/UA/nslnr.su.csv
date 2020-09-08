@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+nslnr.su,0,"traceroute to nslnr.su (193.228.160.46), 30 hops max, 60 byte packets
+"
+nslnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.323 ms  0.356 ms
+"
+nslnr.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.862 ms  0.895 ms  0.865 ms
+"
+nslnr.su,3," 3  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  20.606 ms  20.708 ms  20.680 ms
+"
+nslnr.su,4," 4  GW-Telematika.retn.net (87.245.239.187)  27.596 ms  27.567 ms  27.559 ms
+"
+nslnr.su,5," 5  193.228.160.46 (193.228.160.46)  27.801 ms  26.928 ms  33.770 ms
+"

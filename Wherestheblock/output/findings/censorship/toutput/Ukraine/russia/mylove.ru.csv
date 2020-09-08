@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mylove.ru,0,"traceroute to mylove.ru (136.243.161.204), 50 hops max, 60 byte packets
+"
+mylove.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.321 ms  0.314 ms  0.325 ms
+"
+mylove.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.488 ms  0.520 ms  0.513 ms
+"
+mylove.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.100 ms  26.148 ms  28.682 ms
+"
+mylove.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.077 ms  31.111 ms  31.062 ms
+"
+mylove.ru,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.330 ms core4.fra.hetzner.com (213.239.245.85)  29.035 ms core5.fra.hetzner.com (213.239.224.218)  35.348 ms
+"
+mylove.ru,6," 6  core11.nbg1.hetzner.com (213.239.224.237)  32.001 ms core12.nbg1.hetzner.com (213.239.245.253)  34.645 ms  34.635 ms
+"
+mylove.ru,7," 7  ex9k1.dc2.nbg1.hetzner.com (213.239.229.2)  35.468 ms  35.190 ms ex9k1.dc2.nbg1.hetzner.com (213.239.229.6)  39.022 ms
+"
+mylove.ru,8," 8  mail.mylove.ru (136.243.161.204)  31.518 ms  35.775 ms  34.550 ms
+"

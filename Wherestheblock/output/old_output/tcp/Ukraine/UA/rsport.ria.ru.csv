@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+rsport.ria.ru,0,"traceroute to rsport.ria.ru (178.248.233.32), 30 hops max, 60 byte packets
+"
+rsport.ria.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.898 ms  1.881 ms  1.866 ms
+"
+rsport.ria.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.654 ms  0.651 ms  0.639 ms
+"
+rsport.ria.ru,3," 3  10.11.12.17 (10.11.12.17)  1.173 ms  1.162 ms  0.938 ms
+"
+rsport.ria.ru,4," 4  * * *
+"
+rsport.ria.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.144 ms  1.329 ms  1.054 ms
+"
+rsport.ria.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.519 ms  19.624 ms  19.561 ms
+"
+rsport.ria.ru,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.458 ms  19.484 ms  19.607 ms
+"
+rsport.ria.ru,8," 8  178.248.233.32 (178.248.233.32)  19.759 ms  19.557 ms  19.555 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+inosmi.ru,0,"traceroute to inosmi.ru (178.248.232.60), 50 hops max, 60 byte packets
+"
+inosmi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.420 ms  0.409 ms  0.402 ms
+"
+inosmi.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  1.200 ms  0.763 ms  0.754 ms
+"
+inosmi.ru,3," 3  10.11.12.17 (10.11.12.17)  1.024 ms  1.009 ms  1.088 ms
+"
+inosmi.ru,4," 4  * * *
+"
+inosmi.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.042 ms  0.950 ms  0.939 ms
+"
+inosmi.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.506 ms  19.763 ms  19.727 ms
+"
+inosmi.ru,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.469 ms  19.685 ms  19.680 ms
+"
+inosmi.ru,8," 8  178.248.232.60 (178.248.232.60)  19.518 ms  19.531 ms  19.514 ms
+"

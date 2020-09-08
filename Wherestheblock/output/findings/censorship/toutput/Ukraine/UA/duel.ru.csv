@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+duel.ru,0,"traceroute to duel.ru (75.102.38.56), 30 hops max, 60 byte packets
+"
+duel.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.287 ms  0.333 ms
+"
+duel.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.479 ms  0.525 ms  1.454 ms
+"
+duel.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.686 ms  28.681 ms  26.174 ms
+"
+duel.ru,4," 4  ae7-1245.cr1-fra6.ip4.gtt.net (46.33.79.153)  30.660 ms  30.962 ms  31.067 ms
+"
+duel.ru,5," 5  et-1-0-23.cr10-chi1.ip4.gtt.net (213.200.127.178)  128.223 ms  128.277 ms  128.263 ms
+"
+duel.ru,6," 6  ip4.gtt.net (208.116.214.98)  126.477 ms  126.416 ms  126.391 ms
+"
+duel.ru,7," 7  0.ae4.cr2.ord6.scnet.net (204.93.204.87)  136.894 ms  136.998 ms 0.ae12.cr2.ord6.scnet.net (204.93.204.83)  134.578 ms
+"
+duel.ru,8," 8  72.ae2.ar1.ord6.scnet.net (204.93.204.155)  137.514 ms 72.ae2.ar2.ord6.scnet.net (204.93.204.159)  134.572 ms  135.803 ms
+"
+duel.ru,9," 9  as36352.xe-2-1-3.ar2.ord6.us.scnet.net (50.31.154.182)  136.765 ms me.swdz106-2.aggr.scnet.net (50.31.166.218)  134.852 ms  137.193 ms
+"
+duel.ru,10,"10  * * *
+"
+duel.ru,11,"11  66-225-198-70-host.colocrossing.com (66.225.198.70)  133.860 ms  136.294 ms  136.157 ms
+"
+duel.ru,12,"12  host.colocrossing.com (75.102.38.56)  133.907 ms  134.572 ms  136.812 ms
+"

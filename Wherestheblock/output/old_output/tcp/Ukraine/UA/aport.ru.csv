@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+aport.ru,0,"traceroute to aport.ru (23.105.240.138), 30 hops max, 60 byte packets
+"
+aport.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.484 ms  0.470 ms  0.495 ms
+"
+aport.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.542 ms  0.535 ms  0.530 ms
+"
+aport.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.934 ms  15.936 ms  15.925 ms
+"
+aport.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.296 ms  16.333 ms  16.225 ms
+"
+aport.ru,5," 5  188.42.148.77 (188.42.148.77)  16.812 ms  17.069 ms  17.620 ms
+"
+aport.ru,6," 6  188.42.148.81 (188.42.148.81)  16.762 ms  18.266 ms  17.130 ms
+"
+aport.ru,7," 7  23.105.240.138 (23.105.240.138)  16.270 ms  16.329 ms  16.222 ms
+"

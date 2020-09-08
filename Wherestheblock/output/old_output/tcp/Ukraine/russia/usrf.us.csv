@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+usrf.us,0,"traceroute to usrf.us (23.185.0.3), 50 hops max, 60 byte packets
+"
+usrf.us,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.288 ms  0.279 ms
+"
+usrf.us,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.601 ms  0.592 ms  0.520 ms
+"
+usrf.us,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.135 ms  16.167 ms  16.108 ms
+"
+usrf.us,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.208 ms  16.192 ms  16.186 ms
+"
+usrf.us,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.958 ms  43.033 ms  42.870 ms
+"
+usrf.us,6," 6  mow-b4-link.telia.net (80.91.246.90)  43.964 ms  43.986 ms  44.016 ms
+"
+usrf.us,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.701 ms  41.273 ms  41.258 ms
+"
+usrf.us,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.133 ms  44.230 ms  44.205 ms
+"
+usrf.us,9," 9  fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  42.689 ms fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  42.825 ms fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  42.650 ms
+"
+usrf.us,10,"10  23.185.0.3 (23.185.0.3)  42.715 ms  42.846 ms  43.895 ms
+"

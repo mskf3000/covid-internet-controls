@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+okdiario.com,0,"traceroute to okdiario.com (185.47.12.151), 30 hops max, 60 byte packets
+"
+okdiario.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.388 ms  0.381 ms  0.412 ms
+"
+okdiario.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.626 ms  0.625 ms  0.689 ms
+"
+okdiario.com,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.455 ms  32.469 ms  32.476 ms
+"
+okdiario.com,4," 4  ams-ix-1.airenetworks.es (80.249.211.91)  33.592 ms  33.593 ms  33.618 ms
+"
+okdiario.com,5," 5  * * *
+"
+okdiario.com,6," 6  * * *
+"
+okdiario.com,7," 7  185.47.12.151 (185.47.12.151)  56.387 ms  56.379 ms  56.364 ms
+"

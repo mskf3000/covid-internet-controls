@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+blogseo.ru,0,"traceroute to blogseo.ru (31.31.205.163), 30 hops max, 60 byte packets
+"
+blogseo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.898 ms  0.909 ms  0.904 ms
+"
+blogseo.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.562 ms  0.548 ms  0.549 ms
+"
+blogseo.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.002 ms  16.094 ms  15.976 ms
+"
+blogseo.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  49.075 ms  49.021 ms  49.028 ms
+"
+blogseo.ru,5," 5  * * *
+"
+blogseo.ru,6," 6  * * *
+"
+blogseo.ru,7," 7  * * *
+"
+blogseo.ru,8," 8  ns1.domainparking.int.reg.ru (31.31.205.163)  17.029 ms  17.312 ms  17.271 ms
+"

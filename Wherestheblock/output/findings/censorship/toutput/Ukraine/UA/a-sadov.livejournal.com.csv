@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+a-sadov.livejournal.com,0,"traceroute to a-sadov.livejournal.com (81.19.74.0), 30 hops max, 60 byte packets
+"
+a-sadov.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.358 ms  1.372 ms  1.386 ms
+"
+a-sadov.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.740 ms  17.936 ms  17.521 ms
+"
+a-sadov.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  19.492 ms  19.832 ms  18.526 ms
+"
+a-sadov.livejournal.com,4," 4  ae4.j-mx240.os.ramtel.ru (81.19.64.83)  17.223 ms  17.317 ms  21.389 ms
+"
+a-sadov.livejournal.com,5," 5  * * *
+"
+a-sadov.livejournal.com,6," 6  * * *
+"
+a-sadov.livejournal.com,7," 7  livejournal.com (81.19.74.0)  18.215 ms  17.412 ms  17.383 ms
+"

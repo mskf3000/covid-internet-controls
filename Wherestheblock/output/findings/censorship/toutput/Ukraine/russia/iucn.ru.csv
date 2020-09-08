@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+iucn.ru,0,"traceroute to iucn.ru (194.85.61.76), 50 hops max, 60 byte packets
+"
+iucn.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.710 ms  7.731 ms  7.748 ms
+"
+iucn.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.890 ms  1.870 ms  1.873 ms
+"
+iucn.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.088 ms  17.091 ms  17.084 ms
+"
+iucn.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.553 ms  30.618 ms  30.562 ms
+"
+iucn.ru,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  30.310 ms  30.308 ms  30.300 ms
+"
+iucn.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.070 ms  41.188 ms  41.198 ms
+"
+iucn.ru,7," 7  213.59.212.217 (213.59.212.217)  41.691 ms 188.254.25.77 (188.254.25.77)  41.475 ms 213.59.212.217 (213.59.212.217)  53.386 ms
+"
+iucn.ru,8," 8  5.143.251.250 (5.143.251.250)  47.788 ms  45.724 ms  42.554 ms
+"
+iucn.ru,9," 9  MSK-CTV-R1.nic.ru (193.232.147.51)  42.608 ms  42.480 ms  46.039 ms
+"
+iucn.ru,10,"10  MSK-CTV-GW1.nic.ru (193.232.147.219)  42.748 ms  43.030 ms  46.286 ms
+"
+iucn.ru,11,"11  expirepages-kiae-2.nic.ru (194.85.61.76)  42.704 ms  41.881 ms  42.293 ms
+"

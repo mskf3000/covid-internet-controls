@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+vk.com,0,"traceroute to vk.com (93.186.225.208), 30 hops max, 60 byte packets
+"
+vk.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.348 ms  0.337 ms  0.346 ms
+"
+vk.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.959 ms  1.095 ms  0.982 ms
+"
+vk.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.986 ms  17.979 ms  17.960 ms
+"
+vk.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.660 ms  22.605 ms  22.683 ms
+"
+vk.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.566 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.531 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.549 ms
+"
+vk.com,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.459 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  51.999 ms  45.685 ms
+"
+vk.com,7," 7  be3377.ccr21.sto01.atlas.cogentco.com (154.54.36.90)  52.775 ms be3376.ccr21.sto01.atlas.cogentco.com (130.117.50.226)  47.609 ms  53.286 ms
+"
+vk.com,8," 8  149.6.169.114 (149.6.169.114)  47.751 ms  50.793 ms  47.390 ms
+"
+vk.com,9," 9  * * *
+"
+vk.com,10,"10  93.186.225.208 (93.186.225.208)  52.771 ms  48.947 ms  48.884 ms
+"

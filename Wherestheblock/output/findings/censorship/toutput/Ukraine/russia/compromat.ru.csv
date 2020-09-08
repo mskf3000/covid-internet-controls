@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+compromat.ru,0,"traceroute to compromat.ru (91.202.63.16), 50 hops max, 60 byte packets
+"
+compromat.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.454 ms  0.443 ms  0.423 ms
+"
+compromat.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.664 ms  0.653 ms  0.643 ms
+"
+compromat.ru,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.495 ms  32.500 ms  32.489 ms
+"
+compromat.ru,4," 4  80.249.210.43 (80.249.210.43)  32.846 ms  32.890 ms  32.935 ms
+"
+compromat.ru,5," 5  ams-eq6-01c.voxility.net (5.254.73.74)  33.504 ms ams-eq6-01c.voxility.net (5.254.73.70)  33.177 ms ams-eq6-01c.voxility.net (5.254.73.74)  33.613 ms
+"
+compromat.ru,6," 6  5.254.73.114 (5.254.73.114)  41.949 ms  41.498 ms  41.481 ms
+"
+compromat.ru,7," 7  10.32.0.218 (10.32.0.218)  35.020 ms  35.103 ms  35.096 ms
+"
+compromat.ru,8," 8  91.202.63.16 (91.202.63.16)  35.231 ms  35.135 ms  35.034 ms
+"

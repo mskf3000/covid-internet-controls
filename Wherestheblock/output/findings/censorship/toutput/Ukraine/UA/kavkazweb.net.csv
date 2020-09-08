@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+kavkazweb.net,0,"traceroute to kavkazweb.net (104.27.136.176), 30 hops max, 60 byte packets
+"
+kavkazweb.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.374 ms  0.403 ms  0.447 ms
+"
+kavkazweb.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.766 ms  0.877 ms  0.990 ms
+"
+kavkazweb.net,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.906 ms  18.897 ms  18.919 ms
+"
+kavkazweb.net,4," 4  149.6.50.74 (149.6.50.74)  19.528 ms  19.524 ms  19.903 ms
+"
+kavkazweb.net,5," 5  104.27.136.176 (104.27.136.176)  18.527 ms  18.482 ms  18.515 ms
+"

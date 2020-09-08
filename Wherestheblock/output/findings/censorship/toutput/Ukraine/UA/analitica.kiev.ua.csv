@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+analitica.kiev.ua,0,"traceroute to analitica.kiev.ua (195.248.234.31), 30 hops max, 60 byte packets
+"
+analitica.kiev.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.426 ms  0.413 ms  0.407 ms
+"
+analitica.kiev.ua,2," 2  dtel-ix-2.datagroup.ua (193.25.180.244)  0.761 ms  0.771 ms  0.802 ms
+"
+analitica.kiev.ua,3," 3  * * *
+"
+analitica.kiev.ua,4," 4  s31.org.ua (195.248.234.31)  4.415 ms  4.412 ms  4.260 ms
+"

@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+razom.org.ua,0,"traceroute to razom.org.ua (89.184.76.34), 30 hops max, 60 byte packets
+"
+razom.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.286 ms  0.299 ms
+"
+razom.org.ua,2," 2  mirohost-1-ix.giganet.ua (185.1.62.13)  0.557 ms  0.582 ms  0.625 ms
+"
+razom.org.ua,3," 3  * * *
+"
+razom.org.ua,4," 4  en140.mirohost.net (89.184.76.34)  0.493 ms  0.516 ms  0.553 ms
+"

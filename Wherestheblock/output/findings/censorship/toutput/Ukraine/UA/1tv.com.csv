@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+1tv.com,0,"traceroute to 1tv.com (217.16.26.102), 30 hops max, 60 byte packets
+"
+1tv.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.404 ms  0.394 ms  0.415 ms
+"
+1tv.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.844 ms  0.590 ms  0.625 ms
+"
+1tv.com,3," 3  10.11.12.17 (10.11.12.17)  1.057 ms  0.818 ms  0.807 ms
+"
+1tv.com,4," 4  * * *
+"
+1tv.com,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.856 ms  0.844 ms  0.931 ms
+"
+1tv.com,6," 6  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  19.998 ms  19.837 ms  26.202 ms
+"
+1tv.com,7," 7  GW-MasterHost.retn.net (87.245.255.143)  18.481 ms  18.482 ms  18.519 ms
+"
+1tv.com,8," 8  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  20.516 ms * msk-ff-22-vl18.masterhost.ru (217.16.23.242)  18.013 ms
+"
+1tv.com,9," 9  new.1tv.com (217.16.26.102)  20.313 ms  17.943 ms  17.974 ms
+"

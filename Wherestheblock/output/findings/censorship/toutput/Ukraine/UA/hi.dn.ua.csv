@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+hi.dn.ua,0,"traceroute to hi.dn.ua (78.109.29.56), 30 hops max, 60 byte packets
+"
+hi.dn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.464 ms  0.454 ms
+"
+hi.dn.ua,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.597 ms  0.588 ms  0.614 ms
+"
+hi.dn.ua,3," 3  ae0-7.RT.HST.ODS.UA.retn.net (87.245.232.165)  8.839 ms  8.826 ms  8.810 ms
+"
+hi.dn.ua,4," 4  GW-HostingUA.retn.net (87.245.247.58)  9.148 ms  9.068 ms  9.184 ms
+"
+hi.dn.ua,5," 5  56.29.109.78.hosting.ua (78.109.29.56)  8.394 ms  11.310 ms  9.015 ms
+"

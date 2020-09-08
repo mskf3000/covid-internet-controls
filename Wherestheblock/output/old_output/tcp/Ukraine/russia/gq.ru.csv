@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+gq.ru,0,"traceroute to gq.ru (92.223.84.84), 50 hops max, 60 byte packets
+"
+gq.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.459 ms  0.448 ms  0.451 ms
+"
+gq.ru,2," 2  169.254.0.2 (169.254.0.2)  17.493 ms  18.539 ms  18.537 ms
+"
+gq.ru,3," 3  92.223.84.84 (92.223.84.84)  16.626 ms  18.498 ms  17.374 ms
+"

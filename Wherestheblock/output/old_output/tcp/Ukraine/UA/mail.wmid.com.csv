@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mail.wmid.com,0,"traceroute to mail.wmid.com (91.217.153.39), 30 hops max, 60 byte packets
+"
+mail.wmid.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.358 ms  0.344 ms  0.366 ms
+"
+mail.wmid.com,2," 2  lattel-10G-gw.ix.net.ua (195.35.65.153)  28.627 ms  31.226 ms  28.613 ms
+"
+mail.wmid.com,3," 3  87.110.223.130 (87.110.223.130)  30.950 ms  26.910 ms  27.013 ms
+"
+mail.wmid.com,4," 4  195.122.18.154 (195.122.18.154)  27.210 ms  27.204 ms  23.049 ms
+"
+mail.wmid.com,5," 5  * * *
+"
+mail.wmid.com,6," 6  wmid.com (91.217.153.39)  23.196 ms  27.281 ms  23.284 ms
+"

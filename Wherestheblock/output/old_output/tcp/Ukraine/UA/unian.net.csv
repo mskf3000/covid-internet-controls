@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+unian.net,0,"traceroute to unian.net (195.137.240.83), 30 hops max, 60 byte packets
+"
+unian.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.297 ms  0.281 ms  0.325 ms
+"
+unian.net,2," 2  1plus1-ix.giganet.ua (185.1.62.90)  0.645 ms  0.742 ms  0.661 ms
+"
+unian.net,3," 3  front02.1plus1.ua (195.137.240.83)  0.816 ms  0.839 ms  0.952 ms
+"

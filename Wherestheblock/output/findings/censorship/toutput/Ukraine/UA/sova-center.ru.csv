@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+sova-center.ru,0,"traceroute to sova-center.ru (95.216.26.115), 30 hops max, 60 byte packets
+"
+sova-center.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.361 ms  0.356 ms  0.382 ms
+"
+sova-center.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.555 ms  0.548 ms  0.533 ms
+"
+sova-center.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.657 ms  35.216 ms  35.195 ms
+"
+sova-center.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  57.465 ms  57.436 ms  57.419 ms
+"
+sova-center.ru,5," 5  core32.hel1.hetzner.com (213.239.224.154)  46.040 ms  43.648 ms  43.473 ms
+"
+sova-center.ru,6," 6  ex9k1.dc2.hel1.hetzner.com (213.239.224.138)  47.525 ms ex9k1.dc2.hel1.hetzner.com (213.239.224.134)  41.455 ms  41.430 ms
+"
+sova-center.ru,7," 7  web1.sova-center.ru (95.216.26.115)  43.726 ms  41.781 ms  44.740 ms
+"
+sova-center.ru,8," 8  web1.sova-center.ru (95.216.26.115)  44.876 ms  43.756 ms  45.922 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+dnrtv.ru,0,"traceroute to dnrtv.ru (190.115.21.130), 30 hops max, 60 byte packets
+"
+dnrtv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.292 ms  0.315 ms
+"
+dnrtv.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.507 ms  1.499 ms  1.484 ms
+"
+dnrtv.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.690 ms  17.689 ms  17.684 ms
+"
+dnrtv.ru,4," 4  * msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.447 ms *
+"
+dnrtv.ru,5," 5  * * 10.0.9.57 (10.0.9.57)  19.426 ms
+"
+dnrtv.ru,6," 6  cpanel.ddos-guard.net (190.115.21.130)  18.972 ms  18.840 ms  21.679 ms
+"

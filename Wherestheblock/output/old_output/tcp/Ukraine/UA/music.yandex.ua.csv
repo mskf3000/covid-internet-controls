@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+music.yandex.ua,0,"traceroute to music.yandex.ua (213.180.204.186), 30 hops max, 60 byte packets
+"
+music.yandex.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.420 ms  0.405 ms  0.419 ms
+"
+music.yandex.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.975 ms  0.905 ms  1.190 ms
+"
+music.yandex.ua,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.247 ms  17.350 ms  17.124 ms
+"
+music.yandex.ua,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.515 ms  22.397 ms  22.418 ms
+"
+music.yandex.ua,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.724 ms  30.668 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.572 ms
+"
+music.yandex.ua,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.406 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.509 ms  49.154 ms
+"
+music.yandex.ua,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.042 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  56.147 ms  53.009 ms
+"
+music.yandex.ua,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  56.420 ms  54.354 ms  56.284 ms
+"
+music.yandex.ua,9," 9  149.11.124.74 (149.11.124.74)  55.922 ms  55.935 ms  52.824 ms
+"
+music.yandex.ua,10,"10  music.yandex.ru (213.180.204.186)  49.583 ms  45.118 ms  55.797 ms
+"

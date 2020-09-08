@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+navalny.com,0,"traceroute to navalny.com (104.27.163.118), 50 hops max, 60 byte packets
+"
+navalny.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.306 ms  0.355 ms
+"
+navalny.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.374 ms  1.437 ms  1.487 ms
+"
+navalny.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.147 ms  19.591 ms  19.184 ms
+"
+navalny.com,4," 4  149.6.50.74 (149.6.50.74)  25.331 ms  23.359 ms  24.374 ms
+"
+navalny.com,5," 5  104.27.163.118 (104.27.163.118)  19.103 ms  19.039 ms  18.990 ms
+"

@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+nbcnews.com,0,"traceroute to nbcnews.com (34.192.145.89), 30 hops max, 60 byte packets
+"
+nbcnews.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.328 ms  0.302 ms  0.288 ms
+"
+nbcnews.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.282 ms  1.028 ms  1.293 ms
+"
+nbcnews.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.180 ms  17.218 ms  17.136 ms
+"
+nbcnews.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.603 ms  22.650 ms  22.690 ms
+"
+nbcnews.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.810 ms  30.753 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.732 ms
+"
+nbcnews.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.474 ms  39.570 ms  39.656 ms
+"
+nbcnews.com,7," 7  be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.188 ms be12265.ccr41.par01.atlas.cogentco.com (130.117.2.142)  116.568 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.001 ms
+"
+nbcnews.com,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.952 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.777 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  119.817 ms
+"
+nbcnews.com,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  117.342 ms  118.349 ms be3472.ccr42.jfk02.atlas.cogentco.com (154.54.46.34)  115.660 ms
+"
+nbcnews.com,10,"10  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  115.685 ms 38.140.106.162 (38.140.106.162)  118.087 ms  119.454 ms
+"
+nbcnews.com,11,"11  52.93.31.55 (52.93.31.55)  119.202 ms 52.93.31.51 (52.93.31.51)  112.528 ms 52.93.31.49 (52.93.31.49)  116.558 ms
+"
+nbcnews.com,12,"12  52.93.4.6 (52.93.4.6)  112.520 ms 52.93.31.37 (52.93.31.37)  114.072 ms 52.93.31.61 (52.93.31.61)  113.847 ms
+"
+nbcnews.com,13,"13  * * *
+"
+nbcnews.com,14,"14  54.240.229.139 (54.240.229.139)  116.912 ms 54.240.229.145 (54.240.229.145)  116.237 ms 54.240.229.139 (54.240.229.139)  116.892 ms
+"
+nbcnews.com,15,"15  * 54.240.229.149 (54.240.229.149)  119.757 ms 54.240.229.145 (54.240.229.145)  116.168 ms
+"
+nbcnews.com,16,"16  * * *
+"
+nbcnews.com,17,"17  * * *
+"
+nbcnews.com,18,"18  * * *
+"
+nbcnews.com,19,"19  * * *
+"
+nbcnews.com,20,"20  * * *
+"
+nbcnews.com,21,"21  * * *
+"
+nbcnews.com,22,"22  * * *
+"
+nbcnews.com,23,"23  * * *
+"
+nbcnews.com,24,"24  * * *
+"
+nbcnews.com,25,"25  52.93.28.86 (52.93.28.86)  118.967 ms * *
+"
+nbcnews.com,26,"26  * * *
+"
+nbcnews.com,27,"27  * * *
+"
+nbcnews.com,28,"28  * * *
+"
+nbcnews.com,29,"29  * * *
+"
+nbcnews.com,30,"30  * * *
+"

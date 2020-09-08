@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+rusvesna.su,0,"traceroute to rusvesna.su (104.20.73.219), 50 hops max, 60 byte packets
+"
+rusvesna.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.275 ms  0.268 ms
+"
+rusvesna.su,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.875 ms  0.975 ms  0.901 ms
+"
+rusvesna.su,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.956 ms  2.235 ms  2.319 ms
+"
+rusvesna.su,4," 4  149.6.191.138 (149.6.191.138)  5.310 ms  5.297 ms  5.293 ms
+"
+rusvesna.su,5," 5  104.20.73.219 (104.20.73.219)  0.519 ms  0.697 ms  0.515 ms
+"

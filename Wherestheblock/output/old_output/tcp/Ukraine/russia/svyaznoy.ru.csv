@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+svyaznoy.ru,0,"traceroute to svyaznoy.ru (185.165.123.35), 50 hops max, 60 byte packets
+"
+svyaznoy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.265 ms  0.294 ms  0.336 ms
+"
+svyaznoy.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.676 ms  0.674 ms  0.696 ms
+"
+svyaznoy.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.217 ms  21.204 ms  21.200 ms
+"
+svyaznoy.ru,4," 4  * * *
+"
+svyaznoy.ru,5," 5  185.165.123.35 (185.165.123.35)  21.085 ms  21.093 ms  20.547 ms
+"

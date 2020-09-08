@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+usaa.com,0,"traceroute to usaa.com (104.96.132.10), 30 hops max, 60 byte packets
+"
+usaa.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.193 ms  1.188 ms  1.186 ms
+"
+usaa.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.579 ms  0.585 ms  0.600 ms
+"
+usaa.com,3," 3  100.64.65.25 (100.64.65.25)  7.911 ms  7.911 ms  7.909 ms
+"
+usaa.com,4," 4  100.64.65.85 (100.64.65.85)  66.530 ms  66.537 ms  66.537 ms
+"
+usaa.com,5," 5  193.203.0.167 (193.203.0.167)  23.407 ms  23.409 ms  23.407 ms
+"
+usaa.com,6," 6  a104-96-132-10.deploy.static.akamaitechnologies.com (104.96.132.10)  18.677 ms  18.616 ms  18.609 ms
+"

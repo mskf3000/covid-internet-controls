@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+fergananews.com,0,"traceroute to fergananews.com (145.239.7.179), 50 hops max, 60 byte packets
+"
+fergananews.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.346 ms  0.352 ms
+"
+fergananews.com,2," 2  * * *
+"
+fergananews.com,3," 3  * * *
+"
+fergananews.com,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  34.000 ms  34.008 ms  34.001 ms
+"
+fergananews.com,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  86.181 ms  86.239 ms  86.284 ms
+"
+fergananews.com,6," 6  be100-1041.ldn-1-a9.uk.eu (94.23.122.145)  55.059 ms  55.770 ms  55.748 ms
+"
+fergananews.com,7," 7  be101.lon1-eri1-g1-nc5.uk.eu (213.186.32.253)  55.341 ms  55.453 ms  55.431 ms
+"
+fergananews.com,8," 8  * * *
+"
+fergananews.com,9," 9  * * *
+"
+fergananews.com,10,"10  * * *
+"
+fergananews.com,11,"11  * * *
+"
+fergananews.com,12,"12  ns3083137.ip-145-239-7.eu (145.239.7.179)  54.810 ms  54.820 ms  54.802 ms
+"

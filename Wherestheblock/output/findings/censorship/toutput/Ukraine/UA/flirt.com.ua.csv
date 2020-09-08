@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+flirt.com.ua,0,"traceroute to flirt.com.ua (193.0.170.24), 30 hops max, 60 byte packets
+"
+flirt.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.288 ms  0.276 ms  0.308 ms
+"
+flirt.com.ua,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.885 ms  0.911 ms  0.905 ms
+"
+flirt.com.ua,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.652 ms  20.636 ms  20.670 ms
+"
+flirt.com.ua,4," 4  GW-MailRU.retn.net (87.245.253.215)  22.870 ms  19.825 ms  22.856 ms
+"
+flirt.com.ua,5," 5  * * *
+"
+flirt.com.ua,6," 6  * * *
+"
+flirt.com.ua,7," 7  mamba.ru (193.0.170.24)  28.815 ms  28.483 ms  21.502 ms
+"

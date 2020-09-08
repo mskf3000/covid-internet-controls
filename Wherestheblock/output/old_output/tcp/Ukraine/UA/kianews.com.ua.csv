@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+kianews.com.ua,0,"traceroute to kianews.com.ua (5.9.2.89), 30 hops max, 60 byte packets
+"
+kianews.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.465 ms  0.455 ms  0.476 ms
+"
+kianews.com.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.467 ms  0.555 ms  0.549 ms
+"
+kianews.com.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.626 ms  28.622 ms  26.118 ms
+"
+kianews.com.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.041 ms  31.040 ms  31.029 ms
+"
+kianews.com.ua,5," 5  core0.fra.hetzner.com (213.239.252.10)  28.482 ms core1.fra.hetzner.com (213.239.245.125)  42.355 ms *
+"
+kianews.com.ua,6," 6  core23.fsn1.hetzner.com (213.239.224.249)  35.593 ms core23.fsn1.hetzner.com (213.239.229.74)  37.474 ms core23.fsn1.hetzner.com (213.239.252.38)  36.922 ms
+"
+kianews.com.ua,7," 7  ex9k1.dc7.fsn1.hetzner.com (213.239.229.234)  36.075 ms ex9k1.dc7.fsn1.hetzner.com (213.239.229.238)  33.575 ms  33.561 ms
+"
+kianews.com.ua,8," 8  static.89.2.9.5.clients.your-server.de (5.9.2.89)  33.096 ms  33.565 ms  33.001 ms
+"

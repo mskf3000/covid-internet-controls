@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mail.km.ru,0,"traceroute to mail.km.ru (83.222.97.197), 50 hops max, 60 byte packets
+"
+mail.km.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.316 ms  0.305 ms  0.348 ms
+"
+mail.km.ru,2," 2  * * *
+"
+mail.km.ru,3," 3  as42632.ix.dataix.ru (178.18.226.32)  18.165 ms  18.160 ms  18.153 ms
+"
+mail.km.ru,4," 4  ip-core.mnogobyte.net (77.220.167.187)  19.308 ms ip-core.mnogobyte.net (77.220.167.114)  17.768 ms  17.814 ms
+"
+mail.km.ru,5," 5  83.222.97.197 (83.222.97.197)  19.724 ms  19.948 ms  18.924 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+bluesystem.info,0,"traceroute to bluesystem.info (91.194.76.10), 50 hops max, 60 byte packets
+"
+bluesystem.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.292 ms  0.318 ms
+"
+bluesystem.info,2," 2  178.18.230.251.dataix (178.18.230.251)  16.136 ms  16.112 ms  16.114 ms
+"
+bluesystem.info,3," 3  as24589.ix.dataix.ru (178.18.224.29)  31.943 ms  32.098 ms  31.543 ms
+"
+bluesystem.info,4," 4  fas43108.mx480.telenet.lv (87.99.76.117)  32.692 ms  34.003 ms  32.754 ms
+"
+bluesystem.info,5," 5  bluesystem.info (91.194.76.10)  35.303 ms  32.615 ms  34.156 ms
+"

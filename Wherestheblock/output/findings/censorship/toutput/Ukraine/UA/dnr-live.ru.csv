@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+dnr-live.ru,0,"traceroute to dnr-live.ru (104.27.171.3), 30 hops max, 60 byte packets
+"
+dnr-live.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.346 ms  0.332 ms  0.348 ms
+"
+dnr-live.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.920 ms  1.016 ms  1.106 ms
+"
+dnr-live.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.155 ms  18.906 ms  19.224 ms
+"
+dnr-live.ru,4," 4  149.6.50.74 (149.6.50.74)  20.910 ms  19.998 ms  20.897 ms
+"
+dnr-live.ru,5," 5  104.27.171.3 (104.27.171.3)  18.462 ms  18.484 ms  18.549 ms
+"

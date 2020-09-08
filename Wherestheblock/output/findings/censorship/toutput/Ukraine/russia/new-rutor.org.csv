@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+new-rutor.org,0,"traceroute to new-rutor.org (37.1.207.109), 50 hops max, 60 byte packets
+"
+new-rutor.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.385 ms  0.372 ms  0.363 ms
+"
+new-rutor.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.936 ms  0.971 ms  1.031 ms
+"
+new-rutor.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.066 ms  17.210 ms  17.150 ms
+"
+new-rutor.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.363 ms  22.396 ms  22.436 ms
+"
+new-rutor.org,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.628 ms  30.604 ms  30.906 ms
+"
+new-rutor.org,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.508 ms  39.593 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.549 ms
+"
+new-rutor.org,7," 7  be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  40.057 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  39.770 ms be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  39.813 ms
+"
+new-rutor.org,8," 8  149.11.39.186 (149.11.39.186)  41.237 ms 149.11.39.188 (149.11.39.188)  44.492 ms 149.11.39.189 (149.11.39.189)  39.402 ms
+"
+new-rutor.org,9," 9  185.8.179.39 (185.8.179.39)  44.616 ms *  44.386 ms
+"
+new-rutor.org,10,"10  185.8.177.33 (185.8.177.33)  46.845 ms  46.365 ms  47.453 ms
+"
+new-rutor.org,11,"11  5.45.85.85 (5.45.85.85)  38.563 ms  38.789 ms  38.790 ms
+"
+new-rutor.org,12,"12  37.1.207.109 (37.1.207.109)  38.734 ms  41.304 ms  41.339 ms
+"

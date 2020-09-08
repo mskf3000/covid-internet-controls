@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+childrenscinema.com,0,"traceroute to childrenscinema.com (46.166.182.54), 30 hops max, 60 byte packets
+"
+childrenscinema.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.317 ms  0.355 ms
+"
+childrenscinema.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.104 ms  1.100 ms  1.052 ms
+"
+childrenscinema.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.922 ms  16.885 ms  16.968 ms
+"
+childrenscinema.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.466 ms  22.191 ms  22.189 ms
+"
+childrenscinema.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.472 ms  30.452 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.451 ms
+"
+childrenscinema.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.531 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.936 ms  50.855 ms
+"
+childrenscinema.com,7," 7  be3197.rcr21.b031955-0.ams03.atlas.cogentco.com (154.54.56.154)  39.798 ms be2519.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.98)  40.001 ms be3198.rcr21.b031955-0.ams03.atlas.cogentco.com (154.54.57.78)  39.732 ms
+"
+childrenscinema.com,8," 8  cogent1-gsa.r2.dba.nl.as43350.com (149.14.82.147)  71.205 ms cogent1-eqx-am5.r1.dba.nl.as43350.com (149.14.82.162)  54.832 ms cogent1-gsa.r2.dba.nl.as43350.com (149.14.82.147)  83.887 ms
+"
+childrenscinema.com,9," 9  46.166.182.54 (46.166.182.54)  37.117 ms  39.539 ms  39.404 ms
+"

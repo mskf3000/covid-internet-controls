@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+rst-dnr.ru,0,"traceroute to rst-dnr.ru (77.222.56.73), 30 hops max, 60 byte packets
+"
+rst-dnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.226 ms  2.215 ms  2.200 ms
+"
+rst-dnr.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.873 ms  0.953 ms  1.011 ms
+"
+rst-dnr.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.102 ms  17.345 ms  17.376 ms
+"
+rst-dnr.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.284 ms  30.276 ms  30.335 ms
+"
+rst-dnr.ru,5," 5  et-0-0-19.cr2-fra6.ip4.gtt.net (89.149.133.62)  30.418 ms  30.405 ms  30.390 ms
+"
+rst-dnr.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.204 ms  41.212 ms  41.003 ms
+"
+rst-dnr.ru,7," 7  188.254.2.85 (188.254.2.85)  62.544 ms  48.652 ms 188.254.2.127 (188.254.2.127)  55.625 ms
+"
+rst-dnr.ru,8," 8  213.59.214.154 (213.59.214.154)  50.071 ms  60.639 ms  50.138 ms
+"
+rst-dnr.ru,9," 9  spb-sdn-gw1.net.p8.ru (31.177.85.165)  52.921 ms  47.369 ms  60.661 ms
+"
+rst-dnr.ru,10,"10  vh235.sweb.ru (77.222.56.73)  60.362 ms  61.568 ms  57.378 ms
+"

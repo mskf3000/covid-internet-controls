@@ -1,0 +1,5 @@
+URL,TTL,Response_Message
+echo.msk.rublognavalny,0,"echo.msk.rublognavalny: Name or service not known
+"
+echo.msk.rublognavalny,1,"Cannot handle ""host"" cmdline arg `echo.msk.rublognavalny' on position 1 (argc 4)
+"

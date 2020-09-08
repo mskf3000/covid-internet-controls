@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+impress.co.jp,0,"traceroute to impress.co.jp (203.183.234.2), 30 hops max, 60 byte packets
+"
+impress.co.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.390 ms  0.383 ms  0.381 ms
+"
+impress.co.jp,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.632 ms  0.633 ms  0.630 ms
+"
+impress.co.jp,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.692 ms  28.687 ms  28.687 ms
+"
+impress.co.jp,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  31.337 ms  31.335 ms  31.349 ms
+"
+impress.co.jp,5," 5  ae17.franco32.fra.seabone.net (195.22.211.205)  31.661 ms  31.647 ms  31.646 ms
+"
+impress.co.jp,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  31.157 ms  31.093 ms  31.202 ms
+"
+impress.co.jp,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  31.911 ms  31.921 ms  31.915 ms
+"
+impress.co.jp,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  132.248 ms * *
+"
+impress.co.jp,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  190.220 ms  190.046 ms  202.667 ms
+"
+impress.co.jp,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  299.614 ms  298.056 ms  297.946 ms
+"
+impress.co.jp,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  291.563 ms  291.589 ms  291.589 ms
+"
+impress.co.jp,12,"12  ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  298.338 ms  298.336 ms  298.334 ms
+"
+impress.co.jp,13,"13  xe-0-0-17-1.a01.tokyjp05.jp.ce.gin.ntt.net (61.213.161.6)  245.405 ms  245.528 ms  245.464 ms
+"
+impress.co.jp,14,"14  158.205.192.141 (158.205.192.141)  245.463 ms  245.573 ms  245.403 ms
+"
+impress.co.jp,15,"15  158.205.192.233 (158.205.192.233)  245.898 ms  245.905 ms  245.810 ms
+"
+impress.co.jp,16,"16  * * *
+"
+impress.co.jp,17,"17  * * *
+"
+impress.co.jp,18,"18  www.impress.co.jp (203.183.234.2)  245.822 ms  245.808 ms  245.780 ms
+"

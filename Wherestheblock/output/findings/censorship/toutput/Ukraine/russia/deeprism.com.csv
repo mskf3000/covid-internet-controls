@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+deeprism.com,0,"traceroute to deeprism.com (104.24.125.230), 50 hops max, 60 byte packets
+"
+deeprism.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.929 ms  0.908 ms  0.902 ms
+"
+deeprism.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.932 ms  0.980 ms  1.030 ms
+"
+deeprism.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.758 ms  19.118 ms  18.781 ms
+"
+deeprism.com,4," 4  149.6.50.74 (149.6.50.74)  22.646 ms  23.121 ms  23.150 ms
+"
+deeprism.com,5," 5  104.24.125.230 (104.24.125.230)  18.402 ms  18.431 ms  18.523 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+mdif.org,0,"traceroute to mdif.org (134.209.235.156), 50 hops max, 60 byte packets
+"
+mdif.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.252 ms  0.275 ms  0.308 ms
+"
+mdif.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.594 ms  0.739 ms  0.770 ms
+"
+mdif.org,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  31.239 ms ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.091 ms  32.243 ms
+"
+mdif.org,4," 4  * * *
+"
+mdif.org,5," 5  * * *
+"
+mdif.org,6," 6  * * *
+"
+mdif.org,7," 7  host5.mdlf.org (134.209.235.156)  45.068 ms  41.166 ms  41.374 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+rk.gov.ru,0,"traceroute to rk.gov.ru (212.110.158.41), 30 hops max, 60 byte packets
+"
+rk.gov.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.276 ms  0.327 ms  0.369 ms
+"
+rk.gov.ru,2," 2  * kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.448 ms *
+"
+rk.gov.ru,3," 3  khar-atr-b1-ae1-vlan2038.fiord.net (80.77.167.150)  6.390 ms  6.875 ms  8.750 ms
+"
+rk.gov.ru,4," 4  vrn-kvt-b1-ae1-vlan2041.fiord.net (62.140.239.8)  89.352 ms  89.366 ms  89.314 ms
+"
+rk.gov.ru,5," 5  bgp-0.krtech.ru (193.47.166.10)  39.121 ms  36.431 ms  36.693 ms
+"
+rk.gov.ru,6," 6  212.110.158.41 (212.110.158.41)  40.021 ms  36.940 ms  39.763 ms
+"

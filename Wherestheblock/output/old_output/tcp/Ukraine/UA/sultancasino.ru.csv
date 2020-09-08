@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+sultancasino.ru,0,"traceroute to sultancasino.ru (185.31.222.227), 30 hops max, 60 byte packets
+"
+sultancasino.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.309 ms  0.324 ms
+"
+sultancasino.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.139 ms  0.914 ms  1.094 ms
+"
+sultancasino.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.936 ms  17.288 ms  17.309 ms
+"
+sultancasino.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  24.729 ms  25.016 ms  25.005 ms
+"
+sultancasino.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.458 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.542 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.761 ms
+"
+sultancasino.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.668 ms  63.344 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.508 ms
+"
+sultancasino.ru,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  47.107 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.831 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  46.740 ms
+"
+sultancasino.ru,8," 8  be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  46.924 ms  46.644 ms  47.004 ms
+"
+sultancasino.ru,9," 9  149.14.144.50 (149.14.144.50)  45.262 ms  43.549 ms  43.503 ms
+"
+sultancasino.ru,10,"10  0.xe-1-0-0.rt1.lthn.continent8.com (5.62.85.111)  43.780 ms  43.870 ms  43.860 ms
+"
+sultancasino.ru,11,"11  0.xe-2-0-1.cr2.idca.continent8.com (5.62.85.120)  52.064 ms  52.108 ms  52.081 ms
+"
+sultancasino.ru,12,"12  2002.xe-1-2-0.dr3.idca.continent8.com (5.62.85.18)  52.504 ms  52.492 ms  52.455 ms
+"
+sultancasino.ru,13,"13  5.62.82.129 (5.62.82.129)  52.116 ms  52.210 ms  52.046 ms
+"
+sultancasino.ru,14,"14  41.222.110.98 (41.222.110.98)  52.606 ms  52.573 ms  52.561 ms
+"
+sultancasino.ru,15,"15  185.31.222.227 (185.31.222.227)  52.872 ms  53.186 ms  52.368 ms
+"

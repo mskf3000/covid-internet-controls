@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+queerussia.info,0,"traceroute to queerussia.info (46.4.244.51), 30 hops max, 60 byte packets
+"
+queerussia.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.893 ms  2.878 ms  2.868 ms
+"
+queerussia.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.607 ms  0.501 ms  0.662 ms
+"
+queerussia.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.721 ms  28.718 ms  28.694 ms
+"
+queerussia.info,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.239 ms  28.671 ms  28.646 ms
+"
+queerussia.info,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.115 ms core5.fra.hetzner.com (213.239.224.218)  35.306 ms core1.fra.hetzner.com (213.239.245.125)  28.589 ms
+"
+queerussia.info,6," 6  core21.fsn1.hetzner.com (213.239.245.13)  33.499 ms core22.fsn1.hetzner.com (213.239.245.17)  51.824 ms core21.fsn1.hetzner.com (213.239.245.13)  36.484 ms
+"
+queerussia.info,7," 7  ex9k1.dc14.fsn1.hetzner.com (213.239.245.82)  35.793 ms ex9k1.dc14.fsn1.hetzner.com (213.239.245.122)  35.874 ms ex9k1.dc14.fsn1.hetzner.com (213.239.245.82)  33.164 ms
+"
+queerussia.info,8," 8  ssd13.linuxpl.com (46.4.244.51)  39.767 ms  39.762 ms  35.566 ms
+"

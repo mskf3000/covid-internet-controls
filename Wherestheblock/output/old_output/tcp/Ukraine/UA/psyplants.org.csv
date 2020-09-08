@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+psyplants.org,0,"traceroute to psyplants.org (184.168.131.241), 30 hops max, 60 byte packets
+"
+psyplants.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.334 ms  0.319 ms  0.360 ms
+"
+psyplants.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.590 ms  0.575 ms  0.835 ms
+"
+psyplants.org,3," 3  ae8-10.RT.IRX.FKT.DE.retn.net (87.245.232.139)  31.194 ms  31.184 ms  30.890 ms
+"
+psyplants.org,4," 4  * * *
+"
+psyplants.org,5," 5  ae-2-30.bear2.Phoenix1.Level3.net (4.69.210.161)  166.104 ms  164.934 ms  166.608 ms
+"
+psyplants.org,6," 6  4.28.83.74 (4.28.83.74)  167.271 ms  167.161 ms  167.127 ms
+"
+psyplants.org,7," 7  ae0.ibrma1205-02.phx3.bb.godaddy.com (148.72.32.2)  166.276 ms  165.335 ms  164.867 ms
+"
+psyplants.org,8," 8  * * *
+"
+psyplants.org,9," 9  148.72.32.9 (148.72.32.9)  166.224 ms  166.575 ms 148.72.32.5 (148.72.32.5)  166.220 ms
+"
+psyplants.org,10,"10  ip-184-168-0-117.ip.secureserver.net (184.168.0.117)  167.670 ms  166.584 ms ip-184-168-0-113.ip.secureserver.net (184.168.0.113)  167.261 ms
+"
+psyplants.org,11,"11  ip-184-168-1-134.ip.secureserver.net (184.168.1.134)  167.619 ms  167.123 ms  166.726 ms
+"
+psyplants.org,12,"12  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.608 ms  167.449 ms  168.052 ms
+"
+psyplants.org,13,"13  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  167.488 ms  167.535 ms  166.254 ms
+"
+psyplants.org,14,"14  ip-184-168-131-241.ip.secureserver.net (184.168.131.241)  166.422 ms  166.221 ms  167.015 ms
+"

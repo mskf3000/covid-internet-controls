@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+vestnikmostok.ru,0,"traceroute to vestnikmostok.ru (77.222.61.30), 30 hops max, 60 byte packets
+"
+vestnikmostok.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.296 ms  0.326 ms
+"
+vestnikmostok.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.937 ms  2.402 ms  2.389 ms
+"
+vestnikmostok.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.106 ms  17.114 ms  17.133 ms
+"
+vestnikmostok.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.088 ms  29.946 ms  29.974 ms
+"
+vestnikmostok.ru,5," 5  et-0-0-19.cr2-fra6.ip4.gtt.net (89.149.133.62)  31.396 ms  31.405 ms  31.368 ms
+"
+vestnikmostok.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  46.906 ms  61.875 ms  46.535 ms
+"
+vestnikmostok.ru,7," 7  213.59.211.255 (213.59.211.255)  41.407 ms 213.59.212.217 (213.59.212.217)  43.609 ms 188.254.25.77 (188.254.25.77)  41.419 ms
+"
+vestnikmostok.ru,8," 8  213.59.214.154 (213.59.214.154)  57.738 ms  61.668 ms  57.068 ms
+"
+vestnikmostok.ru,9," 9  spb-sdn-gw1.net.p8.ru (31.177.85.165)  70.113 ms  53.037 ms  53.206 ms
+"
+vestnikmostok.ru,10,"10  vh47.sweb.ru (77.222.61.30)  53.841 ms  55.956 ms  54.963 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+azart.net.ua,0,"traceroute to azart.net.ua (89.187.169.86), 30 hops max, 60 byte packets
+"
+azart.net.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.254 ms  0.299 ms  0.326 ms
+"
+azart.net.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.096 ms  0.970 ms  1.132 ms
+"
+azart.net.ua,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.295 ms  17.296 ms  17.452 ms
+"
+azart.net.ua,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.477 ms  18.463 ms  18.438 ms
+"
+azart.net.ua,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.411 ms  24.620 ms  24.657 ms
+"
+azart.net.ua,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.962 ms  30.114 ms  29.896 ms
+"
+azart.net.ua,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  30.013 ms  30.225 ms  29.972 ms
+"
+azart.net.ua,8," 8  datacamp.demarc.cogentco.com (149.14.159.226)  33.708 ms  33.675 ms  33.679 ms
+"
+azart.net.ua,9," 9  edge-487.b-cdn.net (89.187.169.86)  33.462 ms  32.810 ms  33.604 ms
+"

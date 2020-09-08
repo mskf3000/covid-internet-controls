@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+dating.ru,0,"traceroute to dating.ru (185.10.61.22), 30 hops max, 60 byte packets
+"
+dating.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.318 ms  0.377 ms
+"
+dating.ru,2," 2  * * *
+"
+dating.ru,3," 3  * * *
+"
+dating.ru,4," 4  10.0.9.181 (10.0.9.181)  16.950 ms  17.057 ms  16.998 ms
+"
+dating.ru,5," 5  ddos-guard.net (185.129.103.4)  16.537 ms  17.317 ms  16.659 ms
+"
+dating.ru,6," 6  185.10.61.22 (185.10.61.22)  17.403 ms  19.166 ms  18.106 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+dnr.one,0,"traceroute to dnr.one (104.27.184.136), 30 hops max, 60 byte packets
+"
+dnr.one,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.287 ms  0.316 ms
+"
+dnr.one,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  12.243 ms  12.224 ms  12.227 ms
+"
+dnr.one,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  30.692 ms  30.654 ms  30.562 ms
+"
+dnr.one,4," 4  149.6.50.74 (149.6.50.74)  31.153 ms  31.149 ms  31.138 ms
+"
+dnr.one,5," 5  104.27.184.136 (104.27.184.136)  30.425 ms  30.163 ms  30.248 ms
+"

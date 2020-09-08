@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+hunafa.info,0,"traceroute to hunafa.info (109.201.135.43), 30 hops max, 60 byte packets
+"
+hunafa.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.350 ms  0.344 ms
+"
+hunafa.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.033 ms  1.103 ms  1.099 ms
+"
+hunafa.info,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.210 ms  17.303 ms  17.449 ms
+"
+hunafa.info,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.274 ms  22.321 ms  22.316 ms
+"
+hunafa.info,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.644 ms  30.622 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.621 ms
+"
+hunafa.info,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.631 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.375 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.586 ms
+"
+hunafa.info,7," 7  be2519.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.98)  40.124 ms be2520.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.102)  40.123 ms be2519.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.98)  40.009 ms
+"
+hunafa.info,8," 8  cogent1-gsa.r2.dba.nl.as43350.com (149.14.82.147)  39.483 ms cogent1-eqx-am5.r2.dba.nl.as43350.com (149.14.82.163)  89.593 ms cogent1-gsa.r2.dba.nl.as43350.com (149.14.82.147)  60.422 ms
+"
+hunafa.info,9," 9  . (109.201.135.43)  39.401 ms  36.967 ms  39.565 ms
+"

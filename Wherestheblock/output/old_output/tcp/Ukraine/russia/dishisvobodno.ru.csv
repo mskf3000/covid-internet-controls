@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+dishisvobodno.ru,0,"traceroute to dishisvobodno.ru (78.140.171.136), 50 hops max, 60 byte packets
+"
+dishisvobodno.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.402 ms  0.388 ms  0.378 ms
+"
+dishisvobodno.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.856 ms  0.994 ms  0.931 ms
+"
+dishisvobodno.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.238 ms  17.222 ms  17.226 ms
+"
+dishisvobodno.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.598 ms  22.460 ms  22.578 ms
+"
+dishisvobodno.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.653 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.465 ms  30.501 ms
+"
+dishisvobodno.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.496 ms  39.425 ms  39.576 ms
+"
+dishisvobodno.ru,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.033 ms be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  40.492 ms be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.467 ms
+"
+dishisvobodno.ru,8," 8  universal-cdn.demarc.cogentco.com (149.6.1.46)  45.107 ms universal-cdn.demarc.cogentco.com (149.6.1.86)  39.477 ms universal-cdn.demarc.cogentco.com (149.6.1.50)  39.470 ms
+"
+dishisvobodno.ru,9," 9  xcore-ams1-wz-r2.webzilla.com (78.140.169.23)  38.541 ms  38.532 ms  38.325 ms
+"
+dishisvobodno.ru,10,"10  * * *
+"
+dishisvobodno.ru,11,"11  solusvm16.v.fozzy.com (78.140.162.165)  37.074 ms  37.049 ms  37.119 ms
+"
+dishisvobodno.ru,12,"12  78.140.171.136 (78.140.171.136)  36.991 ms  37.006 ms  37.619 ms
+"

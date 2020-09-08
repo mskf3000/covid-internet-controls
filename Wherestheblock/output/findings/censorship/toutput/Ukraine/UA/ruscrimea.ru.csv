@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ruscrimea.ru,0,"traceroute to ruscrimea.ru (193.47.33.104), 30 hops max, 60 byte packets
+"
+ruscrimea.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.358 ms  0.388 ms
+"
+ruscrimea.ru,2," 2  * * *
+"
+ruscrimea.ru,3," 3  as56630.ix.dataix.ru (178.18.224.239)  17.423 ms  17.216 ms  17.408 ms
+"
+ruscrimea.ru,4," 4  10.128.0.10 (10.128.0.10)  20.330 ms  20.558 ms  20.682 ms
+"
+ruscrimea.ru,5," 5  vladmashkov1.serv-dns.ru (193.47.33.104)  20.973 ms  19.557 ms  19.727 ms
+"

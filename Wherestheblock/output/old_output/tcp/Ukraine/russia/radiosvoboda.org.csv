@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+radiosvoboda.org,0,"traceroute to radiosvoboda.org (104.108.42.54), 50 hops max, 60 byte packets
+"
+radiosvoboda.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.329 ms  0.316 ms  0.329 ms
+"
+radiosvoboda.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.845 ms  0.925 ms  0.977 ms
+"
+radiosvoboda.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.235 ms  17.186 ms  17.089 ms
+"
+radiosvoboda.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.389 ms  18.400 ms  18.437 ms
+"
+radiosvoboda.org,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.318 ms  24.214 ms  24.208 ms
+"
+radiosvoboda.org,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.902 ms  29.923 ms  30.105 ms
+"
+radiosvoboda.org,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  30.140 ms  30.039 ms  30.004 ms
+"
+radiosvoboda.org,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  29.730 ms  34.524 ms  34.149 ms
+"
+radiosvoboda.org,9," 9  94.31.37.122.IPYX-073920-ZYO.zip.zayo.com (94.31.37.122)  30.121 ms  30.081 ms  30.072 ms
+"
+radiosvoboda.org,10,"10  a104-108-42-54.deploy.static.akamaitechnologies.com (104.108.42.54)  30.521 ms  30.297 ms  30.088 ms
+"

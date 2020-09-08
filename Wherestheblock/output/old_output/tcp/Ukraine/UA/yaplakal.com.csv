@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+yaplakal.com,0,"traceroute to yaplakal.com (5.187.1.122), 30 hops max, 60 byte packets
+"
+yaplakal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.446 ms  2.503 ms  2.635 ms
+"
+yaplakal.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.581 ms  0.616 ms  0.533 ms
+"
+yaplakal.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.666 ms  28.638 ms  28.677 ms
+"
+yaplakal.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  35.551 ms  35.546 ms  35.583 ms
+"
+yaplakal.com,5," 5  firstcolo-ic-322544-ffm-b1.c.telia.net (62.115.51.74)  29.527 ms  33.993 ms  32.330 ms
+"
+yaplakal.com,6," 6  cr03.fra1.de.first-colo.net (212.224.102.133)  30.025 ms  33.916 ms  33.897 ms
+"
+yaplakal.com,7," 7  dsde448-2.fornex.org (5.187.1.122)  28.388 ms  28.475 ms  31.463 ms
+"

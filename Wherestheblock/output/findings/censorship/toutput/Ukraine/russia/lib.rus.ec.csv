@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+lib.rus.ec,0,"traceroute to lib.rus.ec (217.147.169.135), 50 hops max, 60 byte packets
+"
+lib.rus.ec,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.274 ms  0.305 ms
+"
+lib.rus.ec,2," 2  vega-ix.giganet.ua (185.1.62.110)  0.764 ms  0.793 ms  0.678 ms
+"
+lib.rus.ec,3," 3  * * *
+"
+lib.rus.ec,4," 4  compnetworks-gw.kiev.ucomline.net (93.178.205.202)  10.377 ms  8.438 ms  8.408 ms
+"
+lib.rus.ec,5," 5  217.147.169.135 (217.147.169.135)  10.911 ms  10.401 ms  11.081 ms
+"

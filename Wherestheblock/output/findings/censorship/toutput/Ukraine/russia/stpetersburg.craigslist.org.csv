@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+stpetersburg.craigslist.org,0,"traceroute to stpetersburg.craigslist.org (208.82.237.18), 50 hops max, 60 byte packets
+"
+stpetersburg.craigslist.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.326 ms  0.297 ms  0.321 ms
+"
+stpetersburg.craigslist.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.098 ms  2.214 ms  3.731 ms
+"
+stpetersburg.craigslist.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.339 ms  17.393 ms  17.382 ms
+"
+stpetersburg.craigslist.org,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.278 ms  22.547 ms  22.578 ms
+"
+stpetersburg.craigslist.org,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.493 ms  30.493 ms  30.531 ms
+"
+stpetersburg.craigslist.org,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.569 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.742 ms  39.636 ms
+"
+stpetersburg.craigslist.org,7," 7  be12266.ccr42.par01.atlas.cogentco.com (154.54.56.174)  117.380 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  115.918 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.840 ms
+"
+stpetersburg.craigslist.org,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.226 ms  117.561 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  115.485 ms
+"
+stpetersburg.craigslist.org,9," 9  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  120.561 ms  123.345 ms  120.848 ms
+"
+stpetersburg.craigslist.org,10,"10  be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  123.338 ms be2658.ccr22.iad02.atlas.cogentco.com (154.54.47.138)  121.648 ms be2676.ccr22.iad02.atlas.cogentco.com (154.54.47.166)  122.277 ms
+"
+stpetersburg.craigslist.org,11,"11  be2956.rcr21.iad01.atlas.cogentco.com (154.54.30.194)  122.673 ms be2955.rcr21.iad01.atlas.cogentco.com (154.54.30.189)  122.593 ms be2956.rcr21.iad01.atlas.cogentco.com (154.54.30.194)  122.590 ms
+"
+stpetersburg.craigslist.org,12,"12  te0-0-1-0.nr11.b023612-0.iad01.atlas.cogentco.com (154.24.33.218)  125.347 ms te0-0-1-1.nr11.b023612-0.iad01.atlas.cogentco.com (154.24.33.222)  125.089 ms te0-0-1-0.nr11.b023612-0.iad01.atlas.cogentco.com (154.24.33.218)  125.259 ms
+"
+stpetersburg.craigslist.org,13,"13  mail.responsiveds.com (38.104.56.106)  124.114 ms  126.299 ms  126.360 ms
+"
+stpetersburg.craigslist.org,14,"14  s.lb32a.craigslist.org (208.82.237.26)  126.282 ms  126.318 ms  125.159 ms
+"
+stpetersburg.craigslist.org,15,"15  cities.craigslist.org (208.82.237.18)  125.428 ms  126.272 ms  123.918 ms
+"

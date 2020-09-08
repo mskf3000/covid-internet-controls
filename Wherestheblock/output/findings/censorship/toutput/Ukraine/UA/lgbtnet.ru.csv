@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+lgbtnet.ru,0,"traceroute to lgbtnet.ru (88.99.36.6), 30 hops max, 60 byte packets
+"
+lgbtnet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.352 ms  0.382 ms
+"
+lgbtnet.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.677 ms  0.560 ms  0.600 ms
+"
+lgbtnet.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  27.483 ms  28.770 ms  28.764 ms
+"
+lgbtnet.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.534 ms  31.106 ms  31.104 ms
+"
+lgbtnet.ru,5," 5  core5.fra.hetzner.com (213.239.224.218)  35.322 ms core1.fra.hetzner.com (213.239.245.125)  28.506 ms core5.fra.hetzner.com (213.239.224.218)  33.112 ms
+"
+lgbtnet.ru,6," 6  core21.fsn1.hetzner.com (213.239.245.13)  37.497 ms core21.fsn1.hetzner.com (213.239.245.217)  35.900 ms core22.fsn1.hetzner.com (213.239.245.17)  35.767 ms
+"
+lgbtnet.ru,7," 7  spine1.cloud2.fsn1.hetzner.com (213.239.239.126)  34.334 ms spine2.cloud2.fsn1.hetzner.com (213.239.239.130)  37.188 ms spine1.cloud2.fsn1.hetzner.com (213.239.239.126)  34.786 ms
+"
+lgbtnet.ru,8," 8  * * *
+"
+lgbtnet.ru,9," 9  11031.your-cloud.host (159.69.96.33)  36.749 ms  36.733 ms  36.731 ms
+"
+lgbtnet.ru,10,"10  * * *
+"
+lgbtnet.ru,11,"11  * * *
+"
+lgbtnet.ru,12,"12  * * *
+"
+lgbtnet.ru,13,"13  * * *
+"
+lgbtnet.ru,14,"14  * * *
+"
+lgbtnet.ru,15,"15  * * *
+"
+lgbtnet.ru,16,"16  * * *
+"
+lgbtnet.ru,17,"17  * * *
+"
+lgbtnet.ru,18,"18  * * *
+"
+lgbtnet.ru,19,"19  * * *
+"
+lgbtnet.ru,20,"20  * * *
+"
+lgbtnet.ru,21,"21  * * *
+"
+lgbtnet.ru,22,"22  * * *
+"
+lgbtnet.ru,23,"23  * * *
+"
+lgbtnet.ru,24,"24  * * *
+"
+lgbtnet.ru,25,"25  * * *
+"
+lgbtnet.ru,26,"26  * * *
+"
+lgbtnet.ru,27,"27  * * *
+"
+lgbtnet.ru,28,"28  * * *
+"
+lgbtnet.ru,29,"29  * * *
+"
+lgbtnet.ru,30,"30  * * *
+"

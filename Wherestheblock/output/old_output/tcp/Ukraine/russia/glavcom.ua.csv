@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+glavcom.ua,0,"traceroute to glavcom.ua (104.27.182.248), 50 hops max, 60 byte packets
+"
+glavcom.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.282 ms  0.307 ms  0.335 ms
+"
+glavcom.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.996 ms  0.983 ms  1.029 ms
+"
+glavcom.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.060 ms  18.736 ms  18.772 ms
+"
+glavcom.ua,4," 4  149.6.50.74 (149.6.50.74)  22.046 ms  23.024 ms  24.084 ms
+"
+glavcom.ua,5," 5  104.27.182.248 (104.27.182.248)  18.428 ms  18.465 ms  18.516 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+box.com,0,"traceroute to box.com (185.235.236.196), 30 hops max, 60 byte packets
+"
+box.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.324 ms  0.321 ms
+"
+box.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.549 ms  0.545 ms  0.578 ms
+"
+box.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.153 ms  26.149 ms  26.134 ms
+"
+box.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.376 ms  26.322 ms  26.321 ms
+"
+box.com,5," 5  ffm-bb2-link.telia.net (62.115.116.163)  29.298 ms  29.388 ms  29.342 ms
+"
+box.com,6," 6  ffm-b12-link.telia.net (62.115.142.5)  29.006 ms  29.079 ms  29.023 ms
+"
+box.com,7," 7  box-ic-339276-ffm-b4.c.telia.net (213.248.100.199)  28.109 ms  28.306 ms  28.292 ms
+"
+box.com,8," 8  185.235.236.50 (185.235.236.50)  28.124 ms  28.264 ms  28.298 ms
+"
+box.com,9," 9  185.235.236.9 (185.235.236.9)  28.232 ms  28.126 ms  28.057 ms
+"
+box.com,10,"10  185.235.236.196 (185.235.236.196)  28.098 ms  28.091 ms  28.091 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+download.ru,0,"traceroute to download.ru (91.217.153.36), 30 hops max, 60 byte packets
+"
+download.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.290 ms  0.282 ms
+"
+download.ru,2," 2  lattel-10G-gw.ix.net.ua (195.35.65.153)  31.037 ms  30.914 ms  31.068 ms
+"
+download.ru,3," 3  87.110.223.130 (87.110.223.130)  27.154 ms  27.197 ms  27.338 ms
+"
+download.ru,4," 4  195.122.18.154 (195.122.18.154)  27.131 ms  23.036 ms  27.162 ms
+"
+download.ru,5," 5  * * *
+"
+download.ru,6," 6  36.in.wme.lv (91.217.153.36)  26.870 ms  26.714 ms  30.881 ms
+"

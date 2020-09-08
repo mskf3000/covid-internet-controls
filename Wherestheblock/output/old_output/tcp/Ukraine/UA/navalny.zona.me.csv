@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+navalny.zona.me,0,"traceroute to navalny.zona.me (18.191.116.108), 30 hops max, 60 byte packets
+"
+navalny.zona.me,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.494 ms  4.520 ms  4.558 ms
+"
+navalny.zona.me,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.000 ms  0.992 ms  1.110 ms
+"
+navalny.zona.me,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.374 ms  16.959 ms  17.343 ms
+"
+navalny.zona.me,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.638 ms  22.641 ms  22.628 ms
+"
+navalny.zona.me,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.857 ms  30.568 ms  30.821 ms
+"
+navalny.zona.me,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.555 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.447 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.536 ms
+"
+navalny.zona.me,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  117.024 ms  116.586 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  114.917 ms
+"
+navalny.zona.me,8," 8  be2317.ccr41.jfk02.atlas.cogentco.com (154.54.30.185)  115.162 ms be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  120.168 ms be3628.ccr42.jfk02.atlas.cogentco.com (154.54.27.169)  120.056 ms
+"
+navalny.zona.me,9," 9  be3496.ccr31.jfk10.atlas.cogentco.com (154.54.0.142)  116.810 ms  118.642 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  117.370 ms
+"
+navalny.zona.me,10,"10  38.140.106.162 (38.140.106.162)  119.676 ms  118.533 ms 38.140.107.42 (38.140.107.42)  118.696 ms
+"
+navalny.zona.me,11,"11  52.93.31.39 (52.93.31.39)  113.277 ms 52.93.31.51 (52.93.31.51)  114.578 ms 52.93.31.37 (52.93.31.37)  115.561 ms
+"
+navalny.zona.me,12,"12  52.93.4.6 (52.93.4.6)  112.081 ms 52.93.31.43 (52.93.31.43)  118.045 ms 52.93.4.46 (52.93.4.46)  112.283 ms
+"
+navalny.zona.me,13,"13  * * 52.93.4.56 (52.93.4.56)  110.942 ms
+"
+navalny.zona.me,14,"14  54.240.229.145 (54.240.229.145)  128.973 ms 54.240.229.149 (54.240.229.149)  128.689 ms  126.650 ms
+"
+navalny.zona.me,15,"15  * 54.240.229.143 (54.240.229.143)  126.176 ms *
+"
+navalny.zona.me,16,"16  * * *
+"
+navalny.zona.me,17,"17  * * *
+"
+navalny.zona.me,18,"18  * * *
+"
+navalny.zona.me,19,"19  * 52.93.134.155 (52.93.134.155)  127.895 ms 52.93.133.57 (52.93.133.57)  129.283 ms
+"
+navalny.zona.me,20,"20  * * *
+"
+navalny.zona.me,21,"21  52.95.1.176 (52.95.1.176)  127.520 ms 52.95.1.234 (52.95.1.234)  126.577 ms 52.95.1.120 (52.95.1.120)  127.225 ms
+"
+navalny.zona.me,22,"22  52.95.1.245 (52.95.1.245)  127.359 ms 52.95.1.148 (52.95.1.148)  131.154 ms 52.95.1.206 (52.95.1.206)  126.454 ms
+"
+navalny.zona.me,23,"23  52.95.1.164 (52.95.1.164)  132.136 ms 52.95.2.42 (52.95.2.42)  127.487 ms 52.95.2.20 (52.95.2.20)  127.090 ms
+"
+navalny.zona.me,24,"24  52.95.1.255 (52.95.1.255)  128.059 ms 52.95.1.246 (52.95.1.246)  149.515 ms 52.95.1.164 (52.95.1.164)  126.432 ms
+"
+navalny.zona.me,25,"25  52.95.3.146 (52.95.3.146)  128.879 ms 52.95.1.36 (52.95.1.36)  129.935 ms 52.95.3.142 (52.95.3.142)  127.106 ms
+"
+navalny.zona.me,26,"26  52.95.3.146 (52.95.3.146)  126.664 ms  126.599 ms *
+"
+navalny.zona.me,27,"27  * * *
+"
+navalny.zona.me,28,"28  * * *
+"
+navalny.zona.me,29,"29  * * *
+"
+navalny.zona.me,30,"30  * * *
+"

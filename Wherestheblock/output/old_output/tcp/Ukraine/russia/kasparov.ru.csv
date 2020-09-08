@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+kasparov.ru,0,"traceroute to kasparov.ru (216.92.111.41), 50 hops max, 60 byte packets
+"
+kasparov.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.352 ms  0.342 ms
+"
+kasparov.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.353 ms  2.332 ms  2.327 ms
+"
+kasparov.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.943 ms  17.391 ms  17.070 ms
+"
+kasparov.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  23.343 ms  23.344 ms  23.335 ms
+"
+kasparov.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.544 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.422 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.575 ms
+"
+kasparov.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.471 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.734 ms  39.722 ms
+"
+kasparov.ru,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  49.158 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  49.424 ms  49.087 ms
+"
+kasparov.ru,8," 8  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  118.359 ms  118.764 ms  118.514 ms
+"
+kasparov.ru,9," 9  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  125.778 ms be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  125.772 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  125.809 ms
+"
+kasparov.ru,10,"10  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  132.972 ms be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  132.918 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  133.191 ms
+"
+kasparov.ru,11,"11  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  136.238 ms  136.378 ms  136.354 ms
+"
+kasparov.ru,12,"12  38.104.120.218 (38.104.120.218)  136.327 ms  136.316 ms  136.304 ms
+"
+kasparov.ru,13,"13  192.168.1.203 (192.168.1.203)  136.270 ms  135.995 ms  136.007 ms
+"
+kasparov.ru,14,"14  kasparov.ru (216.92.111.41)  136.165 ms  136.065 ms  135.992 ms
+"

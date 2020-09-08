@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+eurasia.org.ru,0,"traceroute to eurasia.org.ru (5.45.79.249), 50 hops max, 60 byte packets
+"
+eurasia.org.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.399 ms  0.425 ms  0.422 ms
+"
+eurasia.org.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.089 ms  0.903 ms  1.112 ms
+"
+eurasia.org.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.313 ms  17.374 ms  17.319 ms
+"
+eurasia.org.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.272 ms  22.219 ms  22.301 ms
+"
+eurasia.org.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  33.156 ms  33.201 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  33.645 ms
+"
+eurasia.org.ru,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.317 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.529 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.646 ms
+"
+eurasia.org.ru,7," 7  be3458.ccr21.ams04.atlas.cogentco.com (154.54.39.186)  39.716 ms be3457.ccr21.ams04.atlas.cogentco.com (130.117.1.10)  39.646 ms  39.937 ms
+"
+eurasia.org.ru,8," 8  * * *
+"
+eurasia.org.ru,9," 9  * * *
+"
+eurasia.org.ru,10,"10  5.178.67.25 (5.178.67.25)  44.230 ms  44.190 ms  44.190 ms
+"
+eurasia.org.ru,11,"11  5.45.79.249 (5.45.79.249)  41.597 ms  38.433 ms  41.504 ms
+"

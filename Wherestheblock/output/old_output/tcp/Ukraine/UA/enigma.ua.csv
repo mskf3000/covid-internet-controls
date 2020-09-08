@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+enigma.ua,0,"traceroute to enigma.ua (104.25.211.100), 30 hops max, 60 byte packets
+"
+enigma.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.325 ms  0.545 ms
+"
+enigma.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.898 ms  1.058 ms  0.952 ms
+"
+enigma.ua,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.859 ms  0.964 ms  2.268 ms
+"
+enigma.ua,4," 4  149.6.191.138 (149.6.191.138)  0.559 ms  0.562 ms  0.552 ms
+"
+enigma.ua,5," 5  104.25.211.100 (104.25.211.100)  0.546 ms  0.521 ms  0.501 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+mincult.govdnr.ru,0,"traceroute to mincult.govdnr.ru (87.226.218.132), 30 hops max, 60 byte packets
+"
+mincult.govdnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.348 ms  0.395 ms  0.387 ms
+"
+mincult.govdnr.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.587 ms  0.579 ms  0.616 ms
+"
+mincult.govdnr.ru,3," 3  100.64.65.25 (100.64.65.25)  8.240 ms  7.759 ms  7.757 ms
+"
+mincult.govdnr.ru,4," 4  100.64.64.141 (100.64.64.141)  30.402 ms  30.430 ms  30.418 ms
+"
+mincult.govdnr.ru,5," 5  frkt-ar2.intl.ip.rostelecom.ru (80.81.194.31)  42.681 ms  42.664 ms  42.997 ms
+"
+mincult.govdnr.ru,6," 6  188.254.25.75 (188.254.25.75)  56.555 ms 213.59.212.217 (213.59.212.217)  45.832 ms 213.59.211.237 (213.59.211.237)  59.307 ms
+"
+mincult.govdnr.ru,7," 7  87.226.196.97 (87.226.196.97)  67.558 ms  66.474 ms  59.519 ms
+"
+mincult.govdnr.ru,8," 8  87.226.218.132 (87.226.218.132)  74.860 ms  73.947 ms  79.623 ms
+"

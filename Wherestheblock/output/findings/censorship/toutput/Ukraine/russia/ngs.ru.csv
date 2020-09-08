@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ngs.ru,0,"traceroute to ngs.ru (195.93.187.17), 50 hops max, 60 byte packets
+"
+ngs.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.419 ms  0.407 ms  0.399 ms
+"
+ngs.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.057 ms  17.557 ms  17.580 ms
+"
+ngs.ru,3," 3  * * *
+"
+ngs.ru,4," 4  10.0.92.145 (10.0.92.145)  20.576 ms 10.0.92.141 (10.0.92.141)  20.411 ms  17.037 ms
+"
+ngs.ru,5," 5  ddos-guard.net (185.129.101.222)  20.108 ms  18.412 ms  19.756 ms
+"
+ngs.ru,6," 6  egw4.cm33.nsk.net.hsdrn.ru (95.156.64.234)  60.931 ms  60.434 ms  60.413 ms
+"
+ngs.ru,7," 7  1889.lb.nsk.net.hsdrn.ru (195.93.186.5)  60.866 ms  82.670 ms  81.966 ms
+"
+ngs.ru,8," 8  webcluster.nsk.net.hsdrn.ru (195.93.187.17)  58.435 ms  58.376 ms  57.627 ms
+"

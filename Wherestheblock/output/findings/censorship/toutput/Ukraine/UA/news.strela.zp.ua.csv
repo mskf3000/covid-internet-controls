@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+news.strela.zp.ua,0,"traceroute to news.strela.zp.ua (185.72.246.50), 30 hops max, 60 byte packets
+"
+news.strela.zp.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.288 ms  0.316 ms
+"
+news.strela.zp.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.557 ms  0.633 ms  0.622 ms
+"
+news.strela.zp.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.180 ms  26.158 ms  30.954 ms
+"
+news.strela.zp.ua,4," 4  decix.23media.de (80.81.194.253)  28.914 ms  31.449 ms  31.399 ms
+"
+news.strela.zp.ua,5," 5  62.113.192.114 (62.113.192.114)  30.757 ms 62.113.192.121 (62.113.192.121)  28.906 ms 62.113.192.114 (62.113.192.114)  30.818 ms
+"
+news.strela.zp.ua,6," 6  * * *
+"
+news.strela.zp.ua,7," 7  vpsradbug1.strelaua.com (185.72.246.50)  28.822 ms  29.160 ms  29.098 ms
+"

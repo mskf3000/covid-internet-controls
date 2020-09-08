@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+mv.ecuo.org,0,"traceroute to mv.ecuo.org (185.196.70.62), 50 hops max, 60 byte packets
+"
+mv.ecuo.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.283 ms  0.301 ms
+"
+mv.ecuo.org,2," 2  colocall2-ix.giganet.ua (185.1.62.177)  0.664 ms  0.655 ms  0.682 ms
+"
+mv.ecuo.org,3," 3  bts-kbp.colocall.net (62.149.31.138)  22.907 ms  22.997 ms  22.781 ms
+"
+mv.ecuo.org,4," 4  web02.avtohost.com (185.196.70.62)  22.774 ms  22.689 ms  22.760 ms
+"

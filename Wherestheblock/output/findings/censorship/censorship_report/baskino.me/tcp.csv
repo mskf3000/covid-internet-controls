@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+baskino.me,0,"traceroute to baskino.me (172.64.172.19), 50 hops max, 60 byte packets
+"
+baskino.me,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.281 ms  0.300 ms
+"
+baskino.me,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.829 ms  0.981 ms  0.893 ms
+"
+baskino.me,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.197 ms  17.240 ms  17.039 ms
+"
+baskino.me,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.318 ms  18.334 ms  18.104 ms
+"
+baskino.me,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.473 ms  24.516 ms  24.442 ms
+"
+baskino.me,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.932 ms  30.024 ms  29.995 ms
+"
+baskino.me,7," 7  be2800.ccr42.par01.atlas.cogentco.com (154.54.58.238)  39.460 ms  39.534 ms  39.309 ms
+"
+baskino.me,8," 8  be3594.rcr21.b019498-0.par01.atlas.cogentco.com (154.54.60.126)  39.783 ms  39.601 ms  40.223 ms
+"
+baskino.me,9," 9  * * 149.11.0.126 (149.11.0.126)  113.961 ms
+"
+baskino.me,10,"10  172.64.172.19 (172.64.172.19)  39.473 ms  38.882 ms  40.026 ms
+"

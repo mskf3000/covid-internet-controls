@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+ikd.ru,0,"traceroute to ikd.ru (185.92.148.186), 30 hops max, 60 byte packets
+"
+ikd.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.522 ms  2.527 ms  2.519 ms
+"
+ikd.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.065 ms  1.040 ms  1.146 ms
+"
+ikd.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.935 ms  36.474 ms  36.477 ms
+"
+ikd.ru,4," 4  * * *
+"
+ikd.ru,5," 5  * * *
+"
+ikd.ru,6," 6  vm831848.had.su (185.92.148.186)  39.971 ms  38.764 ms  39.035 ms
+"

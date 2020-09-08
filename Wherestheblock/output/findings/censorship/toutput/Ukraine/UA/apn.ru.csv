@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+apn.ru,0,"traceroute to apn.ru (79.137.226.132), 30 hops max, 60 byte packets
+"
+apn.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.297 ms  0.354 ms
+"
+apn.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.896 ms  16.904 ms  16.892 ms
+"
+apn.ru,3," 3  as12695.ix.dataix.ru (178.18.226.50)  17.131 ms  18.372 ms  17.128 ms
+"
+apn.ru,4," 4  vl-725.sr5.msk7.ip.di-net.ru (213.248.3.65)  17.367 ms  16.845 ms  17.102 ms
+"
+apn.ru,5," 5  79.137.226.132 (79.137.226.132)  18.278 ms  18.242 ms  18.369 ms
+"

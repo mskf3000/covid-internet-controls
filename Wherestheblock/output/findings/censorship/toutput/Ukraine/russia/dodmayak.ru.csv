@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+dodmayak.ru,0,"traceroute to dodmayak.ru (37.140.192.136), 50 hops max, 60 byte packets
+"
+dodmayak.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.311 ms  0.324 ms
+"
+dodmayak.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.578 ms  0.623 ms  0.562 ms
+"
+dodmayak.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.077 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.141 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.113 ms
+"
+dodmayak.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.063 ms *  16.958 ms
+"
+dodmayak.ru,5," 5  10.0.9.41 (10.0.9.41)  18.953 ms 10.0.9.57 (10.0.9.57)  19.317 ms 10.0.9.41 (10.0.9.41)  19.409 ms
+"
+dodmayak.ru,6," 6  10.0.9.41 (10.0.9.41)  18.120 ms * *
+"
+dodmayak.ru,7," 7  * 172.16.72.11 (172.16.72.11)  18.443 ms  19.073 ms
+"
+dodmayak.ru,8," 8  172.16.72.11 (172.16.72.11)  17.533 ms  18.091 ms spl63.hosting.reg.ru (37.140.192.136)  19.703 ms
+"

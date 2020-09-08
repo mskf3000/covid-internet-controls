@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+novorossia.pro,0,"traceroute to novorossia.pro (46.30.44.20), 30 hops max, 60 byte packets
+"
+novorossia.pro,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.465 ms  0.446 ms  0.435 ms
+"
+novorossia.pro,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.013 ms  2.006 ms  2.031 ms
+"
+novorossia.pro,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.967 ms  17.971 ms  17.957 ms
+"
+novorossia.pro,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.499 ms  22.611 ms  22.710 ms
+"
+novorossia.pro,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.684 ms  30.891 ms  30.884 ms
+"
+novorossia.pro,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.356 ms  39.909 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.980 ms
+"
+novorossia.pro,7," 7  be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  39.921 ms be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  39.693 ms  39.785 ms
+"
+novorossia.pro,8," 8  149.29.3.110 (149.29.3.110)  37.140 ms  38.042 ms  38.016 ms
+"
+novorossia.pro,9," 9  vh2.eurobyte.ru (46.30.44.20)  36.266 ms  36.690 ms  36.486 ms
+"

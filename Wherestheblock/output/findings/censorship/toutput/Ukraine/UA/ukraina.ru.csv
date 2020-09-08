@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ukraina.ru,0,"traceroute to ukraina.ru (178.248.233.60), 30 hops max, 60 byte packets
+"
+ukraina.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.985 ms  2.996 ms  2.983 ms
+"
+ukraina.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.609 ms  0.596 ms  2.568 ms
+"
+ukraina.ru,3," 3  10.11.12.17 (10.11.12.17)  1.015 ms  0.986 ms  0.973 ms
+"
+ukraina.ru,4," 4  * * *
+"
+ukraina.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.902 ms  0.970 ms  0.952 ms
+"
+ukraina.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.533 ms  19.634 ms  19.620 ms
+"
+ukraina.ru,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.549 ms  19.545 ms  19.532 ms
+"
+ukraina.ru,8," 8  178.248.233.60 (178.248.233.60)  19.502 ms  19.482 ms  19.479 ms
+"

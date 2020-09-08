@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+1tv.ru,0,"traceroute to 1tv.ru (81.177.156.117), 50 hops max, 60 byte packets
+"
+1tv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.296 ms  0.335 ms  0.329 ms
+"
+1tv.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.244 ms  1.239 ms  1.230 ms
+"
+1tv.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.453 ms  17.464 ms  17.416 ms
+"
+1tv.ru,4," 4  ae2.cr2-bts1.ip4.gtt.net (213.254.226.153)  30.093 ms  30.086 ms  30.117 ms
+"
+1tv.ru,5," 5  et-0-0-5.cr2-fra6.ip4.gtt.net (213.200.116.226)  29.811 ms  29.809 ms  29.797 ms
+"
+1tv.ru,6," 6  rostel-gw.ip4.gtt.net (77.67.90.99)  41.252 ms  41.248 ms  41.716 ms
+"
+1tv.ru,7," 7  213.59.212.113 (213.59.212.113)  44.093 ms 87.226.183.91 (87.226.183.91)  44.597 ms  49.291 ms
+"
+1tv.ru,8," 8  msk-bgw1-xe-2-0-0-0.rt-comm.ru (195.161.4.137)  44.904 ms 213.24.114.170 (213.24.114.170)  43.733 ms  43.750 ms
+"
+1tv.ru,9," 9  msk-bgw1-xe-0-2-0-0.rt-comm.ru (217.106.6.166)  42.550 ms 195.161.2.142 (195.161.2.142)  50.150 ms msk-bgw1-xe-0-2-0-0.rt-comm.ru (217.106.6.166)  41.217 ms
+"
+1tv.ru,10,"10  msk-bgw1-xe-0-2-0-0.rt-comm.ru (217.106.6.166)  41.241 ms 81.177.156.117 (81.177.156.117)  43.163 ms msk-bgw1-xe-0-2-0-0.rt-comm.ru (217.106.6.166)  40.365 ms
+"

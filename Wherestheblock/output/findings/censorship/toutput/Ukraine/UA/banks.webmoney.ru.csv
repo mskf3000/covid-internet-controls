@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+banks.webmoney.ru,0,"traceroute to banks.webmoney.ru (91.227.52.191), 30 hops max, 60 byte packets
+"
+banks.webmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.370 ms  0.351 ms  0.330 ms
+"
+banks.webmoney.ru,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.482 ms  0.470 ms  0.457 ms
+"
+banks.webmoney.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.017 ms  16.002 ms  15.999 ms
+"
+banks.webmoney.ru,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.803 ms  15.922 ms  15.900 ms
+"
+banks.webmoney.ru,5," 5  88.210.48.237 (88.210.48.237)  17.114 ms  16.999 ms  17.142 ms
+"
+banks.webmoney.ru,6," 6  91.227.52.191 (91.227.52.191)  16.944 ms  16.919 ms  16.917 ms
+"

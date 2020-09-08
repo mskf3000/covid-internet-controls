@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+woman.ru,0,"traceroute to woman.ru (195.226.222.212), 50 hops max, 60 byte packets
+"
+woman.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.075 ms  1.060 ms  1.049 ms
+"
+woman.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.794 ms  17.021 ms  16.242 ms
+"
+woman.ru,3," 3  * * *
+"
+woman.ru,4," 4  10.0.92.141 (10.0.92.141)  16.596 ms  17.355 ms 10.0.92.145 (10.0.92.145)  18.179 ms
+"
+woman.ru,5," 5  185.129.102.205 (185.129.102.205)  45.138 ms  46.313 ms  46.293 ms
+"
+woman.ru,6," 6  host254.dc-ekat.w.rugion.ru (195.226.222.254)  47.835 ms  46.837 ms  47.042 ms
+"
+woman.ru,7," 7  host212.dc-ekat.w.rugion.ru (195.226.222.212)  46.787 ms  43.901 ms  44.409 ms
+"

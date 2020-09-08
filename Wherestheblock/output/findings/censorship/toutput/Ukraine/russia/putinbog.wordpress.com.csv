@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+putinbog.wordpress.com,0,"traceroute to putinbog.wordpress.com (192.0.78.14), 50 hops max, 60 byte packets
+"
+putinbog.wordpress.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.282 ms  2.294 ms  2.349 ms
+"
+putinbog.wordpress.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.809 ms  0.815 ms  0.808 ms
+"
+putinbog.wordpress.com,3," 3  ae2-7.RT.IRX.VIE.AT.retn.net (87.245.233.137)  21.764 ms  21.675 ms  21.741 ms
+"
+putinbog.wordpress.com,4," 4  as2635.vix.at (193.203.0.221)  19.420 ms  19.516 ms  19.506 ms
+"
+putinbog.wordpress.com,5," 5  192.0.78.14 (192.0.78.14)  18.753 ms  19.152 ms  19.035 ms
+"

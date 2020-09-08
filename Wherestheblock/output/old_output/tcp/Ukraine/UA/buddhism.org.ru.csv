@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+buddhism.org.ru,0,"traceroute to buddhism.org.ru (185.12.93.38), 30 hops max, 60 byte packets
+"
+buddhism.org.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.347 ms  0.331 ms  0.353 ms
+"
+buddhism.org.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.033 ms  16.793 ms  16.408 ms
+"
+buddhism.org.ru,3," 3  * * *
+"
+buddhism.org.ru,4," 4  10.0.92.141 (10.0.92.141)  16.188 ms  16.181 ms 10.0.92.145 (10.0.92.145)  17.438 ms
+"
+buddhism.org.ru,5," 5  ddos-guard.net (185.129.101.215)  17.526 ms  17.576 ms  17.570 ms
+"
+buddhism.org.ru,6," 6  188.92.242.246 (188.92.242.246)  66.554 ms  66.250 ms  66.325 ms
+"
+buddhism.org.ru,7," 7  dorado.deserv.net (185.12.93.38)  19.882 ms  18.273 ms  18.333 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+kinozal.tv,0,"traceroute to kinozal.tv (104.27.141.68), 50 hops max, 60 byte packets
+"
+kinozal.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.421 ms  0.436 ms
+"
+kinozal.tv,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.879 ms  0.925 ms  1.022 ms
+"
+kinozal.tv,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.902 ms  18.958 ms  18.938 ms
+"
+kinozal.tv,4," 4  149.6.50.74 (149.6.50.74)  23.494 ms  24.770 ms  22.649 ms
+"
+kinozal.tv,5," 5  104.27.141.68 (104.27.141.68)  18.579 ms  18.453 ms  18.478 ms
+"

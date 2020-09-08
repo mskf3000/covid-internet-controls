@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+lubovy.ru,0,"traceroute to lubovy.ru (193.0.170.23), 50 hops max, 60 byte packets
+"
+lubovy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.282 ms  0.276 ms
+"
+lubovy.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.604 ms  0.632 ms  0.625 ms
+"
+lubovy.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  45.123 ms  20.595 ms  45.118 ms
+"
+lubovy.ru,4," 4  GW-MailRU.retn.net (87.245.253.215)  19.694 ms  19.863 ms  19.682 ms
+"
+lubovy.ru,5," 5  * * *
+"
+lubovy.ru,6," 6  * * *
+"
+lubovy.ru,7," 7  mamba.ru (193.0.170.23)  21.027 ms  20.793 ms  22.585 ms
+"

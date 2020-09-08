@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+disk.yandex.ru,0,"traceroute to disk.yandex.ru (87.250.250.50), 30 hops max, 60 byte packets
+"
+disk.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.040 ms  2.025 ms  2.040 ms
+"
+disk.yandex.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.288 ms  1.452 ms  1.492 ms
+"
+disk.yandex.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.496 ms  17.469 ms  17.445 ms
+"
+disk.yandex.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.986 ms  22.735 ms  22.694 ms
+"
+disk.yandex.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.001 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.343 ms  31.336 ms
+"
+disk.yandex.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.584 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.310 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.237 ms
+"
+disk.yandex.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.234 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  52.572 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.190 ms
+"
+disk.yandex.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  52.797 ms  53.087 ms  56.349 ms
+"
+disk.yandex.ru,9," 9  149.11.124.74 (149.11.124.74)  55.920 ms  52.639 ms  52.624 ms
+"
+disk.yandex.ru,10,"10  disk-front.stable.qloud-b.yandex.net (87.250.250.50)  53.795 ms  54.542 ms  54.209 ms
+"

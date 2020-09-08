@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+adf.ly,0,"traceroute to adf.ly (104.20.18.254), 30 hops max, 60 byte packets
+"
+adf.ly,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.546 ms  2.538 ms  2.577 ms
+"
+adf.ly,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.888 ms  0.947 ms  0.988 ms
+"
+adf.ly,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.029 ms  2.538 ms  2.538 ms
+"
+adf.ly,4," 4  149.6.191.138 (149.6.191.138)  4.929 ms  4.939 ms  4.937 ms
+"
+adf.ly,5," 5  104.20.18.254 (104.20.18.254)  0.599 ms  0.585 ms  0.626 ms
+"

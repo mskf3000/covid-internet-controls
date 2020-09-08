@@ -1,0 +1,45 @@
+URL,TTL,Response_Message
+bidverdrd.com,0,"traceroute to bidverdrd.com (216.200.199.56), 50 hops max, 60 byte packets
+"
+bidverdrd.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.278 ms  0.299 ms  0.339 ms
+"
+bidverdrd.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.859 ms  0.878 ms  0.938 ms
+"
+bidverdrd.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.320 ms  17.336 ms  17.281 ms
+"
+bidverdrd.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.294 ms  18.289 ms  18.334 ms
+"
+bidverdrd.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.321 ms  24.242 ms  24.295 ms
+"
+bidverdrd.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.810 ms  30.237 ms  29.827 ms
+"
+bidverdrd.com,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  30.148 ms  29.946 ms  29.880 ms
+"
+bidverdrd.com,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  29.934 ms  29.656 ms  29.635 ms
+"
+bidverdrd.com,9," 9  ae27.cs1.fra9.de.eth.zayo.com (64.125.30.254)  180.354 ms  180.607 ms  180.584 ms
+"
+bidverdrd.com,10,"10  ae0.cs1.fra6.de.eth.zayo.com (64.125.29.54)  180.558 ms  180.510 ms  180.596 ms
+"
+bidverdrd.com,11,"11  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  180.513 ms  180.573 ms  180.562 ms
+"
+bidverdrd.com,12,"12  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  180.489 ms  180.936 ms  180.514 ms
+"
+bidverdrd.com,13,"13  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  181.354 ms  180.994 ms  181.258 ms
+"
+bidverdrd.com,14,"14  * * *
+"
+bidverdrd.com,15,"15  * * *
+"
+bidverdrd.com,16,"16  * * *
+"
+bidverdrd.com,17,"17  ae5.cs1.den5.us.eth.zayo.com (64.125.29.19)  180.378 ms  180.382 ms  180.365 ms
+"
+bidverdrd.com,18,"18  ae6.cs1.sjc2.us.eth.zayo.com (64.125.31.219)  180.349 ms  180.345 ms  180.716 ms
+"
+bidverdrd.com,19,"19  ae27.cr1.sjc2.us.zip.zayo.com (64.125.30.231)  180.710 ms  180.560 ms  180.474 ms
+"
+bidverdrd.com,20,"20  ae12.er1.sjc2.us.zip.zayo.com (64.125.25.22)  180.287 ms  180.372 ms  180.324 ms
+"
+bidverdrd.com,21,"21  216.200.199.56.bpath.com (216.200.199.56)  181.036 ms  181.034 ms  180.930 ms
+"

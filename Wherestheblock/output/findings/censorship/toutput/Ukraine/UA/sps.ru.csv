@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+sps.ru,0,"traceroute to sps.ru (185.246.152.42), 30 hops max, 60 byte packets
+"
+sps.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.948 ms  0.923 ms  0.913 ms
+"
+sps.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.544 ms  0.538 ms  0.578 ms
+"
+sps.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.963 ms  35.943 ms  35.975 ms
+"
+sps.ru,4," 4  80.249.212.199 (80.249.212.199)  33.708 ms  36.250 ms  36.234 ms
+"
+sps.ru,5," 5  vm297442.melbi.space (185.246.152.42)  34.210 ms  33.863 ms  33.758 ms
+"

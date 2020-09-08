@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+getto.ru,0,"traceroute to getto.ru (194.58.112.173), 30 hops max, 60 byte packets
+"
+getto.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.319 ms  0.284 ms  0.292 ms
+"
+getto.ru,2," 2  * * *
+"
+getto.ru,3," 3  * * *
+"
+getto.ru,4," 4  10.0.9.165 (10.0.9.165)  16.981 ms  19.341 ms 10.0.9.181 (10.0.9.181)  18.470 ms
+"
+getto.ru,5," 5  * * *
+"
+getto.ru,6," 6  * * *
+"
+getto.ru,7," 7  * * *
+"
+getto.ru,8," 8  parking.reg.ru (194.58.112.173)  18.825 ms  20.359 ms  20.985 ms
+"

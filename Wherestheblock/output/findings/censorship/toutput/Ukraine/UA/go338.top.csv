@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+go338.top,0,"traceroute to go338.top (104.24.108.14), 30 hops max, 60 byte packets
+"
+go338.top,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.340 ms  0.381 ms
+"
+go338.top,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  2.975 ms  0.529 ms  2.998 ms
+"
+go338.top,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.696 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.425 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.678 ms
+"
+go338.top,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  23.153 ms  23.148 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  28.115 ms
+"
+go338.top,5," 5  104.24.108.14 (104.24.108.14)  18.563 ms cloudflare-peering.fiord.net (80.77.167.7)  19.464 ms 104.24.108.14 (104.24.108.14)  18.356 ms
+"

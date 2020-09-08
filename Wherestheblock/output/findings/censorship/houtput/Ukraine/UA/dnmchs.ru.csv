@@ -1,0 +1,848 @@
+URL,TTL,Message
+dnmchs.ru,1,timed out
+dnmchs.ru,2,timed out
+dnmchs.ru,3,timed out
+dnmchs.ru,4,timed out
+dnmchs.ru,5,timed out
+dnmchs.ru,6,timed out
+dnmchs.ru,7,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:23 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e"
+dnmchs.ru,8,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:23 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,9,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:24 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,10,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:25 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,11,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:26 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,12,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:27 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e"
+dnmchs.ru,13,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:27 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e) { }
+            });
+
+            var n = d.getElementsByTagName(""script"")[0],
+                s = d.createElement(""script""),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = ""text/javascript"";
+            s.async = true;
+            s.src = ""https://mc.yandex.ru/metrika/tag.js"";
+
+            if (w.opera == ""[object Opera]"") {
+                d.addEventListener(""DOMContentLoaded"", f, false);
+            } else { f(); }
+        })(document, window, ""yandex_metrika_callbacks2"");
+    </script>
+    <noscript>
+        <div>
+            <img src=""https://mc.yandex.ru/watch/49243642"" style=""position:absolute; left:-9999px;"" alt="""" />
+        </div>
+    </noscript>
+    
+    <header class=""header"">
+        <div class=""header-top"">
+            <div class=""header-top-left"">
+                <div class=""header-top-left-element"">
+                    Государственные услуги
+                </div>
+                <div class=""header-top-left-element"">
+                    Подписаться на новости
+                </div>
+            </div>
+            <div class=""header-top-center"">
+                <a href=""https://t.me/mchs_dnr"" target=""_blank"">
+                    <div class=""header-top-center-element"">
+                        <img src=""/stati"
+dnmchs.ru,14,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:28 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,15,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:29 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e"
+dnmchs.ru,16,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:29 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,17,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:30 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,18,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,19,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,20,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:32 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e"
+dnmchs.ru,21,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,22,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,23,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,24,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:35 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,25,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,26,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,27,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:37 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e"
+dnmchs.ru,28,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:38 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/sta"
+dnmchs.ru,29,"HTTP/1.1 200 OK
+Date: Wed, 22 Jan 2020 21:55:38 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+4289
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=""utf-8"">
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+    <title>МЧС ДНР - МЧС Донецкой Народной Республики</title>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <meta name=""keywords"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+    <meta name=""description"" content=""официальный сайт мчс днр  МИНИСТЕРСТВО   по  делам  гражданской  обороны чрезвычайным ситуациям и ликвидации последствий стихийных бедствий  Донецкой Народной Республики"">
+
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/main.css"" />
+    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""/static/css/body.css"" />
+    <link rel=""icon"" type=""image/icon"" href=""/static/img/favico.ico"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick.css"" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/static/css/slick-theme.css"" />
+
+    <script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js""></script>
+    <script src=""/static/js/calendar.js""></script>
+
+    <script>
+
+        
+        $(document).ready(function () {
+            var HeaderTop = $('#menu').offset().top;
+            $(""img"").removeAttr(""title"");
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > HeaderTop) {
+                    $('#menu').css({ position: 'fixed', top: '0px', left: '0px' });
+                } else {
+                    $('#menu').css({ position: 'static' });
+                }
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+
+
+    
+    <script type=""text/javascript"">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter49243642 = new Ya.Metrika2({
+                        id: 49243642,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e"

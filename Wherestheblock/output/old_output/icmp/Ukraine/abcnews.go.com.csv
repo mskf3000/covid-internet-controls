@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+abcnews.go.com,0,"traceroute to abcnews.go.com (13.225.78.97), 30 hops max, 60 byte packets
+"
+abcnews.go.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.273 ms  0.301 ms  0.350 ms
+"
+abcnews.go.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.907 ms  0.943 ms  1.012 ms
+"
+abcnews.go.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.430 ms  17.447 ms  17.491 ms
+"
+abcnews.go.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  17.982 ms  18.147 ms  18.146 ms
+"
+abcnews.go.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.436 ms  24.454 ms  24.521 ms
+"
+abcnews.go.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  30.168 ms  30.173 ms  30.166 ms
+"
+abcnews.go.com,7," 7  amazon.demarc.cogentco.com (149.14.159.194)  29.721 ms  29.659 ms  29.662 ms
+"
+abcnews.go.com,8," 8  52.93.111.2 (52.93.111.2)  29.306 ms  29.636 ms  29.760 ms
+"
+abcnews.go.com,9," 9  54.239.107.43 (54.239.107.43)  31.071 ms  32.091 ms  31.054 ms
+"
+abcnews.go.com,10,"10  54.239.5.25 (54.239.5.25)  28.964 ms  29.045 ms  29.132 ms
+"
+abcnews.go.com,11,"11  54.239.106.152 (54.239.106.152)  29.039 ms  29.413 ms  29.454 ms
+"
+abcnews.go.com,12,"12  52.93.244.135 (52.93.244.135)  28.337 ms  28.377 ms  28.372 ms
+"
+abcnews.go.com,13,"13  * * *
+"
+abcnews.go.com,14,"14  * * *
+"
+abcnews.go.com,15,"15  * * *
+"
+abcnews.go.com,16,"16  * * *
+"
+abcnews.go.com,17,"17  * * *
+"
+abcnews.go.com,18,"18  server-13-225-78-97.fra2.r.cloudfront.net (13.225.78.97)  28.206 ms  28.210 ms  28.233 ms
+"

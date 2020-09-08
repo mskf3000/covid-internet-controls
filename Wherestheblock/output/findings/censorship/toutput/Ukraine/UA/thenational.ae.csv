@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+thenational.ae,0,"traceroute to thenational.ae (52.57.71.40), 30 hops max, 60 byte packets
+"
+thenational.ae,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.517 ms  0.500 ms  0.485 ms
+"
+thenational.ae,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.544 ms  2.137 ms  2.200 ms
+"
+thenational.ae,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.693 ms  28.694 ms  28.672 ms
+"
+thenational.ae,4," 4  amazon-fra-peering.fiord.net (62.140.243.51)  28.701 ms  28.684 ms amazon-fra-peering.fiord.net (62.140.243.53)  28.761 ms
+"
+thenational.ae,5," 5  54.239.106.54 (54.239.106.54)  31.505 ms * 54.239.106.118 (54.239.106.118)  31.364 ms
+"
+thenational.ae,6," 6  52.93.111.246 (52.93.111.246)  31.021 ms 52.93.111.202 (52.93.111.202)  30.885 ms 52.93.111.254 (52.93.111.254)  30.868 ms
+"
+thenational.ae,7," 7  52.93.111.223 (52.93.111.223)  28.289 ms 52.93.111.197 (52.93.111.197)  27.777 ms 52.93.111.211 (52.93.111.211)  27.799 ms
+"
+thenational.ae,8," 8  54.239.106.49 (54.239.106.49)  30.300 ms 54.239.106.93 (54.239.106.93)  27.484 ms 54.239.106.49 (54.239.106.49)  27.296 ms
+"
+thenational.ae,9," 9  54.239.4.214 (54.239.4.214)  27.171 ms 52.93.23.120 (52.93.23.120)  27.135 ms 54.239.4.214 (54.239.4.214)  29.833 ms
+"
+thenational.ae,10,"10  * * *
+"
+thenational.ae,11,"11  * * *
+"
+thenational.ae,12,"12  * * *
+"
+thenational.ae,13,"13  * * *
+"
+thenational.ae,14,"14  * * *
+"
+thenational.ae,15,"15  * * *
+"
+thenational.ae,16,"16  * * *
+"
+thenational.ae,17,"17  * * *
+"
+thenational.ae,18,"18  * * *
+"
+thenational.ae,19,"19  * * *
+"
+thenational.ae,20,"20  * * *
+"
+thenational.ae,21,"21  * * *
+"
+thenational.ae,22,"22  * * *
+"
+thenational.ae,23,"23  * * *
+"
+thenational.ae,24,"24  * * *
+"
+thenational.ae,25,"25  * * *
+"
+thenational.ae,26,"26  * * *
+"
+thenational.ae,27,"27  * * *
+"
+thenational.ae,28,"28  * * *
+"
+thenational.ae,29,"29  * * *
+"
+thenational.ae,30,"30  * * *
+"

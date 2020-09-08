@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ungheni.ru,0,"traceroute to ungheni.ru (95.213.255.243), 30 hops max, 60 byte packets
+"
+ungheni.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.351 ms  0.381 ms
+"
+ungheni.ru,2," 2  * * *
+"
+ungheni.ru,3," 3  * * *
+"
+ungheni.ru,4," 4  10.0.9.165 (10.0.9.165)  17.643 ms  16.227 ms 10.0.9.181 (10.0.9.181)  16.227 ms
+"
+ungheni.ru,5," 5  ddos-guard.net (185.129.103.67)  17.819 ms  19.158 ms  17.814 ms
+"
+ungheni.ru,6," 6  57.msk.net.selectel.ru (188.93.17.57)  19.042 ms  16.599 ms  16.693 ms
+"
+ungheni.ru,7," 7  ruvip11-243.hostiman.com (95.213.255.243)  18.528 ms  16.726 ms  19.085 ms
+"

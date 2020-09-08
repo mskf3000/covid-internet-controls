@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+teamo.ru,0,"traceroute to teamo.ru (213.109.79.11), 50 hops max, 60 byte packets
+"
+teamo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  8.059 ms  8.058 ms  8.044 ms
+"
+teamo.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.863 ms  0.855 ms  0.667 ms
+"
+teamo.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.552 ms  20.654 ms  20.530 ms
+"
+teamo.ru,4," 4  GW-MailRU.retn.net (87.245.253.215)  19.762 ms  19.736 ms  19.737 ms
+"
+teamo.ru,5," 5  * * *
+"
+teamo.ru,6," 6  * * *
+"
+teamo.ru,7," 7  teamo.ru (213.109.79.11)  21.170 ms  20.798 ms  19.712 ms
+"

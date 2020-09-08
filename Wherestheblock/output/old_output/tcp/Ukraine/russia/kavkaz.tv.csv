@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+kavkaz.tv,0,"traceroute to kavkaz.tv (91.237.66.110), 50 hops max, 60 byte packets
+"
+kavkaz.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.510 ms  0.498 ms  0.492 ms
+"
+kavkaz.tv,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.636 ms  0.618 ms  0.942 ms
+"
+kavkaz.tv,3," 3  ae1-1.RT.TC1.STO.SE.retn.net (87.245.232.51)  28.993 ms  28.905 ms  29.013 ms
+"
+kavkaz.tv,4," 4  netnod-ix-ge-b-sth-1500.portlane.net (194.68.128.194)  43.325 ms  43.598 ms netnod-ix-ge-a-sth-1500.portlane.net (194.68.123.194)  41.339 ms
+"
+kavkaz.tv,5," 5  be-3.cr2.sto2.se.portlane.net (80.67.4.143)  42.646 ms be-1.cr2.sto1.se.portlane.net (80.67.4.227)  40.811 ms  40.806 ms
+"
+kavkaz.tv,6," 6  be-1.pe3.sto1.se.portlane.net (80.67.4.137)  41.006 ms  41.047 ms  41.029 ms
+"
+kavkaz.tv,7," 7  te-0-0-0-0.vbdc-cr4.glesys.net (80.67.0.132)  42.367 ms  42.575 ms  42.513 ms
+"
+kavkaz.tv,8," 8  te-0-1-0-0.fbg-cr2.glesys.net (46.21.96.129)  43.140 ms  43.111 ms  43.105 ms
+"
+kavkaz.tv,9," 9  te-2-1.fbg-pe2.glesys.net (193.108.196.89)  42.195 ms  42.243 ms  42.240 ms
+"
+kavkaz.tv,10,"10  et-1-47.fbg-ar1.glesys.net (185.39.145.162)  42.563 ms  42.723 ms  42.848 ms
+"
+kavkaz.tv,11,"11  91.237.66.110 (91.237.66.110)  42.336 ms  42.721 ms  42.855 ms
+"

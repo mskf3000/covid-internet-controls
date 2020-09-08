@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+sevastopol.press,0,"traceroute to sevastopol.press (78.155.219.132), 30 hops max, 60 byte packets
+"
+sevastopol.press,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.294 ms  0.275 ms  0.268 ms
+"
+sevastopol.press,2," 2  178.18.230.251.dataix (178.18.230.251)  16.806 ms  19.526 ms  17.449 ms
+"
+sevastopol.press,3," 3  as49505.ix.dataix.ru (178.18.224.197)  19.764 ms  18.810 ms  19.722 ms
+"
+sevastopol.press,4," 4  amservices.ru (78.155.219.132)  17.955 ms  17.316 ms  18.768 ms
+"
+sevastopol.press,5," 5  amservices.ru (78.155.219.132)  17.533 ms  18.207 ms  17.913 ms
+"

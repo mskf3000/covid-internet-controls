@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+pravda.info,0,"traceroute to pravda.info (46.4.81.110), 50 hops max, 60 byte packets
+"
+pravda.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.312 ms  0.352 ms
+"
+pravda.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.586 ms  0.630 ms  0.577 ms
+"
+pravda.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.148 ms  26.126 ms  26.161 ms
+"
+pravda.info,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  40.298 ms  28.627 ms  40.282 ms
+"
+pravda.info,5," 5  core1.fra.hetzner.com (213.239.245.125)  28.626 ms  31.453 ms core0.fra.hetzner.com (213.239.252.10)  28.587 ms
+"
+pravda.info,6," 6  core22.fsn1.hetzner.com (213.239.224.245)  39.712 ms core22.fsn1.hetzner.com (213.239.245.178)  39.630 ms core22.fsn1.hetzner.com (213.239.224.245)  37.266 ms
+"
+pravda.info,7," 7  ex9k1.dc5.fsn1.hetzner.com (213.239.229.126)  33.613 ms  33.562 ms  33.551 ms
+"
+pravda.info,8," 8  static.110.81.4.46.clients.your-server.de (46.4.81.110)  35.973 ms  35.903 ms  37.191 ms
+"

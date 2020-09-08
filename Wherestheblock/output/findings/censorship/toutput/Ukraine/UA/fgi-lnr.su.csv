@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+fgi-lnr.su,0,"traceroute to fgi-lnr.su (193.228.160.40), 30 hops max, 60 byte packets
+"
+fgi-lnr.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.340 ms  0.381 ms
+"
+fgi-lnr.su,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.674 ms  0.668 ms  0.698 ms
+"
+fgi-lnr.su,3," 3  * * *
+"
+fgi-lnr.su,4," 4  * * *
+"
+fgi-lnr.su,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.827 ms  1.861 ms  0.808 ms
+"
+fgi-lnr.su,6," 6  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  19.383 ms  19.802 ms  19.788 ms
+"
+fgi-lnr.su,7," 7  GW-Telematika.retn.net (87.245.239.187)  79.855 ms  79.837 ms  79.834 ms
+"
+fgi-lnr.su,8," 8  193.228.160.40 (193.228.160.40)  79.822 ms  79.738 ms  79.789 ms
+"

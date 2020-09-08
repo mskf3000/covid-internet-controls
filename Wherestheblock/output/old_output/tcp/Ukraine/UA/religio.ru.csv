@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+religio.ru,0,"traceroute to religio.ru (91.226.31.82), 30 hops max, 60 byte packets
+"
+religio.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.372 ms  0.363 ms  0.360 ms
+"
+religio.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.570 ms  0.512 ms  0.558 ms
+"
+religio.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.486 ms  38.467 ms  38.469 ms
+"
+religio.ru,4," 4  worldstream-peering.fiord.net (80.77.167.177)  35.956 ms  35.919 ms  33.485 ms
+"
+religio.ru,5," 5  109.236.95.169 (109.236.95.169)  35.901 ms  35.899 ms  33.450 ms
+"
+religio.ru,6," 6  109.236.95.109 (109.236.95.109)  34.538 ms 109.236.95.107 (109.236.95.107)  34.563 ms  37.009 ms
+"
+religio.ru,7," 7  109.236.95.225 (109.236.95.225)  39.599 ms  39.520 ms 109.236.95.229 (109.236.95.229)  37.015 ms
+"
+religio.ru,8," 8  s.i7.ru (91.226.31.82)  34.613 ms  37.150 ms  34.622 ms
+"

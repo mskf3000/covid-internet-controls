@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+rusplt.ru,0,"traceroute to rusplt.ru (45.9.72.67), 50 hops max, 60 byte packets
+"
+rusplt.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.605 ms  1.592 ms  1.587 ms
+"
+rusplt.ru,2," 2  * * hurricane-ix.giganet.ua (185.1.62.230)  0.441 ms
+"
+rusplt.ru,3," 3  100ge8-1.core1.waw1.he.net (184.104.192.165)  13.481 ms  13.517 ms  13.557 ms
+"
+rusplt.ru,4," 4  100ge5-2.core1.vno1.he.net (184.104.192.78)  20.400 ms  20.250 ms  20.485 ms
+"
+rusplt.ru,5," 5  100ge5-2.core1.rix1.he.net (184.104.192.89)  25.291 ms  25.419 ms  25.317 ms
+"
+rusplt.ru,6," 6  100ge8-2.core1.tll1.he.net (184.104.192.93)  31.267 ms  31.363 ms  31.443 ms
+"
+rusplt.ru,7," 7  100ge4-2.core1.hel1.he.net (184.104.192.98)  32.732 ms  32.397 ms  34.708 ms
+"
+rusplt.ru,8," 8  oy-creanova-hosting-solutions-ltd.10gigabitethernet11-3.core1.hel1.he.net (216.66.90.70)  32.382 ms  32.479 ms  32.437 ms
+"
+rusplt.ru,9," 9  w5.nemesida-security.com (45.9.72.67)  32.768 ms  32.904 ms  32.879 ms
+"

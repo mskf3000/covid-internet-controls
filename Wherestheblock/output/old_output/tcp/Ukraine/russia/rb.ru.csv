@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+rb.ru,0,"traceroute to rb.ru (104.27.172.207), 50 hops max, 60 byte packets
+"
+rb.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.307 ms  0.291 ms  0.330 ms
+"
+rb.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.919 ms  0.968 ms  1.021 ms
+"
+rb.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.786 ms  18.781 ms  18.771 ms
+"
+rb.ru,4," 4  149.6.50.74 (149.6.50.74)  25.715 ms  25.683 ms  25.684 ms
+"
+rb.ru,5," 5  104.27.172.207 (104.27.172.207)  18.570 ms  18.462 ms  18.548 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+radiopotok.ru,0,"traceroute to radiopotok.ru (176.99.7.60), 50 hops max, 60 byte packets
+"
+radiopotok.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.557 ms  7.534 ms  7.521 ms
+"
+radiopotok.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  7.411 ms  7.415 ms  7.393 ms
+"
+radiopotok.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.971 ms  15.945 ms  15.950 ms
+"
+radiopotok.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.486 ms  17.475 ms  17.450 ms
+"
+radiopotok.ru,5," 5  titan.rb2.83.exepto.ru (88.212.192.247)  27.486 ms  26.358 ms  26.659 ms
+"
+radiopotok.ru,6," 6  * * *
+"
+radiopotok.ru,7," 7  * * *
+"
+radiopotok.ru,8," 8  d40897.acod.regrucolo.ru (176.99.7.60)  16.736 ms  18.134 ms  16.845 ms
+"

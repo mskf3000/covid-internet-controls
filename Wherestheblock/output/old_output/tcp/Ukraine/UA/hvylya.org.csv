@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+hvylya.org,0,"traceroute to hvylya.org (138.68.114.14), 30 hops max, 60 byte packets
+"
+hvylya.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.546 ms  0.526 ms  0.516 ms
+"
+hvylya.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.698 ms  0.688 ms  0.677 ms
+"
+hvylya.org,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.448 ms  30.144 ms  30.396 ms
+"
+hvylya.org,4," 4  * * *
+"
+hvylya.org,5," 5  * * *
+"
+hvylya.org,6," 6  * * *
+"
+hvylya.org,7," 7  138.68.114.14 (138.68.114.14)  41.794 ms  41.501 ms  41.532 ms
+"

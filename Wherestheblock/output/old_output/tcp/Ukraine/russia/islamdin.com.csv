@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+islamdin.com,0,"traceroute to islamdin.com (104.24.117.226), 50 hops max, 60 byte packets
+"
+islamdin.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.371 ms  0.361 ms  0.354 ms
+"
+islamdin.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.970 ms  0.965 ms  0.986 ms
+"
+islamdin.com,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.022 ms  18.736 ms  18.730 ms
+"
+islamdin.com,4," 4  149.6.50.74 (149.6.50.74)  24.221 ms  22.433 ms  23.284 ms
+"
+islamdin.com,5," 5  104.24.117.226 (104.24.117.226)  18.629 ms  18.624 ms  18.550 ms
+"

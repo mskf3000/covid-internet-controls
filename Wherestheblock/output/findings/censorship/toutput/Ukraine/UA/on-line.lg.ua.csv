@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+on-line.lg.ua,0,"traceroute to on-line.lg.ua (92.53.98.191), 30 hops max, 60 byte packets
+"
+on-line.lg.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.278 ms  0.268 ms  0.297 ms
+"
+on-line.lg.ua,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.658 ms  0.654 ms  0.935 ms
+"
+on-line.lg.ua,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.311 ms  30.310 ms  30.298 ms
+"
+on-line.lg.ua,4," 4  GW-TimeWeb.retn.net (87.245.228.197)  43.699 ms  43.695 ms  43.688 ms
+"
+on-line.lg.ua,5," 5  kimmy.timeweb.ru (92.53.98.191)  33.305 ms  31.348 ms  29.797 ms
+"

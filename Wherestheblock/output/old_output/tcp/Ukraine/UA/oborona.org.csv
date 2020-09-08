@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+oborona.org,0,"traceroute to oborona.org (188.214.128.77), 30 hops max, 60 byte packets
+"
+oborona.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.305 ms  0.300 ms
+"
+oborona.org,2," 2  dtel-ix.he.net (193.25.180.96)  0.536 ms  1.618 ms  0.518 ms
+"
+oborona.org,3," 3  100ge8-1.core1.waw1.he.net (184.104.192.165)  13.602 ms  13.694 ms  13.789 ms
+"
+oborona.org,4," 4  100ge5-2.core1.vno1.he.net (184.104.192.78)  20.374 ms  20.366 ms  20.349 ms
+"
+oborona.org,5," 5  149.14.10.124 (149.14.10.124)  36.247 ms 149.14.10.122 (149.14.10.122)  36.240 ms 149.14.10.124 (149.14.10.124)  36.232 ms
+"
+oborona.org,6," 6  46.166.166.12 (46.166.166.12)  51.551 ms  55.465 ms  55.553 ms
+"
+oborona.org,7," 7  188.214.128.77 (188.214.128.77)  36.289 ms  42.910 ms  36.530 ms
+"

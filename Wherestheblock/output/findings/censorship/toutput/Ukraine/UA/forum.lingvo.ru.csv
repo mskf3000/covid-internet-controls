@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+forum.lingvo.ru,0,"traceroute to forum.lingvo.ru (62.213.108.142), 30 hops max, 60 byte packets
+"
+forum.lingvo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.348 ms  0.341 ms
+"
+forum.lingvo.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.650 ms  0.737 ms  0.730 ms
+"
+forum.lingvo.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.238 ms  16.237 ms  16.229 ms
+"
+forum.lingvo.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.335 ms  16.488 ms  16.296 ms
+"
+forum.lingvo.ru,5," 5  xcore-mo1-r2-se.servers.com (188.42.176.251)  17.405 ms  16.298 ms  17.534 ms
+"
+forum.lingvo.ru,6," 6  188.42.148.3 (188.42.148.3)  17.056 ms  16.498 ms  16.576 ms
+"
+forum.lingvo.ru,7," 7  * * *
+"
+forum.lingvo.ru,8," 8  62.213.108.142 (62.213.108.142)  16.262 ms  16.390 ms  16.290 ms
+"

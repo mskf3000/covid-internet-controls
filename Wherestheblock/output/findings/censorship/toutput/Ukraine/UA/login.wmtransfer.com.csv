@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+login.wmtransfer.com,0,"traceroute to login.wmtransfer.com (91.200.28.69), 30 hops max, 60 byte packets
+"
+login.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.812 ms  1.813 ms  1.908 ms
+"
+login.wmtransfer.com,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.492 ms  17.061 ms  17.345 ms
+"
+login.wmtransfer.com,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  16.763 ms  18.985 ms  17.492 ms
+"
+login.wmtransfer.com,4," 4  80.85.240.85 (80.85.240.85)  20.392 ms  20.863 ms  19.681 ms
+"
+login.wmtransfer.com,5," 5  91.200.28.69 (91.200.28.69)  17.542 ms  17.474 ms  17.418 ms
+"

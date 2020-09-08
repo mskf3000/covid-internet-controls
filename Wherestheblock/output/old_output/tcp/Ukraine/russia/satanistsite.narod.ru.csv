@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+satanistsite.narod.ru,0,"traceroute to satanistsite.narod.ru (193.109.247.160), 50 hops max, 60 byte packets
+"
+satanistsite.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.379 ms  0.383 ms  0.421 ms
+"
+satanistsite.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.451 ms  0.571 ms  0.564 ms
+"
+satanistsite.narod.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  18.579 ms  18.590 ms  17.137 ms
+"
+satanistsite.narod.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  19.344 ms *  16.143 ms
+"
+satanistsite.narod.ru,5," 5  10.0.9.185 (10.0.9.185)  19.351 ms * *
+"
+satanistsite.narod.ru,6," 6  ddos-guard.net (185.129.101.142)  17.480 ms  18.097 ms  18.141 ms
+"
+satanistsite.narod.ru,7," 7  ddos-guard.net (185.129.101.142)  16.888 ms  16.871 ms ddos-guard.net (185.129.103.17)  17.359 ms
+"
+satanistsite.narod.ru,8," 8  ddos-guard.net (185.129.103.17)  16.301 ms *  16.218 ms
+"
+satanistsite.narod.ru,9," 9  * * dev.ucoz.net (193.109.247.160)  18.626 ms
+"

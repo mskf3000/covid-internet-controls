@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+discovercard.com,0,"traceroute to discovercard.com (104.83.117.18), 30 hops max, 60 byte packets
+"
+discovercard.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.274 ms  0.307 ms  0.350 ms
+"
+discovercard.com,2," 2  * * *
+"
+discovercard.com,3," 3  ae4-100-xcr1.kiv.cw.net (194.221.103.1)  0.774 ms  0.771 ms  0.798 ms
+"
+discovercard.com,4," 4  xe-5-1-0-xcr2.fra.cw.net (195.2.30.217)  28.678 ms  28.679 ms  28.709 ms
+"
+discovercard.com,5," 5  ae18-xcr1.mlu.cw.net (195.2.25.141)  43.926 ms  43.967 ms  43.965 ms
+"
+discovercard.com,6," 6  as20940-gw-mlu.cw.net (195.2.19.18)  35.277 ms  35.377 ms  35.795 ms
+"
+discovercard.com,7," 7  a104-83-117-18.deploy.static.akamaitechnologies.com (104.83.117.18)  34.821 ms  34.705 ms  34.813 ms
+"

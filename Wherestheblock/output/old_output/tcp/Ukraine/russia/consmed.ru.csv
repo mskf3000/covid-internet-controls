@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+consmed.ru,0,"traceroute to consmed.ru (95.163.66.5), 50 hops max, 60 byte packets
+"
+consmed.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.355 ms  0.394 ms
+"
+consmed.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.515 ms  0.508 ms  0.545 ms
+"
+consmed.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.913 ms  15.915 ms  15.908 ms
+"
+consmed.ru,4," 4  dinet-peering.fiord.net (80.77.167.79)  16.165 ms  16.109 ms  16.196 ms
+"
+consmed.ru,5," 5  po6.sr3.msk6.ip.di-net.ru (213.248.7.41)  16.462 ms  16.455 ms  16.506 ms
+"
+consmed.ru,6," 6  consmed.ru (95.163.66.5)  17.507 ms  16.467 ms  16.436 ms
+"

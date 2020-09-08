@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+filesearch.ru,0,"traceroute to filesearch.ru (89.108.116.93), 30 hops max, 60 byte packets
+"
+filesearch.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.341 ms  0.336 ms
+"
+filesearch.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.527 ms  0.514 ms  0.551 ms
+"
+filesearch.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.967 ms  15.851 ms  15.979 ms
+"
+filesearch.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.289 ms  16.330 ms  16.204 ms
+"
+filesearch.ru,5," 5  * * *
+"
+filesearch.ru,6," 6  172.16.62.1 (172.16.62.1)  16.523 ms  17.148 ms  16.826 ms
+"
+filesearch.ru,7," 7  fs.kulichki.com (89.108.116.93)  16.849 ms  16.647 ms  16.704 ms
+"

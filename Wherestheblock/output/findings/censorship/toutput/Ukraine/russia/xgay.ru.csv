@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+xgay.ru,0,"traceroute to xgay.ru (116.203.79.147), 50 hops max, 60 byte packets
+"
+xgay.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.373 ms  0.351 ms  0.392 ms
+"
+xgay.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.534 ms  0.517 ms  0.614 ms
+"
+xgay.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.678 ms  26.214 ms  26.161 ms
+"
+xgay.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.183 ms  28.612 ms  31.163 ms
+"
+xgay.ru,5," 5  core4.fra.hetzner.com (213.239.245.85)  31.484 ms core5.fra.hetzner.com (213.239.224.218)  32.891 ms  32.871 ms
+"
+xgay.ru,6," 6  core12.nbg1.hetzner.com (213.239.245.246)  35.605 ms  35.592 ms core11.nbg1.hetzner.com (213.239.245.34)  34.490 ms
+"
+xgay.ru,7," 7  spine1.cloud1.nbg1.hetzner.com (85.10.250.210)  32.434 ms spine2.cloud1.nbg1.hetzner.com (85.10.250.214)  41.941 ms  41.913 ms
+"
+xgay.ru,8," 8  * * *
+"
+xgay.ru,9," 9  11805.your-cloud.host (195.201.67.245)  35.937 ms  35.990 ms  38.303 ms
+"
+xgay.ru,10,"10  * * *
+"
+xgay.ru,11,"11  mailgw.pochemu.ru (116.203.79.147)  32.143 ms  32.803 ms  34.660 ms
+"

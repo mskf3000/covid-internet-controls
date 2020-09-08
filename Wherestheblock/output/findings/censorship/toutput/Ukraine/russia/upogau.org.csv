@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+upogau.org,0,"traceroute to upogau.org (104.27.139.98), 50 hops max, 60 byte packets
+"
+upogau.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.302 ms  0.347 ms
+"
+upogau.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  3.191 ms  3.306 ms  3.122 ms
+"
+upogau.org,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  28.045 ms  28.030 ms  28.308 ms
+"
+upogau.org,4," 4  149.6.50.74 (149.6.50.74)  29.194 ms  29.179 ms  29.173 ms
+"
+upogau.org,5," 5  104.27.139.98 (104.27.139.98)  27.955 ms  27.503 ms  27.958 ms
+"

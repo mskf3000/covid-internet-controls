@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+nr2.com.ua,0,"traceroute to nr2.com.ua (46.36.217.238), 50 hops max, 60 byte packets
+"
+nr2.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.275 ms  0.287 ms  0.323 ms
+"
+nr2.com.ua,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.497 ms  0.534 ms  0.474 ms
+"
+nr2.com.ua,3," 3  77.88.211.129 (77.88.211.129)  0.563 ms  0.554 ms  0.545 ms
+"
+nr2.com.ua,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  31.831 ms  31.840 ms  31.840 ms
+"
+nr2.com.ua,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  31.946 ms  31.988 ms  32.068 ms
+"
+nr2.com.ua,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  59.944 ms  59.715 ms  63.554 ms
+"
+nr2.com.ua,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  39.146 ms  39.138 ms  39.132 ms
+"
+nr2.com.ua,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  33.233 ms  33.191 ms  33.175 ms
+"
+nr2.com.ua,9," 9  * * *
+"
+nr2.com.ua,10,"10  sc43ce308.fastvps-server.com (46.36.217.238)  33.789 ms  33.758 ms  33.691 ms
+"

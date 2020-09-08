@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+oblicomorale.blogspot.com,0,"traceroute to oblicomorale.blogspot.com (216.58.209.1), 30 hops max, 60 byte packets
+"
+oblicomorale.blogspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.338 ms  0.324 ms  0.334 ms
+"
+oblicomorale.blogspot.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.596 ms  0.580 ms  0.601 ms
+"
+oblicomorale.blogspot.com,3," 3  100.64.64.58 (100.64.64.58)  0.640 ms  0.670 ms  0.652 ms
+"
+oblicomorale.blogspot.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  5.683 ms  0.665 ms  5.694 ms
+"
+oblicomorale.blogspot.com,5," 5  108.170.248.131 (108.170.248.131)  0.937 ms  0.977 ms  0.897 ms
+"
+oblicomorale.blogspot.com,6," 6  108.170.234.224 (108.170.234.224)  1.181 ms 209.85.248.105 (209.85.248.105)  14.529 ms 108.170.234.224 (108.170.234.224)  1.188 ms
+"
+oblicomorale.blogspot.com,7," 7  108.170.250.209 (108.170.250.209)  15.795 ms  15.310 ms 216.239.46.121 (216.239.46.121)  14.365 ms
+"
+oblicomorale.blogspot.com,8," 8  108.170.250.193 (108.170.250.193)  13.823 ms 108.170.250.209 (108.170.250.209)  15.773 ms 172.253.68.29 (172.253.68.29)  14.748 ms
+"
+oblicomorale.blogspot.com,9," 9  waw02s18-in-f1.1e100.net (216.58.209.1)  15.486 ms 172.253.68.29 (172.253.68.29)  14.773 ms 172.253.68.31 (172.253.68.31)  14.472 ms
+"

@@ -1,0 +1,39 @@
+URL,TTL,Response_Message
+videomega.tv,0,"traceroute to videomega.tv (103.224.182.251), 30 hops max, 60 byte packets
+"
+videomega.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.321 ms  0.306 ms  0.353 ms
+"
+videomega.tv,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.896 ms  0.936 ms  0.978 ms
+"
+videomega.tv,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.342 ms  17.348 ms  17.337 ms
+"
+videomega.tv,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.274 ms  22.294 ms  22.326 ms
+"
+videomega.tv,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.642 ms  30.702 ms  30.697 ms
+"
+videomega.tv,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.743 ms  39.588 ms  39.572 ms
+"
+videomega.tv,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  115.006 ms  114.927 ms  115.129 ms
+"
+videomega.tv,8," 8  be2490.ccr42.jfk02.atlas.cogentco.com (154.54.42.85)  118.470 ms  118.243 ms  118.236 ms
+"
+videomega.tv,9," 9  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  122.157 ms  121.416 ms  121.416 ms
+"
+videomega.tv,10,"10  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  132.400 ms  132.593 ms  132.975 ms
+"
+videomega.tv,11,"11  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  149.147 ms  149.156 ms  149.157 ms
+"
+videomega.tv,12,"12  be2928.ccr21.elp01.atlas.cogentco.com (154.54.30.162)  162.753 ms  162.497 ms  162.729 ms
+"
+videomega.tv,13,"13  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  170.450 ms  170.480 ms  170.625 ms
+"
+videomega.tv,14,"14  be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  181.109 ms  181.175 ms  181.210 ms
+"
+videomega.tv,15,"15  te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  182.943 ms  183.023 ms  183.074 ms
+"
+videomega.tv,16,"16  38.140.111.58 (38.140.111.58)  182.391 ms  184.317 ms  184.350 ms
+"
+videomega.tv,17,"17  sw03-san.trellian.com (103.224.213.253)  181.133 ms  181.134 ms  182.351 ms
+"
+videomega.tv,18,"18  lb-182-251.above.com (103.224.182.251)  180.953 ms  181.013 ms  180.979 ms
+"

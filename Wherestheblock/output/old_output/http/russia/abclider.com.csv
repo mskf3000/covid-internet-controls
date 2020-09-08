@@ -1,0 +1,4815 @@
+URL,TTL,Message
+abclider.com,1,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:44 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,2,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:45 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,3,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:45 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,4,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:45 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,5,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:46 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,6,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:46 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,7,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:46 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,8,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:47 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,9,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:47 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,10,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:47 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,11,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:48 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,12,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:48 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,13,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:48 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,14,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:49 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,15,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:49 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,16,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:49 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,17,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:49 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,18,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:50 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,19,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:50 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,20,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:50 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,21,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:51 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,22,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:51 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,23,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:51 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,24,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:52 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,25,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:52 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,26,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:52 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,27,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:53 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,28,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:53 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"
+abclider.com,29,"HTTP/1.1 404 Not Found
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 21016
+Date: Tue, 28 Jan 2020 01:26:53 GMT
+Server: LiteSpeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name=""robots"" content=""noindex, nofollow"">
+    <meta name=""googlebot"" content=""noindex, nofollow"">
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>New website for Fozzy</title>
+    <style>
+
+        html,
+        body {
+            position: relative;
+            min-height: 615px;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font: 600 27px/30px ""IntroRegular"", ""Arial Black"", Impact, Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2.7px;
+            margin: 8px 0;
+        }
+
+        .wrapper {
+            position: absolute;
+            height: 615px;
+            text-align: center;
+            min-width: 240px;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            padding: 0 40px;
+        }
+
+        #dom_overlay_container,
+        #animation_container,
+        #canvas {
+            width: 333px;
+            height: 333px;
+            background-color: #fff;
+        }
+
+        #dom_overlay_container {
+            margin: 0 auto;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        #animation_container {
+            margin: 0 auto 45px;
+            padding-left: 25px;
+        }
+
+        #canvas {
+            position: absolute;
+            display: block;
+        }
+
+        a,
+        a:visited {
+            color: #3f678e;
+            text-decoration: none;
+        }
+
+        .text-order,
+        .text-hosted {
+            color: #3f678e;
+            text-shadow: 0 0 0 #3f678e;
+        }
+
+        .text-order {
+            font: 16px/33px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.7px;
+            margin: 0;
+            padding: 0 10px;
+        }
+
+        .text-hosted {
+            font: 15px Arial, Helvetica, sans-serif;
+            letter-spacing: 0.6px;
+            margin-top: 67px;
+            opacity: 0.42;
+        }
+
+        @media (max-width: 767px), (max-height: 767px) {
+
+            html,
+            body {
+                min-height: 558px;
+            }
+
+            h1 {
+                font-size: 21px;
+                margin-bottom: 24px;
+                letter-spacing: 2px;
+            }
+
+            .wrapper {
+                height: 558px;
+            }
+
+            #animation_container,
+            #dom_overlay_container,
+            #canvas {
+                width: 233px;
+                height: 233px;
+            }
+
+            #animation_container {
+                margin: 0 auto 48px;
+                padding: 0;
+            }
+
+            .text-hosted {
+                margin-top: 59px;
+            }
+        }
+    </style>
+</head>
+
+<body onload=""init();"">
+    <div class=""wrapper"">
+        <div id=""animation_container"">
+            <canvas id=""canvas""></canvas>
+            <div id=""dom_overlay_container""></div>
+        </div>
+        <h1>There is no website for this domain name.</h1>
+        <p class=""text-hosted"">
+            Page is hosted by Fozzy hosting provider.
+        </p>
+    </div>
+
+    <script src=""https://code.createjs.com/createjs-2015.11.26.min.js""></script>
+    <script>
+        (function (lib, img, cjs, ss, an) {
+
+        var p; // shortcut to reference prototypes
+        lib.ssMetadata = [];
+
+
+        // symbols:
+        // helper functions:
+
+        function mc_symbol_clone() {
+            var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+            clone.gotoAndStop(this.currentFrame);
+            clone.paused = this.paused;
+            clone.framerate = this.framerate;
+            return clone;
+        }
+
+        function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+            var prototype = cjs.extend(symbol, cjs.MovieClip);
+            prototype.clone = m"

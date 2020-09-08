@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+leviy.ru,0,"traceroute to leviy.ru (194.58.112.173), 30 hops max, 60 byte packets
+"
+leviy.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.354 ms  0.341 ms  0.340 ms
+"
+leviy.ru,2," 2  * * *
+"
+leviy.ru,3," 3  * * *
+"
+leviy.ru,4," 4  10.0.9.181 (10.0.9.181)  17.015 ms 10.0.9.165 (10.0.9.165)  17.098 ms 10.0.9.181 (10.0.9.181)  16.956 ms
+"
+leviy.ru,5," 5  * * *
+"
+leviy.ru,6," 6  * * *
+"
+leviy.ru,7," 7  * * *
+"
+leviy.ru,8," 8  parking.reg.ru (194.58.112.173)  19.512 ms  17.121 ms  17.848 ms
+"

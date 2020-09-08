@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+vremya.tv,0,"traceroute to vremya.tv (217.16.26.102), 30 hops max, 60 byte packets
+"
+vremya.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.086 ms  1.082 ms  1.080 ms
+"
+vremya.tv,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.904 ms  1.001 ms  0.995 ms
+"
+vremya.tv,3," 3  10.11.12.17 (10.11.12.17)  0.987 ms  0.975 ms  0.969 ms
+"
+vremya.tv,4," 4  * * *
+"
+vremya.tv,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  2.657 ms  0.998 ms  2.643 ms
+"
+vremya.tv,6," 6  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  22.322 ms  21.551 ms  19.825 ms
+"
+vremya.tv,7," 7  GW-MasterHost.retn.net (87.245.255.143)  19.612 ms  19.642 ms  19.629 ms
+"
+vremya.tv,8," 8  * msk-ff-22-vl18.masterhost.ru (217.16.23.242)  18.937 ms  18.608 ms
+"
+vremya.tv,9," 9  new.1tv.com (217.16.26.102)  18.937 ms  22.406 ms  19.741 ms
+"

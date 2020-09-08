@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+russiancasino.ru,0,"traceroute to russiancasino.ru (62.138.184.9), 30 hops max, 60 byte packets
+"
+russiancasino.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.384 ms  0.373 ms  0.383 ms
+"
+russiancasino.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.558 ms  0.554 ms  0.543 ms
+"
+russiancasino.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.699 ms  26.163 ms  26.121 ms
+"
+russiancasino.ru,4," 4  et-7-0-0-u100.cr-polaris.fra1.bb.godaddy.com (80.81.192.239)  29.078 ms  29.136 ms  31.098 ms
+"
+russiancasino.ru,5," 5  ae0.cr-antares.fra10.bb.godaddy.com (87.230.115.1)  30.262 ms  32.135 ms  32.177 ms
+"
+russiancasino.ru,6," 6  ae0.cr-vega.sxb1.bb.godaddy.com (87.230.115.3)  32.079 ms  34.429 ms  31.724 ms
+"
+russiancasino.ru,7," 7  ae0-v100.sr-helios.sxb1.mass.systems (87.230.112.5)  33.873 ms  38.184 ms  33.774 ms
+"
+russiancasino.ru,8," 8  62.138.184.2 (62.138.184.2)  36.202 ms  42.588 ms  42.572 ms
+"
+russiancasino.ru,9," 9  www.russiancasino.com (62.138.184.9)  39.609 ms  39.453 ms  39.422 ms
+"

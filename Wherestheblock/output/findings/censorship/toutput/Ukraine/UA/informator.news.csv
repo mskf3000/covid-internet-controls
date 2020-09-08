@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+informator.news,0,"traceroute to informator.news (104.24.111.218), 30 hops max, 60 byte packets
+"
+informator.news,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.281 ms  0.313 ms
+"
+informator.news,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.595 ms  0.537 ms  0.575 ms
+"
+informator.news,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.651 ms  16.643 ms  16.692 ms
+"
+informator.news,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  17.530 ms  18.102 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.075 ms
+"
+informator.news,5," 5  104.24.111.218 (104.24.111.218)  18.150 ms cloudflare-peering.fiord.net (80.77.167.7)  16.578 ms  16.586 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+goldnike-777.blogspot.com,0,"traceroute to goldnike-777.blogspot.com (216.58.209.1), 30 hops max, 60 byte packets
+"
+goldnike-777.blogspot.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.278 ms  0.270 ms  0.317 ms
+"
+goldnike-777.blogspot.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.559 ms  0.555 ms  0.589 ms
+"
+goldnike-777.blogspot.com,3," 3  100.64.64.58 (100.64.64.58)  0.664 ms  0.653 ms  0.671 ms
+"
+goldnike-777.blogspot.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.704 ms  0.599 ms  0.685 ms
+"
+goldnike-777.blogspot.com,5," 5  108.170.248.147 (108.170.248.147)  0.986 ms 108.170.248.131 (108.170.248.131)  0.899 ms  0.843 ms
+"
+goldnike-777.blogspot.com,6," 6  209.85.248.105 (209.85.248.105)  13.904 ms  13.909 ms  13.964 ms
+"
+goldnike-777.blogspot.com,7," 7  108.170.250.193 (108.170.250.193)  13.824 ms  14.326 ms 216.239.46.121 (216.239.46.121)  14.401 ms
+"
+goldnike-777.blogspot.com,8," 8  108.170.250.209 (108.170.250.209)  15.571 ms  15.511 ms 172.253.68.31 (172.253.68.31)  15.124 ms
+"
+goldnike-777.blogspot.com,9," 9  172.253.68.29 (172.253.68.29)  14.989 ms sof01s12-in-f1.1e100.net (216.58.209.1)  14.364 ms 172.253.68.29 (172.253.68.29)  14.749 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+kinobolt.ru,0,"traceroute to kinobolt.ru (185.51.247.203), 50 hops max, 60 byte packets
+"
+kinobolt.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.398 ms  0.385 ms  0.380 ms
+"
+kinobolt.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.644 ms  0.636 ms  0.627 ms
+"
+kinobolt.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.401 ms  38.440 ms  35.971 ms
+"
+kinobolt.ru,4," 4  speed-ix.itldc.com (185.1.95.80)  36.047 ms  38.535 ms  36.033 ms
+"
+kinobolt.ru,5," 5  zomro.com (185.51.247.203)  40.693 ms  38.289 ms  38.302 ms
+"

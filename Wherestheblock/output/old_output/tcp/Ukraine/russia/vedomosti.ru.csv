@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+vedomosti.ru,0,"traceroute to vedomosti.ru (5.188.113.2), 50 hops max, 60 byte packets
+"
+vedomosti.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.376 ms  0.360 ms  0.384 ms
+"
+vedomosti.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.018 ms  18.344 ms  16.837 ms
+"
+vedomosti.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  25.054 ms  25.654 ms  23.791 ms
+"
+vedomosti.ru,4," 4  92.53.92.161 (92.53.92.161)  25.020 ms  25.005 ms  26.696 ms
+"
+vedomosti.ru,5," 5  5.188.113.2 (5.188.113.2)  25.677 ms  27.051 ms  25.596 ms
+"

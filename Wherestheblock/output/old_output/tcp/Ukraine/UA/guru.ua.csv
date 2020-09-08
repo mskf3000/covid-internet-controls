@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+guru.ua,0,"traceroute to guru.ua (136.243.16.87), 30 hops max, 60 byte packets
+"
+guru.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.277 ms  0.263 ms  0.258 ms
+"
+guru.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.628 ms  0.609 ms  0.496 ms
+"
+guru.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.180 ms  28.670 ms  26.171 ms
+"
+guru.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.595 ms  31.585 ms  28.687 ms
+"
+guru.ua,5," 5  core4.fra.hetzner.com (213.239.245.85)  31.735 ms  29.015 ms  29.063 ms
+"
+guru.ua,6," 6  core24.fsn1.hetzner.com (213.239.229.78)  36.063 ms  33.634 ms core24.fsn1.hetzner.com (213.239.224.253)  33.997 ms
+"
+guru.ua,7," 7  ex9k1.dc12.fsn1.hetzner.com (213.239.203.174)  35.997 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.186)  33.538 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.174)  33.472 ms
+"
+guru.ua,8," 8  guru.ua (136.243.16.87)  39.312 ms  33.517 ms  40.074 ms
+"

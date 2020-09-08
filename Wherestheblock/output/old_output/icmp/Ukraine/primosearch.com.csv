@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+primosearch.com,0,"traceroute to primosearch.com (104.27.130.191), 30 hops max, 60 byte packets
+"
+primosearch.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.358 ms  0.362 ms  0.361 ms
+"
+primosearch.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.254 ms  1.416 ms  1.429 ms
+"
+primosearch.com,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.408 ms  1.529 ms  1.638 ms
+"
+primosearch.com,4," 4  149.6.191.138 (149.6.191.138)  7.281 ms  7.289 ms  7.290 ms
+"
+primosearch.com,5," 5  104.27.130.191 (104.27.130.191)  0.749 ms  0.740 ms  0.798 ms
+"

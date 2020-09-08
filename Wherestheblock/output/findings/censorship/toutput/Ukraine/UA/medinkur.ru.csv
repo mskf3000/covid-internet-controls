@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+medinkur.ru,0,"traceroute to medinkur.ru (178.62.32.200), 30 hops max, 60 byte packets
+"
+medinkur.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.331 ms  0.316 ms  0.354 ms
+"
+medinkur.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.637 ms  0.579 ms  0.627 ms
+"
+medinkur.ru,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.936 ms  35.901 ms  35.923 ms
+"
+medinkur.ru,4," 4  digital-ocean-ams-peering.fiord.net (62.140.243.19)  36.013 ms  36.008 ms  38.513 ms
+"
+medinkur.ru,5," 5  138.197.244.64 (138.197.244.64)  47.539 ms  45.136 ms  45.127 ms
+"
+medinkur.ru,6," 6  * * *
+"
+medinkur.ru,7," 7  178.62.32.200 (178.62.32.200)  43.108 ms  47.643 ms  42.940 ms
+"

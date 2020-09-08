@@ -1,0 +1,773 @@
+URL,TTL,Message
+livemy.info,1,timed out
+livemy.info,2,timed out
+livemy.info,3,timed out
+livemy.info,4,timed out
+livemy.info,5,timed out
+livemy.info,6,timed out
+livemy.info,7,timed out
+livemy.info,8,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:26 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=yDVK01x5; expires=Sat, 22-Feb-2020 00:41:26 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736486; expires=Sat, 22-Feb-2020 00:41:26 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=Uf38es; expires=Fri, 24-Jan-2020 00:41:26 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740086%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:26 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=Uf38es; expires=Fri, 24-Jan-2020 00:41:26 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/comm"
+livemy.info,9,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:27 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=l2z2GXgD; expires=Sat, 22-Feb-2020 00:41:27 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736487; expires=Sat, 22-Feb-2020 00:41:27 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=aFpQ7L; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740087%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=aFpQ7L; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/comm"
+livemy.info,10,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:27 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=HeM22RZQ; expires=Sat, 22-Feb-2020 00:41:27 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736487; expires=Sat, 22-Feb-2020 00:41:27 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=z1c910; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740087%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=z1c910; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,11,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:28 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=sz6Yu8NU; expires=Sat, 22-Feb-2020 00:41:27 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736487; expires=Sat, 22-Feb-2020 00:41:27 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=H211x1; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740087%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=H211x1; expires=Fri, 24-Jan-2020 00:41:27 GMT; Max-Age=86399; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,12,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:28 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=IMOl3E82; expires=Sat, 22-Feb-2020 00:41:28 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736488; expires=Sat, 22-Feb-2020 00:41:28 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=z647YK; expires=Fri, 24-Jan-2020 00:41:28 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740088%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:28 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=z647YK; expires=Fri, 24-Jan-2020 00:41:28 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,13,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:28 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=xAOSq9K9; expires=Sat, 22-Feb-2020 00:41:28 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736488; expires=Sat, 22-Feb-2020 00:41:28 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=U8DrpQ; expires=Fri, 24-Jan-2020 00:41:28 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740088%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:28 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=U8DrpQ; expires=Fri, 24-Jan-2020 00:41:28 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/comm"
+livemy.info,14,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:29 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=J4CGBATA; expires=Sat, 22-Feb-2020 00:41:29 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736489; expires=Sat, 22-Feb-2020 00:41:29 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=Lhzwe5; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740089%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=Lhzwe5; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,15,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:29 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=QwZOA9O7; expires=Sat, 22-Feb-2020 00:41:29 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736489; expires=Sat, 22-Feb-2020 00:41:29 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=idUU37; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740089%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=idUU37; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,16,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:30 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=BB2ZbBAT; expires=Sat, 22-Feb-2020 00:41:29 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736489; expires=Sat, 22-Feb-2020 00:41:29 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=gNdu2N; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740089%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=gNdu2N; expires=Fri, 24-Jan-2020 00:41:29 GMT; Max-Age=86399; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,17,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:30 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=YtyttFdT; expires=Sat, 22-Feb-2020 00:41:30 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736490; expires=Sat, 22-Feb-2020 00:41:30 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=qS9xOa; expires=Fri, 24-Jan-2020 00:41:30 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740090%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:30 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=qS9xOa; expires=Fri, 24-Jan-2020 00:41:30 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,18,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:30 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=JKlWc2q5; expires=Sat, 22-Feb-2020 00:41:30 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736490; expires=Sat, 22-Feb-2020 00:41:30 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=XnRLvv; expires=Fri, 24-Jan-2020 00:41:30 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740090%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:30 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=XnRLvv; expires=Fri, 24-Jan-2020 00:41:30 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,19,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=m93xvF4v; expires=Sat, 22-Feb-2020 00:41:31 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736491; expires=Sat, 22-Feb-2020 00:41:31 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=sNIFvu; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740091%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=sNIFvu; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,20,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=kmZ2MvyW; expires=Sat, 22-Feb-2020 00:41:31 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736491; expires=Sat, 22-Feb-2020 00:41:31 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=IdYnpJ; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740091%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=IdYnpJ; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,21,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:32 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=Etwww6cX; expires=Sat, 22-Feb-2020 00:41:31 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736491; expires=Sat, 22-Feb-2020 00:41:31 GMT; Max-Age=2591999; path=/
+Set-Cookie: H3PH_2132_sid=gi2pNO; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86399; path=/
+Set-Cookie: H3PH_2132_lastact=1579740091%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86399; path=/
+Set-Cookie: H3PH_2132_sid=gi2pNO; expires=Fri, 24-Jan-2020 00:41:31 GMT; Max-Age=86399; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,22,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:32 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=u2WOOor4; expires=Sat, 22-Feb-2020 00:41:32 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736492; expires=Sat, 22-Feb-2020 00:41:32 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=HPYg89; expires=Fri, 24-Jan-2020 00:41:32 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740092%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:32 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=HPYg89; expires=Fri, 24-Jan-2020 00:41:32 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,23,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:32 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=auymzTK1; expires=Sat, 22-Feb-2020 00:41:32 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736492; expires=Sat, 22-Feb-2020 00:41:32 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=zJZDPv; expires=Fri, 24-Jan-2020 00:41:32 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740092%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:32 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=zJZDPv; expires=Fri, 24-Jan-2020 00:41:32 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,24,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=pfMM4mnU; expires=Sat, 22-Feb-2020 00:41:33 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736493; expires=Sat, 22-Feb-2020 00:41:33 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=WYKyBA; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740093%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=WYKyBA; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,25,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=U3Yn0i9D; expires=Sat, 22-Feb-2020 00:41:33 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736493; expires=Sat, 22-Feb-2020 00:41:33 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=X53a0q; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740093%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=X53a0q; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""c"
+livemy.info,26,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=uWq99S8q; expires=Sat, 22-Feb-2020 00:41:33 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736493; expires=Sat, 22-Feb-2020 00:41:33 GMT; Max-Age=2591999; path=/
+Set-Cookie: H3PH_2132_sid=fnRbs3; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86399; path=/
+Set-Cookie: H3PH_2132_lastact=1579740093%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86399; path=/
+Set-Cookie: H3PH_2132_sid=fnRbs3; expires=Fri, 24-Jan-2020 00:41:33 GMT; Max-Age=86399; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/comm"
+livemy.info,27,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=pNQXJ5xk; expires=Sat, 22-Feb-2020 00:41:34 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736494; expires=Sat, 22-Feb-2020 00:41:34 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=z6Ojp7; expires=Fri, 24-Jan-2020 00:41:34 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740094%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:34 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=z6Ojp7; expires=Fri, 24-Jan-2020 00:41:34 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/comm"
+livemy.info,28,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:34 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=V9D8eQY1; expires=Sat, 22-Feb-2020 00:41:34 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736494; expires=Sat, 22-Feb-2020 00:41:34 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=LUBPr0; expires=Fri, 24-Jan-2020 00:41:34 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740094%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:34 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=LUBPr0; expires=Fri, 24-Jan-2020 00:41:34 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"
+livemy.info,29,"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 23 Jan 2020 00:41:35 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: H3PH_2132_saltkey=J0O0oEe1; expires=Sat, 22-Feb-2020 00:41:35 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: H3PH_2132_lastvisit=1579736495; expires=Sat, 22-Feb-2020 00:41:35 GMT; Max-Age=2592000; path=/
+Set-Cookie: H3PH_2132_sid=x9zZr3; expires=Fri, 24-Jan-2020 00:41:35 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_lastact=1579740095%09portal.php%09; expires=Fri, 24-Jan-2020 00:41:35 GMT; Max-Age=86400; path=/
+Set-Cookie: H3PH_2132_sid=x9zZr3; expires=Fri, 24-Jan-2020 00:41:35 GMT; Max-Age=86400; path=/
+Vary: Accept-Encoding
+
+1d21
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<title>Мой Гомель -  Гомельский молодежный развлекательный портал -  MyGomel</title>
+
+<meta name=""keywords"" content=""Мой Гомель"" />
+<meta name=""description"" content=""Мой Гомель ,Гомельский молодежный развлекательный портал"" />
+<meta name=""generator"" content=""MyGomel X3.1"" />
+<meta name=""copyright"" content=""2001-2013 Mygomel"" />
+<meta name=""MSSmartTagsPreventParsing"" content=""True"" />
+<meta http-equiv=""MSThemeCompatible"" content=""Yes"" />
+<base href=""http://ojaloberoi.in/"" /><link rel=""stylesheet"" type=""text/css"" href=""data/cache/style_1_common.css?Z22"" /><link rel=""stylesheet"" id=""css_extstyle"" type=""text/css"" href=""./template/default/style/t2/style.css"" /><script type=""text/javascript"">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z22', charset = 'utf-8', discuz_uid = '0', cookiepre = 'H3PH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Опыт|,2|Деньги|,3|Вклад|', defaultstyle = './template/default/style/t2', REPORTURL = 'aHR0cDovL29qYWxvYmVyb2kuaW4v', SITEURL = 'http://ojaloberoi.in/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src=""data/cache/common.js?Z22"" type=""text/javascript""></script>
+<meta name=""application-name"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-tooltip"" content=""Гомельский молодежный развлекательный портал"" />
+<meta name=""msapplication-task"" content=""name=Мой Гомель;action-uri=http://ojaloberoi.in/portal.php;icon-uri=http://ojaloberoi.in/static/image/common/portal.ico"" /><meta name=""msapplication-task"" content=""name=Форум;action-uri=http://ojaloberoi.in/forum.php;icon-uri=http://ojaloberoi.in/static/image/common/bbs.ico"" />
+<meta name=""msapplication-task"" content=""name=Группы;action-uri=http://ojaloberoi.in/group.php;icon-uri=http://ojaloberoi.in/static/image/common/group.ico"" /><meta name=""msapplication-task"" content=""name=;action-uri=http://ojaloberoi.in/home.php;icon-uri=http://ojaloberoi.in/static/image/common/home.ico"" /><script src=""data/cache/portal.js?Z22"" type=""text/javascript""></script>
+</head>
+
+<body id=""nv_portal"" class=""pg_index"" onkeydown=""if(event.keyCode==27) return false;"">
+<div id=""append_parent""></div><div id=""ajaxwaitid""></div>
+<div id=""toptb"" class=""cl"">
+<div class=""wp"">
+<div class=""z""><a href=""javascript:;""  onclick=""setHomepage('https://mygomel.com/');"">Сделать стартовой</a><a href=""https://mygomel.com/""  onclick=""addFavorite(this.href, 'Гомельский молодежный развлекательный портал');return false;"">В избранное</a></div>
+<div class=""y"">
+<a id=""switchblind"" href=""javascript:;"" onclick=""toggleBlind(this)"" title=""На вторичном доступа"" class=""switchblind"">На вторичном доступа</a>
+</div"

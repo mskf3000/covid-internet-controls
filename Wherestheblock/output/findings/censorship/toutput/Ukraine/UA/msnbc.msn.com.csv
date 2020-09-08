@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+msnbc.msn.com,0,"traceroute to msnbc.msn.com (52.169.118.173), 30 hops max, 60 byte packets
+"
+msnbc.msn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.339 ms  0.327 ms  0.322 ms
+"
+msnbc.msn.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.546 ms  0.542 ms  0.595 ms
+"
+msnbc.msn.com,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.893 ms  35.890 ms  50.370 ms
+"
+msnbc.msn.com,4," 4  ams-ix-2.microsoft.com (80.249.209.21)  36.152 ms  34.620 ms  36.123 ms
+"
+msnbc.msn.com,5," 5  ae29-0.icr02.ams30.ntwk.msn.net (104.44.239.81)  33.764 ms  33.773 ms  36.350 ms
+"
+msnbc.msn.com,6," 6  be-122-0.ibr02.ams30.ntwk.msn.net (104.44.22.225)  49.855 ms  52.382 ms  49.982 ms
+"
+msnbc.msn.com,7," 7  be-7-0.ibr02.dub07.ntwk.msn.net (104.44.17.58)  50.701 ms * be-7-0.ibr01.dub07.ntwk.msn.net (104.44.17.56)  50.730 ms
+"
+msnbc.msn.com,8," 8  ae120-0.icr01.dub07.ntwk.msn.net (104.44.11.76)  48.612 ms ae100-0.icr01.dub07.ntwk.msn.net (104.44.11.60)  48.168 ms ae122-0.icr02.dub07.ntwk.msn.net (104.44.11.72)  49.724 ms
+"
+msnbc.msn.com,9," 9  * * *
+"
+msnbc.msn.com,10,"10  * * *
+"
+msnbc.msn.com,11,"11  * * *
+"
+msnbc.msn.com,12,"12  * * *
+"
+msnbc.msn.com,13,"13  * * *
+"
+msnbc.msn.com,14,"14  * * *
+"
+msnbc.msn.com,15,"15  * * *
+"
+msnbc.msn.com,16,"16  * * *
+"
+msnbc.msn.com,17,"17  * * *
+"
+msnbc.msn.com,18,"18  * * *
+"
+msnbc.msn.com,19,"19  52.169.118.173 (52.169.118.173)  50.546 ms  48.016 ms  52.526 ms
+"

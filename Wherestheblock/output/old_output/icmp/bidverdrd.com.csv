@@ -1,0 +1,45 @@
+URL,TTL,Response_Message
+bidverdrd.com,0,"traceroute to bidverdrd.com (216.200.199.56), 30 hops max, 60 byte packets
+"
+bidverdrd.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.330 ms  0.388 ms
+"
+bidverdrd.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.036 ms  1.083 ms  1.131 ms
+"
+bidverdrd.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.023 ms  17.052 ms  17.098 ms
+"
+bidverdrd.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.197 ms  18.229 ms  18.285 ms
+"
+bidverdrd.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.369 ms  24.377 ms  24.411 ms
+"
+bidverdrd.com,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.706 ms  29.680 ms  29.707 ms
+"
+bidverdrd.com,7," 7  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  29.746 ms  30.172 ms  30.275 ms
+"
+bidverdrd.com,8," 8  ae16.mpr1.fra4.de.zip.zayo.com (64.125.12.53)  29.684 ms  30.000 ms  30.020 ms
+"
+bidverdrd.com,9," 9  ae8.mpr1.fra3.de.zip.zayo.com (64.125.26.233)  30.369 ms  30.187 ms  30.160 ms
+"
+bidverdrd.com,10,"10  ae27.cs1.fra6.de.eth.zayo.com (64.125.31.216)  181.156 ms  181.369 ms  181.359 ms
+"
+bidverdrd.com,11,"11  ae2.cs1.ams17.nl.eth.zayo.com (64.125.29.59)  180.578 ms  185.049 ms  184.787 ms
+"
+bidverdrd.com,12,"12  ae0.cs1.ams10.nl.eth.zayo.com (64.125.29.80)  180.462 ms  180.563 ms  180.577 ms
+"
+bidverdrd.com,13,"13  ae2.cs1.lhr15.uk.eth.zayo.com (64.125.29.17)  181.203 ms  181.228 ms  181.303 ms
+"
+bidverdrd.com,14,"14  * * *
+"
+bidverdrd.com,15,"15  ae5.cs3.lga5.us.eth.zayo.com (64.125.29.126)  182.331 ms  180.488 ms  180.636 ms
+"
+bidverdrd.com,16,"16  * * *
+"
+bidverdrd.com,17,"17  ae5.cs1.den5.us.eth.zayo.com (64.125.29.19)  182.581 ms  182.577 ms  181.026 ms
+"
+bidverdrd.com,18,"18  ae6.cs1.sjc2.us.eth.zayo.com (64.125.31.219)  181.895 ms  181.811 ms  181.790 ms
+"
+bidverdrd.com,19,"19  ae27.cr1.sjc2.us.zip.zayo.com (64.125.30.231)  182.289 ms  181.983 ms  180.838 ms
+"
+bidverdrd.com,20,"20  ae12.er1.sjc2.us.zip.zayo.com (64.125.25.22)  180.417 ms  180.450 ms  180.439 ms
+"
+bidverdrd.com,21,"21  216.200.199.56.bpath.com (216.200.199.56)  181.908 ms  181.325 ms  181.313 ms
+"

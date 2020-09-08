@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+blackseango.org,0,"traceroute to blackseango.org (81.196.80.34), 50 hops max, 60 byte packets
+"
+blackseango.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.300 ms  0.283 ms  0.312 ms
+"
+blackseango.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.607 ms  3.617 ms  3.611 ms
+"
+blackseango.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.124 ms  28.732 ms  28.694 ms
+"
+blackseango.org,4," 4  br01.frankfurt.rdsnet.ro (80.81.192.87)  29.102 ms  29.093 ms  29.105 ms
+"
+blackseango.org,5," 5  * * *
+"
+blackseango.org,6," 6  * * *
+"
+blackseango.org,7," 7  * * *
+"
+blackseango.org,8," 8  86.127.210.74 (86.127.210.74)  53.813 ms  52.156 ms  53.826 ms
+"
+blackseango.org,9," 9  server.nexloc.ro (81.196.80.34)  51.857 ms  51.424 ms  54.540 ms
+"

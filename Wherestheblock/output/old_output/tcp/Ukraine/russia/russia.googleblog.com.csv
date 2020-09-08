@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+russia.googleblog.com,0,"traceroute to russia.googleblog.com (216.58.209.1), 50 hops max, 60 byte packets
+"
+russia.googleblog.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.277 ms  0.320 ms  0.315 ms
+"
+russia.googleblog.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.554 ms  0.614 ms  0.532 ms
+"
+russia.googleblog.com,3," 3  100.64.64.58 (100.64.64.58)  0.639 ms  0.732 ms  0.724 ms
+"
+russia.googleblog.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.759 ms  0.650 ms  0.701 ms
+"
+russia.googleblog.com,5," 5  108.170.248.131 (108.170.248.131)  0.865 ms  1.021 ms 108.170.248.147 (108.170.248.147)  0.965 ms
+"
+russia.googleblog.com,6," 6  209.85.248.105 (209.85.248.105)  16.070 ms  15.705 ms  16.838 ms
+"
+russia.googleblog.com,7," 7  108.170.250.193 (108.170.250.193)  13.804 ms 216.239.46.121 (216.239.46.121)  14.543 ms 108.170.250.193 (108.170.250.193)  13.912 ms
+"
+russia.googleblog.com,8," 8  172.253.68.29 (172.253.68.29)  15.022 ms  14.679 ms 108.170.250.193 (108.170.250.193)  13.776 ms
+"
+russia.googleblog.com,9," 9  172.253.68.31 (172.253.68.31)  14.650 ms  14.644 ms  14.633 ms
+"
+russia.googleblog.com,10,"10  waw02s18-in-f1.1e100.net (216.58.209.1)  14.321 ms  13.861 ms  14.389 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+realty.ria.ru,0,"traceroute to realty.ria.ru (178.248.233.32), 30 hops max, 60 byte packets
+"
+realty.ria.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  9.593 ms  9.568 ms  9.566 ms
+"
+realty.ria.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.927 ms  0.664 ms  0.665 ms
+"
+realty.ria.ru,3," 3  10.11.12.17 (10.11.12.17)  1.048 ms  1.113 ms  1.026 ms
+"
+realty.ria.ru,4," 4  * * *
+"
+realty.ria.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  1.094 ms  1.023 ms  0.959 ms
+"
+realty.ria.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  29.637 ms  29.090 ms  29.072 ms
+"
+realty.ria.ru,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.715 ms  19.554 ms  19.535 ms
+"
+realty.ria.ru,8," 8  178.248.233.32 (178.248.233.32)  19.563 ms  19.585 ms  19.526 ms
+"

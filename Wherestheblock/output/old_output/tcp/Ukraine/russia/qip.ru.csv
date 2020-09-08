@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+qip.ru,0,"traceroute to qip.ru (31.172.128.36), 50 hops max, 60 byte packets
+"
+qip.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.333 ms  0.311 ms  0.324 ms
+"
+qip.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.614 ms  16.152 ms  16.589 ms
+"
+qip.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  19.539 ms  18.849 ms  18.770 ms
+"
+qip.ru,4," 4  155.msk.net.selectel.ru (188.93.17.155)  17.124 ms  19.249 ms  17.766 ms
+"
+qip.ru,5," 5  31.172.128.36 (31.172.128.36)  18.199 ms  18.527 ms  17.739 ms
+"

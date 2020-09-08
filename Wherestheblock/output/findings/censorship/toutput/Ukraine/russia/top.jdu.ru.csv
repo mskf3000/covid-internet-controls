@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+top.jdu.ru,0,"traceroute to top.jdu.ru (193.0.170.23), 50 hops max, 60 byte packets
+"
+top.jdu.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.301 ms  0.333 ms
+"
+top.jdu.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  2.779 ms  2.775 ms  0.766 ms
+"
+top.jdu.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.577 ms  20.612 ms  20.652 ms
+"
+top.jdu.ru,4," 4  GW-MailRU.retn.net (87.245.253.215)  19.915 ms  19.714 ms  19.658 ms
+"
+top.jdu.ru,5," 5  * * *
+"
+top.jdu.ru,6," 6  * * *
+"
+top.jdu.ru,7," 7  mamba.ru (193.0.170.23)  20.936 ms  21.352 ms  20.006 ms
+"

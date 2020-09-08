@@ -1,0 +1,41 @@
+URL,TTL,Response_Message
+51sole.com,0,"traceroute to 51sole.com (150.109.68.232), 30 hops max, 60 byte packets
+"
+51sole.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.986 ms  0.963 ms  0.960 ms
+"
+51sole.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.532 ms  0.538 ms  0.570 ms
+"
+51sole.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.600 ms  28.711 ms  28.696 ms
+"
+51sole.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  29.831 ms  29.829 ms  29.790 ms
+"
+51sole.com,5," 5  * * ffm-bb2-link.telia.net (62.115.137.166)  46.548 ms
+"
+51sole.com,6," 6  mei-b3-link.telia.net (62.115.114.201)  46.288 ms  46.248 ms  46.222 ms
+"
+51sole.com,7," 7  flagtelecom-ic-324599-mei-b2.c.telia.net (213.248.72.190)  44.111 ms  46.429 ms  46.400 ms
+"
+51sole.com,8," 8  ae2.0.pjr04.ldn001.flagtel.com (85.95.26.253)  311.599 ms  311.571 ms  311.586 ms
+"
+51sole.com,9," 9  xe-3-0-6.0.cjr01.sin001.flagtel.com (85.95.26.25)  317.835 ms  317.938 ms  317.984 ms
+"
+51sole.com,10,"10  ge-3-3-0.0.pjr01.hkg005.flagtel.com (85.95.26.9)  311.893 ms  321.900 ms  321.861 ms
+"
+51sole.com,11,"11  xe-1-1-0.0.cji02.hkg003.flagtel.com (85.95.27.169)  311.608 ms xe-3-0-2.0.cji02.hkg003.flagtel.com (85.95.27.173)  311.768 ms  311.767 ms
+"
+51sole.com,12,"12  80.77.1.94 (80.77.1.94)  243.627 ms  243.598 ms  243.548 ms
+"
+51sole.com,13,"13  218.189.5.23 (218.189.5.23)  243.322 ms  249.026 ms  249.004 ms
+"
+51sole.com,14,"14  global.hgc.com.hk (218.189.12.14)  303.661 ms  303.645 ms  303.581 ms
+"
+51sole.com,15,"15  * * *
+"
+51sole.com,16,"16  * * *
+"
+51sole.com,17,"17  * * *
+"
+51sole.com,18,"18  * * *
+"
+51sole.com,19,"19  150.109.68.232 (150.109.68.232)  302.348 ms  302.333 ms  302.231 ms
+"

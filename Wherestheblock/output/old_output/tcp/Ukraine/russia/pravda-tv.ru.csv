@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+pravda-tv.ru,0,"traceroute to pravda-tv.ru (104.27.179.222), 50 hops max, 60 byte packets
+"
+pravda-tv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.329 ms  0.359 ms  0.401 ms
+"
+pravda-tv.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.976 ms  1.060 ms  1.119 ms
+"
+pravda-tv.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.951 ms  18.736 ms  18.952 ms
+"
+pravda-tv.ru,4," 4  149.6.50.74 (149.6.50.74)  22.556 ms  22.304 ms  24.234 ms
+"
+pravda-tv.ru,5," 5  104.27.179.222 (104.27.179.222)  18.552 ms  18.411 ms  18.597 ms
+"

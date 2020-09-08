@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+hackmoney.ru,0,"traceroute to hackmoney.ru (91.195.240.135), 30 hops max, 60 byte packets
+"
+hackmoney.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.315 ms  0.352 ms
+"
+hackmoney.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.691 ms  0.634 ms  0.606 ms
+"
+hackmoney.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.201 ms  26.192 ms  26.163 ms
+"
+hackmoney.ru,4," 4  ffm-b1-link.telia.net (62.115.63.109)  28.770 ms  26.239 ms  28.794 ms
+"
+hackmoney.ru,5," 5  ffm-bb3-link.telia.net (62.115.121.2)  38.627 ms ffm-bb3-link.telia.net (62.115.121.0)  33.473 ms ffm-bb3-link.telia.net (62.115.141.236)  35.913 ms
+"
+hackmoney.ru,6," 6  mcn-b2-link.telia.net (62.115.120.130)  35.898 ms mcn-b2-link.telia.net (213.155.134.13)  42.152 ms mcn-b2-link.telia.net (62.115.120.132)  35.828 ms
+"
+hackmoney.ru,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  117.441 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  115.728 ms  118.139 ms
+"
+hackmoney.ru,8," 8  91.195.241.102 (91.195.241.102)  115.274 ms  115.253 ms  115.236 ms
+"
+hackmoney.ru,9," 9  91.195.241.118 (91.195.241.118)  119.408 ms  117.218 ms  119.335 ms
+"
+hackmoney.ru,10,"10  91.195.240.135 (91.195.240.135)  118.004 ms  118.030 ms  116.014 ms
+"

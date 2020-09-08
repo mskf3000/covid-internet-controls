@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+shiltirs.com,0,"traceroute to shiltirs.com (78.140.190.92), 30 hops max, 60 byte packets
+"
+shiltirs.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.277 ms  0.312 ms
+"
+shiltirs.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.264 ms  1.505 ms  1.512 ms
+"
+shiltirs.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  18.481 ms  18.488 ms  18.513 ms
+"
+shiltirs.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  25.542 ms  25.584 ms  25.659 ms
+"
+shiltirs.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.181 ms  31.188 ms  31.167 ms
+"
+shiltirs.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.794 ms  39.891 ms  39.942 ms
+"
+shiltirs.com,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  40.194 ms  40.275 ms  40.235 ms
+"
+shiltirs.com,8," 8  149.6.0.74 (149.6.0.74)  40.135 ms  39.727 ms  39.764 ms
+"
+shiltirs.com,9," 9  xcore-ams1-wz-r1.webzilla.com (78.140.169.3)  36.980 ms  38.517 ms  38.649 ms
+"
+shiltirs.com,10,"10  78.140.190.92 (78.140.190.92)  37.914 ms  37.918 ms  37.917 ms
+"

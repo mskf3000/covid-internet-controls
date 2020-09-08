@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+ameba.jp,0,"traceroute to ameba.jp (27.133.212.123), 30 hops max, 60 byte packets
+"
+ameba.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.523 ms  2.513 ms  2.508 ms
+"
+ameba.jp,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.719 ms  0.723 ms  0.717 ms
+"
+ameba.jp,3," 3  ae1-9.RT.TC2.LON.UK.retn.net (87.245.233.98)  39.909 ms  39.903 ms  39.943 ms
+"
+ameba.jp,4," 4  ldn001bb10.iij.net (195.66.225.237)  39.837 ms  39.883 ms  39.882 ms
+"
+ameba.jp,5," 5  tky001bb10.IIJ.Net (58.138.98.137)  200.215 ms  200.228 ms  200.225 ms
+"
+ameba.jp,6," 6  tky001ip57.IIJ.Net (58.138.100.18)  200.463 ms  200.177 ms  200.192 ms
+"
+ameba.jp,7," 7  202.232.9.126 (202.232.9.126)  247.877 ms  247.815 ms  247.831 ms
+"
+ameba.jp,8," 8  * * *
+"
+ameba.jp,9," 9  * * *
+"
+ameba.jp,10,"10  27.133.212.123 (27.133.212.123)  259.041 ms  258.896 ms  258.889 ms
+"

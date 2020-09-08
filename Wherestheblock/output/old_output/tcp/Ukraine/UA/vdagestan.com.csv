@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+vdagestan.com,0,"traceroute to vdagestan.com (67.227.226.240), 30 hops max, 60 byte packets
+"
+vdagestan.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.292 ms  0.325 ms
+"
+vdagestan.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.877 ms  1.131 ms  0.905 ms
+"
+vdagestan.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  18.297 ms  18.269 ms  18.267 ms
+"
+vdagestan.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.308 ms  22.414 ms  22.110 ms
+"
+vdagestan.com,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.394 ms  30.437 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.363 ms
+"
+vdagestan.com,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.536 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.515 ms  39.424 ms
+"
+vdagestan.com,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.704 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  140.721 ms  140.690 ms
+"
+vdagestan.com,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  135.781 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.719 ms  135.687 ms
+"
+vdagestan.com,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  140.024 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.811 ms be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  139.519 ms
+"
+vdagestan.com,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.315 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  140.284 ms  139.399 ms
+"
+vdagestan.com,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.929 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  140.448 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  140.420 ms
+"
+vdagestan.com,12,"12  38.32.96.98 (38.32.96.98)  137.800 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  139.692 ms be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  135.605 ms
+"
+vdagestan.com,13,"13  38.32.96.98 (38.32.96.98)  135.281 ms  136.014 ms  140.634 ms
+"
+vdagestan.com,14,"14  lw-dc3-core1-eth2-19.rtr.liquidweb.com (209.59.157.244)  143.229 ms lw-dc3-core2.rtr.liquidweb.com (209.59.157.50)  148.253 ms lw-dc3-core1-eth2-19.rtr.liquidweb.com (209.59.157.244)  142.470 ms
+"
+vdagestan.com,15,"15  lw-dc3-dist14-po5.rtr.liquidweb.com (69.167.128.75)  146.139 ms lw-dc3-dist13-po6.rtr.liquidweb.com (69.167.128.77)  147.768 ms 67.227.226.240 (67.227.226.240)  145.260 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+eve-kill.net,0,"traceroute to eve-kill.net (109.201.133.68), 30 hops max, 60 byte packets
+"
+eve-kill.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.294 ms  0.285 ms
+"
+eve-kill.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.856 ms  0.959 ms  2.444 ms
+"
+eve-kill.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.509 ms  17.513 ms  17.500 ms
+"
+eve-kill.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.369 ms  22.567 ms  22.607 ms
+"
+eve-kill.net,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.703 ms  30.704 ms  30.793 ms
+"
+eve-kill.net,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.397 ms  40.052 ms  39.913 ms
+"
+eve-kill.net,7," 7  be2519.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.98)  40.050 ms  39.936 ms be2520.rcr21.b015960-1.ams03.atlas.cogentco.com (130.117.3.102)  39.907 ms
+"
+eve-kill.net,8," 8  cogent1-gsa.r1.dba.nl.as43350.com (149.14.82.146)  37.171 ms cogent1-gsa.r2.dba.nl.as43350.com (149.14.82.147)  43.677 ms cogent1-gsa.r1.dba.nl.as43350.com (149.14.82.146)  37.233 ms
+"
+eve-kill.net,9," 9  109.201.133.68 (109.201.133.68)  37.355 ms  37.342 ms  37.337 ms
+"

@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+alein.org,0,"traceroute to alein.org (94.242.254.120), 50 hops max, 60 byte packets
+"
+alein.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.295 ms  0.282 ms
+"
+alein.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.815 ms  1.056 ms  1.089 ms
+"
+alein.org,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.993 ms  17.005 ms  16.988 ms
+"
+alein.org,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.429 ms  18.456 ms  18.254 ms
+"
+alein.org,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  24.704 ms  24.799 ms  24.718 ms
+"
+alein.org,6," 6  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  29.802 ms  29.719 ms  29.795 ms
+"
+alein.org,7," 7  be2377.rcr21.lux01.atlas.cogentco.com (154.54.38.146)  33.842 ms  34.027 ms  34.106 ms
+"
+alein.org,8," 8  be3456.nr51.b038844-0.lux01.atlas.cogentco.com (154.25.12.70)  34.599 ms  34.848 ms  34.874 ms
+"
+alein.org,9," 9  universal-cdn.demarc.cogentco.com (149.6.66.250)  40.344 ms universal-cdn.demarc.cogentco.com (149.6.66.238)  39.738 ms  39.231 ms
+"
+alein.org,10,"10  ip-static-94-242-254-120.server.lu (94.242.254.120)  39.854 ms  39.274 ms  39.297 ms
+"

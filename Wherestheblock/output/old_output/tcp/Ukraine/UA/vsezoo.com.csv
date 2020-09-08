@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+vsezoo.com,0,"traceroute to vsezoo.com (185.53.179.8), 30 hops max, 60 byte packets
+"
+vsezoo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.353 ms  0.341 ms  0.370 ms
+"
+vsezoo.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.301 ms  1.214 ms  1.343 ms
+"
+vsezoo.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.429 ms  17.337 ms  17.368 ms
+"
+vsezoo.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.801 ms  18.783 ms  18.779 ms
+"
+vsezoo.com,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  26.059 ms  26.434 ms  26.172 ms
+"
+vsezoo.com,6," 6  te0-0-1-2.agr12.muc03.atlas.cogentco.com (154.54.56.230)  26.526 ms  26.269 ms  27.191 ms
+"
+vsezoo.com,7," 7  te0-0-2-3.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.6.162)  26.273 ms te0-0-2-1.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.8.22)  25.739 ms te0-0-2-3.nr11.b015933-1.muc03.atlas.cogentco.com (154.25.6.162)  25.588 ms
+"
+vsezoo.com,8," 8  149.6.156.194 (149.6.156.194)  25.453 ms 149.6.156.202 (149.6.156.202)  24.751 ms 149.6.156.195 (149.6.156.195)  24.788 ms
+"
+vsezoo.com,9," 9  185.53.179.8 (185.53.179.8)  24.593 ms  24.625 ms  24.618 ms
+"

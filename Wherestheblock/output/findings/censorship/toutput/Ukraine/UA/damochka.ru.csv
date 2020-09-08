@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+damochka.ru,0,"traceroute to damochka.ru (136.243.161.206), 30 hops max, 60 byte packets
+"
+damochka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.337 ms  0.374 ms
+"
+damochka.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.801 ms  1.776 ms  1.850 ms
+"
+damochka.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  29.212 ms  26.177 ms  29.184 ms
+"
+damochka.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.803 ms  28.802 ms  28.789 ms
+"
+damochka.ru,5," 5  core5.fra.hetzner.com (213.239.224.218)  35.523 ms core4.fra.hetzner.com (213.239.245.85)  31.534 ms core1.fra.hetzner.com (213.239.245.125)  28.497 ms
+"
+damochka.ru,6," 6  core12.nbg1.hetzner.com (213.239.252.26)  34.055 ms core11.nbg1.hetzner.com (213.239.252.22)  35.771 ms  35.732 ms
+"
+damochka.ru,7," 7  ex9k1.dc2.nbg1.hetzner.com (213.239.229.2)  35.532 ms ex9k1.dc2.nbg1.hetzner.com (213.239.229.6)  39.013 ms ex9k1.dc2.nbg1.hetzner.com (213.239.229.2)  32.382 ms
+"
+damochka.ru,8," 8  mail.mylove.ru (136.243.161.206)  31.480 ms  31.541 ms  38.428 ms
+"

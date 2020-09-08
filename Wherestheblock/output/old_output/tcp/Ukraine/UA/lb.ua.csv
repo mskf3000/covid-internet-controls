@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+lb.ua,0,"traceroute to lb.ua (91.194.251.197), 30 hops max, 60 byte packets
+"
+lb.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.321 ms  0.310 ms
+"
+lb.ua,2," 2  dream-10G-gw.ix.net.ua (185.1.50.103)  0.987 ms  1.052 ms  1.046 ms
+"
+lb.ua,3," 3  unallocated.qos.kiev.ua (91.194.251.197)  0.796 ms  0.804 ms  0.861 ms
+"

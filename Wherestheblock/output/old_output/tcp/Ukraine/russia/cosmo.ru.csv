@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+cosmo.ru,0,"traceroute to cosmo.ru (85.119.149.110), 50 hops max, 60 byte packets
+"
+cosmo.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.361 ms  0.350 ms  0.361 ms
+"
+cosmo.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.578 ms  0.624 ms  0.615 ms
+"
+cosmo.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.626 ms  17.289 ms  17.271 ms
+"
+cosmo.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  17.729 ms * *
+"
+cosmo.ru,5," 5  10.0.9.57 (10.0.9.57)  19.383 ms 10.0.9.41 (10.0.9.41)  18.939 ms  18.928 ms
+"
+cosmo.ru,6," 6  ddos-guard.net (185.129.103.69)  18.696 ms 10.0.9.41 (10.0.9.41)  17.780 ms  17.796 ms
+"
+cosmo.ru,7," 7  153.msk.net.selectel.ru (188.93.17.153)  18.182 ms ddos-guard.net (185.129.103.69)  17.566 ms  17.519 ms
+"
+cosmo.ru,8," 8  153.msk.net.selectel.ru (188.93.17.153)  16.577 ms  16.494 ms  16.481 ms
+"
+cosmo.ru,9," 9  85.119.149.110 (85.119.149.110)  16.496 ms  19.176 ms  18.061 ms
+"

@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+gyazo.com,0,"traceroute to gyazo.com (35.186.213.112), 30 hops max, 60 byte packets
+"
+gyazo.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.952 ms  1.939 ms  1.936 ms
+"
+gyazo.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.603 ms  0.607 ms  0.607 ms
+"
+gyazo.com,3," 3  100.64.64.58 (100.64.64.58)  0.669 ms  0.669 ms  0.668 ms
+"
+gyazo.com,4," 4  google-gw1.kv.wnet.ua (128.0.168.137)  0.748 ms  0.792 ms  0.794 ms
+"
+gyazo.com,5," 5  108.170.248.147 (108.170.248.147)  0.948 ms  0.949 ms  1.009 ms
+"
+gyazo.com,6," 6  209.85.248.105 (209.85.248.105)  13.942 ms  13.852 ms  13.858 ms
+"
+gyazo.com,7," 7  108.170.250.209 (108.170.250.209)  15.325 ms  15.283 ms  15.457 ms
+"
+gyazo.com,8," 8  108.170.234.247 (108.170.234.247)  14.366 ms  14.336 ms  14.381 ms
+"
+gyazo.com,9," 9  112.213.186.35.bc.googleusercontent.com (35.186.213.112)  14.269 ms  14.296 ms  14.292 ms
+"

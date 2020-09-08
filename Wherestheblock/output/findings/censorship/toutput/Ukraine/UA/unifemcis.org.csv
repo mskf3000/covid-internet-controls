@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+unifemcis.org,0,"traceroute to unifemcis.org (95.216.161.60), 30 hops max, 60 byte packets
+"
+unifemcis.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.287 ms  0.275 ms  0.303 ms
+"
+unifemcis.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.569 ms  0.557 ms  0.483 ms
+"
+unifemcis.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.689 ms  28.684 ms  26.146 ms
+"
+unifemcis.org,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.639 ms  30.960 ms  28.634 ms
+"
+unifemcis.org,5," 5  core31.hel1.hetzner.com (213.239.224.150)  40.685 ms core32.hel1.hetzner.com (213.239.224.154)  41.698 ms core31.hel1.hetzner.com (213.239.224.150)  40.678 ms
+"
+unifemcis.org,6," 6  static.88-198-245-254.clients.your-server.de (88.198.245.254)  44.156 ms spine2.cloud1.hel1.hetzner.com (88.198.249.94)  44.715 ms spine1.cloud1.hel1.hetzner.com (88.198.249.90)  42.206 ms
+"
+unifemcis.org,7," 7  * * *
+"
+unifemcis.org,8," 8  10453.your-cloud.host (95.216.128.13)  41.421 ms  41.211 ms  41.024 ms
+"
+unifemcis.org,9," 9  * * *
+"
+unifemcis.org,10,"10  static.60.161.216.95.clients.your-server.de (95.216.161.60)  39.920 ms  44.325 ms  40.130 ms
+"

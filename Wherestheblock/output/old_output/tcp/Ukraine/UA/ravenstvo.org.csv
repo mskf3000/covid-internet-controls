@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ravenstvo.org,0,"traceroute to ravenstvo.org (185.165.123.206), 30 hops max, 60 byte packets
+"
+ravenstvo.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.276 ms  2.256 ms  2.272 ms
+"
+ravenstvo.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.715 ms  0.710 ms  0.723 ms
+"
+ravenstvo.org,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.321 ms  21.302 ms  21.171 ms
+"
+ravenstvo.org,4," 4  * * *
+"
+ravenstvo.org,5," 5  185.165.123.206 (185.165.123.206)  20.514 ms  21.092 ms  21.050 ms
+"

@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+yhrm.org,0,"traceroute to yhrm.org (138.201.95.182), 30 hops max, 60 byte packets
+"
+yhrm.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.633 ms  0.617 ms  0.622 ms
+"
+yhrm.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.603 ms  0.585 ms  0.592 ms
+"
+yhrm.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.623 ms  26.120 ms  28.648 ms
+"
+yhrm.org,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.124 ms  31.114 ms  31.098 ms
+"
+yhrm.org,5," 5  core0.fra.hetzner.com (213.239.252.10)  28.461 ms core1.fra.hetzner.com (213.239.245.125)  32.666 ms  32.658 ms
+"
+yhrm.org,6," 6  core22.fsn1.hetzner.com (213.239.224.245)  39.696 ms  37.325 ms core22.fsn1.hetzner.com (213.239.245.17)  35.558 ms
+"
+yhrm.org,7," 7  spine1.cloud2.fsn1.hetzner.com (213.239.239.126)  36.394 ms spine2.cloud2.fsn1.hetzner.com (213.239.239.130)  40.250 ms  39.908 ms
+"
+yhrm.org,8," 8  * * *
+"
+yhrm.org,9," 9  188.your-cloud.host (195.201.49.79)  33.615 ms  36.006 ms  33.555 ms
+"
+yhrm.org,10,"10  lb.mpdweb.info (138.201.95.182)  33.544 ms  36.253 ms  36.176 ms
+"
+yhrm.org,11,"11  lb.mpdweb.info (138.201.95.182)  40.178 ms  40.537 ms  35.710 ms
+"

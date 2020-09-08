@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+mini.wmtransfer.com,0,"traceroute to mini.wmtransfer.com (91.227.52.32), 30 hops max, 60 byte packets
+"
+mini.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.298 ms  0.322 ms
+"
+mini.wmtransfer.com,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.813 ms  0.493 ms  0.465 ms
+"
+mini.wmtransfer.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.883 ms  15.962 ms  16.409 ms
+"
+mini.wmtransfer.com,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.776 ms  15.840 ms  15.826 ms
+"
+mini.wmtransfer.com,5," 5  88.210.48.237 (88.210.48.237)  16.958 ms  17.009 ms  17.200 ms
+"
+mini.wmtransfer.com,6," 6  91.227.52.32 (91.227.52.32)  16.296 ms  16.297 ms  16.321 ms
+"

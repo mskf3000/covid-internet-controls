@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+rlsnet.ru,0,"traceroute to rlsnet.ru (89.108.124.30), 50 hops max, 60 byte packets
+"
+rlsnet.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.269 ms  0.281 ms  0.339 ms
+"
+rlsnet.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.574 ms  0.516 ms  0.503 ms
+"
+rlsnet.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.932 ms  15.912 ms  15.925 ms
+"
+rlsnet.ru,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.454 ms  16.324 ms  16.312 ms
+"
+rlsnet.ru,5," 5  * * *
+"
+rlsnet.ru,6," 6  172.16.62.1 (172.16.62.1)  16.550 ms  16.684 ms  16.917 ms
+"
+rlsnet.ru,7," 7  rlsnet.ru (89.108.124.30)  16.271 ms  16.327 ms  16.250 ms
+"
+rlsnet.ru,8," 8  rlsnet.ru (89.108.124.30)  16.429 ms  16.776 ms  16.443 ms
+"

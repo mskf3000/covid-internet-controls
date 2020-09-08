@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+metayogg.at.ua,0,"traceroute to metayogg.at.ua (193.109.246.56), 30 hops max, 60 byte packets
+"
+metayogg.at.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.214 ms  2.209 ms  2.218 ms
+"
+metayogg.at.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.726 ms  0.647 ms  0.647 ms
+"
+metayogg.at.ua,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.211 ms  17.092 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.079 ms
+"
+metayogg.at.ua,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.065 ms  15.998 ms *
+"
+metayogg.at.ua,5," 5  * 10.0.9.185 (10.0.9.185)  18.789 ms *
+"
+metayogg.at.ua,6," 6  ddos-guard.net (185.129.101.142)  18.010 ms  18.282 ms 10.0.9.61 (10.0.9.61)  16.295 ms
+"
+metayogg.at.ua,7," 7  ddos-guard.net (185.129.101.142)  16.686 ms ddos-guard.net (185.129.103.17)  17.921 ms ddos-guard.net (185.129.101.142)  16.347 ms
+"
+metayogg.at.ua,8," 8  * * *
+"
+metayogg.at.ua,9," 9  * * dev.ucoz.net (193.109.246.56)  20.694 ms
+"

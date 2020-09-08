@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+nuclearno.ru,0,"traceroute to nuclearno.ru (5.101.152.156), 30 hops max, 60 byte packets
+"
+nuclearno.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.274 ms  0.282 ms  0.320 ms
+"
+nuclearno.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  20.159 ms  20.441 ms  20.288 ms
+"
+nuclearno.ru,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  25.559 ms  26.931 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  28.191 ms
+"
+nuclearno.ru,4," 4  cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  28.539 ms  24.664 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.749 ms
+"
+nuclearno.ru,5," 5  * * *
+"
+nuclearno.ru,6," 6  m2.morty.beget.com (5.101.152.156)  25.449 ms  27.729 ms  25.405 ms
+"

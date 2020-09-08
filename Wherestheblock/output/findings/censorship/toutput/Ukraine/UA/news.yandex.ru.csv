@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+news.yandex.ru,0,"traceroute to news.yandex.ru (87.250.251.12), 30 hops max, 60 byte packets
+"
+news.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.366 ms  0.351 ms  0.342 ms
+"
+news.yandex.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.041 ms  1.061 ms  1.113 ms
+"
+news.yandex.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.418 ms  17.524 ms  17.634 ms
+"
+news.yandex.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.570 ms  22.569 ms  22.595 ms
+"
+news.yandex.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.702 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.517 ms  30.521 ms
+"
+news.yandex.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  45.599 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.240 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.220 ms
+"
+news.yandex.ru,7," 7  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  56.155 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.099 ms  56.093 ms
+"
+news.yandex.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  53.035 ms  58.660 ms  58.435 ms
+"
+news.yandex.ru,9," 9  149.11.124.74 (149.11.124.74)  54.312 ms  54.298 ms  54.317 ms
+"
+news.yandex.ru,10,"10  news.yandex.ru (87.250.251.12)  53.385 ms  52.451 ms  48.552 ms
+"

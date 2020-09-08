@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+jahforum.org,0,"traceroute to jahforum.org (104.31.68.146), 50 hops max, 60 byte packets
+"
+jahforum.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  10.884 ms  10.873 ms  11.283 ms
+"
+jahforum.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.068 ms  1.053 ms  1.019 ms
+"
+jahforum.org,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.359 ms  17.347 ms  17.751 ms
+"
+jahforum.org,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  22.046 ms  22.630 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.956 ms
+"
+jahforum.org,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  17.662 ms 104.31.68.146 (104.31.68.146)  18.157 ms  18.206 ms
+"

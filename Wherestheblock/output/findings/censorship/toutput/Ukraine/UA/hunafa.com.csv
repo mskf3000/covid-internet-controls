@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+hunafa.com,0,"traceroute to hunafa.com (104.31.74.192), 30 hops max, 60 byte packets
+"
+hunafa.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.252 ms  1.250 ms  1.294 ms
+"
+hunafa.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.622 ms  0.620 ms  0.513 ms
+"
+hunafa.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.192 ms  16.201 ms  16.228 ms
+"
+hunafa.com,4," 4  cloudflare-peering.fiord.net (80.77.167.7)  20.202 ms  20.195 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.612 ms
+"
+hunafa.com,5," 5  cloudflare-peering.fiord.net (80.77.167.7)  20.168 ms  20.164 ms 104.31.74.192 (104.31.74.192)  18.967 ms
+"

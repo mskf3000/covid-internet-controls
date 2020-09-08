@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+webalta.ru,0,"traceroute to webalta.ru (148.251.194.97), 50 hops max, 60 byte packets
+"
+webalta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.305 ms  0.334 ms
+"
+webalta.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.569 ms  0.609 ms  0.604 ms
+"
+webalta.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.206 ms  26.221 ms  26.201 ms
+"
+webalta.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.717 ms  31.142 ms  28.707 ms
+"
+webalta.ru,5," 5  core5.fra.hetzner.com (213.239.224.218)  32.848 ms  32.858 ms core0.fra.hetzner.com (213.239.252.10)  31.098 ms
+"
+webalta.ru,6," 6  core23.fsn1.hetzner.com (213.239.203.154)  35.530 ms core24.fsn1.hetzner.com (213.239.224.253)  39.257 ms core23.fsn1.hetzner.com (213.239.229.74)  37.253 ms
+"
+webalta.ru,7," 7  ex9k1.dc12.fsn1.hetzner.com (213.239.203.174)  36.104 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.186)  36.053 ms ex9k1.dc12.fsn1.hetzner.com (213.239.203.174)  33.459 ms
+"
+webalta.ru,8," 8  webalta.gchost.ru (148.251.194.97)  39.416 ms  36.894 ms  39.657 ms
+"

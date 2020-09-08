@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+radikaly.ru,0,"traceroute to radikaly.ru (87.236.19.32), 30 hops max, 60 byte packets
+"
+radikaly.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.355 ms  0.342 ms
+"
+radikaly.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.837 ms  17.919 ms  17.457 ms
+"
+radikaly.ru,3," 3  bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  28.358 ms  28.350 ms bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  24.509 ms
+"
+radikaly.ru,4," 4  cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  27.471 ms  25.905 ms cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  24.803 ms
+"
+radikaly.ru,5," 5  * * *
+"
+radikaly.ru,6," 6  m2.oscar3.beget.com (87.236.19.32)  24.738 ms  25.699 ms  26.961 ms
+"

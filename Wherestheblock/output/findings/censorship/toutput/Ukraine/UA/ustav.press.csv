@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+ustav.press,0,"traceroute to ustav.press (199.188.200.18), 30 hops max, 60 byte packets
+"
+ustav.press,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.283 ms  0.270 ms  0.293 ms
+"
+ustav.press,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.231 ms  1.050 ms  1.208 ms
+"
+ustav.press,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  16.975 ms  17.034 ms  16.995 ms
+"
+ustav.press,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.079 ms  18.162 ms  18.251 ms
+"
+ustav.press,5," 5  ae-14.r01.vienat01.at.bb.gin.ntt.net (129.250.9.129)  18.618 ms  18.639 ms  18.764 ms
+"
+ustav.press,6," 6  ae-1.r00.vienat01.at.bb.gin.ntt.net (129.250.2.36)  178.842 ms  178.799 ms  178.534 ms
+"
+ustav.press,7," 7  ae-10.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.145)  29.675 ms  30.446 ms  30.196 ms
+"
+ustav.press,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  118.000 ms  117.954 ms  117.976 ms
+"
+ustav.press,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  181.953 ms  183.794 ms  182.285 ms
+"
+ustav.press,10,"10  ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  181.201 ms  181.200 ms  181.444 ms
+"
+ustav.press,11,"11  192.80.17.102 (192.80.17.102)  180.995 ms  182.785 ms  182.867 ms
+"
+ustav.press,12,"12  172.20.0.198 (172.20.0.198)  183.826 ms  183.900 ms  181.652 ms
+"
+ustav.press,13,"13  199.193.7.170 (199.193.7.170)  181.466 ms  178.609 ms  178.789 ms
+"
+ustav.press,14,"14  * * *
+"
+ustav.press,15,"15  server240-4.web-hosting.com (199.188.200.18)  184.271 ms  179.904 ms  185.769 ms
+"

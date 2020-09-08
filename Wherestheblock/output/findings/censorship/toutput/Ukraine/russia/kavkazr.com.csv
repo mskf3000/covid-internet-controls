@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+kavkazr.com,0,"traceroute to kavkazr.com (23.14.94.49), 50 hops max, 60 byte packets
+"
+kavkazr.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.310 ms  0.288 ms  0.354 ms
+"
+kavkazr.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.547 ms  0.654 ms  0.639 ms
+"
+kavkazr.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.129 ms  26.135 ms  26.194 ms
+"
+kavkazr.com,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  31.492 ms  29.021 ms  29.107 ms
+"
+kavkazr.com,5," 5  a23-14-94-49.deploy.static.akamaitechnologies.com (23.14.94.49)  31.402 ms  28.378 ms  28.368 ms
+"

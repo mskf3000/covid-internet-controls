@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+about.com,0,"traceroute to about.com (151.101.194.114), 30 hops max, 60 byte packets
+"
+about.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.303 ms  1.286 ms  1.305 ms
+"
+about.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.580 ms  0.561 ms  0.550 ms
+"
+about.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.809 ms  16.137 ms  16.200 ms
+"
+about.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  17.880 ms  17.058 ms  17.923 ms
+"
+about.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.906 ms  43.083 ms  42.900 ms
+"
+about.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  48.664 ms  44.077 ms  45.795 ms
+"
+about.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  45.784 ms  41.883 ms  41.306 ms
+"
+about.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  46.364 ms  46.414 ms  44.434 ms
+"
+about.com,9," 9  * * *
+"
+about.com,10,"10  * * *
+"
+about.com,11,"11  * * *
+"
+about.com,12,"12  * * *
+"
+about.com,13,"13  * * *
+"
+about.com,14,"14  * * *
+"
+about.com,15,"15  * * *
+"
+about.com,16,"16  * * *
+"
+about.com,17,"17  * * *
+"
+about.com,18,"18  * * *
+"
+about.com,19,"19  * * *
+"
+about.com,20,"20  * * *
+"
+about.com,21,"21  * * *
+"
+about.com,22,"22  * * *
+"
+about.com,23,"23  * * *
+"
+about.com,24,"24  * * *
+"
+about.com,25,"25  * * *
+"
+about.com,26,"26  * * *
+"
+about.com,27,"27  * * *
+"
+about.com,28,"28  * * *
+"
+about.com,29,"29  * * *
+"
+about.com,30,"30  * * *
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+hoteljans.nl,0,"traceroute to hoteljans.nl (176.119.38.250), 30 hops max, 60 byte packets
+"
+hoteljans.nl,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.351 ms  0.367 ms
+"
+hoteljans.nl,2," 2  atman-ix.giganet.ua (185.1.62.26)  13.493 ms  13.475 ms  13.447 ms
+"
+hoteljans.nl,3," 3  ix-pl01-oktawave.thinx.pl (212.91.0.175)  13.522 ms  13.510 ms  13.550 ms
+"
+hoteljans.nl,4," 4  in-gw-pl01.oktawave.com (46.229.151.140)  14.021 ms  14.002 ms  13.887 ms
+"
+hoteljans.nl,5," 5  host-46.229.151.141.atman.pl (46.229.151.141)  13.966 ms  13.983 ms  13.970 ms
+"
+hoteljans.nl,6," 6  17997-1-ea50a9-01.services.oktawave.com (176.119.38.250)  13.821 ms  14.418 ms  13.800 ms
+"

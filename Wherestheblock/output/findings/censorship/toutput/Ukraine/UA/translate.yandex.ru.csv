@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+translate.yandex.ru,0,"traceroute to translate.yandex.ru (213.180.204.193), 30 hops max, 60 byte packets
+"
+translate.yandex.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.518 ms  7.499 ms  7.492 ms
+"
+translate.yandex.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.159 ms  1.390 ms  1.496 ms
+"
+translate.yandex.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.850 ms  17.821 ms  17.804 ms
+"
+translate.yandex.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.969 ms  22.882 ms  22.522 ms
+"
+translate.yandex.ru,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.652 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.577 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.678 ms
+"
+translate.yandex.ru,6," 6  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  49.341 ms be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  49.477 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  45.939 ms
+"
+translate.yandex.ru,7," 7  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  56.774 ms  56.065 ms be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  52.733 ms
+"
+translate.yandex.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  56.575 ms  58.460 ms  58.006 ms
+"
+translate.yandex.ru,9," 9  149.11.124.74 (149.11.124.74)  52.928 ms  56.076 ms  52.501 ms
+"
+translate.yandex.ru,10,"10  iva-e1-eth-trunk91.yndx.net (213.180.213.249)  46.750 ms  46.757 ms translate.yandex.ru (213.180.204.193)  44.794 ms
+"

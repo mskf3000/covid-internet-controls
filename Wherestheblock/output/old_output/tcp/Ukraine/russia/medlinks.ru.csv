@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+medlinks.ru,0,"traceroute to medlinks.ru (93.95.98.84), 50 hops max, 60 byte packets
+"
+medlinks.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.296 ms  0.341 ms
+"
+medlinks.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.885 ms  16.045 ms  16.858 ms
+"
+medlinks.ru,3," 3  as48347.ix.dataix.ru (178.18.226.221)  21.648 ms  18.009 ms  18.009 ms
+"
+medlinks.ru,4," 4  vl505-gw6.mtw.ru (93.95.100.6)  30.118 ms  30.101 ms  30.109 ms
+"
+medlinks.ru,5," 5  unspecified.mtw.ru (93.95.98.84)  21.341 ms  17.193 ms  17.201 ms
+"

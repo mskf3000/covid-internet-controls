@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+shaman.aha.ru,0,"traceroute to shaman.aha.ru (213.189.196.22), 30 hops max, 60 byte packets
+"
+shaman.aha.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.391 ms  0.378 ms  0.401 ms
+"
+shaman.aha.ru,2," 2  * * *
+"
+shaman.aha.ru,3," 3  178.18.225.226.ix.dataix.ru (178.18.225.226)  18.958 ms  19.668 ms  19.554 ms
+"
+shaman.aha.ru,4," 4  ost-l3sw-1-vlan404.msk.zenon.net (213.189.212.71)  17.403 ms  18.258 ms  18.275 ms
+"
+shaman.aha.ru,5," 5  bxx022.distributed.zenon.net (213.189.196.22)  17.929 ms  17.771 ms  20.540 ms
+"

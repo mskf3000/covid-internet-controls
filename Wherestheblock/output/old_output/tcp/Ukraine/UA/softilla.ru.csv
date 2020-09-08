@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+softilla.ru,0,"traceroute to softilla.ru (185.188.182.238), 30 hops max, 60 byte packets
+"
+softilla.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.306 ms  0.271 ms  0.298 ms
+"
+softilla.ru,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  2.296 ms  2.190 ms  2.208 ms
+"
+softilla.ru,3," 3  * * *
+"
+softilla.ru,4," 4  ntx.msk.cloud-ix.net (31.28.19.161)  18.845 ms  26.187 ms  26.161 ms
+"
+softilla.ru,5," 5  * * *
+"
+softilla.ru,6," 6  privatemail.host (185.188.182.238)  19.325 ms  19.745 ms  26.274 ms
+"

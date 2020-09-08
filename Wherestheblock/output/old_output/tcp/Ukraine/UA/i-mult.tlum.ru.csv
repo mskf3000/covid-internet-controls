@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+i-mult.tlum.ru,0,"traceroute to i-mult.tlum.ru (85.192.32.129), 30 hops max, 60 byte packets
+"
+i-mult.tlum.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.284 ms  0.316 ms
+"
+i-mult.tlum.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.010 ms  1.007 ms  1.034 ms
+"
+i-mult.tlum.ru,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.077 ms *  1.139 ms
+"
+i-mult.tlum.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.107 ms be2342.ccr21.bts01.atlas.cogentco.com (154.54.38.181)  17.323 ms  17.360 ms
+"
+i-mult.tlum.ru,5," 5  be2988.ccr51.vie01.atlas.cogentco.com (154.54.59.86)  18.228 ms  18.075 ms  18.609 ms
+"
+i-mult.tlum.ru,6," 6  130.117.14.182 (130.117.14.182)  28.465 ms  28.082 ms  28.088 ms
+"
+i-mult.tlum.ru,7," 7  win-bb3-link.telia.net (62.115.114.184)  80.010 ms  79.359 ms  79.341 ms
+"
+i-mult.tlum.ru,8," 8  ffm-bb3-link.telia.net (62.115.137.202)  68.112 ms  68.152 ms  68.022 ms
+"
+i-mult.tlum.ru,9," 9  s-bb3-link.telia.net (62.115.138.236)  68.040 ms  69.341 ms  69.362 ms
+"
+i-mult.tlum.ru,10,"10  mow-b4-link.telia.net (62.115.116.233)  69.264 ms  68.101 ms  69.231 ms
+"
+i-mult.tlum.ru,11,"11  m100-ic-333728-mow-b5.c.telia.net (62.115.147.227)  48.052 ms  48.104 ms  47.239 ms
+"
+i-mult.tlum.ru,12,"12  * * *
+"
+i-mult.tlum.ru,13,"13  * * *
+"
+i-mult.tlum.ru,14,"14  * * *
+"
+i-mult.tlum.ru,15,"15  85.192.32.129 (85.192.32.129)  45.893 ms  47.012 ms  46.324 ms
+"

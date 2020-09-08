@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+nm-g.ru,0,"traceroute to nm-g.ru (178.210.84.61), 30 hops max, 60 byte packets
+"
+nm-g.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.815 ms  0.803 ms  0.844 ms
+"
+nm-g.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.803 ms  18.800 ms  18.781 ms
+"
+nm-g.ru,3," 3  rucenter.w-ix.ru (193.106.112.62)  57.085 ms  57.086 ms  57.078 ms
+"
+nm-g.ru,4," 4  MSK-CTV-R1.nic.ru (193.232.147.51)  19.477 ms  19.471 ms  19.463 ms
+"
+nm-g.ru,5," 5  MSK-DP-GW1.nic.ru (193.232.147.214)  23.897 ms  23.863 ms  23.967 ms
+"
+nm-g.ru,6," 6  31.177.95.82 (31.177.95.82)  19.401 ms  19.410 ms  19.399 ms
+"
+nm-g.ru,7," 7  nm-g.nichost.ru (178.210.84.61)  19.413 ms  19.488 ms  19.470 ms
+"

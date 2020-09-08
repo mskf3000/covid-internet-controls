@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+shturmnovosti.com,0,"traceroute to shturmnovosti.com (176.31.179.191), 30 hops max, 60 byte packets
+"
+shturmnovosti.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.351 ms  0.339 ms  0.333 ms
+"
+shturmnovosti.com,2," 2  * * *
+"
+shturmnovosti.com,3," 3  * * *
+"
+shturmnovosti.com,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.849 ms  34.052 ms  33.519 ms
+"
+shturmnovosti.com,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  84.242 ms  46.181 ms  45.912 ms
+"
+shturmnovosti.com,6," 6  * * *
+"
+shturmnovosti.com,7," 7  * * *
+"
+shturmnovosti.com,8," 8  * * *
+"
+shturmnovosti.com,9," 9  dns2.ru-tld.ru (176.31.179.191)  44.938 ms  45.062 ms  44.831 ms
+"

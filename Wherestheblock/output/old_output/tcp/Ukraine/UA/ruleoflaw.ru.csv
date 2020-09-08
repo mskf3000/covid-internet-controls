@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ruleoflaw.ru,0,"traceroute to ruleoflaw.ru (91.200.40.112), 30 hops max, 60 byte packets
+"
+ruleoflaw.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.335 ms  0.321 ms  0.342 ms
+"
+ruleoflaw.ru,2," 2  volia-ix.giganet.ua (185.1.62.82)  0.964 ms  0.950 ms  0.932 ms
+"
+ruleoflaw.ru,3," 3  lag.agg-2.ss13.kiev.volia.net (77.120.1.98)  1.038 ms lag41-80g.agg-1.ss13.kiev.volia.net (77.120.1.82)  0.909 ms  1.085 ms
+"
+ruleoflaw.ru,4," 4  lag3-60g.dc-2.ss13.kiev.volia.net (77.120.1.174)  1.242 ms lag2-60g.dc-2.ss13.kiev.volia.net (77.120.1.166)  1.650 ms  1.252 ms
+"
+ruleoflaw.ru,5," 5  h112.hvosting.ua (91.200.40.112)  0.671 ms  0.598 ms  0.632 ms
+"

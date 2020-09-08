@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+topics.nytimes.com,0,"traceroute to topics.nytimes.com (151.101.193.164), 30 hops max, 60 byte packets
+"
+topics.nytimes.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.372 ms  0.361 ms  0.364 ms
+"
+topics.nytimes.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.621 ms  0.608 ms  0.541 ms
+"
+topics.nytimes.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.235 ms  16.227 ms  16.187 ms
+"
+topics.nytimes.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  17.205 ms  17.201 ms  17.198 ms
+"
+topics.nytimes.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.919 ms  42.863 ms  42.960 ms
+"
+topics.nytimes.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.016 ms  44.033 ms  44.107 ms
+"
+topics.nytimes.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.180 ms  41.075 ms  41.353 ms
+"
+topics.nytimes.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.052 ms  44.078 ms  44.058 ms
+"
+topics.nytimes.com,9," 9  fastly-ic-336130-hls-b2.c.telia.net (213.248.78.187)  42.830 ms fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  42.646 ms  42.571 ms
+"
+topics.nytimes.com,10,"10  151.101.193.164 (151.101.193.164)  42.799 ms  42.875 ms  46.404 ms
+"

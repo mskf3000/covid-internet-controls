@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+serialu.club,0,"traceroute to serialu.club (104.28.7.236), 50 hops max, 60 byte packets
+"
+serialu.club,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.341 ms  0.377 ms
+"
+serialu.club,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.178 ms  1.133 ms  1.212 ms
+"
+serialu.club,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.993 ms  8.919 ms  9.047 ms
+"
+serialu.club,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.798 ms  11.853 ms  11.890 ms
+"
+serialu.club,5," 5  149.14.58.106 (149.14.58.106)  12.107 ms  12.150 ms  12.535 ms
+"
+serialu.club,6," 6  104.28.7.236 (104.28.7.236)  11.696 ms  11.716 ms  11.675 ms
+"

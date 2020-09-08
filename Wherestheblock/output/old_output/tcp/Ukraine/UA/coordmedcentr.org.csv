@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+coordmedcentr.org,0,"traceroute to coordmedcentr.org (195.39.249.18), 30 hops max, 60 byte packets
+"
+coordmedcentr.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.112 ms  1.098 ms  1.092 ms
+"
+coordmedcentr.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.793 ms  0.599 ms  0.597 ms
+"
+coordmedcentr.org,3," 3  ae0-6.RT.KVT.KSH.RU.retn.net (87.245.233.41)  20.706 ms  20.742 ms  26.888 ms
+"
+coordmedcentr.org,4," 4  GW-Telematika.retn.net (87.245.239.187)  27.583 ms  33.908 ms  27.463 ms
+"
+coordmedcentr.org,5," 5  * * *
+"
+coordmedcentr.org,6," 6  pool-95-215-49-22.optima-east.net (95.215.49.22)  27.011 ms  27.063 ms  28.139 ms
+"
+coordmedcentr.org,7," 7  wh3.dsip.net (195.39.249.18)  27.714 ms  34.275 ms  27.648 ms
+"

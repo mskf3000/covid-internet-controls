@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+grani.ru,0,"traceroute to grani.ru (95.211.178.194), 30 hops max, 60 byte packets
+"
+grani.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.298 ms  0.278 ms  0.311 ms
+"
+grani.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.637 ms  13.931 ms  0.605 ms
+"
+grani.ru,3," 3  100.64.65.25 (100.64.65.25)  8.320 ms  7.782 ms  8.300 ms
+"
+grani.ru,4," 4  100.64.64.125 (100.64.64.125)  14.349 ms  14.498 ms  14.549 ms
+"
+grani.ru,5," 5  100.64.65.237 (100.64.65.237)  32.025 ms  32.275 ms  32.389 ms
+"
+grani.ru,6," 6  et-1-0-0.bb04.ams-01.leaseweb.net (80.249.209.215)  33.677 ms  33.476 ms  33.677 ms
+"
+grani.ru,7," 7  ae-104.br01.ams-01.nl.leaseweb.net (31.31.38.141)  36.052 ms  35.742 ms  37.161 ms
+"
+grani.ru,8," 8  po-1.ce08.ams-01.nl.leaseweb.net (81.17.33.107)  36.571 ms po-1.ce07.ams-01.nl.leaseweb.net (81.17.33.105)  35.974 ms po-1.ce08.ams-01.nl.leaseweb.net (81.17.33.107)  36.189 ms
+"
+grani.ru,9," 9  giganda.grani.ru (95.211.178.194)  39.284 ms  38.601 ms  38.039 ms
+"

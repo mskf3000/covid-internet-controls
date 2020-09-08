@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+greenpeace.ru,0,"traceroute to greenpeace.ru (212.193.246.200), 50 hops max, 60 byte packets
+"
+greenpeace.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.433 ms  0.424 ms  0.418 ms
+"
+greenpeace.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.823 ms  18.876 ms  18.862 ms
+"
+greenpeace.ru,3," 3  rucenter.w-ix.ru (193.106.112.62)  19.057 ms  19.049 ms  19.040 ms
+"
+greenpeace.ru,4," 4  MSK-CTV-R1.nic.ru (193.232.147.51)  19.479 ms  19.466 ms  19.461 ms
+"
+greenpeace.ru,5," 5  MSK-DP-GW1.nic.ru (193.232.147.214)  21.062 ms  20.881 ms  21.021 ms
+"
+greenpeace.ru,6," 6  31.177.95.192 (31.177.95.192)  19.375 ms  19.510 ms  19.501 ms
+"
+greenpeace.ru,7," 7  gprussia.nichost.ru (212.193.246.200)  19.550 ms  19.545 ms  19.520 ms
+"

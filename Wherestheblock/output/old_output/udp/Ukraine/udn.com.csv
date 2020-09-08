@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+udn.com,0,"traceroute to udn.com (104.103.77.83), 30 hops max, 60 byte packets
+"
+udn.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.627 ms  4.617 ms  4.644 ms
+"
+udn.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.563 ms  0.545 ms  0.526 ms
+"
+udn.com,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.204 ms  26.198 ms  26.180 ms
+"
+udn.com,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.306 ms  26.226 ms  28.731 ms
+"
+udn.com,5," 5  ffm-bb2-link.telia.net (62.115.116.159)  31.713 ms ffm-bb2-link.telia.net (62.115.121.10)  32.050 ms ffm-bb3-link.telia.net (62.115.141.236)  26.463 ms
+"
+udn.com,6," 6  win-bb2-link.telia.net (62.115.133.78)  41.294 ms prag-bb1-link.telia.net (62.115.121.119)  32.768 ms win-bb2-link.telia.net (62.115.133.78)  39.035 ms
+"
+udn.com,7," 7  win-b4-link.telia.net (62.115.112.199)  44.244 ms win-b4-link.telia.net (62.115.113.69)  41.376 ms win-b4-link.telia.net (62.115.112.199)  41.715 ms
+"
+udn.com,8," 8  akamai-ic-317493-win-b4.c.telia.net (62.115.147.101)  32.112 ms  29.396 ms  29.449 ms
+"
+udn.com,9," 9  * * *
+"
+udn.com,10,"10  * * *
+"
+udn.com,11,"11  * * *
+"
+udn.com,12,"12  * * *
+"
+udn.com,13,"13  * * *
+"
+udn.com,14,"14  * * *
+"
+udn.com,15,"15  * * *
+"
+udn.com,16,"16  * * *
+"
+udn.com,17,"17  * * *
+"
+udn.com,18,"18  * * *
+"
+udn.com,19,"19  * * *
+"
+udn.com,20,"20  * * *
+"
+udn.com,21,"21  * * *
+"
+udn.com,22,"22  * * *
+"
+udn.com,23,"23  * * *
+"
+udn.com,24,"24  * * *
+"
+udn.com,25,"25  * * *
+"
+udn.com,26,"26  * * *
+"
+udn.com,27,"27  * * *
+"
+udn.com,28,"28  * * *
+"
+udn.com,29,"29  * * *
+"
+udn.com,30,"30  * * *
+"

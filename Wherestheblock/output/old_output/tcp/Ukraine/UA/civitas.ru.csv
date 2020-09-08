@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+civitas.ru,0,"traceroute to civitas.ru (82.202.204.166), 30 hops max, 60 byte packets
+"
+civitas.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.341 ms  0.346 ms  0.341 ms
+"
+civitas.ru,2," 2  * * *
+"
+civitas.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  39.737 ms  19.954 ms  19.998 ms
+"
+civitas.ru,4," 4  f2.radisol.ru (82.202.204.166)  16.724 ms  17.293 ms  17.331 ms
+"
+civitas.ru,5," 5  f2.radisol.ru (82.202.204.166)  17.369 ms  17.831 ms  16.489 ms
+"

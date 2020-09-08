@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+rprf.ru,0,"traceroute to rprf.ru (178.32.75.67), 30 hops max, 60 byte packets
+"
+rprf.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.378 ms  0.380 ms  0.374 ms
+"
+rprf.ru,2," 2  * * *
+"
+rprf.ru,3," 3  * * *
+"
+rprf.ru,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.548 ms  33.529 ms  33.577 ms
+"
+rprf.ru,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  37.941 ms  39.276 ms  36.816 ms
+"
+rprf.ru,6," 6  * * *
+"
+rprf.ru,7," 7  * * *
+"
+rprf.ru,8," 8  * * *
+"
+rprf.ru,9," 9  * * *
+"
+rprf.ru,10,"10  ip67.ip-178-32-75.eu (178.32.75.67)  36.447 ms  35.844 ms  35.786 ms
+"

@@ -1,0 +1,9 @@
+URL,TTL,Response_Message
+tsn.ua,0,"traceroute to tsn.ua (195.137.240.85), 30 hops max, 60 byte packets
+"
+tsn.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.224 ms  4.206 ms  4.214 ms
+"
+tsn.ua,2," 2  1plus1-ix.b.giganet.ua (185.1.111.10)  4.635 ms  5.350 ms  6.025 ms
+"
+tsn.ua,3," 3  front02.1plus1.ua (195.137.240.85)  4.706 ms  4.740 ms  4.778 ms
+"

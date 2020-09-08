@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+tk-union.tv,0,"traceroute to tk-union.tv (93.157.10.114), 30 hops max, 60 byte packets
+"
+tk-union.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  6.945 ms  6.939 ms  6.962 ms
+"
+tk-union.tv,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.524 ms  18.386 ms  16.595 ms
+"
+tk-union.tv,3," 3  109.239.138.75 (109.239.138.75)  51.931 ms  52.253 ms  54.989 ms
+"
+tk-union.tv,4," 4  service-188.130.254.102.com (188.130.254.102)  53.036 ms  52.172 ms  52.738 ms
+"
+tk-union.tv,5," 5  5.153.143.1 (5.153.143.1)  38.132 ms  38.083 ms  38.162 ms
+"
+tk-union.tv,6," 6  soniko.donbass.com (5.153.139.130)  37.755 ms  40.894 ms  40.849 ms
+"
+tk-union.tv,7," 7  93.157.10.114 (93.157.10.114)  49.431 ms  40.006 ms  41.085 ms
+"

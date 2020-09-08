@@ -1,0 +1,5 @@
+URL,TTL,Response_Message
+blogonline.ru?auth=1,0,"blogonline.ru?auth=1: Name or service not known
+"
+blogonline.ru?auth=1,1,"Cannot handle ""host"" cmdline arg `blogonline.ru?auth=1' on position 1 (argc 4)
+"

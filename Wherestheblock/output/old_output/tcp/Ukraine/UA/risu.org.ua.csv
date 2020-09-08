@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+risu.org.ua,0,"traceroute to risu.org.ua (148.251.73.22), 30 hops max, 60 byte packets
+"
+risu.org.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.337 ms  0.328 ms  0.318 ms
+"
+risu.org.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.519 ms  0.559 ms  0.548 ms
+"
+risu.org.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  29.774 ms  28.601 ms  26.189 ms
+"
+risu.org.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  29.047 ms  29.032 ms  29.030 ms
+"
+risu.org.ua,5," 5  core4.fra.hetzner.com (213.239.245.85)  31.709 ms core0.fra.hetzner.com (213.239.252.10)  28.531 ms core4.fra.hetzner.com (213.239.245.85)  31.697 ms
+"
+risu.org.ua,6," 6  core23.fsn1.hetzner.com (213.239.203.154)  33.185 ms core23.fsn1.hetzner.com (213.239.224.249)  35.567 ms core23.fsn1.hetzner.com (213.239.203.154)  35.808 ms
+"
+risu.org.ua,7," 7  ex9k2.dc7.fsn1.hetzner.com (213.239.245.110)  39.348 ms ex9k2.dc7.fsn1.hetzner.com (213.239.245.150)  34.031 ms ex9k2.dc7.fsn1.hetzner.com (213.239.245.110)  39.321 ms
+"
+risu.org.ua,8," 8  spin.tviy.com.ua (5.9.54.107)  40.054 ms  37.675 ms  37.744 ms
+"
+risu.org.ua,9," 9  static.22.73.251.148.clients.your-server.de (148.251.73.22)  34.001 ms  35.995 ms  37.425 ms
+"

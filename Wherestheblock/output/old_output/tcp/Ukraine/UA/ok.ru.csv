@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+ok.ru,0,"traceroute to ok.ru (5.61.23.11), 30 hops max, 60 byte packets
+"
+ok.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.367 ms  0.350 ms  0.340 ms
+"
+ok.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.419 ms  1.508 ms  1.636 ms
+"
+ok.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.309 ms  17.407 ms  17.350 ms
+"
+ok.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.441 ms  18.840 ms  18.432 ms
+"
+ok.ru,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  111.599 ms  111.602 ms  111.594 ms
+"
+ok.ru,6," 6  ae-126-3516.bar1.Helsinki1.Level3.net (4.69.203.30)  138.243 ms ae-125-3515.bar1.Helsinki1.Level3.net (4.69.203.26)  138.090 ms  137.817 ms
+"
+ok.ru,7," 7  212.73.248.6 (212.73.248.6)  46.018 ms  45.190 ms  44.829 ms
+"
+ok.ru,8," 8  * * *
+"
+ok.ru,9," 9  ip11.23.odnoklassniki.ru (5.61.23.11)  46.560 ms  45.814 ms  45.942 ms
+"

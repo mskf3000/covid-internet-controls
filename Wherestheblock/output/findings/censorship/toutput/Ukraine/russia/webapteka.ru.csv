@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+webapteka.ru,0,"traceroute to webapteka.ru (92.243.74.10), 50 hops max, 60 byte packets
+"
+webapteka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.349 ms  0.363 ms
+"
+webapteka.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.903 ms  16.936 ms  17.562 ms
+"
+webapteka.ru,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  24.153 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  27.735 ms bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  23.790 ms
+"
+webapteka.ru,4," 4  phnet.webapteka.ru (92.243.74.10)  27.575 ms  24.843 ms  26.535 ms
+"

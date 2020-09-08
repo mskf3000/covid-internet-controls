@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+materi.ru,0,"traceroute to materi.ru (31.31.205.163), 30 hops max, 60 byte packets
+"
+materi.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.318 ms  0.307 ms  0.321 ms
+"
+materi.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.535 ms  0.523 ms  0.481 ms
+"
+materi.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.966 ms  15.954 ms  15.928 ms
+"
+materi.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  20.470 ms  20.457 ms  20.450 ms
+"
+materi.ru,5," 5  * * *
+"
+materi.ru,6," 6  * * *
+"
+materi.ru,7," 7  * * *
+"
+materi.ru,8," 8  ns1.domainparking.int.reg.ru (31.31.205.163)  16.843 ms  16.944 ms  17.345 ms
+"

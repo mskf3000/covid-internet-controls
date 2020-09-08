@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+ria.ru,0,"traceroute to ria.ru (178.248.233.32), 30 hops max, 60 byte packets
+"
+ria.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.309 ms  0.300 ms  0.295 ms
+"
+ria.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.874 ms  0.874 ms  0.866 ms
+"
+ria.ru,3," 3  10.11.12.17 (10.11.12.17)  0.959 ms  0.837 ms  0.942 ms
+"
+ria.ru,4," 4  * * *
+"
+ria.ru,5," 5  ae3-212.RT.NTL.KIV.UA.retn.net (87.245.237.8)  0.810 ms  1.157 ms  0.910 ms
+"
+ria.ru,6," 6  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  19.697 ms  20.392 ms  20.381 ms
+"
+ria.ru,7," 7  GW-Xtend.retn.net (87.245.253.194)  19.655 ms  19.502 ms  19.524 ms
+"
+ria.ru,8," 8  178.248.233.32 (178.248.233.32)  19.480 ms  19.506 ms  19.510 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+vgolos.com.ua,0,"traceroute to vgolos.com.ua (195.211.84.8), 30 hops max, 60 byte packets
+"
+vgolos.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.339 ms  0.326 ms  0.348 ms
+"
+vgolos.com.ua,2," 2  uarnet-ix.giganet.ua (185.1.62.22)  0.600 ms  0.635 ms  0.521 ms
+"
+vgolos.com.ua,3," 3  194.44.13.90 (194.44.13.90)  7.479 ms  7.606 ms  7.479 ms
+"
+vgolos.com.ua,4," 4  ip-95-215-156-22.network.lviv.ua (95.215.156.22)  7.343 ms  7.320 ms  7.316 ms
+"
+vgolos.com.ua,5," 5  wenet.lviv.ua (195.211.84.8)  7.487 ms  7.604 ms  7.434 ms
+"

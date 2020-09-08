@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+clickadu.com,0,"traceroute to clickadu.com (194.187.97.215), 30 hops max, 60 byte packets
+"
+clickadu.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.305 ms  0.289 ms  0.316 ms
+"
+clickadu.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.794 ms  0.977 ms  1.032 ms
+"
+clickadu.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.036 ms  17.137 ms  17.047 ms
+"
+clickadu.com,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.781 ms  22.706 ms  22.528 ms
+"
+clickadu.com,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.940 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.629 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.954 ms
+"
+clickadu.com,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.528 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.576 ms  39.853 ms
+"
+clickadu.com,7," 7  be3433.rcr21.ams06.atlas.cogentco.com (154.54.58.202)  39.992 ms be3434.rcr21.ams06.atlas.cogentco.com (154.54.59.50)  40.164 ms  40.076 ms
+"
+clickadu.com,8," 8  149.6.1.230 (149.6.1.230)  39.644 ms 149.14.92.42 (149.14.92.42)  41.107 ms universal-cdn.demarc.cogentco.com (149.6.1.38)  40.707 ms
+"
+clickadu.com,9," 9  v-6-08-35-d4583-215.webazilla.com (194.187.97.215)  39.704 ms  39.726 ms  39.719 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+fresher.ru,0,"traceroute to fresher.ru (93.186.202.17), 50 hops max, 60 byte packets
+"
+fresher.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.318 ms  0.351 ms
+"
+fresher.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  44.005 ms  43.967 ms  43.946 ms
+"
+fresher.ru,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  43.743 ms  43.717 ms  43.708 ms
+"
+fresher.ru,4," 4  ve512-h77b3.core1-ams1.bb.as24961.net (80.249.208.219)  43.705 ms  43.689 ms  43.674 ms
+"
+fresher.ru,5," 5  po6.core1-dus3.bb.as24961.net (62.141.47.152)  43.661 ms  43.647 ms  43.639 ms
+"
+fresher.ru,6," 6  eth6-1.ipcar.bb.as24961.net (62.141.47.17)  85.360 ms  46.704 ms  46.560 ms
+"
+fresher.ru,7," 7  f269.fuchsia.dedicated.server-hosting.expert (93.186.202.17)  35.089 ms  34.961 ms  34.967 ms
+"

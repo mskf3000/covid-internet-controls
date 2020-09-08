@@ -1,0 +1,29 @@
+URL,TTL,Response_Message
+libero.it,0,"traceroute to libero.it (213.209.17.209), 30 hops max, 60 byte packets
+"
+libero.it,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.378 ms  0.373 ms  0.374 ms
+"
+libero.it,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  12.982 ms  12.989 ms  12.989 ms
+"
+libero.it,3," 3  ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.584 ms  30.589 ms  30.588 ms
+"
+libero.it,4," 4  decix.wind.it (80.81.192.215)  49.565 ms  49.568 ms  49.567 ms
+"
+libero.it,5," 5  151.6.3.14 (151.6.3.14)  58.341 ms  66.684 ms  66.698 ms
+"
+libero.it,6," 6  151.6.3.194 (151.6.3.194)  46.797 ms  47.153 ms  47.487 ms
+"
+libero.it,7," 7  151.6.0.189 (151.6.0.189)  47.074 ms  46.943 ms  46.931 ms
+"
+libero.it,8," 8  151.7.80.63 (151.7.80.63)  47.738 ms  47.925 ms  47.912 ms
+"
+libero.it,9," 9  151.7.80.237 (151.7.80.237)  47.218 ms  47.350 ms  47.173 ms
+"
+libero.it,10,"10  151.14.124.6 (151.14.124.6)  51.172 ms  51.173 ms  51.169 ms
+"
+libero.it,11,"11  * * *
+"
+libero.it,12,"12  * * *
+"
+libero.it,13,"13  213.209.17.209 (213.209.17.209)  49.029 ms  49.035 ms  49.079 ms
+"

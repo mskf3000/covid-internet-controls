@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+life.ru,0,"traceroute to life.ru (212.193.158.146), 50 hops max, 60 byte packets
+"
+life.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.331 ms  3.310 ms  3.297 ms
+"
+life.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  3.219 ms  3.223 ms  3.197 ms
+"
+life.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.400 ms  17.386 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.189 ms
+"
+life.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.949 ms sw1-std2-msk.ip.ngenix.net (212.193.156.1)  18.042 ms  21.319 ms
+"
+life.ru,5," 5  sw1-std2-msk.ip.ngenix.net (212.193.156.1)  19.896 ms cdn.ngenix.net (212.193.158.146)  20.993 ms  22.313 ms
+"

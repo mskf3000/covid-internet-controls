@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+holmogor.livejournal.com,0,"traceroute to holmogor.livejournal.com (81.19.74.6), 50 hops max, 60 byte packets
+"
+holmogor.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.289 ms  0.293 ms  0.342 ms
+"
+holmogor.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.466 ms  16.660 ms  18.625 ms
+"
+holmogor.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  18.683 ms  18.983 ms  19.298 ms
+"
+holmogor.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  21.706 ms  20.353 ms  20.342 ms
+"
+holmogor.livejournal.com,5," 5  * * *
+"
+holmogor.livejournal.com,6," 6  * * *
+"
+holmogor.livejournal.com,7," 7  livejournal.com (81.19.74.6)  19.797 ms  16.566 ms  18.854 ms
+"

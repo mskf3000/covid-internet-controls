@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+passion.ru,0,"traceroute to passion.ru (81.19.86.55), 30 hops max, 60 byte packets
+"
+passion.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.596 ms  0.607 ms  0.599 ms
+"
+passion.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.522 ms  16.720 ms  17.647 ms
+"
+passion.ru,3," 3  109.239.134.66 (109.239.134.66)  19.481 ms  19.464 ms  19.401 ms
+"
+passion.ru,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  20.289 ms  19.886 ms  19.623 ms
+"
+passion.ru,5," 5  * * *
+"
+passion.ru,6," 6  * * *
+"
+passion.ru,7," 7  81.19.86.55 (81.19.86.55)  18.170 ms  17.357 ms  17.444 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ru.wiktionary.org,0,"traceroute to ru.wiktionary.org (91.198.174.192), 50 hops max, 60 byte packets
+"
+ru.wiktionary.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.584 ms  0.571 ms  0.612 ms
+"
+ru.wiktionary.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.721 ms  0.661 ms  0.699 ms
+"
+ru.wiktionary.org,3," 3  ae3-8.RT.TC2.AMS.NL.retn.net (87.245.233.17)  32.807 ms  32.798 ms  32.779 ms
+"
+ru.wiktionary.org,4," 4  ae2.cr2-esams.wikimedia.org (80.249.209.176)  33.470 ms  33.588 ms  33.377 ms
+"
+ru.wiktionary.org,5," 5  text-lb.esams.wikimedia.org (91.198.174.192)  32.718 ms  36.552 ms  36.522 ms
+"

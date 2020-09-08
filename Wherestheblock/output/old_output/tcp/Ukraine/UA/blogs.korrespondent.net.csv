@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+blogs.korrespondent.net,0,"traceroute to blogs.korrespondent.net (193.29.200.159), 30 hops max, 60 byte packets
+"
+blogs.korrespondent.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.342 ms  0.331 ms  0.367 ms
+"
+blogs.korrespondent.net,2," 2  gigatrans-ix.giganet.ua (185.1.62.92)  39.531 ms  39.951 ms  39.554 ms
+"
+blogs.korrespondent.net,3," 3  46.182.87.216 (46.182.87.216)  40.004 ms *  38.341 ms
+"
+blogs.korrespondent.net,4," 4  193.29.200.159 (193.29.200.159)  38.900 ms  38.457 ms *
+"
+blogs.korrespondent.net,5," 5  193.29.200.159 (193.29.200.159)  39.359 ms  40.132 ms  39.764 ms
+"
+blogs.korrespondent.net,6," 6  193.29.200.159 (193.29.200.159)  40.383 ms  40.172 ms  40.178 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+tochka.net,0,"traceroute to tochka.net (91.207.123.27), 30 hops max, 60 byte packets
+"
+tochka.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.310 ms  0.337 ms
+"
+tochka.net,2," 2  colocall2-gw.ix.net.ua (185.1.51.44)  0.900 ms  1.099 ms  0.999 ms
+"
+tochka.net,3," 3  62.149.31.1 (62.149.31.1)  0.889 ms  0.825 ms  0.920 ms
+"
+tochka.net,4," 4  62.149.7.92 (62.149.7.92)  1.153 ms  1.146 ms  1.398 ms
+"
+tochka.net,5," 5  tochka.net (91.207.123.27)  0.581 ms  0.662 ms  0.622 ms
+"

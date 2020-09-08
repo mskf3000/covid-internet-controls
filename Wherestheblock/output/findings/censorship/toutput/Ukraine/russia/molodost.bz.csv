@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+molodost.bz,0,"traceroute to molodost.bz (176.99.2.12), 50 hops max, 60 byte packets
+"
+molodost.bz,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.308 ms  0.284 ms  0.316 ms
+"
+molodost.bz,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  1.775 ms  0.566 ms  0.542 ms
+"
+molodost.bz,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.996 ms  15.975 ms  15.972 ms
+"
+molodost.bz,4," 4  as7979-gw.fiord.net (62.140.239.159)  16.239 ms  16.233 ms  16.292 ms
+"
+molodost.bz,5," 5  * * *
+"
+molodost.bz,6," 6  * * *
+"
+molodost.bz,7," 7  nc2.rrv.ru (176.99.2.12)  16.238 ms  16.201 ms  16.219 ms
+"

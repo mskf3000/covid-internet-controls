@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novoross.info,0,"traceroute to novoross.info (104.27.183.214), 30 hops max, 60 byte packets
+"
+novoross.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.720 ms  3.748 ms  3.789 ms
+"
+novoross.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.165 ms  0.996 ms  1.215 ms
+"
+novoross.info,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.935 ms  18.810 ms  18.723 ms
+"
+novoross.info,4," 4  149.6.50.74 (149.6.50.74)  19.009 ms  19.429 ms  19.420 ms
+"
+novoross.info,5," 5  104.27.183.214 (104.27.183.214)  18.659 ms  18.530 ms  18.475 ms
+"

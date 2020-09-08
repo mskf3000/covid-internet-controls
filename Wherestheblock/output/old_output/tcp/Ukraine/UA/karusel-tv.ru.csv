@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+karusel-tv.ru,0,"traceroute to karusel-tv.ru (83.222.4.52), 30 hops max, 60 byte packets
+"
+karusel-tv.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.293 ms  0.309 ms
+"
+karusel-tv.ru,2," 2  * * *
+"
+karusel-tv.ru,3," 3  as25532.ix.dataix.ru (178.18.226.7)  19.471 ms  17.610 ms  17.681 ms
+"
+karusel-tv.ru,4," 4  msk-ff-99-vl18.masterhost.ru (217.16.23.245)  19.909 ms * msk-ff-22-vl18.masterhost.ru (217.16.23.242)  16.820 ms
+"
+karusel-tv.ru,5," 5  e5-new.karusel-tv.ru (83.222.4.52)  18.159 ms  17.466 ms  17.490 ms
+"

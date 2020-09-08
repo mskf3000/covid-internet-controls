@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+kazak-chita.ru,0,"traceroute to kazak-chita.ru (194.67.78.216), 50 hops max, 60 byte packets
+"
+kazak-chita.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.382 ms  0.368 ms  0.363 ms
+"
+kazak-chita.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.679 ms  0.652 ms  0.628 ms
+"
+kazak-chita.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.903 ms  15.902 ms  15.898 ms
+"
+kazak-chita.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  17.237 ms  17.255 ms  17.239 ms
+"
+kazak-chita.ru,5," 5  * * *
+"
+kazak-chita.ru,6," 6  172.16.71.11 (172.16.71.11)  16.538 ms  16.510 ms  16.493 ms
+"
+kazak-chita.ru,7," 7  node127-msk1.cloudvps.reg.ru (89.108.69.113)  18.940 ms  18.995 ms  18.984 ms
+"
+kazak-chita.ru,8," 8  194-67-78-216.cloudvps.regruhosting.ru (194.67.78.216)  19.135 ms  17.565 ms  16.790 ms
+"

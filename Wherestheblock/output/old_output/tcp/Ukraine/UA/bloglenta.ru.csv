@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+bloglenta.ru,0,"traceroute to bloglenta.ru (193.124.44.105), 30 hops max, 60 byte packets
+"
+bloglenta.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.320 ms  0.317 ms  0.336 ms
+"
+bloglenta.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.558 ms  0.554 ms  0.537 ms
+"
+bloglenta.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.013 ms  15.987 ms  16.919 ms
+"
+bloglenta.ru,4," 4  as39134-gw.fiord.net (62.140.239.223)  21.640 ms  21.619 ms  21.619 ms
+"
+bloglenta.ru,5," 5  * * *
+"
+bloglenta.ru,6," 6  172.16.71.11 (172.16.71.11)  16.778 ms  16.452 ms  16.439 ms
+"
+bloglenta.ru,7," 7  ovzhost137.vps.reg.ru (37.140.193.130)  16.505 ms  16.520 ms  16.491 ms
+"
+bloglenta.ru,8," 8  193.124.44.105 (193.124.44.105)  17.216 ms  17.337 ms  17.255 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+events.wmtransfer.com,0,"traceroute to events.wmtransfer.com (91.227.52.19), 30 hops max, 60 byte packets
+"
+events.wmtransfer.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.291 ms  0.303 ms  0.342 ms
+"
+events.wmtransfer.com,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  0.552 ms  0.490 ms  0.480 ms
+"
+events.wmtransfer.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.906 ms  15.872 ms  15.921 ms
+"
+events.wmtransfer.com,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.859 ms  15.849 ms  15.837 ms
+"
+events.wmtransfer.com,5," 5  88.210.48.237 (88.210.48.237)  17.028 ms  17.191 ms  17.085 ms
+"
+events.wmtransfer.com,6," 6  91.227.52.19 (91.227.52.19)  16.988 ms  16.819 ms  17.099 ms
+"

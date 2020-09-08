@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+grandcasino.ru,0,"traceroute to grandcasino.ru (104.31.69.121), 30 hops max, 60 byte packets
+"
+grandcasino.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.324 ms  0.310 ms  0.346 ms
+"
+grandcasino.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.530 ms  3.596 ms  0.579 ms
+"
+grandcasino.ru,3," 3  msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  18.257 ms  17.311 ms msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.102 ms
+"
+grandcasino.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  16.011 ms cloudflare-peering.fiord.net (80.77.167.7)  17.515 ms msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.899 ms
+"
+grandcasino.ru,5," 5  104.31.69.121 (104.31.69.121)  17.593 ms cloudflare-peering.fiord.net (80.77.167.7)  16.436 ms 104.31.69.121 (104.31.69.121)  18.135 ms
+"

@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+riarating.ru,0,"traceroute to riarating.ru (195.93.247.39), 30 hops max, 60 byte packets
+"
+riarating.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.292 ms  0.295 ms  0.290 ms
+"
+riarating.ru,2," 2  dtel-ix.w-ix.ru (193.25.180.83)  18.763 ms  18.756 ms  18.802 ms
+"
+riarating.ru,3," 3  equant.inet2.ru (85.112.122.71)  18.589 ms  18.653 ms  18.646 ms
+"
+riarating.ru,4," 4  Moscow-GIN-PE04-ae1-0.rosprint.net (195.151.234.227)  19.037 ms  19.032 ms  19.024 ms
+"
+riarating.ru,5," 5  195.151.251.147 (195.151.251.147)  19.150 ms  19.140 ms  19.128 ms
+"
+riarating.ru,6," 6  195.93.247.39 (195.93.247.39)  19.885 ms  19.838 ms  19.749 ms
+"
+riarating.ru,7," 7  195.93.247.39 (195.93.247.39)  20.297 ms * *
+"
+riarating.ru,8," 8  195.93.247.39 (195.93.247.39)  21.814 ms  22.795 ms  19.408 ms
+"

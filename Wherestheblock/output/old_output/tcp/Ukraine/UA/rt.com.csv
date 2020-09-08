@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+rt.com,0,"traceroute to rt.com (82.202.190.91), 30 hops max, 60 byte packets
+"
+rt.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.766 ms  0.669 ms  0.687 ms
+"
+rt.com,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.671 ms  0.704 ms  0.692 ms
+"
+rt.com,3," 3  ae4-6.RT.MR.MSK.RU.retn.net (87.245.232.204)  20.892 ms  20.905 ms  20.839 ms
+"
+rt.com,4," 4  GW-Indrik.retn.net (87.245.253.219)  19.907 ms  20.109 ms  19.889 ms
+"
+rt.com,5," 5  * * *
+"
+rt.com,6," 6  * * *
+"
+rt.com,7," 7  10.7.11.6 (10.7.11.6)  21.482 ms  21.497 ms  21.471 ms
+"
+rt.com,8," 8  82.202.190.91 (82.202.190.91)  19.711 ms  19.797 ms  20.290 ms
+"

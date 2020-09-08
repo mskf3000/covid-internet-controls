@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+elhosting.ru,0,"traceroute to elhosting.ru (31.25.241.61), 50 hops max, 60 byte packets
+"
+elhosting.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.085 ms  1.069 ms  1.100 ms
+"
+elhosting.ru,2," 2  dtel-ix.kiev.fiord.ru (193.25.180.97)  0.659 ms  0.633 ms  0.662 ms
+"
+elhosting.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  15.979 ms  15.982 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  17.913 ms
+"
+elhosting.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  17.826 ms ekt-udc-b1-ae0-vlan1167.fiord.net (62.140.239.117)  44.463 ms ekt-udc-b1-ae0-vlan1168.fiord.net (62.140.239.125)  41.849 ms
+"
+elhosting.ru,5," 5  uralwes-gw.fiord.net (62.140.239.5)  45.373 ms  47.762 ms ekt-udc-b1-ae0-vlan1168.fiord.net (62.140.239.125)  40.638 ms
+"
+elhosting.ru,6," 6  Andor-v120.Ural.Net (87.251.181.53)  44.529 ms  48.220 ms  51.098 ms
+"
+elhosting.ru,7," 7  82.193.138.139 (82.193.138.139)  45.715 ms  49.991 ms  50.225 ms
+"
+elhosting.ru,8," 8  61.241-25-31.DC.dataekb.ru (31.25.241.61)  47.978 ms  45.097 ms  47.707 ms
+"

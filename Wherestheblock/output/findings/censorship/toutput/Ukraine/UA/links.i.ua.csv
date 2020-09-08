@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+links.i.ua,0,"traceroute to links.i.ua (91.198.36.14), 30 hops max, 60 byte packets
+"
+links.i.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.371 ms  0.355 ms  0.337 ms
+"
+links.i.ua,2," 2  colocall2-gw.ix.net.ua (185.1.51.44)  1.204 ms  0.919 ms  1.022 ms
+"
+links.i.ua,3," 3  62.149.31.1 (62.149.31.1)  0.978 ms  1.040 ms  0.949 ms
+"
+links.i.ua,4," 4  * * *
+"
+links.i.ua,5," 5  www.i.ua (91.198.36.14)  0.630 ms  0.597 ms  0.597 ms
+"

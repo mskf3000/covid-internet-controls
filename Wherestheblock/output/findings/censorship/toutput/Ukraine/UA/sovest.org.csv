@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+sovest.org,0,"traceroute to sovest.org (85.187.128.8), 30 hops max, 60 byte packets
+"
+sovest.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.328 ms  0.334 ms  0.374 ms
+"
+sovest.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.571 ms  0.510 ms  0.552 ms
+"
+sovest.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.768 ms  28.744 ms  26.146 ms
+"
+sovest.org,4," 4  ffm-b1-link.telia.net (62.115.63.109)  26.404 ms  48.750 ms  26.383 ms
+"
+sovest.org,5," 5  ffm-bb3-link.telia.net (62.115.141.238)  46.035 ms ffm-bb2-link.telia.net (62.115.137.166)  47.261 ms ffm-bb2-link.telia.net (62.115.116.161)  44.816 ms
+"
+sovest.org,6," 6  hbg-bb3-link.telia.net (62.115.123.77)  44.658 ms hbg-bb4-link.telia.net (62.115.138.173)  47.697 ms  47.692 ms
+"
+sovest.org,7," 7  adm-bb4-link.telia.net (80.91.246.200)  42.665 ms adm-bb3-link.telia.net (213.155.136.160)  42.426 ms adm-bb3-link.telia.net (80.91.252.42)  40.021 ms
+"
+sovest.org,8," 8  sg1-ss6.a2hosting.com (85.187.128.8)  193.700 ms  193.783 ms  195.103 ms
+"

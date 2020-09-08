@@ -1,0 +1,1408 @@
+URL,TTL,Message
+sputnik.ru,1,
+sputnik.ru,2,
+sputnik.ru,3,
+sputnik.ru,4,
+sputnik.ru,5,
+sputnik.ru,6,
+sputnik.ru,7,
+sputnik.ru,8,
+sputnik.ru,9,
+sputnik.ru,10,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:50 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuS14pUjpICBI4BRrcAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,11,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuS14pUjtHsBI3BOmzAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,12,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjuZTgVmBHJQAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,13,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuS14pUjtF4RI1BIxqAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,14,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuTF4pUjtGQw3tBGlLAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div"
+sputnik.ru,15,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSV4pUjtttGZKBMi0Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,16,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjuqzgVrBVcEAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,17,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuTF4pUjtGzg3uBIyjAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,18,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuS14pUjtHsBI3BOm4Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,19,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuTF4pUjtI8g3xBSrWAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div"
+sputnik.ru,20,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjuY9QVlBDgPAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,21,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:51 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuTF4pUjtFyA3qBDN/Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,22,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSV4pUjxu4mZMBUyvAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,23,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjyjhQVpBQslAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,24,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjyY9QVlBDgUAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik."
+sputnik.ru,25,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjyqzgVrBVcHAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,26,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjygYgVoBIueAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,27,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSl4pUjygaAVnBNW6Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"
+sputnik.ru,28,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuS14pUjxICBI4BRrvAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div"
+sputnik.ru,29,"HTTP/1.1 404 Not Found
+Server: nginx
+Date: Thu, 23 Jan 2020 07:58:52 GMT
+Content-Type: text/html
+Content-Length: 3079
+Connection: keep-alive
+ETag: ""598c1caa-c07""
+Set-Cookie: session_id=CvLuSV4pUjxwcGZOBYuTAg==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.sputnik.ru; path=/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""/>
+        <meta http-equiv=""X-UA-COMPATIBLE"" content=""IE=edge""/>
+        <meta name=""language"" content=""ru""/>
+
+        <title>Поисковый сервис Спутник - 404</title>
+
+        <link rel=""image_src"" href=""/404/logo.gif""/>
+        <link rel=""apple-touch-icon"" sizes=""57x57"" href=""/404/apple-touch-icon-57x57.png""/>
+        <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/404/apple-touch-icon-72x72.png""/>
+        <link rel=""apple-touch-icon"" sizes=""60x60"" href=""/404/apple-touch-icon-60x60.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""/404/favicon-16x16.png""/>
+        <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""/404/favicon-32x32.png""/>
+        <meta name=""msapplication-TileColor"" content=""#da532c""/>
+        <link rel=""shortcut icon"" href=""/404/favicon.ico""/>
+
+        <link rel=""stylesheet"" href=""/404/style.css""/>
+		<!--[if lte IE 8]><link rel=""stylesheet"" href=""/404/ie8.css""/><![endif]-->
+</head>
+<body>
+    <div class=""b-wrapper"">
+        <h1>404</h1>
+        <h2>Страницы не существует</h2>
+
+        <div class=""b-center"">
+            <a class=""b-logo"" href=""//sputnik.ru""></a>
+            <div class=""b-search"">
+                <form class=""b-search-form"" action=""//sputnik.ru/search/"" enctype=""application/x-www-form-urlencoded"" accept-charset=""utf-8"" name=""sbm"" id=""sbm"">
+                    <div class=""b-search-form__text"">
+                        <input type=""text"" class=""b-search-form__text-i"" value="""" name=""q"" autofocus id=""search-form"" spellcheck=""false"" maxlength=""512"" autocomplete=""off""/>
+                        <div class=""b-reset-bt""></div>
+                    </div>
+                    <div class=""b-hints js-hints""></div>
+                    <div class=""b-search-form__bt"">
+                        <button type=""submit"" class=""b-search-form__bt-i"" value=""Найти"">Найти</button>
+                    </div>
+                </form>
+            </div>
+            <div class=""b__clear""></div>
+<div id=""adblocks-12"" class=""b-adserver-300-250""></div><script>
+(function(d, w, id, n) {
+
+var s = d.createElement('script'),
+rnd = Math.random().toString(32);
+
+w[
+n] = w[n] || [];
+
+    w[n].push({
+        blockId: 12,
+        renderTo: 'adblocks-12'
+    });
+    s.onload = function() { d.body.removeChild(s); };
+
+    s.src = '//ads.sputnik.ru/adblocks.js?rnd=' + rnd + '&id=' + id;
+    d.body.appendChild(s);
+
+    })(document, window, 'user_id', 'rtkAdIds');
+</script>
+
+        </div>
+    </div>
+    <script src=""/404/jquery.js""></script>
+    <script src=""/404/script.js""></script>
+    <script type=""text/javascript"">
+      (function(d, t, p) {
+      var j = d.createElement(t); j.async = true; j.type = ""text/javascript"";
+      j.src = (""https:"" == p ? ""https:"" : ""http:"") + ""//stat.sputnik.ru/cnt.js"";
+      var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+      })(document, ""script"", document.location.protocol);
+    </script>
+</body>
+</html>"

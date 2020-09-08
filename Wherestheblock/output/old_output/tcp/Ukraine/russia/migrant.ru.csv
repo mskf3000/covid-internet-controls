@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+migrant.ru,0,"traceroute to migrant.ru (185.26.122.70), 50 hops max, 60 byte packets
+"
+migrant.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.380 ms  2.369 ms  2.422 ms
+"
+migrant.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.687 ms  0.681 ms  0.671 ms
+"
+migrant.ru,3," 3  ae2-11.RT.OV.SPB.RU.retn.net (87.245.232.0)  30.300 ms  30.283 ms  30.281 ms
+"
+migrant.ru,4," 4  GW-Hostland.retn.net (87.245.250.231)  27.919 ms  27.987 ms  27.981 ms
+"
+migrant.ru,5," 5  196.123.26.185.hostland.ru (185.26.123.196)  31.198 ms  31.325 ms  31.246 ms
+"
+migrant.ru,6," 6  serv70-26.hostland.ru (185.26.122.70)  29.048 ms  27.167 ms  27.652 ms
+"

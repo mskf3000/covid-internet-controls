@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+visatovietnam.us,0,"traceroute to visatovietnam.us (91.195.240.94), 30 hops max, 60 byte packets
+"
+visatovietnam.us,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.326 ms  0.314 ms  0.348 ms
+"
+visatovietnam.us,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.459 ms  0.550 ms  0.543 ms
+"
+visatovietnam.us,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.720 ms  28.695 ms  28.702 ms
+"
+visatovietnam.us,4," 4  ffm-b1-link.telia.net (62.115.63.109)  29.366 ms  29.348 ms  29.377 ms
+"
+visatovietnam.us,5," 5  ffm-bb3-link.telia.net (62.115.121.0)  33.433 ms ffm-bb3-link.telia.net (62.115.141.238)  38.720 ms ffm-bb3-link.telia.net (62.115.137.164)  33.471 ms
+"
+visatovietnam.us,6," 6  mcn-b2-link.telia.net (62.115.120.126)  35.850 ms mcn-b2-link.telia.net (62.115.120.128)  35.790 ms mcn-b2-link.telia.net (62.115.136.19)  35.908 ms
+"
+visatovietnam.us,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  115.791 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  115.071 ms  117.437 ms
+"
+visatovietnam.us,8," 8  91.195.241.102 (91.195.241.102)  117.912 ms  118.004 ms  117.981 ms
+"
+visatovietnam.us,9," 9  91.195.241.106 (91.195.241.106)  116.397 ms  116.606 ms  116.578 ms
+"
+visatovietnam.us,10,"10  91.195.240.94 (91.195.240.94)  118.497 ms  118.016 ms  115.933 ms
+"

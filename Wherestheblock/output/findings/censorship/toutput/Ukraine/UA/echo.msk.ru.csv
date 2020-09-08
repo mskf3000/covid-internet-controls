@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+echo.msk.ru,0,"traceroute to echo.msk.ru (185.165.123.54), 30 hops max, 60 byte packets
+"
+echo.msk.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.360 ms  0.355 ms  0.347 ms
+"
+echo.msk.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.892 ms  0.886 ms  0.877 ms
+"
+echo.msk.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.165 ms  21.152 ms  21.126 ms
+"
+echo.msk.ru,4," 4  * * *
+"
+echo.msk.ru,5," 5  185.165.123.54 (185.165.123.54)  19.363 ms  21.060 ms  19.408 ms
+"

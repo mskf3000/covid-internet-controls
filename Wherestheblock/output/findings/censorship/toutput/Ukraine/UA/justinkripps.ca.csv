@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+justinkripps.ca,0,"traceroute to justinkripps.ca (66.96.160.149), 30 hops max, 60 byte packets
+"
+justinkripps.ca,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.267 ms  0.289 ms  0.321 ms
+"
+justinkripps.ca,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.875 ms  0.907 ms  0.976 ms
+"
+justinkripps.ca,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.410 ms  17.171 ms  17.178 ms
+"
+justinkripps.ca,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.421 ms  22.527 ms  22.456 ms
+"
+justinkripps.ca,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.480 ms  30.510 ms  30.545 ms
+"
+justinkripps.ca,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.623 ms  39.812 ms  39.667 ms
+"
+justinkripps.ca,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  47.048 ms  46.791 ms  47.299 ms
+"
+justinkripps.ca,8," 8  be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  109.150 ms  109.096 ms  109.063 ms
+"
+justinkripps.ca,9," 9  endurance-international-group.demarc.cogentco.com (38.97.106.34)  108.680 ms  108.613 ms  108.928 ms
+"
+justinkripps.ca,10,"10  238.252.148.207.static.yourhostingaccount.com (207.148.252.238)  109.237 ms  109.071 ms  109.130 ms
+"
+justinkripps.ca,11,"11  149.160.96.66.static.eigbox.net (66.96.160.149)  108.879 ms  108.650 ms  108.645 ms
+"

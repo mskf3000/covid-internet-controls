@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+gaycity.love,0,"traceroute to gaycity.love (116.202.104.15), 50 hops max, 60 byte packets
+"
+gaycity.love,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.334 ms  5.326 ms  5.321 ms
+"
+gaycity.love,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.592 ms  0.623 ms  0.570 ms
+"
+gaycity.love,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.737 ms  26.157 ms  26.161 ms
+"
+gaycity.love,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.493 ms  31.488 ms  28.701 ms
+"
+gaycity.love,5," 5  core0.fra.hetzner.com (213.239.252.10)  28.790 ms core5.fra.hetzner.com (213.239.224.218)  35.359 ms  32.915 ms
+"
+gaycity.love,6," 6  core22.fsn1.hetzner.com (213.239.245.178)  36.957 ms  39.530 ms core21.fsn1.hetzner.com (213.239.245.13)  36.124 ms
+"
+gaycity.love,7," 7  spine2.cloud2.fsn1.hetzner.com (213.239.239.130)  41.603 ms spine1.cloud2.fsn1.hetzner.com (213.239.239.126)  34.068 ms  34.497 ms
+"
+gaycity.love,8," 8  * * *
+"
+gaycity.love,9," 9  10055.your-cloud.host (159.69.97.55)  33.485 ms  33.502 ms  36.000 ms
+"
+gaycity.love,10,"10  * * *
+"
+gaycity.love,11,"11  gaycity.love (116.202.104.15)  36.018 ms  36.097 ms  33.007 ms
+"

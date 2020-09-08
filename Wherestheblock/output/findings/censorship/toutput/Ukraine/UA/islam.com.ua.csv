@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+islam.com.ua,0,"traceroute to islam.com.ua (144.76.40.137), 30 hops max, 60 byte packets
+"
+islam.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.279 ms  0.277 ms  0.310 ms
+"
+islam.com.ua,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.572 ms  0.596 ms  0.561 ms
+"
+islam.com.ua,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.690 ms  26.172 ms  28.660 ms
+"
+islam.com.ua,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  29.218 ms  31.198 ms  29.243 ms
+"
+islam.com.ua,5," 5  core1.fra.hetzner.com (213.239.245.125)  31.071 ms core5.fra.hetzner.com (213.239.224.218)  35.437 ms core4.fra.hetzner.com (213.239.245.85)  31.407 ms
+"
+islam.com.ua,6," 6  core24.fsn1.hetzner.com (213.239.203.150)  36.916 ms core23.fsn1.hetzner.com (213.239.224.249)  35.760 ms core23.fsn1.hetzner.com (213.239.229.74)  39.411 ms
+"
+islam.com.ua,7," 7  ex9k1.dc10.fsn1.hetzner.com (213.239.229.50)  36.726 ms ex9k1.dc10.fsn1.hetzner.com (213.239.229.54)  36.494 ms ex9k1.dc10.fsn1.hetzner.com (213.239.229.50)  34.393 ms
+"
+islam.com.ua,8," 8  static.137.40.76.144.clients.your-server.de (144.76.40.137)  33.086 ms  35.570 ms  33.032 ms
+"

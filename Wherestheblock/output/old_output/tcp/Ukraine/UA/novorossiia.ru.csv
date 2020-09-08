@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+novorossiia.ru,0,"traceroute to novorossiia.ru (87.236.16.191), 30 hops max, 60 byte packets
+"
+novorossiia.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.619 ms  0.605 ms  0.599 ms
+"
+novorossiia.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.669 ms  0.661 ms  0.586 ms
+"
+novorossiia.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  36.337 ms  36.316 ms  36.320 ms
+"
+novorossiia.ru,4," 4  * * *
+"
+novorossiia.ru,5," 5  87.236.16.191 (87.236.16.191)  28.005 ms  28.035 ms  28.802 ms
+"

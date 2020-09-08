@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+euro.who.int,0,"traceroute to euro.who.int (185.64.253.104), 30 hops max, 60 byte packets
+"
+euro.who.int,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.958 ms  0.994 ms  0.987 ms
+"
+euro.who.int,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.972 ms  0.838 ms  0.994 ms
+"
+euro.who.int,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.346 ms  17.365 ms  17.407 ms
+"
+euro.who.int,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.593 ms  22.622 ms  22.549 ms
+"
+euro.who.int,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.884 ms  31.871 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  31.850 ms
+"
+euro.who.int,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.395 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.645 ms  39.687 ms
+"
+euro.who.int,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.729 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  46.635 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  47.087 ms
+"
+euro.who.int,8," 8  be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  46.733 ms be2868.ccr21.lon01.atlas.cogentco.com (154.54.57.154)  46.804 ms  46.774 ms
+"
+euro.who.int,9," 9  be2427.rcr11.b015593-1.lon01.atlas.cogentco.com (154.54.38.202)  47.489 ms be3168.rcr11.b015593-1.lon01.atlas.cogentco.com (130.117.51.166)  47.306 ms be2427.rcr11.b015593-1.lon01.atlas.cogentco.com (154.54.38.202)  47.584 ms
+"
+euro.who.int,10,"10  xe2-2-ve-71.gr-pe-2.gr.thebunker.net (149.6.147.142)  46.943 ms  47.037 ms  47.060 ms
+"
+euro.who.int,11,"11  squiz.1224.cr-1.ash.thebunker.net (93.91.16.189)  49.725 ms  49.661 ms  49.650 ms
+"
+euro.who.int,12,"12  93.91.16.190 (93.91.16.190)  49.731 ms  49.719 ms  49.753 ms
+"
+euro.who.int,13,"13  10.10.1.10 (10.10.1.10)  50.839 ms  51.048 ms  50.901 ms
+"
+euro.who.int,14,"14  who-web01.ash2.squiz.cloud (185.64.253.104)  50.000 ms  49.820 ms  49.902 ms
+"

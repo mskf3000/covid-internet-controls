@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+my.lesbi.name,0,"traceroute to my.lesbi.name (185.134.204.229), 30 hops max, 60 byte packets
+"
+my.lesbi.name,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.311 ms  0.352 ms
+"
+my.lesbi.name,2," 2  * * *
+"
+my.lesbi.name,3," 3  as199599.ix.dataix.ru (178.18.224.113)  16.960 ms  16.962 ms  20.331 ms
+"
+my.lesbi.name,4," 4  190-230-9-185.host.cirex.ru (185.9.230.190)  18.063 ms  20.299 ms  18.052 ms
+"
+my.lesbi.name,5," 5  185.134.204.229 (185.134.204.229)  17.354 ms  18.895 ms  17.296 ms
+"

@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+libero.it,0,"traceroute to libero.it (213.209.17.209), 30 hops max, 60 byte packets
+"
+libero.it,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.336 ms  0.337 ms  0.369 ms
+"
+libero.it,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.594 ms  0.882 ms  0.558 ms
+"
+libero.it,3," 3  ae3-4.RT.EQX.FKT.DE.retn.net (87.245.232.233)  31.070 ms ae4-2.RT.EQX.FKT.DE.retn.net (87.245.233.164)  30.373 ms  30.353 ms
+"
+libero.it,4," 4  decix.wind.it (80.81.192.215)  49.457 ms  49.067 ms  49.061 ms
+"
+libero.it,5," 5  151.6.3.16 (151.6.3.16)  50.465 ms  49.907 ms  49.802 ms
+"
+libero.it,6," 6  * * *
+"
+libero.it,7," 7  151.6.0.108 (151.6.0.108)  47.241 ms 151.6.0.191 (151.6.0.191)  47.213 ms 151.6.2.7 (151.6.2.7)  50.755 ms
+"
+libero.it,8," 8  151.7.80.3 (151.7.80.3)  47.159 ms MICA-D05-fe00.wind.it (151.6.45.27)  46.573 ms 151.6.44.193 (151.6.44.193)  46.553 ms
+"
+libero.it,9," 9  * * *
+"
+libero.it,10,"10  * * *
+"
+libero.it,11,"11  * * *
+"
+libero.it,12,"12  * * *
+"
+libero.it,13,"13  * * *
+"
+libero.it,14,"14  * * *
+"
+libero.it,15,"15  * * *
+"
+libero.it,16,"16  * * *
+"
+libero.it,17,"17  * * *
+"
+libero.it,18,"18  * * *
+"
+libero.it,19,"19  * * *
+"
+libero.it,20,"20  * * *
+"
+libero.it,21,"21  * * *
+"
+libero.it,22,"22  * * *
+"
+libero.it,23,"23  * * *
+"
+libero.it,24,"24  * * *
+"
+libero.it,25,"25  * * *
+"
+libero.it,26,"26  * * *
+"
+libero.it,27,"27  * * *
+"
+libero.it,28,"28  * * *
+"
+libero.it,29,"29  * * *
+"
+libero.it,30,"30  * * *
+"

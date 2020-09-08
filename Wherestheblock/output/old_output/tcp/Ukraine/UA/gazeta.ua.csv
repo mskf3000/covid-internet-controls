@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+gazeta.ua,0,"traceroute to gazeta.ua (104.26.5.108), 30 hops max, 60 byte packets
+"
+gazeta.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.313 ms  0.304 ms  0.345 ms
+"
+gazeta.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.891 ms  1.080 ms  1.171 ms
+"
+gazeta.ua,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  2.438 ms  1.011 ms  1.116 ms
+"
+gazeta.ua,4," 4  149.6.191.138 (149.6.191.138)  0.683 ms  0.623 ms  0.663 ms
+"
+gazeta.ua,5," 5  104.26.5.108 (104.26.5.108)  0.634 ms  0.580 ms  0.627 ms
+"

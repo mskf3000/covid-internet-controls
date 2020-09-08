@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+trud.org,0,"traceroute to trud.org (37.187.83.72), 50 hops max, 60 byte packets
+"
+trud.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.322 ms  0.298 ms  0.320 ms
+"
+trud.org,2," 2  * * *
+"
+trud.org,3," 3  * * *
+"
+trud.org,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.426 ms  33.789 ms  33.480 ms
+"
+trud.org,5," 5  be101.sbg-g1-nc5.fr.eu (94.23.122.136)  36.780 ms  37.348 ms  36.768 ms
+"
+trud.org,6," 6  * * *
+"
+trud.org,7," 7  * * *
+"
+trud.org,8," 8  dns1.ru-tld.ru (37.187.83.72)  35.929 ms  35.867 ms  35.868 ms
+"

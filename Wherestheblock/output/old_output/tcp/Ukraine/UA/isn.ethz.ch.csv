@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+isn.ethz.ch,0,"traceroute to isn.ethz.ch (129.132.19.202), 30 hops max, 60 byte packets
+"
+isn.ethz.ch,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.312 ms  0.330 ms  0.373 ms
+"
+isn.ethz.ch,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.507 ms  0.499 ms  0.602 ms
+"
+isn.ethz.ch,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  38.472 ms  38.469 ms  35.870 ms
+"
+isn.ethz.ch,4," 4  swiCE1-100GE-0-3-0-1.switch.ch (80.249.208.33)  50.044 ms  50.085 ms  49.938 ms
+"
+isn.ethz.ch,5," 5  swiCE4-100GE-0-0-0-0.switch.ch (130.59.36.6)  51.322 ms  51.296 ms  51.303 ms
+"
+isn.ethz.ch,6," 6  swiBE3-100GE-0-1-0-1.switch.ch (130.59.37.145)  51.059 ms  53.531 ms  51.193 ms
+"
+isn.ethz.ch,7," 7  swiBF1-100GE-0-0-0-1.switch.ch (130.59.39.78)  54.016 ms  54.005 ms  53.990 ms
+"
+isn.ethz.ch,8," 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.37.6)  52.858 ms  52.906 ms  52.843 ms
+"
+isn.ethz.ch,9," 9  rou-gw-lee-tengig-to-switch.ethz.ch (192.33.92.1)  55.203 ms  52.642 ms  52.839 ms
+"
+isn.ethz.ch,10,"10  rou-fw-rz-rz-gw.ethz.ch (192.33.92.169)  53.392 ms  55.585 ms  53.545 ms
+"
+isn.ethz.ch,11,"11  lb-lee-a101-a-service-id-bd-unix-lb-out-1.ethz.ch (129.132.19.195)  52.751 ms  55.302 ms  55.264 ms
+"
+isn.ethz.ch,12,"12  redirector.id.ethz.ch (129.132.19.202)  55.052 ms  55.292 ms  55.251 ms
+"

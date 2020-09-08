@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+nakur.ruckp.org,0,"traceroute to nakur.ruckp.org (104.18.57.37), 30 hops max, 60 byte packets
+"
+nakur.ruckp.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.462 ms  2.448 ms  2.465 ms
+"
+nakur.ruckp.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.891 ms  0.922 ms  0.993 ms
+"
+nakur.ruckp.org,3," 3  be3652.rcr21.ods01.atlas.cogentco.com (130.117.3.46)  8.871 ms  9.004 ms  8.999 ms
+"
+nakur.ruckp.org,4," 4  be3514.rcr51.kiv01.atlas.cogentco.com (130.117.48.153)  11.932 ms  11.999 ms  11.866 ms
+"
+nakur.ruckp.org,5," 5  149.14.58.106 (149.14.58.106)  12.626 ms  12.618 ms  12.239 ms
+"
+nakur.ruckp.org,6," 6  104.18.57.37 (104.18.57.37)  11.831 ms  11.738 ms  11.554 ms
+"

@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+svobodanews.ru,0,"traceroute to svobodanews.ru (84.53.161.171), 30 hops max, 60 byte packets
+"
+svobodanews.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.270 ms  0.252 ms  0.279 ms
+"
+svobodanews.ru,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.569 ms  0.561 ms  0.548 ms
+"
+svobodanews.ru,3," 3  100.64.65.25 (100.64.65.25)  8.248 ms  7.783 ms  7.751 ms
+"
+svobodanews.ru,4," 4  100.64.65.85 (100.64.65.85)  23.482 ms  23.469 ms  23.443 ms
+"
+svobodanews.ru,5," 5  * * *
+"
+svobodanews.ru,6," 6  a84-53-161-171.deploy.static.akamaitechnologies.com (84.53.161.171)  18.657 ms  19.165 ms  19.541 ms
+"

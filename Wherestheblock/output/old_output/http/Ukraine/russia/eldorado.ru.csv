@@ -1,0 +1,2885 @@
+URL,TTL,Message
+eldorado.ru,1,timed out
+eldorado.ru,2,timed out
+eldorado.ru,3,timed out
+eldorado.ru,4,timed out
+eldorado.ru,5,timed out
+eldorado.ru,6,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,7,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,8,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,9,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,10,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,11,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,12,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,13,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,14,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+      "
+eldorado.ru,15,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,16,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:33 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,17,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,18,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,19,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,20,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,21,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,22,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,23,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,24,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,25,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,26,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,27,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, что Ваш Д�"
+eldorado.ru,28,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"
+eldorado.ru,29,"HTTP/1.1 405 Not Allowed
+Server: openresty/1.13.6.2
+Date: Thu, 23 Jan 2020 08:09:35 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FireWall-Port: 80
+
+1467
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <title>Error 405: Not allowed</title>
+  <link rel=""stylesheet"" href=""https://c.stormwall.pro/error_pages/bootstrap.min.css"">
+  
+  <style>
+    .info-image {
+      width: 100px;
+      max-width: 90%;
+    }
+    .customnav {
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+<!-- Header -->
+<div class=""bg-faded customnav"">
+  <div class=""container"">
+    <div class=""row"">
+      <div class=""col-6"">
+        <a class=""btn btn-default btn-sm"" href=""javascript: location=location""><img src=""https://c.stormwall.pro/error_pages/glyphicons-82-refresh.png"" style=""width: 18px; position: relative; top: -2px;"">  Retry again</a>
+      </div>
+      <div class=""col-6 text-right"">
+        <a href=""https://stormwall.pro/""><img src=""https://c.stormwall.pro/error_pages/sw-logo.png"" style=""height: 24px;"" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header -->
+<br/>
+<br/>
+<!-- Content -->
+<div class=""container"">
+  <h1>Error 405: Request is not allowed</h1>
+  
+  <div class=""hidden-xs-down"">
+  
+    <br/>
+    <br/>
+    
+    <div class=""row"">
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/you-ok.png""></p>
+        <p>You</p>
+      </div>
+      
+      <div class=""col-sm-1 text-center d-flex align-items-center"""">
+
+          <img class=""info-image"" src=""https://c.stormwall.pro/error_pages/arrow.png"">
+
+      </div>
+      
+      <div class=""col-sm-2 text-center"">
+        <p><img class=""info-image"" src=""https://c.stormwall.pro/error_pages/sw-err.png""></p>
+        <p>Storm<span style=""font-size: 0px;""> </span>Wall</p>
+      </div>
+      
+    </div>
+  
+  </div>
+  
+  <br/>
+  <br/>
+  
+  <div class=""row"">
+    <div class=""col-md-12"">
+    
+      <!-- Nav tabs -->
+      <ul class=""nav nav-tabs"" role=""tablist"">
+        <li class=""nav-item lang-en"" id=""english-link"">
+          <a class=""nav-link active"" data-toggle=""tab"" href=""#english-tab"" role=""tab"">English</a>
+        </li>
+      
+        <li class=""nav-item lang-ru"" id=""russian-link"">
+          <a class=""nav-link"" data-toggle=""tab"" href=""#russian-tab"" role=""tab"">Русский</a>
+        </li>
+      </ul>
+      <br>
+      <!-- Tab panes -->
+      <div class=""tab-content"">
+      
+        <div class=""tab-pane active lang-en"" id=""english-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Reason</h3>
+              <p>Your request has unallowed parameteres and cannot be processed by proxy server.</p>
+              <p></p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>For visitor</h3>
+              <p>Make sure your DNS server resolves correct ip address.</p>
+              <p>Check local ""hosts"" file for any invalid record.</p>
+              <h3>For administrator</h3>
+              <p>Check A-record on your DNS server. Check your account, you should have positive balance.</p>
+            </div>            
+          </div>
+        </div>
+      
+        <div class=""tab-pane lang-ru"" id=""russian-tab"" role=""tabpanel"">
+          <div class=""row"">
+            <div class=""col-md-6"">
+              <h3>Причина</h3>
+              <p>Ваш запрос содержит недопустимые параметры и прокси сервер не может его обработать.</p>
+              <p>Например, вы запросили соединение с хостом, по ip адресу, на котором он не расположен.</p>
+            </div>
+            <div class=""col-md-6"">
+              <h3>Для посетителей</h3>
+              <p>Убедитесь, �"

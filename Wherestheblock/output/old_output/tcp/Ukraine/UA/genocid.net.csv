@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+genocid.net,0,"traceroute to genocid.net (80.241.211.5), 30 hops max, 60 byte packets
+"
+genocid.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.457 ms  0.446 ms  0.441 ms
+"
+genocid.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.584 ms  0.606 ms  0.572 ms
+"
+genocid.net,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.584 ms  26.086 ms  28.674 ms
+"
+genocid.net,4," 4  ffm-b1-link.telia.net (62.115.63.109)  40.629 ms  40.625 ms  40.617 ms
+"
+genocid.net,5," 5  ffm-bb3-link.telia.net (62.115.141.238)  38.626 ms ffm-bb3-link.telia.net (62.115.137.164)  33.492 ms ffm-bb3-link.telia.net (62.115.141.236)  35.964 ms
+"
+genocid.net,6," 6  mcn-b2-link.telia.net (62.115.120.130)  35.834 ms mcn-b2-link.telia.net (62.115.120.132)  33.371 ms mcn-b2-link.telia.net (62.115.120.126)  38.282 ms
+"
+genocid.net,7," 7  gw02.contabo.net (213.248.101.78)  29.156 ms  31.827 ms  29.231 ms
+"
+genocid.net,8," 8  meet.kluchi.org (80.241.211.5)  32.093 ms  32.300 ms  29.585 ms
+"

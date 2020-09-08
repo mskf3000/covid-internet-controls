@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+mail.goon.ru,0,"traceroute to mail.goon.ru (77.88.21.37), 30 hops max, 60 byte packets
+"
+mail.goon.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.301 ms  0.281 ms  0.303 ms
+"
+mail.goon.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  2.205 ms  2.133 ms  2.235 ms
+"
+mail.goon.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  18.469 ms  18.524 ms  18.516 ms
+"
+mail.goon.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  23.716 ms  23.737 ms  23.704 ms
+"
+mail.goon.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.658 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  32.073 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  31.646 ms
+"
+mail.goon.ru,6," 6  be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  50.099 ms  52.890 ms be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  51.401 ms
+"
+mail.goon.ru,7," 7  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  55.799 ms  58.641 ms be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  58.314 ms
+"
+mail.goon.ru,8," 8  be2406.rcr21.hel03.atlas.cogentco.com (130.117.0.134)  58.453 ms  60.296 ms  54.740 ms
+"
+mail.goon.ru,9," 9  149.11.124.74 (149.11.124.74)  54.211 ms  56.268 ms  52.273 ms
+"
+mail.goon.ru,10,"10  mail-yandex-ru-production-external.stable.qloud-b.yandex.net (77.88.21.37)  48.760 ms  52.697 ms  55.722 ms
+"

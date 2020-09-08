@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+naver.jp,0,"traceroute to naver.jp (119.235.235.13), 30 hops max, 60 byte packets
+"
+naver.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.398 ms  0.418 ms  0.607 ms
+"
+naver.jp,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.895 ms  0.984 ms  1.097 ms
+"
+naver.jp,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.259 ms  17.269 ms  17.299 ms
+"
+naver.jp,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.462 ms  22.465 ms  22.472 ms
+"
+naver.jp,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.467 ms  30.536 ms  30.561 ms
+"
+naver.jp,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.535 ms  39.487 ms  39.512 ms
+"
+naver.jp,7," 7  be2249.ccr41.ams03.atlas.cogentco.com (154.54.36.213)  190.605 ms  190.785 ms  190.804 ms
+"
+naver.jp,8," 8  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  190.546 ms  191.069 ms  191.181 ms
+"
+naver.jp,9," 9  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  190.073 ms  190.197 ms  190.193 ms
+"
+naver.jp,10,"10  be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  190.933 ms  190.939 ms  190.994 ms
+"
+naver.jp,11,"11  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.754 ms  189.784 ms  190.700 ms
+"
+naver.jp,12,"12  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  190.058 ms  190.092 ms  189.989 ms
+"
+naver.jp,13,"13  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  189.988 ms  190.017 ms  190.180 ms
+"
+naver.jp,14,"14  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  190.880 ms  190.933 ms  190.979 ms
+"
+naver.jp,15,"15  be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  190.265 ms  190.435 ms  190.567 ms
+"
+naver.jp,16,"16  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  190.086 ms  190.120 ms  190.143 ms
+"
+naver.jp,17,"17  be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  189.997 ms  190.051 ms  190.273 ms
+"
+naver.jp,18,"18  38.88.224.178 (38.88.224.178)  184.950 ms  184.949 ms  184.943 ms
+"
+naver.jp,19,"19  111.87.3.225 (111.87.3.225)  179.816 ms  179.697 ms  179.689 ms
+"
+naver.jp,20,"20  106.187.13.25 (106.187.13.25)  282.119 ms  282.120 ms  282.122 ms
+"
+naver.jp,21,"21  27.85.227.234 (27.85.227.234)  280.472 ms  280.363 ms  280.412 ms
+"
+naver.jp,22,"22  cm-kot210.int-gw.kddi.ne.jp (125.29.22.170)  281.996 ms  281.980 ms  281.974 ms
+"
+naver.jp,23,"23  125.29.31.142 (125.29.31.142)  293.436 ms  298.837 ms  298.810 ms
+"
+naver.jp,24,"24  * * *
+"
+naver.jp,25,"25  * * *
+"
+naver.jp,26,"26  * * *
+"
+naver.jp,27,"27  * * *
+"
+naver.jp,28,"28  * * *
+"
+naver.jp,29,"29  * * *
+"
+naver.jp,30,"30  * * *
+"

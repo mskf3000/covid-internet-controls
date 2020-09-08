@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+fergana.news,0,"traceroute to fergana.news (212.8.240.195), 50 hops max, 60 byte packets
+"
+fergana.news,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.281 ms  0.290 ms  0.329 ms
+"
+fergana.news,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.530 ms  0.570 ms  0.509 ms
+"
+fergana.news,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.971 ms  35.959 ms  35.945 ms
+"
+fergana.news,4," 4  worldstream-peering.fiord.net (80.77.167.177)  35.945 ms  33.408 ms  35.941 ms
+"
+fergana.news,5," 5  109.236.95.169 (109.236.95.169)  33.406 ms  35.905 ms  33.410 ms
+"
+fergana.news,6," 6  109.236.95.107 (109.236.95.107)  37.034 ms  34.504 ms  34.634 ms
+"
+fergana.news,7," 7  109.236.95.227 (109.236.95.227)  39.685 ms  37.061 ms 109.236.95.231 (109.236.95.231)  37.145 ms
+"
+fergana.news,8," 8  customer.worldstream.nl (212.8.240.195)  37.151 ms  39.717 ms  37.094 ms
+"

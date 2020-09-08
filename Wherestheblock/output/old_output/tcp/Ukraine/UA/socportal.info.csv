@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+socportal.info,0,"traceroute to socportal.info (159.69.145.12), 30 hops max, 60 byte packets
+"
+socportal.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.608 ms  0.598 ms  0.635 ms
+"
+socportal.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.617 ms  0.603 ms  3.922 ms
+"
+socportal.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.809 ms  28.653 ms  32.732 ms
+"
+socportal.info,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.676 ms  31.050 ms  28.662 ms
+"
+socportal.info,5," 5  core5.fra.hetzner.com (213.239.224.218)  35.319 ms core1.fra.hetzner.com (213.239.245.125)  28.734 ms core4.fra.hetzner.com (213.239.245.85)  28.871 ms
+"
+socportal.info,6," 6  core11.nbg1.hetzner.com (213.239.245.34)  34.498 ms core12.nbg1.hetzner.com (213.239.252.26)  31.797 ms core11.nbg1.hetzner.com (213.239.245.249)  32.047 ms
+"
+socportal.info,7," 7  spine1.cloud1.nbg1.hetzner.com (85.10.250.210)  32.429 ms static.85-10-228-86.clients.your-server.de (85.10.228.86)  35.035 ms 213-239-208-222.clients.your-server.de (213.239.208.222)  34.434 ms
+"
+socportal.info,8," 8  * * *
+"
+socportal.info,9," 9  12013.your-cloud.host (116.203.160.186)  38.544 ms  38.375 ms  35.789 ms
+"
+socportal.info,10,"10  * * *
+"
+socportal.info,11,"11  static.12.145.69.159.clients.your-server.de (159.69.145.12)  34.105 ms  35.798 ms  35.973 ms
+"

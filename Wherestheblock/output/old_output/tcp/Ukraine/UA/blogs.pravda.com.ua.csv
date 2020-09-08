@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+blogs.pravda.com.ua,0,"traceroute to blogs.pravda.com.ua (130.211.6.100), 30 hops max, 60 byte packets
+"
+blogs.pravda.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.386 ms  1.373 ms  1.412 ms
+"
+blogs.pravda.com.ua,2," 2  google-ix.giganet.ua (185.1.62.69)  1.898 ms  1.975 ms  1.914 ms
+"
+blogs.pravda.com.ua,3," 3  108.170.248.147 (108.170.248.147)  0.766 ms 108.170.248.131 (108.170.248.131)  0.788 ms  0.777 ms
+"
+blogs.pravda.com.ua,4," 4  108.170.234.224 (108.170.234.224)  1.076 ms 209.85.248.105 (209.85.248.105)  14.555 ms  14.628 ms
+"
+blogs.pravda.com.ua,5," 5  209.85.251.188 (209.85.251.188)  14.364 ms 108.170.250.209 (108.170.250.209)  15.951 ms 216.239.46.121 (216.239.46.121)  14.192 ms
+"
+blogs.pravda.com.ua,6," 6  108.170.250.209 (108.170.250.209)  15.409 ms 216.239.41.171 (216.239.41.171)  14.257 ms 172.253.68.29 (172.253.68.29)  14.243 ms
+"
+blogs.pravda.com.ua,7," 7  216.239.41.171 (216.239.41.171)  14.231 ms 100.6.211.130.bc.googleusercontent.com (130.211.6.100)  14.210 ms  14.340 ms
+"

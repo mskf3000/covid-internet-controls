@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+groupon.com,0,"traceroute to groupon.com (104.127.54.137), 30 hops max, 60 byte packets
+"
+groupon.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.705 ms  2.698 ms  2.746 ms
+"
+groupon.com,2," 2  v1045.cs-krasn100.kv.wnet.ua (92.60.186.62)  0.568 ms  0.609 ms  0.612 ms
+"
+groupon.com,3," 3  100.64.65.25 (100.64.65.25)  7.787 ms  7.786 ms  7.785 ms
+"
+groupon.com,4," 4  100.64.64.125 (100.64.64.125)  14.728 ms  14.733 ms  14.734 ms
+"
+groupon.com,5," 5  100.64.65.230 (100.64.65.230)  25.772 ms  25.779 ms  25.777 ms
+"
+groupon.com,6," 6  nix4.akamai.com (91.210.16.221)  32.557 ms  32.561 ms  32.565 ms
+"
+groupon.com,7," 7  a104-127-54-137.deploy.static.akamaitechnologies.com (104.127.54.137)  32.357 ms  32.380 ms  32.372 ms
+"

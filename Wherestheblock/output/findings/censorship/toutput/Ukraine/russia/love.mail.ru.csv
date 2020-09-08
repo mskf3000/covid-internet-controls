@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+love.mail.ru,0,"traceroute to love.mail.ru (193.0.170.28), 50 hops max, 60 byte packets
+"
+love.mail.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.286 ms  0.275 ms  0.304 ms
+"
+love.mail.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.694 ms  0.689 ms  0.558 ms
+"
+love.mail.ru,3," 3  ae3-2.RT.DL.MSK.RU.retn.net (87.245.233.2)  20.594 ms  20.590 ms  27.262 ms
+"
+love.mail.ru,4," 4  GW-MailRU.retn.net (87.245.253.215)  19.697 ms  19.589 ms  19.596 ms
+"
+love.mail.ru,5," 5  * * *
+"
+love.mail.ru,6," 6  * * *
+"
+love.mail.ru,7," 7  love.mail.ru (193.0.170.28)  21.199 ms  21.145 ms  21.166 ms
+"

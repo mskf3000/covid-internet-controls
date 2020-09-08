@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+iz.ru,0,"traceroute to iz.ru (185.165.123.185), 50 hops max, 60 byte packets
+"
+iz.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  7.953 ms  7.951 ms  7.968 ms
+"
+iz.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.729 ms  0.729 ms  0.722 ms
+"
+iz.ru,3," 3  ae3-4.RT.M9.MSK.RU.retn.net (87.245.233.89)  21.209 ms  21.532 ms  21.570 ms
+"
+iz.ru,4," 4  * * *
+"
+iz.ru,5," 5  185.165.123.185 (185.165.123.185)  21.070 ms  22.067 ms  21.085 ms
+"

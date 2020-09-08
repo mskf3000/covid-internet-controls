@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+awvestnik.narod.ru,0,"traceroute to awvestnik.narod.ru (193.109.247.229), 30 hops max, 60 byte packets
+"
+awvestnik.narod.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.083 ms  1.070 ms  1.092 ms
+"
+awvestnik.narod.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.573 ms  0.564 ms  0.512 ms
+"
+awvestnik.narod.ru,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.113 ms  15.949 ms msk-m9-b3-ae9-vlan3876.fiord.net (62.140.245.104)  18.076 ms
+"
+awvestnik.narod.ru,4," 4  msk-m9-b3-ae7-vlan712.fiord.net (62.140.243.141)  15.976 ms  16.020 ms  15.959 ms
+"
+awvestnik.narod.ru,5," 5  10.0.9.61 (10.0.9.61)  17.175 ms * *
+"
+awvestnik.narod.ru,6," 6  10.0.9.185 (10.0.9.185)  17.675 ms ddos-guard.net (185.129.101.142)  17.459 ms 10.0.9.61 (10.0.9.61)  16.070 ms
+"
+awvestnik.narod.ru,7," 7  ddos-guard.net (185.129.101.142)  16.464 ms ddos-guard.net (185.129.103.17)  17.289 ms ddos-guard.net (185.129.101.142)  17.487 ms
+"
+awvestnik.narod.ru,8," 8  * ddos-guard.net (185.129.103.17)  16.252 ms  16.222 ms
+"
+awvestnik.narod.ru,9," 9  dev.ucoz.net (193.109.247.229)  21.293 ms *  21.304 ms
+"

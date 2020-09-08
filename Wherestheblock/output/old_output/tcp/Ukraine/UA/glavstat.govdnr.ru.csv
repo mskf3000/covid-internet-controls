@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+glavstat.govdnr.ru,0,"traceroute to glavstat.govdnr.ru (185.114.137.26), 30 hops max, 60 byte packets
+"
+glavstat.govdnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.830 ms  0.815 ms  0.834 ms
+"
+glavstat.govdnr.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.083 ms  17.945 ms  17.960 ms
+"
+glavstat.govdnr.ru,3," 3  109.239.138.75 (109.239.138.75)  51.769 ms  51.643 ms  53.129 ms
+"
+glavstat.govdnr.ru,4," 4  185.229.232.189 (185.229.232.189)  58.613 ms  57.323 ms  57.387 ms
+"
+glavstat.govdnr.ru,5," 5  185.114.136.177 (185.114.136.177)  50.049 ms  48.636 ms  49.314 ms
+"
+glavstat.govdnr.ru,6," 6  172.31.254.6 (172.31.254.6)  48.092 ms  48.040 ms  47.208 ms
+"
+glavstat.govdnr.ru,7," 7  stat.govdnr.ru (185.114.137.26)  39.588 ms  40.151 ms  49.557 ms
+"

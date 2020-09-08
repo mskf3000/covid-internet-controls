@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+yashin.livejournal.com,0,"traceroute to yashin.livejournal.com (81.19.74.3), 30 hops max, 60 byte packets
+"
+yashin.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.535 ms  0.525 ms  0.498 ms
+"
+yashin.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  19.445 ms  19.427 ms  19.419 ms
+"
+yashin.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  19.293 ms  18.480 ms  18.530 ms
+"
+yashin.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  21.628 ms  21.571 ms  21.555 ms
+"
+yashin.livejournal.com,5," 5  * * *
+"
+yashin.livejournal.com,6," 6  * * *
+"
+yashin.livejournal.com,7," 7  livejournal.com (81.19.74.3)  16.722 ms  18.879 ms  16.710 ms
+"

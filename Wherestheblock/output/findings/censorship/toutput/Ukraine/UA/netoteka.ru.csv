@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+netoteka.ru,0,"traceroute to netoteka.ru (5.101.152.251), 30 hops max, 60 byte packets
+"
+netoteka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.704 ms  0.692 ms  0.701 ms
+"
+netoteka.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  20.525 ms  16.838 ms  19.015 ms
+"
+netoteka.ru,3," 3  bm18-a9k6-be2-909.gblnet.ru (94.124.181.202)  25.050 ms bm18-a9k6-be2-914.gblnet.ru (94.124.182.9)  28.270 ms  28.153 ms
+"
+netoteka.ru,4," 4  cvt-a9k6-be1-841.gblnet.ru (94.124.181.93)  25.454 ms cvt-a9k6-be1-839.gblnet.ru (94.124.181.26)  25.994 ms  25.968 ms
+"
+netoteka.ru,5," 5  * * *
+"
+netoteka.ru,6," 6  m2.hornet.beget.com (5.101.152.251)  26.211 ms  27.897 ms  27.540 ms
+"

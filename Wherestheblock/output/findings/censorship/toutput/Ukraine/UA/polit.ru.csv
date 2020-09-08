@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+polit.ru,0,"traceroute to polit.ru (104.27.187.238), 30 hops max, 60 byte packets
+"
+polit.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.318 ms  0.308 ms  0.338 ms
+"
+polit.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.841 ms  0.909 ms  0.927 ms
+"
+polit.ru,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.800 ms  18.787 ms  18.785 ms
+"
+polit.ru,4," 4  149.6.50.74 (149.6.50.74)  22.251 ms  22.570 ms  22.238 ms
+"
+polit.ru,5," 5  104.27.187.238 (104.27.187.238)  18.539 ms  18.499 ms  18.520 ms
+"

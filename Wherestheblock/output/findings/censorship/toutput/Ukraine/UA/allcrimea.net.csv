@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+allcrimea.net,0,"traceroute to allcrimea.net (109.236.89.250), 30 hops max, 60 byte packets
+"
+allcrimea.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.304 ms  0.291 ms  0.320 ms
+"
+allcrimea.net,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.555 ms  0.574 ms  0.566 ms
+"
+allcrimea.net,3," 3  amsterdam-nik-b1-xe0-0-2-vlan3831.fiord.net (62.140.245.201)  35.997 ms  38.441 ms  38.421 ms
+"
+allcrimea.net,4," 4  worldstream-peering.fiord.net (80.77.167.177)  35.969 ms  35.951 ms  35.926 ms
+"
+allcrimea.net,5," 5  109.236.95.169 (109.236.95.169)  33.478 ms  33.474 ms  35.867 ms
+"
+allcrimea.net,6," 6  109.236.95.107 (109.236.95.107)  34.543 ms 109.236.95.109 (109.236.95.109)  34.685 ms  36.999 ms
+"
+allcrimea.net,7," 7  109.236.95.225 (109.236.95.225)  37.136 ms 109.236.95.231 (109.236.95.231)  39.532 ms 109.236.95.225 (109.236.95.225)  37.046 ms
+"
+allcrimea.net,8," 8  109.236.89.250 (109.236.89.250)  39.568 ms  39.578 ms  34.562 ms
+"

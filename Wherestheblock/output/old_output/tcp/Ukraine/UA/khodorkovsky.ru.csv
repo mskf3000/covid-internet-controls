@@ -1,0 +1,57 @@
+URL,TTL,Response_Message
+khodorkovsky.ru,0,"traceroute to khodorkovsky.ru (34.251.129.69), 30 hops max, 60 byte packets
+"
+khodorkovsky.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.229 ms  2.214 ms  2.263 ms
+"
+khodorkovsky.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.550 ms  0.599 ms  0.581 ms
+"
+khodorkovsky.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.667 ms  29.566 ms  29.549 ms
+"
+khodorkovsky.ru,4," 4  amazon-fra-peering.fiord.net (62.140.243.53)  29.081 ms amazon-fra-peering.fiord.net (62.140.243.51)  28.750 ms amazon-fra-peering.fiord.net (62.140.243.53)  29.063 ms
+"
+khodorkovsky.ru,5," 5  54.239.106.118 (54.239.106.118)  30.079 ms 54.239.106.142 (54.239.106.142)  29.734 ms 54.239.106.30 (54.239.106.30)  32.283 ms
+"
+khodorkovsky.ru,6," 6  54.239.106.23 (54.239.106.23)  29.718 ms 54.239.106.105 (54.239.106.105)  32.713 ms 54.239.106.67 (54.239.106.67)  30.823 ms
+"
+khodorkovsky.ru,7," 7  * * *
+"
+khodorkovsky.ru,8," 8  52.93.135.6 (52.93.135.6)  51.852 ms 52.93.134.132 (52.93.134.132)  51.166 ms  51.637 ms
+"
+khodorkovsky.ru,9," 9  150.222.240.138 (150.222.240.138)  54.820 ms 150.222.240.8 (150.222.240.8)  53.294 ms 150.222.240.174 (150.222.240.174)  50.757 ms
+"
+khodorkovsky.ru,10,"10  * 54.239.42.179 (54.239.42.179)  51.540 ms  51.521 ms
+"
+khodorkovsky.ru,11,"11  * * *
+"
+khodorkovsky.ru,12,"12  * 52.93.6.250 (52.93.6.250)  51.474 ms *
+"
+khodorkovsky.ru,13,"13  52.93.101.57 (52.93.101.57)  48.906 ms * *
+"
+khodorkovsky.ru,14,"14  150.222.240.48 (150.222.240.48)  53.669 ms 150.222.241.220 (150.222.241.220)  50.335 ms 150.222.241.84 (150.222.241.84)  50.288 ms
+"
+khodorkovsky.ru,15,"15  * * *
+"
+khodorkovsky.ru,16,"16  52.93.6.132 (52.93.6.132)  52.926 ms 52.93.6.138 (52.93.6.138)  52.669 ms 52.93.6.186 (52.93.6.186)  51.412 ms
+"
+khodorkovsky.ru,17,"17  52.93.101.61 (52.93.101.61)  50.805 ms 52.93.101.51 (52.93.101.51)  50.778 ms 52.93.101.17 (52.93.101.17)  56.328 ms
+"
+khodorkovsky.ru,18,"18  52.93.101.40 (52.93.101.40)  53.587 ms * *
+"
+khodorkovsky.ru,19,"19  52.93.7.59 (52.93.7.59)  52.070 ms * 52.93.7.75 (52.93.7.75)  50.119 ms
+"
+khodorkovsky.ru,20,"20  * * *
+"
+khodorkovsky.ru,21,"21  * * *
+"
+khodorkovsky.ru,22,"22  * * *
+"
+khodorkovsky.ru,23,"23  * * *
+"
+khodorkovsky.ru,24,"24  * * *
+"
+khodorkovsky.ru,25,"25  * * *
+"
+khodorkovsky.ru,26,"26  * * *
+"
+khodorkovsky.ru,27,"27  ec2-34-251-129-69.eu-west-1.compute.amazonaws.com (34.251.129.69)  49.657 ms  53.732 ms  49.542 ms
+"

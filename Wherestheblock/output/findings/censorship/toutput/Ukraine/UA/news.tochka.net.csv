@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+news.tochka.net,0,"traceroute to news.tochka.net (91.207.123.27), 30 hops max, 60 byte packets
+"
+news.tochka.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.302 ms  0.287 ms  0.341 ms
+"
+news.tochka.net,2," 2  colocall2-gw.ix.net.ua (185.1.51.44)  1.071 ms  0.903 ms  1.178 ms
+"
+news.tochka.net,3," 3  62.149.31.1 (62.149.31.1)  0.878 ms  1.010 ms  0.939 ms
+"
+news.tochka.net,4," 4  62.149.7.92 (62.149.7.92)  3.464 ms  3.442 ms  3.464 ms
+"
+news.tochka.net,5," 5  tochka.net (91.207.123.27)  0.636 ms  0.626 ms  0.642 ms
+"

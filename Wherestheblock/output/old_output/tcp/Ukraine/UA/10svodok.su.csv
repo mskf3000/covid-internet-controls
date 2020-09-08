@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+10svodok.su,0,"traceroute to 10svodok.su (93.189.41.15), 30 hops max, 60 byte packets
+"
+10svodok.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.323 ms  0.302 ms  0.296 ms
+"
+10svodok.su,2," 2  dtel-ix.cloud-ix.net (193.25.180.81)  13.561 ms  13.544 ms  13.637 ms
+"
+10svodok.su,3," 3  * * *
+"
+10svodok.su,4," 4  ntcom.msk.cloud-ix.net (31.28.19.156)  22.138 ms  16.948 ms  22.539 ms
+"
+10svodok.su,5," 5  93.189.41.15 (93.189.41.15)  22.141 ms  22.182 ms  17.097 ms
+"
+10svodok.su,6," 6  93.189.41.15 (93.189.41.15)  21.193 ms  24.199 ms  24.144 ms
+"

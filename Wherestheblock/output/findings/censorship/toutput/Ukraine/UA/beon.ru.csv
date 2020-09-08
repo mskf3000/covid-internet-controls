@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+beon.ru,0,"traceroute to beon.ru (78.47.96.116), 30 hops max, 60 byte packets
+"
+beon.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.316 ms  0.310 ms
+"
+beon.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.498 ms  0.539 ms  0.518 ms
+"
+beon.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  26.182 ms  26.127 ms  28.596 ms
+"
+beon.ru,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.452 ms  28.536 ms  31.441 ms
+"
+beon.ru,5," 5  core4.fra.hetzner.com (213.239.245.85)  41.165 ms core0.fra.hetzner.com (213.239.252.10)  28.434 ms core1.fra.hetzner.com (213.239.245.125)  28.533 ms
+"
+beon.ru,6," 6  core22.fsn1.hetzner.com (213.239.252.34)  37.689 ms core22.fsn1.hetzner.com (213.239.224.245)  37.243 ms core22.fsn1.hetzner.com (213.239.252.34)  40.340 ms
+"
+beon.ru,7," 7  spine2.cloud2.fsn1.hetzner.com (213.239.239.130)  37.471 ms  37.468 ms spine1.cloud2.fsn1.hetzner.com (213.239.239.126)  33.983 ms
+"
+beon.ru,8," 8  * * *
+"
+beon.ru,9," 9  11276.your-cloud.host (159.69.97.169)  35.556 ms  33.041 ms  35.524 ms
+"
+beon.ru,10,"10  * * *
+"
+beon.ru,11,"11  static.116.96.47.78.clients.your-server.de (78.47.96.116)  39.947 ms  39.775 ms  33.211 ms
+"

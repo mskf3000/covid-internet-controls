@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mignews.com.ua,0,"traceroute to mignews.com.ua (104.18.41.20), 30 hops max, 60 byte packets
+"
+mignews.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.295 ms  0.286 ms  0.314 ms
+"
+mignews.com.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.971 ms  0.797 ms  1.009 ms
+"
+mignews.com.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.799 ms  18.858 ms  18.895 ms
+"
+mignews.com.ua,4," 4  149.6.50.74 (149.6.50.74)  19.487 ms  19.474 ms  19.470 ms
+"
+mignews.com.ua,5," 5  104.18.41.20 (104.18.41.20)  18.483 ms  18.525 ms  18.513 ms
+"

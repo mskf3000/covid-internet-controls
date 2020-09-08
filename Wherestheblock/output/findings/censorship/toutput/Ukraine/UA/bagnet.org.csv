@@ -1,0 +1,19 @@
+URL,TTL,Response_Message
+bagnet.org,0,"traceroute to bagnet.org (136.243.146.78), 30 hops max, 60 byte packets
+"
+bagnet.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.477 ms  1.490 ms  1.672 ms
+"
+bagnet.org,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.552 ms  0.625 ms  0.609 ms
+"
+bagnet.org,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.652 ms  26.153 ms  28.635 ms
+"
+bagnet.org,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  28.608 ms  28.600 ms  31.128 ms
+"
+bagnet.org,5," 5  core5.fra.hetzner.com (213.239.224.218)  32.880 ms  32.884 ms  32.887 ms
+"
+bagnet.org,6," 6  core24.fsn1.hetzner.com (213.239.229.78)  33.562 ms  33.511 ms core24.fsn1.hetzner.com (213.239.252.42)  36.191 ms
+"
+bagnet.org,7," 7  ex9k1.dc8.fsn1.hetzner.com (213.239.203.234)  39.307 ms  39.297 ms  39.361 ms
+"
+bagnet.org,8," 8  bagnet.org (136.243.146.78)  35.698 ms  35.524 ms  32.998 ms
+"

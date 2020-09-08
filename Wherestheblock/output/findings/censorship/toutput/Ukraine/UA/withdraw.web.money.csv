@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+withdraw.web.money,0,"traceroute to withdraw.web.money (91.227.52.110), 30 hops max, 60 byte packets
+"
+withdraw.web.money,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.809 ms  0.789 ms  0.772 ms
+"
+withdraw.web.money,2," 2  fiord-gw.ix.net.ua (185.1.50.158)  1.492 ms  1.713 ms  1.703 ms
+"
+withdraw.web.money,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  17.494 ms  17.482 ms  17.473 ms
+"
+withdraw.web.money,4," 4  citylan-gw.fiord.net (93.191.9.139)  15.857 ms  15.828 ms  15.901 ms
+"
+withdraw.web.money,5," 5  88.210.48.237 (88.210.48.237)  17.082 ms  17.182 ms  17.051 ms
+"
+withdraw.web.money,6," 6  91.227.52.110 (91.227.52.110)  17.013 ms  16.865 ms  16.922 ms
+"

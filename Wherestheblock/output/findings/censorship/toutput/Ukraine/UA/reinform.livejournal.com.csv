@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+reinform.livejournal.com,0,"traceroute to reinform.livejournal.com (81.19.74.3), 30 hops max, 60 byte packets
+"
+reinform.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.348 ms  0.327 ms  0.363 ms
+"
+reinform.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.326 ms  18.878 ms  18.660 ms
+"
+reinform.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  18.687 ms  18.680 ms  19.327 ms
+"
+reinform.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  19.793 ms  18.962 ms  18.956 ms
+"
+reinform.livejournal.com,5," 5  * * *
+"
+reinform.livejournal.com,6," 6  * * *
+"
+reinform.livejournal.com,7," 7  livejournal.com (81.19.74.3)  16.570 ms  19.855 ms  17.365 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+life.tw,0,"traceroute to life.tw (104.25.191.5), 30 hops max, 60 byte packets
+"
+life.tw,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.342 ms  0.348 ms
+"
+life.tw,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.212 ms  1.367 ms  1.368 ms
+"
+life.tw,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  1.072 ms  1.139 ms  1.196 ms
+"
+life.tw,4," 4  149.6.191.138 (149.6.191.138)  4.873 ms  8.904 ms  8.913 ms
+"
+life.tw,5," 5  104.25.191.5 (104.25.191.5)  3.544 ms  3.569 ms  3.571 ms
+"

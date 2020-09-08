@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+format18.org,0,"traceroute to format18.org (90.156.201.38), 30 hops max, 60 byte packets
+"
+format18.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.299 ms  0.315 ms
+"
+format18.org,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.736 ms  0.731 ms  0.724 ms
+"
+format18.org,3," 3  ae2-7.RT1.M9.MSK.RU.retn.net (87.245.233.91)  25.639 ms  25.637 ms  25.629 ms
+"
+format18.org,4," 4  GW-MasterHost.retn.net (87.245.255.143)  19.694 ms  19.744 ms  19.808 ms
+"
+format18.org,5," 5  * * *
+"
+format18.org,6," 6  fe.shared.masterhost.ru (90.156.201.38)  19.986 ms  20.059 ms  20.055 ms
+"

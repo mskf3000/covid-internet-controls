@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+answers.com,0,"traceroute to answers.com (151.101.64.203), 30 hops max, 60 byte packets
+"
+answers.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.327 ms  0.322 ms  0.340 ms
+"
+answers.com,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.557 ms  0.555 ms  0.547 ms
+"
+answers.com,3," 3  msk-m9-b1-ae16-vlan3877.fiord.net (80.77.167.16)  16.202 ms  16.207 ms  16.200 ms
+"
+answers.com,4," 4  msk-zoo-b2-ae1-vlan545.fiord.net (62.140.245.49)  16.223 ms  16.222 ms  16.208 ms
+"
+answers.com,5," 5  mow-b3-link.telia.net (213.248.77.226)  42.844 ms  42.876 ms  42.830 ms
+"
+answers.com,6," 6  mow-b4-link.telia.net (80.91.246.90)  44.203 ms  44.069 ms  44.062 ms
+"
+answers.com,7," 7  sap-b4-link.telia.net (62.115.116.7)  41.595 ms  41.713 ms  41.760 ms
+"
+answers.com,8," 8  hls-b2-link.telia.net (62.115.115.250)  44.180 ms  44.853 ms  44.840 ms
+"
+answers.com,9," 9  fastly-ic-336129-hls-b2.c.telia.net (213.248.78.185)  42.623 ms  42.629 ms  42.684 ms
+"
+answers.com,10,"10  151.101.64.203 (151.101.64.203)  42.725 ms  42.914 ms  42.901 ms
+"

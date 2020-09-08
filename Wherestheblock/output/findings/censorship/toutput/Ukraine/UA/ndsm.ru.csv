@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+ndsm.ru,0,"traceroute to ndsm.ru (185.189.15.13), 30 hops max, 60 byte packets
+"
+ndsm.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.133 ms  1.122 ms  1.114 ms
+"
+ndsm.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.884 ms  16.197 ms  16.912 ms
+"
+ndsm.ru,3," 3  as12695.ix.dataix.ru (178.18.226.50)  16.401 ms  17.016 ms  16.984 ms
+"
+ndsm.ru,4," 4  te-6-8.sr1.msk1.ip.di-net.ru (213.248.1.209)  18.986 ms  17.395 ms  17.354 ms
+"
+ndsm.ru,5," 5  lanrusinvest.c.di-net.ru (213.219.206.146)  19.001 ms  18.992 ms  19.024 ms
+"
+ndsm.ru,6," 6  * * *
+"
+ndsm.ru,7," 7  rob1.example.com (185.189.15.13)  19.725 ms  19.061 ms  21.239 ms
+"

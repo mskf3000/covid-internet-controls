@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+tnt-online.ru,0,"traceroute to tnt-online.ru (193.232.151.138), 50 hops max, 60 byte packets
+"
+tnt-online.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.316 ms  0.305 ms  0.296 ms
+"
+tnt-online.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  17.173 ms  17.629 ms  17.627 ms
+"
+tnt-online.ru,3," 3  as48061.ix.dataix.ru (178.18.226.34)  18.932 ms  18.228 ms  18.994 ms
+"
+tnt-online.ru,4," 4  br-1-dl.br-1-m9.zxz.su (91.207.58.33)  20.806 ms  21.987 ms  19.713 ms
+"
+tnt-online.ru,5," 5  91.207.59.49 (91.207.59.49)  17.547 ms  17.539 ms  17.531 ms
+"
+tnt-online.ru,6," 6  * * *
+"
+tnt-online.ru,7," 7  193.232.151.138 (193.232.151.138)  18.153 ms  17.244 ms  17.200 ms
+"

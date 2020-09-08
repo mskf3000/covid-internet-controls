@@ -1,0 +1,27 @@
+URL,TTL,Response_Message
+gej.ru,0,"traceroute to gej.ru (94.177.217.86), 30 hops max, 60 byte packets
+"
+gej.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.387 ms  2.372 ms  2.359 ms
+"
+gej.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.076 ms  1.051 ms  1.052 ms
+"
+gej.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.476 ms  17.458 ms  17.414 ms
+"
+gej.ru,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.328 ms  18.230 ms  18.581 ms
+"
+gej.ru,5," 5  be3462.ccr22.muc03.atlas.cogentco.com (154.54.59.182)  25.467 ms  25.684 ms  25.270 ms
+"
+gej.ru,6," 6  be3073.ccr52.zrh02.atlas.cogentco.com (130.117.0.61)  29.768 ms  29.687 ms  29.669 ms
+"
+gej.ru,7," 7  be2196.rcr21.mil01.atlas.cogentco.com (154.54.61.90)  33.857 ms  34.091 ms  34.152 ms
+"
+gej.ru,8," 8  be3526.rcr51.vce01.atlas.cogentco.com (154.54.59.1)  38.401 ms  39.445 ms  39.416 ms
+"
+gej.ru,9," 9  be3137.rcr11.qzo03.atlas.cogentco.com (130.117.48.114)  43.673 ms  43.460 ms  43.576 ms
+"
+gej.ru,10,"10  149.6.18.50 (149.6.18.50)  43.606 ms  43.498 ms  43.405 ms
+"
+gej.ru,11,"11  it1-is6-a.aruba.it (62.149.185.134)  67.547 ms *  66.967 ms
+"
+gej.ru,12,"12  gej.ru (94.177.217.86)  43.273 ms  43.092 ms  43.168 ms
+"

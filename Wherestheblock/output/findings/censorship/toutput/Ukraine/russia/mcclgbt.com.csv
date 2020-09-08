@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+mcclgbt.com,0,"traceroute to mcclgbt.com (91.206.15.243), 50 hops max, 60 byte packets
+"
+mcclgbt.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.315 ms  0.305 ms  0.311 ms
+"
+mcclgbt.com,2," 2  * * *
+"
+mcclgbt.com,3," 3  as49505.ix.dataix.ru (178.18.224.42)  23.715 ms  25.021 ms  25.694 ms
+"
+mcclgbt.com,4," 4  * * *
+"
+mcclgbt.com,5," 5  91.206.15.243 (91.206.15.243)  25.014 ms  26.335 ms  27.649 ms
+"

@@ -1,0 +1,57 @@
+URL,TTL,Response_Message
+pixiv.net,0,"traceroute to pixiv.net (210.140.131.225), 30 hops max, 60 byte packets
+"
+pixiv.net,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.239 ms  0.283 ms  0.329 ms  0.296 ms  0.363 ms  0.292 ms  1.248 ms  0.329 ms  0.328 ms  0.305 ms
+"
+pixiv.net,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.858 ms  1.090 ms  0.929 ms  0.895 ms  0.840 ms  0.934 ms  0.907 ms  0.949 ms  1.096 ms  0.907 ms
+"
+pixiv.net,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.041 ms  17.074 ms  17.237 ms  17.436 ms  17.322 ms  17.205 ms  16.966 ms  17.164 ms  17.032 ms  17.390 ms
+"
+pixiv.net,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.552 ms  22.458 ms  22.689 ms  22.632 ms  22.682 ms  22.547 ms  22.209 ms  22.494 ms  22.370 ms  22.446 ms
+"
+pixiv.net,5," 5  be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.517 ms  30.811 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.667 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.456 ms  30.704 ms  30.671 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.976 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.576 ms  30.472 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.485 ms
+"
+pixiv.net,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.506 ms  39.626 ms  39.783 ms  39.596 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.396 ms  39.376 ms  39.561 ms be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  40.146 ms  39.286 ms  39.427 ms
+"
+pixiv.net,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.569 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  135.376 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.810 ms be2249.ccr41.ams03.atlas.cogentco.com (154.54.36.213)  190.459 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.846 ms be2249.ccr41.ams03.atlas.cogentco.com (154.54.36.213)  190.809 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  186.774 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  139.870 ms  140.045 ms be2249.ccr41.ams03.atlas.cogentco.com (154.54.36.213)  190.721 ms
+"
+pixiv.net,8," 8  be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  135.411 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  201.234 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  157.297 ms be2099.ccr31.bos01.atlas.cogentco.com (154.54.82.34)  136.701 ms  135.392 ms be2101.ccr32.bos01.atlas.cogentco.com (154.54.82.38)  186.775 ms  186.595 ms  186.440 ms  186.792 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  190.830 ms
+"
+pixiv.net,9," 9  be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.508 ms  135.352 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.448 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.645 ms  135.423 ms be3600.ccr22.alb02.atlas.cogentco.com (154.54.0.221)  185.151 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  140.469 ms be3599.ccr21.alb02.atlas.cogentco.com (66.28.4.237)  135.592 ms  135.322 ms  135.985 ms
+"
+pixiv.net,10,"10  be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  186.145 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  136.086 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  186.250 ms  186.038 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  140.444 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.555 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  190.753 ms be2879.ccr22.cle04.atlas.cogentco.com (154.54.29.173)  185.887 ms be2878.ccr21.cle04.atlas.cogentco.com (154.54.26.129)  135.401 ms be3259.ccr31.yyz02.atlas.cogentco.com (154.54.41.205)  190.792 ms
+"
+pixiv.net,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  185.343 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.713 ms be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  186.455 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  136.076 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  190.208 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  136.109 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  209.209 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  135.768 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  203.886 ms  189.986 ms
+"
+pixiv.net,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.604 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  146.692 ms  147.722 ms  147.369 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.595 ms  185.207 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  147.424 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  185.617 ms  185.348 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  151.501 ms
+"
+pixiv.net,13,"13  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.729 ms be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  186.131 ms  185.498 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  159.744 ms be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.617 ms  186.296 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  163.603 ms  163.621 ms be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  190.374 ms be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  185.893 ms
+"
+pixiv.net,14,"14  be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  174.639 ms  169.541 ms  169.585 ms  170.084 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  190.733 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  170.230 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.302 ms be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  191.210 ms  191.047 ms be3038.ccr32.slc01.atlas.cogentco.com (154.54.42.97)  186.831 ms
+"
+pixiv.net,15,"15  be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  184.354 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  185.453 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  188.973 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  190.479 ms be3110.ccr22.sfo01.atlas.cogentco.com (154.54.44.141)  186.130 ms  185.644 ms  185.354 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  189.221 ms be3037.ccr21.slc01.atlas.cogentco.com (154.54.41.145)  190.527 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  193.605 ms
+"
+pixiv.net,16,"16  be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  190.231 ms  185.486 ms  186.155 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  190.554 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  185.866 ms be3109.ccr21.sfo01.atlas.cogentco.com (154.54.44.137)  190.751 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  186.118 ms  185.858 ms  190.315 ms be3670.ccr41.sjc03.atlas.cogentco.com (154.54.43.14)  186.059 ms
+"
+pixiv.net,17,"17  38.88.224.178 (38.88.224.178)  184.304 ms  184.438 ms  180.230 ms be3669.ccr41.sjc03.atlas.cogentco.com (154.54.43.10)  190.635 ms 38.88.224.178 (38.88.224.178)  179.767 ms  180.306 ms  181.802 ms  180.325 ms  180.232 ms  181.923 ms
+"
+pixiv.net,18,"18  111.87.3.229 (111.87.3.229)  183.881 ms 111.87.3.109 (111.87.3.109)  174.825 ms 111.87.3.229 (111.87.3.229)  175.029 ms 111.87.3.105 (111.87.3.105)  179.558 ms 111.87.3.109 (111.87.3.109)  174.832 ms 111.87.3.117 (111.87.3.117)  176.048 ms 38.88.224.178 (38.88.224.178)  184.291 ms 111.87.3.229 (111.87.3.229)  174.982 ms 111.87.3.225 (111.87.3.225)  180.198 ms  175.576 ms
+"
+pixiv.net,19,"19  106.187.13.29 (106.187.13.29)  281.146 ms 106.187.13.9 (106.187.13.9)  276.253 ms 106.187.13.29 (106.187.13.29)  281.250 ms 106.187.13.5 (106.187.13.5)  281.667 ms 106.187.13.29 (106.187.13.29)  281.924 ms 111.87.3.117 (111.87.3.117)  180.352 ms 111.87.3.113 (111.87.3.113)  180.047 ms 106.187.13.9 (106.187.13.9)  281.111 ms 106.187.13.5 (106.187.13.5)  281.260 ms 111.87.3.229 (111.87.3.229)  179.664 ms
+"
+pixiv.net,20,"20  27.86.46.101 (27.86.46.101)  281.405 ms 27.86.46.93 (27.86.46.93)  288.809 ms 27.85.227.109 (27.85.227.109)  275.656 ms 27.85.227.113 (27.85.227.113)  278.354 ms 106.187.13.25 (106.187.13.25)  281.129 ms 27.85.227.117 (27.85.227.117)  276.243 ms 27.85.227.125 (27.85.227.125)  275.255 ms 27.86.46.89 (27.86.46.89)  280.883 ms 27.86.46.93 (27.86.46.93)  282.938 ms 106.187.13.9 (106.187.13.9)  280.256 ms
+"
+pixiv.net,21,"21  oteJIN301.int-gw.kddi.ne.jp (27.86.32.6)  279.912 ms  279.983 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  280.891 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.6)  277.834 ms  281.906 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  285.363 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.6)  280.588 ms  280.220 ms  285.259 ms 27.85.227.121 (27.85.227.121)  287.382 ms
+"
+pixiv.net,22,"22  111.108.12.170 (111.108.12.170)  245.915 ms  240.299 ms oteJIN301.int-gw.kddi.ne.jp (27.86.32.2)  279.665 ms 111.108.12.170 (111.108.12.170)  247.659 ms  240.887 ms  243.871 ms  242.345 ms  243.691 ms  242.236 ms  243.849 ms
+"
+pixiv.net,23,"23  202.93.95.182 (202.93.95.182)  248.251 ms  243.667 ms  240.482 ms  248.029 ms  240.458 ms  240.429 ms  242.904 ms 111.108.12.170 (111.108.12.170)  245.196 ms 202.93.95.182 (202.93.95.182)  250.684 ms  241.951 ms
+"
+pixiv.net,24,"24  118.151.224.194 (118.151.224.194)  240.826 ms  246.202 ms  244.316 ms 202.93.95.182 (202.93.95.182)  245.515 ms  247.859 ms 118.151.224.194 (118.151.224.194)  246.695 ms  241.282 ms 202.93.95.182 (202.93.95.182)  247.573 ms 118.151.224.194 (118.151.224.194)  240.923 ms  244.322 ms
+"
+pixiv.net,25,"25  158.205.134.62 (158.205.134.62)  243.674 ms 118.151.224.194 (118.151.224.194)  251.260 ms  246.409 ms 158.205.134.62 (158.205.134.62)  246.435 ms 118.151.224.194 (118.151.224.194)  251.973 ms 158.205.134.62 (158.205.134.62)  251.168 ms 118.151.224.194 (118.151.224.194)  246.488 ms 158.205.134.62 (158.205.134.62)  249.858 ms 118.151.224.194 (118.151.224.194)  245.657 ms 158.205.134.62 (158.205.134.62)  247.091 ms
+"
+pixiv.net,26,"26  * 158.205.134.62 (158.205.134.62)  248.871 ms * *  251.343 ms * * * * *
+"
+pixiv.net,27,"27  gate210-140-131-225.pixiv.net (210.140.131.225)  248.971 ms  241.337 ms  244.492 ms  246.753 ms  245.631 ms  244.039 ms  248.371 ms  244.005 ms  241.473 ms  249.439 ms
+"

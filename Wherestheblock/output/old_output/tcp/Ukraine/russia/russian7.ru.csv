@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+russian7.ru,0,"traceroute to russian7.ru (31.41.158.195), 50 hops max, 60 byte packets
+"
+russian7.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.586 ms  3.574 ms  3.576 ms
+"
+russian7.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  19.440 ms  18.360 ms  16.821 ms
+"
+russian7.ru,3," 3  as49505.ix.dataix.ru (178.18.224.42)  23.783 ms  25.982 ms  23.729 ms
+"
+russian7.ru,4," 4  188.93.17.3 (188.93.17.3)  26.924 ms  25.836 ms  24.750 ms
+"
+russian7.ru,5," 5  92.53.93.2 (92.53.93.2)  27.563 ms  25.396 ms  25.391 ms
+"
+russian7.ru,6," 6  ds02.russian7.ru (31.41.158.194)  27.581 ms  26.392 ms  26.231 ms
+"
+russian7.ru,7," 7  vs09.russian7.ru (31.41.158.195)  26.366 ms  27.218 ms  26.212 ms
+"

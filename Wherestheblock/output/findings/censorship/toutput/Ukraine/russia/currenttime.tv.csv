@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+currenttime.tv,0,"traceroute to currenttime.tv (23.14.94.49), 50 hops max, 60 byte packets
+"
+currenttime.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.347 ms  0.383 ms
+"
+currenttime.tv,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.553 ms  0.579 ms  0.520 ms
+"
+currenttime.tv,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.696 ms  26.113 ms  26.180 ms
+"
+currenttime.tv,4," 4  decix-fra9.netarch.akamai.com (80.81.192.28)  31.522 ms  31.606 ms  31.448 ms
+"
+currenttime.tv,5," 5  a23-14-94-49.deploy.static.akamaitechnologies.com (23.14.94.49)  30.874 ms  30.900 ms  31.300 ms
+"

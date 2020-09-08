@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+endryx.livejournal.com,0,"traceroute to endryx.livejournal.com (81.19.74.3), 30 hops max, 60 byte packets
+"
+endryx.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.290 ms  0.306 ms  0.285 ms
+"
+endryx.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  17.618 ms  18.143 ms  19.242 ms
+"
+endryx.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  18.515 ms  19.417 ms  18.823 ms
+"
+endryx.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  21.106 ms  22.534 ms  21.068 ms
+"
+endryx.livejournal.com,5," 5  * * *
+"
+endryx.livejournal.com,6," 6  * * *
+"
+endryx.livejournal.com,7," 7  livejournal.com (81.19.74.3)  17.761 ms  20.773 ms  17.333 ms
+"

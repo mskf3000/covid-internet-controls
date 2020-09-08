@@ -1,0 +1,15 @@
+URL,TTL,Response_Message
+facebook.com,0,"traceroute to facebook.com (31.13.81.36), 30 hops max, 60 byte packets
+"
+facebook.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.661 ms  3.654 ms  3.656 ms
+"
+facebook.com,2," 2  as32934.dataix (178.18.230.116)  24.092 ms  13.733 ms  24.074 ms
+"
+facebook.com,3," 3  po104.psw04.waw1.tfbnw.net (157.240.49.217)  13.323 ms po104.psw01.waw1.tfbnw.net (157.240.49.171)  13.342 ms po104.psw04.waw1.tfbnw.net (157.240.49.217)  13.330 ms
+"
+facebook.com,4," 4  173.252.67.179 (173.252.67.179)  13.275 ms 173.252.67.5 (173.252.67.5)  13.355 ms 173.252.67.119 (173.252.67.119)  13.414 ms
+"
+facebook.com,5," 5  * * *
+"
+facebook.com,6," 6  edge-star-mini-shv-01-waw1.facebook.com (31.13.81.36)  13.360 ms  13.290 ms  13.312 ms
+"

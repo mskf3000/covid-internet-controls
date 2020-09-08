@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+alco.ru,0,"traceroute to alco.ru (93.95.103.4), 30 hops max, 60 byte packets
+"
+alco.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.355 ms  0.342 ms  0.336 ms
+"
+alco.ru,2," 2  * * *
+"
+alco.ru,3," 3  as48347.ix.dataix.ru (178.18.226.221)  17.131 ms  19.726 ms  17.581 ms
+"
+alco.ru,4," 4  vl505-gw6.mtw.ru (93.95.100.6)  27.907 ms  27.891 ms  27.956 ms
+"
+alco.ru,5," 5  unspecified.mtw.ru (93.95.103.4)  18.976 ms  17.836 ms  18.057 ms
+"

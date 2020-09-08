@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+medportal.ru,0,"traceroute to medportal.ru (82.202.213.210), 50 hops max, 60 byte packets
+"
+medportal.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  3.366 ms  3.350 ms  3.333 ms
+"
+medportal.ru,2," 2  178.18.230.251.dataix (178.18.230.251)  16.878 ms  16.134 ms  16.846 ms
+"
+medportal.ru,3," 3  as49505.ix.dataix.ru (178.18.224.197)  19.777 ms  18.908 ms  22.120 ms
+"
+medportal.ru,4," 4  57.msk.net.selectel.ru (188.93.17.57)  16.549 ms  16.550 ms  16.541 ms
+"
+medportal.ru,5," 5  82.202.213.210 (82.202.213.210)  17.325 ms  19.988 ms  18.158 ms
+"

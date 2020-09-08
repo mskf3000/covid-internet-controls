@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+lnr.media,0,"traceroute to lnr.media (104.27.156.69), 30 hops max, 60 byte packets
+"
+lnr.media,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.330 ms  0.356 ms  0.392 ms
+"
+lnr.media,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.035 ms  1.033 ms  1.066 ms
+"
+lnr.media,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.799 ms  18.839 ms  18.789 ms
+"
+lnr.media,4," 4  149.6.50.74 (149.6.50.74)  21.538 ms  21.536 ms  21.521 ms
+"
+lnr.media,5," 5  104.27.156.69 (104.27.156.69)  18.451 ms  18.509 ms  18.451 ms
+"

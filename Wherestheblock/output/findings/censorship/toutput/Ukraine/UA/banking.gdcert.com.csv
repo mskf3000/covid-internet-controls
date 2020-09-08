@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+banking.gdcert.com,0,"traceroute to banking.gdcert.com (91.200.28.108), 30 hops max, 60 byte packets
+"
+banking.gdcert.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.344 ms  0.335 ms  0.330 ms
+"
+banking.gdcert.com,2," 2  dtel-ix.netorn.net (193.25.180.128)  17.427 ms  16.759 ms  16.775 ms
+"
+banking.gdcert.com,3," 3  netorn-uni-lgw.cen.medi-a.ru (77.246.97.69)  16.766 ms  16.831 ms  19.000 ms
+"
+banking.gdcert.com,4," 4  80.85.240.85 (80.85.240.85)  19.523 ms  20.296 ms  19.993 ms
+"
+banking.gdcert.com,5," 5  91.200.28.108 (91.200.28.108)  17.512 ms  17.517 ms  19.886 ms
+"

@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+lugansk1.info,0,"traceroute to lugansk1.info (104.27.154.140), 30 hops max, 60 byte packets
+"
+lugansk1.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.264 ms  0.296 ms  0.463 ms
+"
+lugansk1.info,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.928 ms  1.005 ms  1.061 ms
+"
+lugansk1.info,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  19.319 ms  19.225 ms  19.168 ms
+"
+lugansk1.info,4," 4  149.6.50.74 (149.6.50.74)  19.799 ms  19.792 ms  19.821 ms
+"
+lugansk1.info,5," 5  104.27.154.140 (104.27.154.140)  18.994 ms  18.979 ms  18.938 ms
+"

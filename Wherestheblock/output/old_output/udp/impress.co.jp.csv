@@ -1,0 +1,37 @@
+URL,TTL,Response_Message
+impress.co.jp,0,"traceroute to impress.co.jp (203.183.234.2), 50 hops max, 60 byte packets
+"
+impress.co.jp,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.475 ms  0.450 ms  0.439 ms
+"
+impress.co.jp,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.630 ms  0.607 ms  0.590 ms
+"
+impress.co.jp,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.680 ms  26.120 ms  28.767 ms
+"
+impress.co.jp,4," 4  xe3-3-6.franco71.fra.seabone.net (89.221.34.254)  28.786 ms  28.804 ms  31.238 ms
+"
+impress.co.jp,5," 5  ae18.franco32.fra.seabone.net (195.22.211.207)  31.946 ms  31.933 ms ae17.franco32.fra.seabone.net (195.22.211.205)  31.670 ms
+"
+impress.co.jp,6," 6  ae-9.r00.frnkge13.de.bb.gin.ntt.net (129.250.66.17)  28.776 ms  28.559 ms  31.072 ms
+"
+impress.co.jp,7," 7  ae-1.r25.frnkge08.de.bb.gin.ntt.net (129.250.4.16)  28.469 ms  28.588 ms  28.503 ms
+"
+impress.co.jp,8," 8  ae-8.r22.asbnva02.us.bb.gin.ntt.net (129.250.4.96)  116.738 ms  119.307 ms  119.333 ms
+"
+impress.co.jp,9," 9  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  185.025 ms  182.978 ms  180.928 ms
+"
+impress.co.jp,10,"10  ae-12.r31.tokyjp05.jp.bb.gin.ntt.net (129.250.3.192)  299.327 ms  291.053 ms  298.881 ms
+"
+impress.co.jp,11,"11  ae-3.r03.tokyjp05.jp.bb.gin.ntt.net (129.250.3.56)  289.848 ms  286.124 ms ae-3.r02.tokyjp05.jp.bb.gin.ntt.net (129.250.3.28)  287.274 ms
+"
+impress.co.jp,12,"12  ae-0.a02.tokyjp05.jp.bb.gin.ntt.net (129.250.6.183)  291.999 ms ae-1.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.6.82)  296.271 ms ae-0.a01.tokyjp05.jp.bb.gin.ntt.net (129.250.5.246)  290.852 ms
+"
+impress.co.jp,13,"13  xe-0-0-15-3.a02.tokyjp05.jp.ce.gin.ntt.net (61.213.161.2)  238.276 ms  241.593 ms  250.658 ms
+"
+impress.co.jp,14,"14  158.205.192.233 (158.205.192.233)  244.551 ms  244.319 ms 158.205.192.141 (158.205.192.141)  238.199 ms
+"
+impress.co.jp,15,"15  158.205.192.233 (158.205.192.233)  324.730 ms *  255.702 ms
+"
+impress.co.jp,16,"16  * * *
+"
+impress.co.jp,17,"17  www.impress.co.jp (203.183.234.2)  249.094 ms *  244.448 ms
+"

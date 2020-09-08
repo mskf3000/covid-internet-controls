@@ -1,0 +1,3400 @@
+URL,TTL,Message
+duel.ru,1,timed out
+duel.ru,2,timed out
+duel.ru,3,timed out
+duel.ru,4,timed out
+duel.ru,5,timed out
+duel.ru,6,timed out
+duel.ru,7,timed out
+duel.ru,8,timed out
+duel.ru,9,timed out
+duel.ru,10,timed out
+duel.ru,11,timed out
+duel.ru,12,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:39:58 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+s"
+duel.ru,13,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:39:58 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,14,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:39:59 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,15,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:39:59 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,16,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:39:59 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+s"
+duel.ru,17,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:00 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+s"
+duel.ru,18,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:00 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,19,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:00 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+s"
+duel.ru,20,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:00 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,21,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:01 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+s"
+duel.ru,22,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:01 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,23,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:01 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,24,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:02 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+s"
+duel.ru,25,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:02 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,"
+duel.ru,26,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:02 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,27,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:02 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,28,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:03 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"
+duel.ru,29,"HTTP/1.1 200 OK
+Date: Thu, 23 Jan 2020 07:40:03 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Tue, 08 Nov 2011 20:39:00 GMT
+ETag: ""e278-4b13f2940a100""
+Accept-Ranges: bytes
+Content-Length: 57976
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<script>
+
+function hand_phone()
+{
+
+//document.regform.phone.focus();
+
+var tel=tr_phone(regform.phone.value);
+
+
+
+var l=tel.length;
+var mess=""Проверьте правильность номера Вашего телефона"";
+
+
+
+if(l==11){
+	
+	if(tel.match(/^89\d+/)){
+	var tel_n=tel.replace(/^89/,""+79"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{3})(\d{3})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+        if(tel.match(/^810\d+/)){
+	
+	var tel_n=tel.replace(/^810/,""+7"");
+	
+        alert(tel_n);
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	
+	}
+
+if(tel.match(/^8\d+/)){
+	var tel_n=tel.replace(/^8/,""+7"");
+	
+
+	
+	
+	var fnd=/^\+7(\d{4})(\d{2})(\d{2})(\d{2})/.exec(tel_n);
+	var phone_w=""+7 ""+fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel_n;
+	       return;
+	}
+
+	}
+
+
+	
+}
+else{
+
+
+var fnd=/^(\d+)(\d{4})(\d{3})(\d{2})(\d{2})/.exec(tel);
+
+	var phone_w=fnd[1]+"" ""+fnd[2]+"" ""+fnd[3]+"" ""+fnd[4]+"" ""+fnd[5];
+
+	var res=prompt(mess+"":  "",phone_w);
+	if(res){
+	
+	res=res.replace(/ /g,"""");
+	document.regform.phone.value=res;
+	return;
+	}
+	else{
+	document.regform.phone.value=tel;
+	       return;
+	}
+
+	
+
+
+
+}
+
+
+
+
+}
+
+
+function tr_phone(s)
+{
+
+return s.replace(/[^0-9+]/g,"""");
+
+}
+
+</script>
+<html lang=""ru"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<title>Армия Воли Народа</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content=""АВН, власть народа, Мухин, Дуэль, Березовая каша, суд народа, ответственность власти, ты избрал - тебе судить!"">
+<meta name=""author"" content=""site@armiavn.com"">
+<style><!--LiveInternet counter-->
+<script type=""text/javascript""><!--
+document.write(""<a href='http://www.liveinternet.ru/click' ""+
+""target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано число просмотров и""+
+"" посетителей за 24 часа' ""+
+""border='0' width='88' height='31'><\/a>"")
+//-->{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+{ }
+</script><!--/LiveInternet-->
+
+
+body, td, font, img, input { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.td1 { font-size: 12px; font-family : Arial, Helvetica, sans-serif; text-align:justify; text-decoration: none; color: #000000; }
+
+p { font-size: 13px; font-family : Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; }
+.normal { font-size: 13px; font-family: Arial, Helvetica, sans-serif; color: #000000; }
+
+.bold { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: #000000; font-weight: bold;}
+
+a { font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-decoration: underline; color: #000"

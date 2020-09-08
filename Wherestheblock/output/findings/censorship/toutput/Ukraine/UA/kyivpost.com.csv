@@ -1,0 +1,21 @@
+URL,TTL,Response_Message
+kyivpost.com,0,"traceroute to kyivpost.com (54.36.105.171), 30 hops max, 60 byte packets
+"
+kyivpost.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.641 ms  1.632 ms  1.626 ms
+"
+kyivpost.com,2," 2  * * *
+"
+kyivpost.com,3," 3  * * *
+"
+kyivpost.com,4," 4  fra-fr5-sbb1-nc5.de.eu (213.251.128.113)  33.958 ms  33.656 ms  33.625 ms
+"
+kyivpost.com,5," 5  be103.rbx-g1-nc5.fr.eu (178.33.100.158)  45.809 ms  46.119 ms  45.831 ms
+"
+kyivpost.com,6," 6  * * *
+"
+kyivpost.com,7," 7  * * *
+"
+kyivpost.com,8," 8  * * *
+"
+kyivpost.com,9," 9  kyivpost.com (54.36.105.171)  45.461 ms  44.758 ms  45.553 ms
+"

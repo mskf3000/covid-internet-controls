@@ -1,0 +1,1612 @@
+URL,TTL,Message
+piter.tv,1,timed out
+piter.tv,2,timed out
+piter.tv,3,timed out
+piter.tv,4,timed out
+piter.tv,5,timed out
+piter.tv,6,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=32268066889049402; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+  "
+piter.tv,7,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=1000306771347625922; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+"
+piter.tv,8,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=465524852116212589; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,9,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=1493945641110305291; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+"
+piter.tv,10,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=1339907021148188009; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+"
+piter.tv,11,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=3134632094303238; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+   "
+piter.tv,12,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=137059861556387371; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,13,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=193531101837374736; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,14,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=845918331688783415; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,15,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=78349614336900069; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+  "
+piter.tv,16,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=161175609501965820; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,17,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=46440790509690232; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+  "
+piter.tv,18,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=9259023138212540; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+   "
+piter.tv,19,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=180988099235080812; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,20,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=1171151891251293663; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+"
+piter.tv,21,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=191929091965103667; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,22,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749645; expires=Mon, 23-Mar-2020 03:20:45 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=1102076901379842071; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:45 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:45 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+"
+piter.tv,23,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=51537131277304028; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" conte"
+piter.tv,24,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=7928461511941810; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:46 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+   "
+piter.tv,25,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=530154571797897743; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:46 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,26,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=310237471416468571; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:46 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "
+piter.tv,27,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=894798755003270; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:46 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+    "
+piter.tv,28,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=1203898021626197386; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:46 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+"
+piter.tv,29,"HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Content-Length: 8846
+Connection: keep-alive
+Set-Cookie: smi_last_visit_time=1579749646; expires=Mon, 23-Mar-2020 03:20:46 GMT; Max-Age=5184000; path=/; domain=.gorod-24.tv
+Set-Cookie: smi_sid=162538051034452025; path=/; domain=.gorod-24.tv
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 23 Jan 2020 03:15:46 GMT
+
+﻿<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"">
+<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    
+    <title>Служба распределения прав пользователей.</title>
+    <script language=""javascript"" src=""http://static.piter.tv/js/widgets_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-1.8.3.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.liveSearch_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.event.drag-1.5_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery.datepick.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jquery-ui-1.11.4.custom.min_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/jscript/jstree_3.1.1/jstree_6138.js""></script>
+<script language=""javascript"" src=""http://static.piter.tv/flex/swfobject_6138.js""></script>
+
+    <link href=""http://static.piter.tv/css/default.style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/ajax_lyer_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/main_style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/widgets_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.datepick_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/css/jquery.liveSearch_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/datetimepicker/mmnt_6138.css"" rel=""stylesheet"" type=""text/css"" />
+<link href=""http://static.piter.tv/jscript/jstree_3.1.1/themes/default/style_6138.css"" rel=""stylesheet"" type=""text/css"" />
+
+	<link rel=""stylesheet"" href=""http://static.piter.tv/jscript/font-awesome-4.6.3/css/font-awesome.min.css"">	
+    <link href=""/favicon.ico"" type=""image/ico"" rel=""shortcut icon""/>
+    <script type=""text/javascript"">
+        $.jstree.defaults.core.themes.variant = ""small"";
+    </script>
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""expires"" content=""0"">
+    <META HTTP-EQUIV=""Description"" CONTENT=""Служба распределения прав пользователей."" NAME=""Description"">
+    <META HTTP-EQUIV=""Keywords"" CONTENT="""" NAME=""Keywords"">
+    <meta name=""Date"" Content=""Thu, 23 Jan 2020 03:20:46 GMT"">
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <script language='JavaScript' src='http://static.piter.tv/jscript/func_6138.js'></script>
+</head>
+<body bgcolor=""#ffffff"" id=""body"" leftMargin=""0"" topMargin=""0"" marginwidth=""0"" marginheight=""0"">
+
+<script type=""text/javascript"">
+    jQuery('#main_div')
+            .bind('dragstart',function( event ){
+                if ( !jQuery(event.target).is('.handle') ) return false;
+                return jQuery(this )
+                        .clone().css('opacity',.2).addClass('active')
+                        .insertAfter( this );
+            })
+            .bind('drag',function( event ){
+                jQuery( event.dragProxy ).css({
+                    top: (event.offsetY > 0)?event.offsetY:0,
+                    left: (event.offsetX > 0)?event.offsetX:0
+                });
+            })
+            .bind('dragend',function( event ){
+                jQuery( event.dragProxy ).remove();
+ "

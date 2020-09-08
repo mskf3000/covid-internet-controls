@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+ostro.org,0,"traceroute to ostro.org (104.20.94.32), 30 hops max, 60 byte packets
+"
+ostro.org,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.349 ms  0.331 ms  0.354 ms
+"
+ostro.org,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.850 ms  1.003 ms  0.938 ms
+"
+ostro.org,3," 3  be3644.rcr21.kbp01.atlas.cogentco.com (130.117.2.69)  0.925 ms  1.153 ms  1.013 ms
+"
+ostro.org,4," 4  149.6.191.138 (149.6.191.138)  5.492 ms  5.492 ms  5.523 ms
+"
+ostro.org,5," 5  104.20.94.32 (104.20.94.32)  0.538 ms  0.540 ms  0.441 ms
+"

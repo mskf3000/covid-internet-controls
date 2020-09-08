@@ -1,0 +1,397 @@
+URL,TTL,Message
+gazeta.ua,1,timed out
+gazeta.ua,2,timed out
+gazeta.ua,3,timed out
+gazeta.ua,4,timed out
+gazeta.ua,5,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d847bc8f905b928151c40445f2ce9165e1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529776eb98b86-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,6,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d7b84e06c518862b88ed0b5910e5fa1541579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 5595297778638acc-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,7,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da3c121b82c923c8c7fc58b550b3bd56e1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529777c528ad2-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,8,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d210078cc44ee8aadd2669437f73d1a161579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977999c8247-KBP
+
+10
+error code: 1001
+"
+gazeta.ua,9,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da2ed4d8bac321abcd7ef64fe31f9bd681579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529779c8d8afc-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,10,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d610ae340d89998a3234cf68d0e74f3dd1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977ab2c8211-KBP
+
+10
+error code: 1001
+"
+gazeta.ua,11,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d3a98bbefef771f821126903d7198bc681579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977ab3183e6-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,12,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0594f3a63123bb7863f3f8020e10daef1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977b8558b98-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,13,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d2a87b75847313cbfb30d1abafbe6ac701579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977ba238223-KBP
+
+10
+error code: 1001
+"
+gazeta.ua,14,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d8315897cf133fb5eda2962af72e1248e1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977b89c8ade-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,15,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da19c5d67cb19562a43c5b37a84e30c801579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977cac28404-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,16,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db171330fb1b10122c6bb3529e2607a6e1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977c84e8b92-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,17,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d1f3a11ffe3aed7cb404cb25c986dc74d1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977da96825f-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,18,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d2c49994764dafc1885a5fd3a946c80b41579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977e9f18b4a-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,19,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0e46cfcc659157e16c5a17d49affb5881579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977eb8b824d-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,20,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d826dfc6803ee77356300525c57b38fbe1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977ffd68b44-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,21,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d8e36bdccadbe9d9e319e62b8741ad4f11579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952977fc5e8aba-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,22,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d85f3d762587afa9090f75175101bf60f1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529780bb6822f-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,23,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dcc82a89f0d02eb9830b7228e966c940c1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529780cbf8428-KBP
+
+10
+error code: 1001
+"
+gazeta.ua,24,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db171330fb1b10122c6bb3529e2607a6e1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 55952978185f8b92-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,25,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d2421e8f7508c91625ad1febe04730c561579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 5595297818aa8235-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,26,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d33a1ff8012efeee2a28feb6d25e4c6a61579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529781ee18b50-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,27,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dd48de6a140a7d9c9735f7cf6392e3c611579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529782a758b6e-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,28,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=da19c5d67cb19562a43c5b37a84e30c801579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 559529783adf8404-KBP
+
+10
+error code: 1001
+0
+
+"
+gazeta.ua,29,"HTTP/1.1 409 Conflict
+Date: Wed, 22 Jan 2020 23:03:34 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0594f3a63123bb7863f3f8020e10daef1579734214; expires=Fri, 21-Feb-20 23:03:34 GMT; path=/; domain=.ojaloberoi.in; HttpOnly; SameSite=Lax
+Cache-Control: max-age=6
+Expires: Wed, 22 Jan 2020 23:03:40 GMT
+Server: cloudflare
+CF-RAY: 5595297838a68b98-KBP
+
+10
+error code: 1001
+0
+
+"

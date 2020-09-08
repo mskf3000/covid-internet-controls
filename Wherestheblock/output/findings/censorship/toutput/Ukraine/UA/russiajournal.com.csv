@@ -1,0 +1,25 @@
+URL,TTL,Response_Message
+russiajournal.com,0,"traceroute to russiajournal.com (162.241.252.194), 30 hops max, 60 byte packets
+"
+russiajournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.375 ms  0.354 ms  0.371 ms
+"
+russiajournal.com,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.038 ms  0.910 ms  1.059 ms
+"
+russiajournal.com,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.020 ms  16.923 ms  16.994 ms
+"
+russiajournal.com,4," 4  be3463.ccr52.vie01.atlas.cogentco.com (154.54.59.185)  18.131 ms  18.191 ms  18.222 ms
+"
+russiajournal.com,5," 5  level3.vie01.atlas.cogentco.com (130.117.15.162)  110.241 ms  110.058 ms  110.217 ms
+"
+russiajournal.com,6," 6  * * *
+"
+russiajournal.com,7," 7  CYRUSONE-LL.bear2.Houston1.Level3.net (4.16.222.46)  142.876 ms  142.353 ms  142.453 ms
+"
+russiajournal.com,8," 8  72-250-192-6.cyrusone.com (72.250.192.6)  162.843 ms  143.372 ms  143.334 ms
+"
+russiajournal.com,9," 9  po101.router2b.hou1.net.unifiedlayer.com (162.241.0.9)  143.343 ms po101.router2a.hou1.net.unifiedlayer.com (162.241.0.7)  143.335 ms po101.router2b.hou1.net.unifiedlayer.com (162.241.0.9)  143.327 ms
+"
+russiajournal.com,10,"10  162-241-150-57.unifiedlayer.com (162.241.150.57)  143.318 ms 162-241-150-63.unifiedlayer.com (162.241.150.63)  143.047 ms  142.775 ms
+"
+russiajournal.com,11,"11  box5735.bluehost.com (162.241.252.194)  156.000 ms  156.512 ms  156.496 ms
+"

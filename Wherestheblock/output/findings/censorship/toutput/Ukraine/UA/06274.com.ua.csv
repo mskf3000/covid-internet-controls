@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+06274.com.ua,0,"traceroute to 06274.com.ua (104.24.112.247), 30 hops max, 60 byte packets
+"
+06274.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  5.868 ms  5.865 ms  6.357 ms
+"
+06274.com.ua,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.908 ms  0.928 ms  0.998 ms
+"
+06274.com.ua,3," 3  be3651.ccr31.buh01.atlas.cogentco.com (130.117.2.238)  18.906 ms  19.122 ms  18.867 ms
+"
+06274.com.ua,4," 4  149.6.50.74 (149.6.50.74)  19.438 ms  19.424 ms  19.419 ms
+"
+06274.com.ua,5," 5  104.24.112.247 (104.24.112.247)  18.564 ms  18.594 ms  18.654 ms
+"

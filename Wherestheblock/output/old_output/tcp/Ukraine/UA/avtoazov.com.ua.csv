@@ -1,0 +1,11 @@
+URL,TTL,Response_Message
+avtoazov.com.ua,0,"traceroute to avtoazov.com.ua (185.68.16.166), 30 hops max, 60 byte packets
+"
+avtoazov.com.ua,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.303 ms  0.290 ms  0.321 ms
+"
+avtoazov.com.ua,2," 2  deltax2-ix.giganet.ua (185.1.63.61)  0.584 ms  0.647 ms  0.629 ms
+"
+avtoazov.com.ua,3," 3  * * *
+"
+avtoazov.com.ua,4," 4  web377.default-host.net (185.68.16.166)  0.673 ms  0.618 ms  0.669 ms
+"

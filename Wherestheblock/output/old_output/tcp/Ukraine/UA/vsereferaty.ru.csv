@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+vsereferaty.ru,0,"traceroute to vsereferaty.ru (91.195.240.135), 30 hops max, 60 byte packets
+"
+vsereferaty.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.285 ms  0.280 ms
+"
+vsereferaty.ru,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  0.534 ms  0.574 ms  0.567 ms
+"
+vsereferaty.ru,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.656 ms  26.158 ms  26.161 ms
+"
+vsereferaty.ru,4," 4  ffm-b1-link.telia.net (62.115.63.109)  28.774 ms  27.983 ms  27.968 ms
+"
+vsereferaty.ru,5," 5  ffm-bb3-link.telia.net (62.115.137.164)  36.086 ms ffm-bb3-link.telia.net (62.115.141.234)  38.553 ms ffm-bb3-link.telia.net (62.115.141.236)  36.062 ms
+"
+vsereferaty.ru,6," 6  mcn-b2-link.telia.net (62.115.120.126)  35.774 ms mcn-b2-link.telia.net (62.115.120.132)  33.254 ms mcn-b2-link.telia.net (62.115.120.128)  35.741 ms
+"
+vsereferaty.ru,7," 7  internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  115.809 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.179)  114.921 ms  114.997 ms
+"
+vsereferaty.ru,8," 8  91.195.241.102 (91.195.241.102)  117.784 ms  115.387 ms  117.863 ms
+"
+vsereferaty.ru,9," 9  91.195.241.106 (91.195.241.106)  116.541 ms  117.395 ms  119.185 ms
+"
+vsereferaty.ru,10,"10  91.195.240.135 (91.195.240.135)  117.925 ms  115.354 ms  118.276 ms
+"

@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+smdnr.ru,0,"traceroute to smdnr.ru (31.133.58.15), 30 hops max, 60 byte packets
+"
+smdnr.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  2.833 ms  2.833 ms  2.872 ms
+"
+smdnr.ru,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.764 ms  18.101 ms  18.278 ms
+"
+smdnr.ru,3," 3  109.239.138.75 (109.239.138.75)  51.576 ms  51.522 ms  51.936 ms
+"
+smdnr.ru,4," 4  service-188.130.254.102.com (188.130.254.102)  55.098 ms  56.335 ms  52.773 ms
+"
+smdnr.ru,5," 5  service-109.248.197.218.com (109.248.197.218)  51.894 ms  53.534 ms  51.875 ms
+"
+smdnr.ru,6," 6  31.133.58.15 (31.133.58.15)  50.465 ms  52.039 ms  49.678 ms
+"
+smdnr.ru,7," 7  31.133.58.15 (31.133.58.15)  56.148 ms  55.623 ms  52.280 ms
+"

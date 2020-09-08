@@ -1,0 +1,63 @@
+URL,TTL,Response_Message
+fank.ru,0,"traceroute to fank.ru (77.120.102.90), 30 hops max, 60 byte packets
+"
+fank.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  4.302 ms  4.283 ms  4.299 ms
+"
+fank.ru,2," 2  volia-40G-gw.ix.net.ua (195.35.65.221)  1.079 ms  0.907 ms  1.146 ms
+"
+fank.ru,3," 3  lag41-80g.agg-1.ss13.kiev.volia.net (77.120.1.82)  0.974 ms lag.agg-2.ss13.kiev.volia.net (77.120.1.94)  0.953 ms  1.144 ms
+"
+fank.ru,4," 4  lag3-60g.dc-2.ss13.kiev.volia.net (77.120.1.174)  1.700 ms lag2-60g.dc-2.ss13.kiev.volia.net (77.120.1.166)  1.267 ms  2.151 ms
+"
+fank.ru,5," 5  * * *
+"
+fank.ru,6," 6  * * *
+"
+fank.ru,7," 7  * * *
+"
+fank.ru,8," 8  * * *
+"
+fank.ru,9," 9  * * *
+"
+fank.ru,10,"10  * * *
+"
+fank.ru,11,"11  * * *
+"
+fank.ru,12,"12  * * *
+"
+fank.ru,13,"13  * * *
+"
+fank.ru,14,"14  * * *
+"
+fank.ru,15,"15  * * *
+"
+fank.ru,16,"16  * * *
+"
+fank.ru,17,"17  * * *
+"
+fank.ru,18,"18  * * *
+"
+fank.ru,19,"19  * * *
+"
+fank.ru,20,"20  * * *
+"
+fank.ru,21,"21  * * *
+"
+fank.ru,22,"22  * * *
+"
+fank.ru,23,"23  * * *
+"
+fank.ru,24,"24  * * *
+"
+fank.ru,25,"25  * * *
+"
+fank.ru,26,"26  * * *
+"
+fank.ru,27,"27  * * *
+"
+fank.ru,28,"28  * * *
+"
+fank.ru,29,"29  * * *
+"
+fank.ru,30,"30  * * *
+"

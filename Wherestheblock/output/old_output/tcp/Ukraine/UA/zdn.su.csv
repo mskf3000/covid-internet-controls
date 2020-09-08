@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+zdn.su,0,"traceroute to zdn.su (194.87.234.210), 30 hops max, 60 byte packets
+"
+zdn.su,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.388 ms  0.395 ms  0.436 ms
+"
+zdn.su,2," 2  178.18.230.251.dataix (178.18.230.251)  16.523 ms  17.583 ms  17.578 ms
+"
+zdn.su,3," 3  as59796.ix.dataix.ru (178.18.224.243)  18.351 ms  17.818 ms  17.806 ms
+"
+zdn.su,4," 4  10.220.255.5 (10.220.255.5)  22.675 ms  22.739 ms  22.727 ms
+"
+zdn.su,5," 5  unspecified.mtw.ru (194.87.234.210)  18.697 ms  17.828 ms  17.834 ms
+"

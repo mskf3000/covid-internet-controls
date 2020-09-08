@@ -1,0 +1,23 @@
+URL,TTL,Response_Message
+beehost.ru,0,"traceroute to beehost.ru (5.101.125.106), 30 hops max, 60 byte packets
+"
+beehost.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  1.886 ms  1.910 ms  1.906 ms
+"
+beehost.ru,2," 2  datagroup-as3326-ix-2.giganet.ua (185.1.62.11)  0.546 ms  0.568 ms  0.532 ms
+"
+beehost.ru,3," 3  77.88.211.129 (77.88.211.129)  0.541 ms  0.590 ms  0.624 ms
+"
+beehost.ru,4," 4  r9-xe-4-2-0-0-Waw-Linx-PL.linxtelecom.net (212.47.201.130)  66.756 ms  66.746 ms  66.734 ms
+"
+beehost.ru,5," 5  r9-xe-2-0-3-0-Vno-Lnrg-LT.linxtelecom.net (212.47.201.71)  66.727 ms  66.719 ms  66.708 ms
+"
+beehost.ru,6," 6  r9-xe-10-1-0-0-Tln-Linx-EE.linxtelecom.net (212.47.201.118)  66.679 ms  66.225 ms  66.210 ms
+"
+beehost.ru,7," 7  r9-xe-4-3-0-0-Nar-EVR-EE.linxtelecom.net (212.47.201.157)  66.204 ms  66.183 ms  66.169 ms
+"
+beehost.ru,8," 8  as198068.r9-xe-2-2-0-0-Nar-EVR-EE.linxtelecom.net (195.222.7.89)  66.142 ms  33.305 ms  33.287 ms
+"
+beehost.ru,9," 9  * * *
+"
+beehost.ru,10,"10  s05657d6a.fastvps-server.com (5.101.125.106)  37.209 ms  34.309 ms  34.393 ms
+"

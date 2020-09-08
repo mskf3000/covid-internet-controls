@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+community.livejournal.com,0,"traceroute to community.livejournal.com (81.19.74.3), 30 hops max, 60 byte packets
+"
+community.livejournal.com,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.343 ms  0.322 ms  0.313 ms
+"
+community.livejournal.com,2," 2  dtel-ix.gblnet.ru (193.25.181.60)  18.789 ms  17.979 ms  17.902 ms
+"
+community.livejournal.com,3," 3  109.239.134.66 (109.239.134.66)  19.487 ms  18.603 ms  19.461 ms
+"
+community.livejournal.com,4," 4  ae4.j-mx240.kr.ramtel.ru (81.19.64.85)  22.188 ms  18.996 ms  18.977 ms
+"
+community.livejournal.com,5," 5  * * *
+"
+community.livejournal.com,6," 6  * * *
+"
+community.livejournal.com,7," 7  livejournal.com (81.19.74.3)  18.894 ms  17.419 ms  18.074 ms
+"

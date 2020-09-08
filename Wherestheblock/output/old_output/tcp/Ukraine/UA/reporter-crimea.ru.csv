@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+reporter-crimea.ru,0,"traceroute to reporter-crimea.ru (87.236.16.96), 30 hops max, 60 byte packets
+"
+reporter-crimea.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.332 ms  0.311 ms  0.347 ms
+"
+reporter-crimea.ru,2," 2  ae3-247.RT.NTL.KIV.UA.retn.net (87.245.247.24)  0.687 ms  0.664 ms  0.654 ms
+"
+reporter-crimea.ru,3," 3  ae5-9.RT.SL.SPB.RU.retn.net (87.245.233.13)  30.308 ms  30.299 ms  30.280 ms
+"
+reporter-crimea.ru,4," 4  * * *
+"
+reporter-crimea.ru,5," 5  87.236.16.96 (87.236.16.96)  28.053 ms  28.853 ms  28.858 ms
+"

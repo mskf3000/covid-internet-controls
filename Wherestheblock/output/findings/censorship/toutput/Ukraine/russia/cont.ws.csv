@@ -1,0 +1,13 @@
+URL,TTL,Response_Message
+cont.ws,0,"traceroute to cont.ws (93.189.147.4), 50 hops max, 60 byte packets
+"
+cont.ws,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.299 ms  0.323 ms  0.361 ms
+"
+cont.ws,2," 2  178.18.230.251.dataix (178.18.230.251)  16.435 ms  17.521 ms  16.003 ms
+"
+cont.ws,3," 3  as12555.ix.dataix.ru (178.18.224.183)  27.959 ms  26.926 ms  25.737 ms
+"
+cont.ws,4," 4  rr8.iqdata.center (93.189.144.131)  25.703 ms  26.409 ms  25.782 ms
+"
+cont.ws,5," 5  host-147-4.iqdata.center (93.189.147.4)  28.082 ms  29.656 ms  26.856 ms
+"

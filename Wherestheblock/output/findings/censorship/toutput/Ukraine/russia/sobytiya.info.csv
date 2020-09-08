@@ -1,0 +1,17 @@
+URL,TTL,Response_Message
+sobytiya.info,0,"traceroute to sobytiya.info (95.216.247.245), 50 hops max, 60 byte packets
+"
+sobytiya.info,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.314 ms  0.295 ms  0.286 ms
+"
+sobytiya.info,2," 2  kiev-nt-b1-ae8-vlan1384.fiord.net (62.140.243.0)  1.894 ms  0.635 ms  1.850 ms
+"
+sobytiya.info,3," 3  frankfurt-nt-b1-ae5-vlan2036.fiord.net (62.140.243.22)  28.735 ms  26.158 ms  28.624 ms
+"
+sobytiya.info,4," 4  hetzner-peering-fra.fiord.net (80.77.167.223)  31.677 ms  28.538 ms  28.508 ms
+"
+sobytiya.info,5," 5  core32.hel1.hetzner.com (213.239.224.154)  44.102 ms core31.hel1.hetzner.com (213.239.224.150)  40.050 ms core32.hel1.hetzner.com (213.239.224.154)  42.468 ms
+"
+sobytiya.info,6," 6  ex9k2.dc2.hel1.hetzner.com (213.239.224.142)  40.156 ms  40.069 ms ex9k2.dc2.hel.hetzner.com (213.239.224.146)  42.806 ms
+"
+sobytiya.info,7," 7  static.245.247.216.95.clients.your-server.de (95.216.247.245)  41.737 ms  41.355 ms  43.868 ms
+"

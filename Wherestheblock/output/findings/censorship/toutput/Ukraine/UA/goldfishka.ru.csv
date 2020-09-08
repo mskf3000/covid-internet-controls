@@ -1,0 +1,33 @@
+URL,TTL,Response_Message
+goldfishka.ru,0,"traceroute to goldfishka.ru (185.31.222.234), 30 hops max, 60 byte packets
+"
+goldfishka.ru,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.316 ms  0.304 ms  0.326 ms
+"
+goldfishka.ru,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  1.242 ms  1.332 ms  1.370 ms
+"
+goldfishka.ru,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.481 ms  17.473 ms  17.431 ms
+"
+goldfishka.ru,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.466 ms  22.507 ms  22.444 ms
+"
+goldfishka.ru,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.728 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.847 ms  31.079 ms
+"
+goldfishka.ru,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.545 ms  39.518 ms  39.497 ms
+"
+goldfishka.ru,7," 7  be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  47.597 ms be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  47.024 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  47.059 ms
+"
+goldfishka.ru,8," 8  be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  46.811 ms be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  47.536 ms be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  47.508 ms
+"
+goldfishka.ru,9," 9  149.14.144.50 (149.14.144.50)  44.019 ms  43.730 ms  43.721 ms
+"
+goldfishka.ru,10,"10  0.xe-1-0-0.rt1.lthn.continent8.com (5.62.85.111)  43.818 ms  43.738 ms  43.724 ms
+"
+goldfishka.ru,11,"11  0.xe-2-0-1.cr2.idca.continent8.com (5.62.85.120)  52.061 ms  52.016 ms  52.065 ms
+"
+goldfishka.ru,12,"12  2002.xe-1-2-0.dr3.idca.continent8.com (5.62.85.18)  52.454 ms  52.429 ms  52.424 ms
+"
+goldfishka.ru,13,"13  5.62.82.129 (5.62.82.129)  52.053 ms  52.043 ms  52.021 ms
+"
+goldfishka.ru,14,"14  41.222.110.98 (41.222.110.98)  53.591 ms  53.021 ms  52.994 ms
+"
+goldfishka.ru,15,"15  185.31.222.234 (185.31.222.234)  52.798 ms  53.096 ms  52.939 ms
+"

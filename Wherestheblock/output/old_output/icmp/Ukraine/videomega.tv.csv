@@ -1,0 +1,43 @@
+URL,TTL,Response_Message
+videomega.tv,0,"traceroute to videomega.tv (103.224.182.251), 30 hops max, 60 byte packets
+"
+videomega.tv,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.340 ms  0.360 ms  0.406 ms
+"
+videomega.tv,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.950 ms  1.082 ms  1.472 ms
+"
+videomega.tv,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.210 ms  17.255 ms  17.255 ms
+"
+videomega.tv,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  23.120 ms  23.262 ms  23.262 ms
+"
+videomega.tv,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.783 ms  30.794 ms  30.832 ms
+"
+videomega.tv,6," 6  be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.748 ms  39.764 ms  39.762 ms
+"
+videomega.tv,7," 7  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  141.025 ms  140.662 ms  140.650 ms
+"
+videomega.tv,8," 8  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  140.596 ms  140.832 ms  141.141 ms
+"
+videomega.tv,9," 9  be3260.ccr32.yyz02.atlas.cogentco.com (154.54.42.89)  140.169 ms  140.266 ms  140.268 ms
+"
+videomega.tv,10,"10  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  140.694 ms  140.760 ms  140.787 ms
+"
+videomega.tv,11,"11  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  141.411 ms  141.092 ms  141.085 ms
+"
+videomega.tv,12,"12  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  152.002 ms  153.696 ms  153.685 ms
+"
+videomega.tv,13,"13  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  165.086 ms  165.152 ms  165.193 ms
+"
+videomega.tv,14,"14  be3047.ccr21.elp01.atlas.cogentco.com (154.54.1.125)  177.309 ms  177.529 ms  177.522 ms
+"
+videomega.tv,15,"15  be2929.ccr31.phx01.atlas.cogentco.com (154.54.42.65)  185.671 ms  185.613 ms  185.582 ms
+"
+videomega.tv,16,"16  be2940.rcr51.san01.atlas.cogentco.com (154.54.6.121)  194.192 ms  194.149 ms  194.159 ms
+"
+videomega.tv,17,"17  te0-0-2-3.nr11.b022887-0.san01.atlas.cogentco.com (154.24.7.230)  195.627 ms  195.703 ms  195.484 ms
+"
+videomega.tv,18,"18  38.140.111.58 (38.140.111.58)  194.317 ms  194.331 ms  194.310 ms
+"
+videomega.tv,19,"19  sw03-san.trellian.com (103.224.213.253)  195.175 ms  195.127 ms  195.567 ms
+"
+videomega.tv,20,"20  lb-182-251.above.com (103.224.182.251)  195.608 ms  195.610 ms  195.609 ms
+"

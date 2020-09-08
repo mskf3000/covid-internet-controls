@@ -1,0 +1,31 @@
+URL,TTL,Response_Message
+who.dk,0,"traceroute to who.dk (185.64.253.1), 30 hops max, 60 byte packets
+"
+who.dk,1," 1  45.9.236.1.deltahost-ptr (45.9.236.1)  0.346 ms  0.332 ms  0.360 ms
+"
+who.dk,2," 2  gi0-4-0-4.rcr22.kbp01.atlas.cogentco.com (149.6.190.17)  0.953 ms  0.909 ms  1.010 ms
+"
+who.dk,3," 3  be2047.ccr22.bts01.atlas.cogentco.com (154.54.60.205)  17.060 ms  17.064 ms  17.084 ms
+"
+who.dk,4," 4  be3045.ccr21.prg01.atlas.cogentco.com (154.54.59.105)  22.620 ms  22.570 ms  22.659 ms
+"
+who.dk,5," 5  be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.810 ms be3027.ccr41.ham01.atlas.cogentco.com (130.117.1.205)  30.793 ms be3029.ccr42.ham01.atlas.cogentco.com (154.54.59.61)  30.597 ms
+"
+who.dk,6," 6  be2815.ccr41.ams03.atlas.cogentco.com (154.54.38.205)  39.470 ms be2816.ccr42.ams03.atlas.cogentco.com (154.54.38.209)  39.551 ms  39.676 ms
+"
+who.dk,7," 7  be12488.ccr42.lon13.atlas.cogentco.com (130.117.51.41)  46.914 ms be12194.ccr41.lon13.atlas.cogentco.com (154.54.56.93)  46.538 ms  46.589 ms
+"
+who.dk,8," 8  be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  46.733 ms  47.259 ms be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  47.275 ms
+"
+who.dk,9," 9  be3168.rcr11.b015593-1.lon01.atlas.cogentco.com (130.117.51.166)  47.636 ms  47.562 ms  47.388 ms
+"
+who.dk,10,"10  xe2-2-ve-71.gr-pe-2.gr.thebunker.net (149.6.147.142)  53.640 ms  47.059 ms  46.795 ms
+"
+who.dk,11,"11  squiz.1224.cr-1.ash.thebunker.net (93.91.16.189)  49.652 ms  49.529 ms  49.497 ms
+"
+who.dk,12,"12  93.91.16.190 (93.91.16.190)  49.605 ms  49.560 ms  49.746 ms
+"
+who.dk,13,"13  10.10.1.10 (10.10.1.10)  54.981 ms  55.192 ms  52.896 ms
+"
+who.dk,14,"14  lb01.ash2.uk.squizedge.net (185.64.253.1)  49.621 ms  49.846 ms  49.737 ms
+"
