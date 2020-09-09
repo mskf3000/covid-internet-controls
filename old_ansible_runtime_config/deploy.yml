@@ -1,0 +1,48 @@
+- hosts: all
+  gather_facts: false
+  strategy: free
+  vars_files:
+    - .env
+
+  tasks:
+
+    - name: Update apt
+      apt:
+        update_cache: yes
+    
+
+    - name: Install Docker
+      apt:
+        name: docker.io
+        state: present
+
+
+    - name: Clone Git repository
+      git:
+        repo: "https://github.com/lukesturgis/covid-internet-controls"
+        dest: /src
+        accept_hostkey: yes
+      register: gitclone
+
+   
+    - name: Copy over worker environment file
+      copy:
+        src: .worker.env
+        dest: /src/worker/.env
+        mode: "0400"
+      
+          
+    - name: Build Docker image
+      command: docker build -t worker /src/worker
+      when: gitclone.changed
+
+
+    - name: Run Docker container
+      docker_container:
+        name: worker
+        image: worker
+        state: started
+        detach: yes
+        restart_policy: always
+        published_ports: 42075:42075
+      when: gitclone.changed

@@ -1,0 +1,17 @@
+Source: 
+http://data.caida.org/datasets/as-relationships/
+https://www.caida.org/data/as-relationships/
+https://bgp.he.net/country/IN
+https://asrank.caida.org/asns?asn=9498&type=search
+
+ToDo:
+1. Select country for which ASNs need to be collected.
+2. Use: "https://bgp.he.net/country/IN" to search for country ASN's.
+   Some API call may get Parse data to get first ASN column.
+3. Use: "https://asrank.caida.org/asns?asn=9498&type=search" to parse customer cone data of ASN.
+4. Use results from step 3 in sorted order of customer cone size to CSV file.
+5. Chose thrushold number of ASes needs to be analysed for customer cone information
+6. Use: "http://data.caida.org/datasets/as-relationships/serial-1/" or "http://data.caida.org/datasets/as-relationships/"
+to get one latest AS relationship file.
+7. Contrust graph of provider-customer relationship. Apply DFS to collected all children of all nodes in the graph.
+8. Disscuss what to do with ASes are the child of one or more big ASes.

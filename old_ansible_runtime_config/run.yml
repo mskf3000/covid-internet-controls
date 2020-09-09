@@ -1,0 +1,17 @@
+- hosts: all
+  gather_facts: false
+  strategy: free
+
+  tasks:
+
+    - name: Build Docker image
+      command: docker build -t worker /src/worker
+
+    - name: Run Docker container
+      docker_container:
+        name: worker
+        image: worker
+        state: started
+        detach: yes
+        restart_policy: always
+        published_ports: 42075:42075

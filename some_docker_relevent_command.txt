@@ -1,0 +1,33 @@
+Install Docker:
+
+	sudo apt install docker.io
+
+Pull Raspberry/Ubuntu image
+
+	sudo docker pull ubuntu:latest
+	sudo docker pull raspbian/stretch
+
+Create Docker Container with the images
+
+	sudo docker -dit --name <name> ubuntu
+	sudo docker -dit --name <name> 	raspbian/stretch 
+	
+To Login to Docker Container
+
+	sudo docker exec -it <name> bash
+	
+To Remove/Delete Container
+
+	sudo docker stop <name>
+	sudo docker container rm <container ID>
+	
+Install PCNC & Frenetic on Docker Containers
+
+	sudo docker -dit --privileged --name pcnc ubuntu
+	sudo docker -dit --privileged --name frenetic ubuntu
+	
+	the tag --privileged is important since that provides the required permission to create namespace in the docker containers
+	
+Login in to PCNC contianer
+
+	sudo docker exec -it pcnc bash

@@ -1,0 +1,3 @@
+Window 1: python3.6 query_workers.py -t https://www.americanthinker.com -w usa -v
+Window 2: python3.6  run_worker.py
+Window3: sudo wireshark (select any interface and filter by 13.224.214.95 or .68)
