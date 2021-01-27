@@ -1,0 +1,3035 @@
+<!doctype html>
+<html lang="fr">
+    <head><!-- DIDOMI CPM TAG STARTS -->
+<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+   else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+   var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+   if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+   var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("e23a01f6-a508-4e71-8f50-c1a9cae7c0d0")})();
+</script>
+<!-- DIDOMI CPM TAG ENDS -->            
+  
+          
+          
+                                                                                                    
+                                                                                                                                                                        
+    <script src="https://assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/ads.js?v1.4.8.0"></script>
+  <!-- Google Tag Manager -->
+  <script>
+      dataLayer = [{
+        'source'   : 'OVERBLOG',
+        'theme'    : '76',
+        'adUnitID' : '/6783/OverBlogKiwi/fr/1044304_wikistrike.over-blog.com',
+        'group'    : null,
+        'category' : 'Politics',
+        'rating'   : 'BS',
+        'unused'   : 'No',
+        'adult'    : 'No',
+        'pda'      : 'Yes',
+        'hasAds'   : 'Yes',
+        'lang'     : 'fr',
+        'adblock'  : '__ads_loaded__' in window ? 'No' : 'Yes',
+        'blog_id'  : '1044304',
+        'blog_name': "Wikistrike",
+        'premium'  : 'Yes',
+        'user_id'  : window.obuserid !== undefined ? ('' + window.obuserid) : undefined,
+        'slots'    : {
+    "_6003113": {
+        "name": "leaderboard"
+    },
+    "_ce0978c": {
+        "name": "leaderboard"
+    },
+    "_bc9ceab": {
+        "name": "leaderboard"
+    },
+    "_4a5d528": {
+        "name": "footer"
+    },
+    "_77f8c1a": {
+        "name": "interstitial"
+    },
+    "_05c47cd": {
+        "name": "sticky_footer"
+    }
+},
+              }];
+  </script>
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer', "GTM-WG3SK3P");
+  </script>
+  <!-- end Google Tag Manager -->
+  <script>
+      // le code du wrapper
+      if (dataLayer[0].hasAds === 'Yes' &&
+          dataLayer[0].adult === 'No' &&
+          dataLayer[0].rating === 'BS'
+      ) {
+          // targeting
+          var wbadsTargeting = {};
+          var noTargetingKeys = ['slots'];
+          for (var k in dataLayer[0]) {
+              if (noTargetingKeys.indexOf(k) === -1) {
+                  if (typeof dataLayer[0][k] === 'string') {
+                      wbadsTargeting[k] = [dataLayer[0][k]];
+                  } else if (Array.isArray(dataLayer[0][k])) {
+                      wbadsTargeting[k] = dataLayer[0][k];
+                  } else {
+                      // unknow type
+                  }
+              }
+          }
+
+          // mapping positions
+          var wbadsPagePositions = [];
+          var wbadsElementsMapping = {};
+          var stickyFooterDefined = false;
+          for (var slot in dataLayer[0].slots) {
+              if (dataLayer[0].slots[slot].name == 'sticky_footer') {
+                  stickyFooterDefined = true;
+              }
+          }
+
+          // _881c7f7, leaderboard, [header, mtf_leaderboard, mtf_leaderboard_2, btf_leaderboard] => on prend le premier pas défini
+          var wbadsAddPosition = function(obSlotDivId, obSlotName, positionsPref) {
+              var added = false;
+              for (var i = 0; i < positionsPref.length && !added; i++) {
+                  if (wbadsPagePositions.indexOf(positionsPref[i]) === -1) {
+                      wbadsPagePositions.push(positionsPref[i]);
+                      wbadsElementsMapping[positionsPref[i]] = obSlotDivId;
+                      added = true;
+                  }
+              }
+              if (!added) {
+                  console.warn('can not add position ' + obSlotName);
+              }
+          };
+
+          for (var obSlotDivId in dataLayer[0].slots) {
+              var obSlotName = dataLayer[0].slots[obSlotDivId].name
+              var positionsPref = [];
+              if (/banner/.test(obSlotName)) {
+                  if (stickyFooterDefined) {
+                      positionsPref = ['mtf_leaderboard', 'btf_leaderboard'];
+                  } else {
+                      positionsPref = ['sticky_footer', 'btf_leaderboard'];
+                  }
+              } else if (/footer/.test(obSlotName)) {
+                  positionsPref = ['footer'];
+              } else if (/half_page/.test(obSlotName)) {
+                  positionsPref = ['rectangle_atf', 'rectangle_atf_2'];
+              } else if (/header/.test(obSlotName)) {
+                  positionsPref = ['header'];
+              } else if (/inter/.test(obSlotName)) {
+                  positionsPref = ['interstitial'];
+              } else if (/leaderboard/.test(obSlotName)) {
+                  if (stickyFooterDefined) {
+                      positionsPref = ['header', 'mtf_leaderboard', 'mtf_leaderboard_2', 'btf_leaderboard'];
+                  } else {
+                      positionsPref = ['header', 'sticky_footer', 'mtf_leaderboard', 'mtf_leaderboard_2', 'btf_leaderboard'];
+                  }
+              } else if (/medium_rectangle/.test(obSlotName)) {
+                  positionsPref = ['rectangle_mtf', 'rectangle_mtf_2'];
+              } else if (/parallax/.test(obSlotName)) {
+                  positionsPref = ['rectangle_atf', 'rectangle_atf_2'];
+              } else if (/pave/.test(obSlotName)) {
+                  positionsPref = ['rectangle_mtf', 'rectangle_mtf_2'];
+              } else if (/skyscraper/.test(obSlotName)) {
+                  positionsPref = ['atf_sky_left'];
+              } else if (/sticky_footer/.test(obSlotName)) {
+                  positionsPref = ['sticky_footer'];
+              } else if (/thema_160/.test(obSlotName)) {
+                  positionsPref = ['rectangle_atf', 'rectangle_atf_2'];
+              }
+              if (positionsPref.length) {
+                  wbadsAddPosition(obSlotDivId, obSlotDivId, positionsPref);
+              } else {
+                  console.warn('error on ', obSlotDivId, obSlotName);
+              }
+          }
+
+          // si ! sticky_footer alors ajouter slidein
+          if (!wbadsElementsMapping.hasOwnProperty('sticky_footer')) {
+            wbadsPagePositions.push('slidein');
+            wbadsElementsMapping.slidein = 'slidein';
+          }
+
+          var wbads = wbads || {};
+          wbads.config = {
+              debug: false,
+              page: dataLayer[0].adUnitID,
+              targeting: wbadsTargeting,
+              elementsMapping: wbadsElementsMapping,
+              cappingByPosition: [{
+                  position: "interstitial",
+                  ttl: 86400,
+                  limit: 10,
+              }, {
+                  position: "slidein",
+                  ttl: 86400,
+                  limit: 10,
+              }]
+          };
+          if (wbadsPagePositions !== null) {
+              wbads.config.pagePositions = wbadsPagePositions;
+          }
+          var s = document.createElement("script");
+          s.async = true;
+          var wbadsSite = wbads.config.page.match(/^\/[0-9]+\/([a-zA-Z]+)/)[1];
+          s.src = "https://cdn.goutee.top/wbads/adsconfig?network=6783&site=" + wbadsSite;
+          s.setAttribute('importance', 'high');
+          s.onload = function(){
+            function setupSlideIn() {
+                var divSlidein = document.createElement("div");
+                divSlidein.id = 'slidein';
+                document.body.appendChild(divSlidein);
+            }
+
+            if( document.readyState !== 'loading' ) {
+                setupSlideIn();
+            } else {
+                document.addEventListener('DOMContentLoaded', setupSlideIn, false);
+            }
+          };
+          var g = document.getElementsByTagName("head")[0];
+          g.parentNode.insertBefore(s, g);
+      }
+  </script>
+<script type="text/javascript" src="https://j.adlooxtracking.com/ads/js/tfav_adl_262.js#platform=130&scriptname=adl_262&tagid=769&typejs=tvaf&fwtype=2&creatype=2&targetelt=&custom2area=0&custom2sec=0&id11=overblog"></script>
+<style>
+    [class^=app_gdpr] a {
+        color: white !important;
+    }
+    [class^=app_gdpr] a[href], [class^=app_gdpr] [class^=banner_message] a:not([class^=banner_continue]) {
+        text-decoration: underline;
+    }
+    [class^=app_gdpr] a svg {
+        fill: white !important;
+    }
+    [class^=app_gdpr] [class^=banner_banner], [class^=app_gdpr] [class^=popup_popup]{
+        z-index: 2147483647 !important;
+    }
+</style>
+  <script>
+    if (window.parent !== window) {
+      if (typeof btoa !== "function") {
+        window.btoa = function (input) {
+          var str = String(input);
+          for (var block, charCode, idx = 0, map = chars, output = ''; str.charAt(idx | 0) || (map = '=', idx % 1); output += map.charAt(63 & block >> 8 - idx % 1 * 8)) {
+            charCode = str.charCodeAt(idx += 3/4)
+            block = block << 8 | charCode
+          }
+          return output
+        }
+      }
+      var re = /^(?:https?:)?(?:\/\/)?([^\/\?]+)/i
+      var res = re.exec(document.referrer)
+      var domain = res[1]
+      var forbidden = ["aGVsbG8ubGFuZA==","Y3Vpc2luZS5sYW5k","cmVjZXR0ZS5sYW5k","cmVjZXR0ZXMubGFuZA==",]
+      if (forbidden.indexOf(btoa(domain)) > -1) {
+        document.location = document.location.origin + "/system/noframed"
+      }
+    }
+  </script>
+<link rel="stylesheet" href="https://assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/css/ob-style.css?v1.4.8.0" />
+        <!-- Basic theme id 76 [Elegant press] - last modified : 2020-09-15T17:17:03+02:00 -->
+        <!-- shortcut:[Meta] -->
+        <!-- title -->
+                
+
+                    
+
+        <!-- Title -->
+        <title>Wikistrike - Rien ni personne n'est sup&eacute;rieur &agrave; la v&eacute;rit&eacute;</title>
+        <!-- metas description, keyword, robots -->
+        <!-- Metas -->
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="wikistrike.com" />
+        <meta property="og:site_name" content="Wikistrike" />
+        <meta property="og:title" content="Wikistrike" />
+        <meta name="twitter:title" content="Wikistrike" />
+        <meta name="description" content="Rien&#x20;ni&#x20;personne&#x20;n&#x27;est&#x20;sup&amp;eacute&#x3B;rieur&#x20;&amp;agrave&#x3B;&#x20;la&#x20;v&amp;eacute&#x3B;rit&amp;eacute&#x3B;" />
+        <meta property="og:description" content="Rien&#x20;ni&#x20;personne&#x20;n&#x27;est&#x20;sup&amp;eacute&#x3B;rieur&#x20;&amp;agrave&#x3B;&#x20;la&#x20;v&amp;eacute&#x3B;rit&amp;eacute&#x3B;" />
+        <meta name="twitter:description" content="Rien&#x20;ni&#x20;personne&#x20;n&#x27;est&#x20;sup&amp;eacute&#x3B;rieur&#x20;&amp;agrave&#x3B;&#x20;la&#x20;v&amp;eacute&#x3B;rit&amp;eacute&#x3B;" />
+        <meta property="og:locale" content="fr_FR" />
+
+        <meta property="og:image" content="http://img.over-blog-kiwi.com/1/04/43/04/20170125/ob_b3a868_ws.PNG" />
+        <meta name="twitter:image:src" content="http://img.over-blog-kiwi.com/1/04/43/04/20170125/ob_b3a868_ws.PNG" />
+        <meta property="og:type" content="blog" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@overblog" />
+        <meta name="twitter:creator" content="@WikiStrikeW" />
+        <meta property="fb:app_id" content="284865384904712" />
+
+    
+                
+
+        <!-- Robots -->
+        <meta name="robots" content="index,follow" />
+
+        <!-- RSS -->
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss" />
+
+
+<!-- Analytics -->
+<meta name="google-site-verification" content="HwSbd2xNO1qMIl1GlpmbtNO9at2jT6_5Ac1NKs0J3E8" />
+        <!-- shortcut:[Includes] -->
+        <!-- favicon -->
+        <!-- Metas -->
+        <link rel="icon" type="image/png" href="http://img.over-blog-kiwi.com/1/04/43/04/20170125/ob_b3a868_ws.PNG" />
+
+        <!-- Custom vars -->
+        
+        <meta name="fontlist:font_title:label.titlesFont" items="Abril Fatface, Amaranth, Arial, Arvo, Bevan, Georgia, Helvetica, Maven Pro, Patrick Hand SC, Radley, Righteous, Roboto Slab, Trebuchet MS" default="Bevan" group="graphical" />
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+        
+        
+
+        <!-- jQuery (loaded by template script) -->
+        <script src="https://assets.over-blog.com/t/elegant_press/scripts/elegant-press.js" type="text/javascript"></script>
+
+        <!-- NivoSlider -->
+        <link rel="stylesheet" href="https://assets.over-blog.com/t/catalog/jquery/nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://assets.over-blog.com/t/catalog/jquery/nivo-slider/3.2/themes/default/default.css" type="text/css" />
+
+        <!-- Fancybox -->
+        <link rel="stylesheet" type="text/css" href="https://assets.over-blog.com/t/catalog/jquery/fancybox/2.5/source/jquery.fancybox.css" media="screen" />
+
+        <!-- Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Cagliostro:400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Fonts -->
+                                <link href='https://fonts.googleapis.com/css?family=Bevan:400,700' rel='stylesheet' type='text/css'>
+        
+
+
+        <!-- Template resources -->
+        <style type="text/css">
+            /*
+            Template Name:  Elegant Press
+            Theme URI:  //www.priteshgupta.com/templates/elegant-press
+            File:  Layout CSS
+            Description:  HTML5 and CSS3 Free Website Theme
+            Author:  Pritesh Gupta
+            Author URI:  //www.priteshgupta.com/
+            Version:  1.2.0
+            License:  New BSD License
+            License URI:  license.txt
+            */
+
+            /* Distributed by //freehtml5templates.com */
+
+            /**
+             * Elegant Press Template Version 1.2.0
+             * By PriteshGupta.com
+             * Download for free at //www.priteshgupta.com/templates/elegant-press
+
+                Released under New BSD License
+                //www.opensource.org/licenses/bsd-license.php
+
+                Copyright (c) 2011, PriteshGupta.com
+                All rights reserved.
+
+                Redistribution and use in source and binary forms, with or without modification,
+                are permitted provided that the following conditions are met:
+
+                    * Redistributions of source code must retain the above copyright notice,
+                      this list of conditions and the following disclaimer.
+
+                    * Redistributions in binary form must reproduce the above copyright notice,
+                      this list of conditions and the following disclaimer in the documentation
+                      and/or other materials provided with the distribution.
+
+                    * Neither the name of PriteshGupta.com nor the names of its
+                      contributors may be used to endorse or promote products derived from this
+                      software without specific prior written permission.
+
+                THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+                ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+                WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+                DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+                ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+                (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+                LOSS OF USE, DATA, OR PROFITS;  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+                ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+                (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+                SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+            */
+
+            /*----- Reset -----*/
+            body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,textarea,blockquote,th,td {
+                margin:0;
+                padding:0;
+            }
+            table {
+                border-collapse:collapse;
+                border-spacing:0;
+            }
+            fieldset,img {
+                border:0;
+            }
+            address,caption,cite,code,dfn,var {
+                font-style:normal;
+                font-weight:normal;
+            }
+            caption,th {
+                text-align:left;
+            }
+            h1,h2,h3,h4,h5,h6, .blog-title, .post-title, .widget-title {
+                font-size:100%;
+                font-weight:normal;
+            }
+            q:before,q:after {
+                content:'';
+            }
+            abbr,acronym {
+                border:0;
+            }
+            /*----- Import fonts -----*/
+            @font-face {
+                font-family:'Artifika';
+                font-style: normal;
+                font-weight: normal;
+                src: local('Artifika Medium'),
+                     local('Artifika-Medium'),
+                     url('https://assets.over-blog.com/t/elegant_press/styles/fonts/Artifika-Regular.woff') format('woff'),
+                     url('https://assets.over-blog.com/t/elegant_press/styles/fonts/Artifika-Regular.ttf') format('truetype');
+            }
+
+            /*****************************************
+            ***************** GLOBAL *****************
+            *****************************************/
+            body {
+                font-size:13px;
+                font-family:Tahoma,Georgia,"Times New Roman",Times,serif;
+                color:#333;
+                background:#eee url(//assets.over-blog.com/t/elegant_press/images/bg.png) repeat;
+                padding:0;
+            }
+
+            .container {
+                margin: 0 auto;
+                width: 960px;
+            }
+
+            .right {
+                text-align: right
+            }
+            .clear {
+                clear:both
+            }
+
+            a,
+            a:visited {
+                color: #A3443E;
+                outline: none;
+                text-decoration: none;
+            }
+            .imgl,
+            .imgr {
+                border:1px solid #C7C5C8;
+                padding:5px
+            }
+            .imgl {
+                float: left;
+                clear: left;
+                margin: 0 8px 8px 0
+            }
+            .imgr {
+                float: right;
+                clear: right;
+                margin: 0 0 8px 8px
+            }
+            h1, .blog-title,
+            h2, .post-title,
+            h3, .widget-title,
+            h4,
+            h5,
+            h6 {
+                font-family: "Cagliostro", sans-serif;
+                font-weight:400;
+                line-height:normal;
+                margin:0 0 15px;
+                padding:0
+            }
+
+                            .header .blog-title, body .header .description, h2, .post-title{
+                                            font-family: Georgia;
+                                    }
+            
+            h1, .blog-title {
+                font-size: 32px;
+            }
+            h2, .post-title {
+                font-size: 28px;
+            }
+
+            h3, .widget-title {
+                font-size: 22px;
+            }
+            h4 {
+                font-size: 18px;
+            }
+            h5 {
+                font-size: 16px;
+            }
+            h6 {
+                font-size: 12px;
+            }
+            .visuallyhidden,
+            .ob-form-subscription label {
+              position: absolute;
+              overflow: hidden;
+              clip: rect(0 0 0 0);
+              height: 1px; width: 1px;
+              margin: -1px; padding: 0; border: 0;
+            }
+
+            /*****************************************
+            ***************** HEADER *****************
+            *****************************************/
+            .header {
+                padding: 20px 0 30px;
+            }
+
+            /**** blog title ***/
+            .blog-title {
+                font-family: "Bevan", cursive;
+                font-size: 55px;
+                line-height: 70px;
+                max-width: 960px;
+                text-align: center;
+                text-shadow: 0 3px 3px #555;
+                text-transform: uppercase
+            }
+            .blog-title a,
+            .blog-title a:visited {
+                color: #292929;
+            }
+            /**** blog description ****/
+            .header .description {
+                font-family: "Cagliostro", sans-serif;
+                font-size: 25px;
+                letter-spacing: 2px;
+                max-width: 960px;
+                text-align: center;
+            }
+            .header .img{
+                margin-bottom:5px;
+                text-align:center;
+            }
+            .header .img a {
+                background:#fff url(//assets.over-blog.com/t/elegant_press/images/image-frames-picto.png?0) no-repeat left top;
+                display: inline-block;
+                padding:7px 7px 4px;
+                position: relative;
+            }
+            .header .img a:after,
+            .header .img a:before {
+                content: " ";
+                height: 100px;
+                position: absolute;
+                width: 50%;
+                z-index: -10;
+            }
+            .header .img a:before {
+                box-shadow: 7px 6px 15px #333;
+                left: 5px;
+                top: 12px;
+                -webkit-transform: rotate(-5deg);
+                -moz-transform: rotate(-5deg);
+                -ms-transform: rotate(-5deg);
+                transform: rotate(-5deg);
+            }
+            .header .img a:after {
+                box-shadow: -7px 6px 15px #333;
+                right: 5px;
+                top: 12px;
+                -webkit-transform: rotate(5deg);
+                -moz-transform: rotate(5deg);
+                -ms-transform: rotate(5deg);
+                transform: rotate(5deg);
+            }
+            /**** headline + search form ****/
+            .headline {
+                border-bottom: 1px solid #666;
+                padding: 15px 0
+            }
+            .headline p {
+                font-family: "Cagliostro", sans-serif;
+                font-size: 20px;
+                letter-spacing: 2px;
+                padding-top: 5px;
+            }
+            .headline input {
+                display:block;
+                float:left;
+                color: #565656;
+                border:1px solid #C3C3C3;
+                font-size:12px;
+                margin:0 5px 0 0;
+                padding:5px
+            }
+            .headline input[type="text"] {
+                background-color: #EBEBEB;
+            }
+            .headline input:focus {
+                background-color:#FFF;
+            }
+            .headline input #go {
+                text-transform:uppercase;
+                color:#FFF;
+                background-color:#565656;
+                cursor:pointer;
+                font-weight:700;
+                border-color:#C3C3C3;
+                margin:0;
+                padding:4px 10px
+            }
+
+            /***************************************
+            ***************** MENU *****************
+            ****************************************/
+            .menu {
+                border-top: 1px dashed #666;
+                border-bottom: 1px dashed #666;
+                font-size: 14px;
+                list-style:none;
+                text-align: center;
+                text-transform: uppercase;
+                z-index: 1000;
+            }
+            .nav ul {
+                position:absolute;
+                top:-999em;
+                width:10em
+            }
+            .nav ul li {
+                width:100%
+            }
+            .nav li:hover {
+                visibility:inherit
+            }
+            .nav li {
+                position:relative;
+                display:inline-block;
+                zoom:1;
+                *display:inline;
+            }
+            .nav a {
+                display:block;
+                position:relative;
+                color:#333!important;
+                text-decoration:none;
+                padding:.75em 1em
+            }
+            .nav li:hover ul,.nav li.sfHover ul {
+                left:0;
+                top:2.5em;
+                z-index:99
+            }
+            .nav a,.nav a:visited,.nav li.active li a {
+                color:#333
+            }
+            .nav a.sf-with-ul {
+                padding-right:2.25em
+            }
+            .nav li ul a.sf-with-ul {
+                padding-right:1em
+            }
+            .sf-sub-indicator {
+                position:absolute;
+                display:block;
+                right:.75em;
+                top:1.05em;
+                width:10px;
+                height:10px;
+                text-indent:-999em;
+                overflow:hidden;
+                background:url(//assets.over-blog.com/t/elegant_press/images/nav_arrows.png) no-repeat -10px -100px
+            }
+            a>.sf-sub-indicator {
+                top: .8em;
+                background-position:0 -100px
+            }
+            a:focus > .sf-sub-indicator,a:hover>.sf-sub-indicator,a:active>.sf-sub-indicator,li:hover>a>.sf-sub-indicator,li.sfHover>a>.sf-sub-indicator {
+                background-position:-10px -100px
+            }
+            .nav ul a > .sf-sub-indicator {
+                background-position:0 0
+            }
+
+            /********************************************
+            ***************** SLIDESHOW *****************
+            ********************************************/
+            .slideshow {
+                border-top: 1px solid #666;
+                margin-bottom: 30px;
+                padding-top: 30px;
+                position: relative;
+            }
+            #mySlides{
+                color: #FFF;
+                height: 350px;
+                overflow: hidden;
+            }
+            .m-slides+.m-slides span{
+                display: none;
+            }
+            .jFlowSlideContainer a {
+                color:#F90;
+                text-decoration:none
+            }
+            .jFlowSlideContainer a:hover {
+                text-decoration:none
+            }
+            .jFlowSlideContainer a:focus {
+                position:relative;
+                top:1px
+            }
+            .jFlowNext div {
+                background:url(//assets.over-blog.com/t/elegant_press/images/arrows.png) no-repeat scroll 0 -35px transparent;
+                height:130px;
+                position:absolute;
+                top:140px;
+                right:-50px;
+                width:50px;
+                cursor:pointer
+            }
+            .jFlowPrev div {
+                background:url(//assets.over-blog.com/t/elegant_press/images/arrows.png) no-repeat scroll -84px -35px transparent;
+                height:130px;
+                position:absolute;
+                top:140px;
+                left:-50px;
+                width:50px;
+                cursor:pointer
+            }
+            .jFlowPrev div:hover {
+                background-position:-84px -235px
+            }
+            .jFlowNext div:hover {
+                background-position:0 -235px
+            }
+
+            .m-slides span {
+                background:#333;
+                background:rgba(0,0,0,0.5);
+                bottom: 20px;
+                display: block;
+                max-width: 420px;
+                padding: 10px;
+                position:absolute;
+                right:20px;
+            }
+            .m-slides a {
+                display: block;
+            }
+            .m-slides .slideheading {
+                color: white;
+                display: block;
+                font-family: "Cagliostro", Georgia, serif;
+                font-weight: 100;
+                font-size: 25px;
+                line-height: normal;
+                max-width: 100%;
+            }
+            .m-slides .readmore {
+                background:#454545;
+                -webkit-border-radius: 10px;
+                   -moz-border-radius: 10px;
+                    -ms-border-radius: 10px;
+                     -o-border-radius: 10px;
+                        border-radius: 10px;
+                color:#fff !important;
+                float:right;
+                font-size:13px;
+                margin-top: 20px;
+                padding:10px;
+                text-align:center;
+                text-decoration:none;
+            }
+            .m-slides .readmore:hover {
+                background:#272727;
+            }
+
+            /****************************************
+            ***************** ABOUT *****************
+            *****************************************/
+            .callout {
+                background: #f2f2f2;
+                margin: 20px 0 40px;
+            }
+            .calloutoverlay {
+                height: 10px;
+                background: url(//assets.over-blog.com/t/elegant_press/images/hash-overlay.png) repeat-x center left;
+                left:0;
+                position: absolute;
+                top: -5px;
+                width: 100%;
+            }
+            .calloutoverlaybottom {
+                height:77px;
+                background: url(//assets.over-blog.com/t/elegant_press/images/hash-overlay-bottom.png) repeat-x top left;
+                position:absolute;
+                bottom:-41px;
+                left:0;
+                width:100%;
+            }
+            .calloutcontainer {
+                position:relative;
+                padding:20px 0;
+            }
+            .about .more {
+                float: right;
+            }
+            a.read_more {
+                width:200px;
+                text-align:center;
+                float:left;
+                font-size:13px;
+                color:#fff;
+                text-decoration:none;
+                margin-top:18px;
+                background:#454545 url(//assets.over-blog.com/t/elegant_press/images/arrow_01.png) no-repeat right 7px;
+                margin-left:15px;
+                padding:5px 30px 5px 10px;
+                -webkit-border-radius: 10px;
+                   -moz-border-radius: 10px;
+                    -ms-border-radius: 10px;
+                     -o-border-radius: 10px;
+                        border-radius: 10px;
+            }
+            a.read_more:hover {
+                background-color:#272727;
+                -webkit-transition: all 1s ease-out;
+                   -moz-transition: all 1s ease-out;
+                    -ms-transition: all 1s ease-out;
+                     -o-transition: all 1s ease-out;
+                        transition: all 1s ease-out;
+            }
+
+            .box:before {
+                border-top: 1px solid #666;
+                content: '';
+                left: 0;
+                position: absolute;
+                top: -31px;
+                width: 960px;
+            }
+            .box {
+                background-color:#FFF;
+                border:1px solid #666;
+                -webkit-border-radius:5px;
+                   -moz-border-radius:5px;
+                    -ms-border-radius:5px;
+                     -o-border-radius:5px;
+                        border-radius:5px;
+                -webkit-box-shadow:5px 5px 5px #ccc;
+                   -moz-box-shadow:5px 5px 5px #ccc;
+                    -ms-box-shadow:5px 5px 5px #ccc;
+                     -o-box-shadow:5px 5px 5px #ccc;
+                        box-shadow:5px 5px 5px #ccc;
+                margin-top: 30px;
+                padding: 19px;
+                position: relative;
+            }
+            .content {
+                display: block;
+                float: left;
+                width: 600px
+            }
+
+            /*----- Sidebar -----*/
+            .sidebar {
+                display:block;
+                float:right;
+                width:300px
+            }
+            .sidebar .widget-title {
+                font-size: 22px;
+            }
+
+            .sidebar .subnav {
+                display: block;
+                background-color: #F9F9F9;
+                margin-bottom: 30px;
+                padding: 25px;
+            }
+            .sidebar .subnav li {
+                margin: 0 0 3px;
+                padding: 0;
+            }
+            .sidebar .subnav a {
+                display: block;
+                color: black;
+                background: url(//assets.over-blog.com/t/elegant_press/images/red_file.gif) no-repeat 10px center #F9F9F9;
+                text-decoration: none;
+                border-bottom: 1px dotted #666;
+                margin: 0;
+                padding: 5px 10px 5px 20px;
+            }
+            .sidebar .subnav a:hover {
+                color: #A3443E;
+                background-color: #F9F9F9;
+            }
+            .sidebar .holder,
+            .sidebar #featured {
+                display: block;
+                width: 270px;
+                margin-bottom:  20px
+            }
+            .sidebar div.imgholder {
+                border: 1px solid #666;
+                display: block;
+                margin: 0 0 10px;
+                padding: 4px;
+                width: 260px;
+            }
+            .sidebar .holder p.readmore {
+                display: block;
+                width: 100%;
+                font-weight: 700;
+                text-align: right;
+                line-height: normal
+            }
+            .sidebar #featured li {
+                display:block;
+                width:220px;
+                margin:0;
+                padding:20px 25px
+            }
+            .sidebar #featured li p.imgholder {
+                display:block;
+                width:210px;
+                height:90px;
+                border:1px solid #CCC;
+                margin:20px 0 15px;
+                padding:4px
+            }
+            .sidebar #featured li h2 {
+                font-weight:400;
+                font-family: 'Artifika',Georgia,Times New Roman,Times,serif;
+                line-height:normal;
+                border-bottom:1px dotted #666;
+                margin:0;
+                padding:0 0 8px
+            }
+            .sidebar #featured p.readmore {
+                display:block;
+                width:100%;
+                margin-top:15px;
+                font-weight:700;
+                text-align:right;
+                line-height:normal
+            }
+            .sidebar .latestnews {
+                display:block;
+                width:100%;
+                list-style:none;
+                margin:0;
+                padding:0
+            }
+            .sidebar .latestnews li {
+                display:block;
+                width:100%;
+                height:99px;
+                border-bottom:1px dotted #C7C5C8;
+                overflow:hidden;
+                margin:0 0 11px;
+                padding:0 0 21px
+            }
+            .sidebar .latestnews img {
+                float:left;
+                border:1px solid #C7C5C8;
+                clear:left;
+                margin:0 10px 0 0;
+                padding:4px
+            }
+
+            .grid-container {
+                background: url(//assets.over-blog.com/t/elegant_press/images/textured-light-bg.gif) repeat #f2f2f2;
+                width: 100%
+            }
+            .grid h1,
+            .grid h2,
+            .grid h3,
+            .grid p,
+            .grid ul,
+            .grid a {
+                font-weight: 400;
+                list-style: none;
+                line-height: normal;
+                margin:0;
+                padding:0
+            }
+            .grid h1,
+            .grid h2,
+            .footbox .widget-title,
+            .latestgallery .widget-title {
+                border-bottom: 1px dotted #585858 !important;
+                font-size: 16px !important;
+                font-weight: 400 !important;
+                margin-bottom: 10px !important;
+                padding-bottom: 6px !important;
+                text-align: center;
+
+            }
+            .latestgallery {
+                display:block;
+                float:right;
+                width:420px;
+                margin:0;
+                padding:0
+            }
+            .latestgallery .widget-title {
+                margin-left: 50px!important;
+                text-align: center
+            }
+            .latestgallery ul li {
+                -webkit-transition: opacity 300ms ease-out;
+                   -moz-transition: opacity 300ms ease-out;
+                    -ms-transition: opacity 300ms ease-out;
+                     -o-transition: opacity 300ms ease-out;
+                        transition: opacity 300ms ease-out;
+            }
+            .latestgallery ul:hover li {
+                -webkit-opacity: 0.7;
+                   -moz-opacity: 0.7;
+                    -ms-opacity: 0.7;
+                     -o-opacity: 0.7;
+                        opacity: 0.7;
+            }
+            .latestgallery ul:hover li:hover {
+                -webkit-opacity: 1;
+                   -moz-opacity: 1;
+                    -ms-opacity: 1;
+                     -o-opacity: 1;
+                        opacity: 1;
+            }
+            .latestgallery li {
+                float:right;
+                display:block;
+                background: url(//assets.over-blog.com/t/elegant_press/images/image-frames-thumb.png) top left no-repeat;
+                height: 110px;
+                width: 160px;
+                padding: 4px
+            }
+            .footbox {
+                display:block;
+                float: left;
+                margin: 0 0 0 50px;
+                padding: 0;
+                width: 220px;
+            }
+
+            .footbox li {
+                color: #333!important;
+                margin: 22px 0 0;
+            }
+            div.last,
+            .latestgallery li.last {
+                margin-right: 0;
+            }
+
+            .footbox .plustext {
+                color: #333;
+                font-family: 'Artifika',Georgia,Times New Roman,Times,serif;
+                font-size: 20px;
+                font-weight:2000;
+            }
+            #social a.s3d {
+                clear:both;
+                -webkit-border-radius: 3px;
+                   -moz-border-radius: 3px;
+                    -ms-border-radius: 3px;
+                     -o-border-radius: 3px;
+                        border-radius: 3px;
+                -webkit-box-shadow:0 4px 5px rgba(0,0,0,.3);
+                   -moz-box-shadow:0 4px 5px rgba(0,0,0,.3);
+                    -ms-box-shadow:0 4px 5px rgba(0,0,0,.3);
+                     -o-box-shadow:0 4px 5px rgba(0,0,0,.3);
+                        box-shadow:0 4px 5px rgba(0,0,0,.3);
+                display:inline-block !important;
+                font: 700 13px/36px 'Arial',Helvetica,Clean,sans-serif;
+                height: 26px;
+                margin: 0 0 10px;
+                padding: 0 10px 11px;
+                position: relative;
+                text-decoration: none;
+                text-align: center;
+                text-shadow: 0 1px 1px rgba(255,255,255,.35);
+                width: 200px;
+            }
+            .icons {
+                background: url('https://assets.over-blog.com/t/elegant_press/images/social.png') no-repeat;
+                bottom: 5px;
+                display:  block;
+                height: 26px;
+                position: absolute;
+                right: 10px;
+                width: 25px;
+            }
+
+            .icons.rss {background: url('https://assets.over-blog.com/t/elegant_press/images/rss.png') no-repeat;}
+
+            .icons.youtube {background: url('https://assets.over-blog.com/t/elegant_press/images/social_youtube.png') no-repeat 4px top;}
+
+            #social a.facebook .icons.facebook {
+                background-position:-50px 0;
+            }
+            #social a.twitter .icons.twitter {
+                background-position:-25px 0;
+            }
+            #social a.flickr .icons.flickr {
+                background-position:-125px 0;
+            }
+            #social a.facebook {
+                background:#4669AB;
+                background:-webkit-linear-gradient(#4669AB,#304886);
+                background:-moz-linear-gradient(#4669AB,#304886);
+                background:-o-linear-gradient(#4669AB,#304886);
+                background:-ms-linear-gradient(#4669AB,#304886);
+                background:linear-gradient(#4669AB,#304886);
+                border-top:1px solid #8EA4CD;
+                color: #151F35;
+                color: rgb(21,31,53);
+                text-shadow:0 1px 1px rgba(255,255,255,.35);
+            }
+            #social a.facebook:active {
+                background: #304886;
+                background: -webkit-linear-gradient(#304886, #4669AB);
+                background: -moz-linear-gradient(#304886, #4669AB);
+                background: -o-linear-gradient(#304886, #4669AB);
+                background: -ms-linear-gradient(#304886, #4669AB);
+                background: linear-gradient(#304886, #4669AB);
+            }
+            #social a.twitter {
+                background:#65ACC8;
+                background:-webkit-linear-gradient(#65ACC8,#4586AE);
+                background:-moz-linear-gradient(#65ACC8,#4586AE);
+                background:-o-linear-gradient(#65ACC8,#4586AE);
+                background:-ms-linear-gradient(#65ACC8,#4586AE);
+                background:linear-gradient(#65ACC8,#4586AE);
+                border-top:1px solid #A1CDDE;
+                color: #192D37;
+                color:rgba(25,45,55,.9);
+            }
+            #social a.twitter:active {
+                background: #4586AE;
+                background: -webkit-linear-gradient(#4586AE, #65ACC8);
+                background: -moz-linear-gradient(#4586AE, #65ACC8);
+                background: -o-linear-gradient(#4586AE, #65ACC8);
+                background: -ms-linear-gradient(#4586AE, #65ACC8);
+                background: linear-gradient(#4586AE, #65ACC8);
+            }
+            #social a.rss {
+                background: #ed8b00;
+                background: -webkit-linear-gradient(#ed8b00,#b76b00);
+                background: -moz-linear-gradient(#ed8b00,#b76b00);
+                background: -o-linear-gradient(#ed8b00,#b76b00);
+                background: -ms-linear-gradient(#ed8b00,#b76b00);
+                background: linear-gradient(#ed8b00,#b76b00);
+                border-top: 1px solid #ff9600;
+                color: #192D37;
+                color: rgba(25,45,55,.9);
+            }
+            #social a.rss:active {
+                background: #d87603;
+                background: -webkit-linear-gradient(#b76b00,#ed8b00);
+                background: -moz-linear-gradient(#b76b00,#ed8b00);
+                background: -o-linear-gradient(#b76b00,#ed8b00);
+                background: -ms-linear-gradient(#b76b00,#ed8b00);
+                background: linear-gradient(#b76b00,#ed8b00);
+            }
+            #social a.flickr {
+                background: #EA66AC;
+                background:-webkit-linear-gradient(#EA66AC,#DA3868);
+                background:-moz-linear-gradient(#EA66AC,#DA3868);
+                background:-o-linear-gradient(#EA66AC,#DA3868);
+                background:-ms-linear-gradient(#EA66AC,#DA3868);
+                background:linear-gradient(#EA66AC,#DA3868);
+                border-top:1px solid #F3A2CD;
+                color: #4A0420;
+                color: rgba(74,4,32,1);
+            }
+            #social a.flickr:active {
+                background: #DA3868;
+                background: -webkit-linear-gradient(#DA3868, #EA66AC);
+                background: -moz-linear-gradient(#DA3868, #EA66AC);
+                background: -o-linear-gradient(#DA3868, #EA66AC);
+                background: -ms-linear-gradient(#DA3868, #EA66AC);
+                background: linear-gradient(#DA3868, #EA66AC);
+            }
+            #social a.youtube {
+                background: #BBB;
+                background:-webkit-linear-gradient(#EAEAEA,#BBB);
+                background:-moz-linear-gradient(#EAEAEA,#BBB);
+                background:-o-linear-gradient(#EAEAEA,#BBB);
+                background:-ms-linear-gradient(#EAEAEA,#BBB);
+                background:linear-gradient(#EAEAEA,#BBB);
+                border-top:1px solid #CCC;
+                color: #444;
+            }
+            #social a.youtube:active {
+                background: #EAEAEA;
+                background:-webkit-linear-gradient(#BBB,#EAEAEA);
+                background:-moz-linear-gradient(#BBB,#EAEAEA);
+                background:-o-linear-gradient(#BBB,#EAEAEA);
+                background:-ms-linear-gradient(#BBB,#EAEAEA);
+                background:linear-gradient(#BBB,#EAEAEA);
+            }
+
+            #list1 li,
+            #list2 li,
+            #list3 li {
+                padding-bottom:6px;
+                margin-bottom:2px
+            }
+            #list1,
+            #list2,
+            #list3 {
+                text-indent:5px;
+                list-style-position:outside;
+                list-style-image:url(//assets.over-blog.com/t/elegant_press/images/list-checkmark.png);
+                list-style-type:square;
+                margin:2px;
+                padding:6px;
+            }
+
+            .search {
+                float: right;
+            }
+            .ob-terms {
+                display: block;
+                margin-top: 80px;
+                text-align: center;
+            }
+            .ob-form .ob-label {
+                width: 12%;
+            }
+            .ob-captcha .ob-input-text{
+                display: block;
+                margin-left: 12%;
+            }
+            .container input[type=text],
+            .container input[type=email],
+            .container input[type=url],
+            .container textarea {
+                background: rgba(206,205,205,0.6);
+                border: 2px solid #666;
+                line-height: 2em;
+                -webkit-box-shadow: inset -1px 1px 1px rgba(255,255,255,0.65);
+                   -moz-box-shadow: inset -1px 1px 1px rgba(255,255,255,0.65);
+                    -ms-box-shadow: inset -1px 1px 1px rgba(255,255,255,0.65);
+                     -o-box-shadow: inset -1px 1px 1px rgba(255,255,255,0.65);
+                        box-shadow: inset -1px 1px 1px rgba(255,255,255,0.65);
+                -webkit-border-radius:8px;
+                -moz-border-radius:8px;
+                border-radius:8px;
+                margin-bottom:10px;
+                width:600px;
+                padding:6px 5px;
+            }
+            .container textarea {
+                height: 250px;
+                overflow: auto;
+            }
+            .container input[type=text],
+            .container input[type=email],
+            .container input[type=url] {
+                height: 23px;
+                width: 300px;
+            }
+            .container input[type=submit],
+            .container input[type=reset] {
+                background: #333;
+                background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#333),color-stop(100%,#333333));
+                background: -webkit-linear-gradient(top,#333 0%,#333333 100%);
+                background:    -moz-linear-gradient(top,#333 0%,#333333 100%);
+                background:     -ms-linear-gradient(top,#333 0%,#333333 100%);
+                background:      -o-linear-gradient(top,#333 0%,#333333 100%);
+                background:         linear-gradient(top,#333 0%,#333333 100%);
+                color: #fff;
+                border-radius: 10px 0 10px 0;
+                font-weight: 700;
+                text-shadow: 0 0 1px #aaa;
+                -webkit-transition: all 100ms linear;
+                   -moz-transition: all 100ms linear;
+                    -ms-transition: all 100ms linear;
+                     -o-transition: all 100ms linear;
+                        transition: all 100ms linear;
+                font-family: 'Verdana',Geneva,sans-serif;
+                border-color:transparent;
+                padding: 10px 20px
+            }
+            .ob-input-submit,
+            .ob-error {
+                margin-left: 12%;
+            }
+            #sub-headline input[type=submit] {
+                height: 35px;
+                padding: 5px 10px;
+            }
+            .container input[type=submit]:hover,
+            .container input[type=reset]:hover {
+                border-radius: 0 10px 0 10px;
+                color: #fff;
+                opacity: 1;
+            }
+            a.more {
+                background: url(//assets.over-blog.com/t/elegant_press/images/futured_button.png) no-repeat left top;
+                color: #A2A2A2;
+                float: left;
+                font-family: 'Artifika',Verdana,Geneva,sans-serif;
+                font-size: 15px;
+                height: 45px;
+                margin-top: 12px;
+                padding: 18px;
+                text-decoration: none;
+                text-transform: uppercase;
+                width: 140px;
+            }
+            a.more:hover {
+                color:#ddd;
+            }
+
+            .bold,
+            #comments .commentlist .author .name {
+                font-weight:700
+            }
+            .center,.block h2 {
+                text-align:center
+            }
+            #breadcrumb,
+            .container1 {
+                position: relative;
+                display: block;
+                width: 960px;
+                margin: 0 auto;
+            }
+            .sidebar #featured ul,
+            .sidebar #featured h2,
+            .sidebar #featured p {
+                list-style:none;
+                margin:0;
+                padding:0
+            }
+            .sidebar .latestnews p {
+                display:inline
+            }
+
+            .sidebar .latestnews li.last,
+            .grid .footbox li.last {
+                margin-bottom:0
+            }
+            /* Sidebar > Subscribe */
+            .sidebar .ob-form-subscription .ob-form-field{
+                display: inline-block;
+            }
+            .sidebar .ob-form-subscription .ob-form-field input{
+                margin: 0;
+                width: 204px;
+            }
+            .sidebar .ob-form-subscription .ob-input-submit[type=submit]{
+                display: inline-block;
+                margin: 5px 0 0;
+                padding: 11px 9px;
+                vertical-align: top;
+            }
+
+            #home_featured21 .block {
+                display:inline;
+                float:left;
+                width:280px;
+                margin:0 30px 0 0;
+                padding:0
+            }
+            #home_featured21 .last {
+                width:275px;
+                margin-right:0
+            }
+            #home_featured21 img {
+                display:inline;
+                float:left
+            }
+            #home_featured21 strong {
+                float:left;
+                font-size:22px;
+                font-weight:400;
+                color:#4A4A4A;
+                background-color:#FFF;
+                margin:8px 0 0 10px;
+                padding:0
+            }
+            #home_featured21 h2 {
+                max-height: 35px;
+                overflow: hidden;
+            }
+
+            #home_featured21 p {
+                display:block;
+                clear:both;
+                line-height:1.6em;
+                margin:0;
+                padding:10px 0 0
+            }
+            #home_featured21 .spacer {
+                clear:both;
+                line-height:normal;
+                padding:8px 0
+            }
+            #home_featured2 {
+                                overflow: hidden;
+                padding: 30px 0 0;
+            }
+
+            #home_featured2 .imgholder {
+                display:block;
+                width: 290px;
+                background: url(//assets.over-blog.com/t/elegant_press/images/image-frames.png) top left no-repeat;
+                height: 160px!important;
+                margin: 0;
+                padding: 9px
+            }
+            #home_featured2 .imgholder img {
+                -webkit-opacity: 1;
+                  -moz-opacity: 1;
+                   -ms-opacity: 1;
+                    -o-opacity: 1;
+                       opacity: 1;
+               -webkit-transition: opacity 300ms ease-out;
+                  -moz-transition: opacity 300ms ease-out;
+                   -ms-transition: opacity 300ms ease-out;
+                    -o-transition: opacity 300ms ease-out;
+                       transition: opacity 300ms ease-out;
+            }
+            #home_featured2 .imgholder:hover img {
+                webkit-opacity: 0.8;
+                  -moz-opacity: 0.8;
+                   -ms-opacity: 0.8;
+                    -o-opacity: 0.8;
+                       opacity: 0.8;
+            }
+
+            #home_featured2 li {
+                display:block;
+                float:left;
+                width:295px;
+                margin: 0 12px 50px 12px;
+                padding: 0;
+            }
+            #home_featured2 li.clear {
+                float:none;
+                width: 0;
+                margin: 0;
+            }
+            #home_featured2 h2 a {
+                color: #000;
+                display: block;
+                font-size: 24px;
+                max-width: 270px;
+                padding: 0 10px;
+                text-align: left;
+                word-wrap: break-word;
+            }
+            #home_featured2 h3 a {
+                color: #333;
+            }
+            #home_featured2 p {
+                margin:0;
+                padding:0 10px;
+            }
+            #home_featured2 p strong {
+                display:block;
+                margin-bottom:10px;
+                font-size:22px;
+                font-weight:400;
+                color:#4A4A4A;
+                background-color:#E0E0E0
+            }
+
+            #container {
+                width:800px;
+                height: 350px;
+                position:relative;
+                border-top:5px solid #999;
+                border-bottom:5px solid #999;
+                margin:0 auto
+            }
+            #slide1 span,
+            #slide2 span,
+            #slide3 span {
+                background:url(//assets.over-blog.com/t/elegant_press/images/contentBg.png) repeat top left transparent;
+                position:absolute;
+                bottom:20px;
+                right:20px;
+                padding:10px
+            }
+            #slide1 .slideheading,
+            #slide2 .slideheading,
+            #slide3 .slideheading {
+                font-family: "ChunkFive Regular", Georgia, serif;
+                color: #FFF!important;
+                font-size: 35px;
+                letter-spacing:2px;
+                margin:0 0 10px
+            }
+            #slide1 p,
+            #slide2 p,
+            #slide3 p {
+                font-family: Artifika,Georgia,serif;
+                color:#FFF;
+                margin:0
+            }
+
+            .nav li:hover li ul,.nav li.sfHover li ul,ul.nav li li:hover li ul,ul.nav li li.sfHover li ul {
+                top:-999em
+            }
+            .nav li li:hover ul,ul.nav li li.sfHover ul,ul.nav li li li:hover ul,ul.nav li li li.sfHover ul {
+                left:10em;
+                top:0
+            }
+            .nav li.active a,.nav li:hover,.nav li.sfHover,.nav a:focus,.nav a:hover,.nav a:active {
+                background:#e0e0e0
+            }
+            .nav li li,.nav li li li {
+                background:#eee url(//assets.over-blog.com/t/elegant_press/images/bg.png) repeat
+            }
+            .nav li li{
+                word-wrap:break-word;
+            }
+            .nav ul .sf-sub-indicator,
+            .nav ul a:focus>.sf-sub-indicator,
+            .nav ul a:hover>.sf-sub-indicator,
+            .nav ul a:active>.sf-sub-indicator,
+            .nav ul li:hover>a>.sf-sub-indicator,.nav ul li.sfHover>a>.sf-sub-indicator {
+                background-position:-10px 0
+            }
+            .sidebar .subnav ul,
+            #home_featured2 ul,
+            #gallery ul {
+                list-style:none;
+                margin:0;
+                padding:0
+            }
+            #home_featured2 li.last,
+            #gallery li.last {
+                margin-right:0
+            }
+
+
+            /*----- UItoTop jQuery Plugin 1.1 | //www.mattvarone.com/web-design/uitotop-jquery-plugin/ ------ */
+            #toTop {
+                display:none;
+                text-decoration:none;
+                position:fixed;
+                bottom:10px;
+                right:10px;
+                overflow:hidden;
+                width:51px;
+                height:51px;
+                border:none;
+                text-indent:-999px;
+                background:url(//assets.over-blog.com/t/elegant_press/images/ui.totop.png) no-repeat left top;
+            }
+            .withsharebar #toTop {
+                bottom: 50px;
+            }
+            #toTopHover {
+                background:url(//assets.over-blog.com/t/elegant_press/images/ui.totop.png) no-repeat left -51px;
+                width:51px;
+                height:51px;
+                display:block;
+                overflow:hidden;
+                float:left;
+                opacity:0;
+                -moz-opacity:0;
+                filter:alpha(opacity=0)
+            }
+            #toTop:active,#toTop:focus {
+                outline: none
+            }
+
+            .ob-text h3,
+            .ob-text h4,
+            .ob-text h5 {margin: 15px 0 5px !important;}
+            .ob-text h3 {font-size: 18px; font-weight: normal !important;}
+            .ob-text h4 {font-size: 16px; font-weight: normal !important;}
+            .ob-text h5 {font-size: 14px; font-weight: bold !important;}
+
+            .ob-text ol,
+            .ob-text ul {
+                margin:0 0 0 25px;
+            }
+
+            .ob-text ol li:last-child,
+            .ob-text ul li:last-child {margin-bottom: 15px;}
+
+            .ob-text ol li,.ob-text ul li {
+                list-style:disc;
+                margin:3px 0;
+            }
+            .ob-text ol li {
+                list-style:decimal;
+            }
+            .bloc-comment {
+                margin-top: 30px;
+            }
+            .m-social-networks .google,
+            .m-social-networks .twitter,
+            .m-social-networks .facebook,
+            .m-social-networks .pinterest {
+                float: left;
+            }
+            .m-social-networks .facebook,
+            .m-social-networks .pinterest {
+                margin-right: 30px;
+            }
+            .m-social-networks .ob-share {
+                margin-top: -1px;
+            }
+            #archivelist ul {
+                margin: 3px 0 3px 18px;
+            }
+            #archivelist ul li {
+                margin:6px 0;
+            }
+            .grid .post h1 {
+                font-size:2em;
+                font-weight:bold;
+                text-align:left;
+            }
+            .grid .meta {
+                color:#666;
+                font-weight:bold;
+                margin: 5px 0;
+            }
+            .grid .entry {
+                margin: 40px 0 15px;
+                width: 600px;
+            }
+            .bio .title {
+                font-family: "Cagliostro", sans-serif;
+                font-size: 26px;
+                font-weight: 400;
+                line-height: normal;
+                margin: 0 0 15px;
+                padding: 0;
+            }
+            .m-bio {
+                max-width:480px;
+            }
+            .m-bio .ob-media-left {
+                margin:0 10px 10px 0;
+            }
+            .m-bio img {
+                background:#DCDADA;
+                border:1px solid #999;
+                margin-top:2px;
+                padding: 5px;
+            }
+
+            .ob-section img {
+                display:inline;
+            }
+            .ob-slideshow .ob-img {
+                width: 100%;
+            }
+            .container_12 {
+                margin:10px 0 14px 0;
+            }
+            .post-img-max {
+                max-height:125px;
+                max-width:314px;
+            }
+            #pagination {
+                display: block;
+            }
+            #pagination a,
+            #pagination a:visited {
+                color: #A2A2A2;
+                font-family: 'Artifika',Verdana,Geneva,sans-serif;
+                font-size: 15px!important;
+                height: 40px;
+                text-decoration: none;
+                text-transform: uppercase;
+                -webkit-transition: color 200ms;
+                   -moz-transition: color 200ms;
+                    -ms-transition: color 200ms;
+                     -o-transition: color 200ms;
+                        transition: color 200ms;
+            }
+            #pagination a:hover {
+                color: #FFF;
+            }
+            #pagination .prev {
+                background: url(//assets.over-blog.com/t/elegant_press/images/futured_button_left.png) no-repeat left top;
+                float: left;
+                padding: 19px 0 0 33px;
+                text-align: center;
+                width: 130px;
+            }
+            #pagination .return {
+                position:absolute;
+                left: 48%;
+            }
+            #pagination .next {
+                background: url(//assets.over-blog.com/t/elegant_press/images/futured_button.png) no-repeat left top;
+                float: right;
+                padding: 19px 47px 0 27px;
+                text-align: left;
+                width: 83px;
+            }
+
+            .ob-pagination{
+                clear: both;
+                margin: 0 auto;
+                text-align: center;
+            }
+            .ob-page{
+                display: inline-block;
+                font-family: 'Artifika',Verdana,Geneva,sans-serif;
+                font-size: 15px;
+                padding: 5px 10px;
+            }
+            .ob-page-link{
+                background: rgb(75,75,75); /* Old browsers */
+                background: -moz-linear-gradient(top, rgba(75,75,75,1) 0%, rgba(60,60,60,1) 100%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(75,75,75,1)), color-stop(100%,rgba(60,60,60,1))); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top, rgba(75,75,75,1) 0%,rgba(60,60,60,1) 100%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top, rgba(75,75,75,1) 0%,rgba(60,60,60,1) 100%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(top, rgba(75,75,75,1) 0%,rgba(60,60,60,1) 100%); /* IE10+ */
+                background: linear-gradient(to bottom, rgba(75,75,75,1) 0%,rgba(60,60,60,1) 100%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b4b4b', endColorstr='#3c3c3c',GradientType=0 ); /* IE6-9 */
+                border-radius: 5px;
+                box-shadow: 0 2px 5px;
+            }
+            .ob-page-link,
+            .ob-page-link:visited{
+                color: #A2A2A2;
+            }
+            .ob-page-link:hover{
+                color: #fff;
+            }
+
+            .ob-repost {
+                border: 1px solid #DDD;
+                -webkit-border-radius: 5px;
+                   -moz-border-radius: 5px;
+                        border-radius: 5px;
+                font-family: "Cagliostro", sans-serif;
+                font-weight: bold;
+                padding: 0.5em 0.8em;
+                text-align: center;
+            }
+            .ob-repost .ob-link {
+                text-decoration: underline;
+            }
+            .entry {
+                margin-top: 25px;
+                padding-bottom:12px !important;
+            }
+            .ob-Outbrain, .ob-Related { margin: 0 0 20px; }
+            .entry,.m-slides span,
+            #home_featured21 .block {
+                word-wrap: break-word;
+            }
+            .ob-section {
+                width: 100%;
+            }
+            .ob-section .twitter-tweet-rendered {
+                margin-left: auto!important;
+                margin-right: auto!important;
+            }
+             .ob-section h2 {
+                border-bottom: 0;
+                font-size: 22px;
+                font-weight: bold;
+            }
+
+             .ob-section h2,
+             .ob-section h3,
+             .ob-section h4 {
+                margin:10px 0 15px;
+            }
+
+             .ob-section p {
+                margin-bottom: 15px;
+            }
+            .ob-section li p {
+                margin-bottom: 0;
+            }
+            .ob-section-text img {
+                max-width: 100%;
+            }
+
+            /* twitter box */
+            .ob-section .twitter-tweet-rendered,
+            .ob-section .twt-border {max-width: 100% !important;}
+
+            .ob-text pre {
+                background: #FCFCFC;
+                border: 1px dashed #CCC;
+                padding: 15px;
+                overflow: auto;
+                white-space: -webkit-pre-wrap;
+                white-space: -moz-pre-wrap;
+                white-space: -ms-pre-wrap;
+                white-space: -o-pre-wrap;
+                white-space: pre-wrap;
+                word-wrap: break-word;
+            }
+            .ob-link .ob-img {
+                padding-right: 12px;
+            }
+            /* section video */
+            .ob-section-video iframe,
+            .ob-section-video embed,
+            .ob-section-video object {
+                max-width: 100%;
+            }
+
+            .ob-section-video embed,
+            .ob-section-video object {
+                max-height: 346px;
+            }
+
+            .ob-section-video iframe {
+                border: 0;
+            }
+
+            /* Section HTML */
+            .ob-section-html iframe,
+            .ob-section-html object,
+            .ob-section-html embed {
+                max-width: 100%
+            }
+
+            .container input[type="submit"],
+            .container input[type="reset"] {
+                cursor: pointer;
+                text-transform: uppercase;
+            }
+            .container_12 .post {
+                float: left;
+                width: 600px;
+            }
+            .container_12 .post-sidebar {
+                float: right;
+                margin-left: 60px;
+                width: 300px;
+            }
+
+            .footer {
+                font-size: 12px;
+                margin: 30px auto;
+                overflow: hidden;
+            }
+            .footer .left {
+                float: left;
+            }
+            .footer .right {
+                float: right;
+            }
+            .footer .right a {
+                -webkit-transition: color 300ms ease-out;
+                   -moz-transition: color 300ms ease-out;
+                    -ms-transition: color 300ms ease-out;
+                     -o-transition: color 300ms ease-out;
+                        transition: color 300ms ease-out;
+            }
+            .footer .right a:hover {
+                color: #ED8B00;
+            }
+
+            /**************
+            ** ob-footer **
+            **************/
+            .ob-footer{
+                padding-bottom: 10px;
+            }
+
+            /********
+            ** Ads **
+            ********/
+            .ads-728x90{
+                background: url(//assets.over-blog.com/t/elegant_press/images/image-frames-banner.png) no-repeat left top;
+                clear: both;
+                margin: 20px auto 10px;
+                padding: 7px;
+                width: 728px;
+            }
+            .ads-728x90 > div{
+                background: white;
+                max-height: 90px;
+            }
+            #home_featured2 li.ads-728x90{
+                float: none;
+                margin: 0 auto 50px;
+                padding: 7px;
+                width: 728px;
+            }
+            .sidebar .subnav.ads{
+                padding: 0;
+            }
+            .content .ads-300x250{
+                float: left;
+            }
+            .ads-300{
+                text-align: center;
+                position: relative;
+                height: 1000px;
+            }
+            .ads-300 > * {
+                position: sticky;
+                top: 0;
+            }
+            .shareBarOpened .ads-300 > * {
+                top: 40px;
+            }
+
+            /*****************
+            ** Top articles **
+            *****************/
+            .ob-top-article{
+                margin-bottom: 20px;
+            }
+
+        </style>
+        <!--[if IE]>
+            <style>#header h1 a:hover{font-size: 75px; }</style>
+        <![endif]-->
+        <!--[if lt IE 9]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-5354236-47', {
+    cookieDomain: 'www.wikistrike.com',
+    cookieExpires: 31536000,
+    name: 'ob',
+    allowLinker: true
+  });
+
+  ga('ob.require', 'displayfeatures');
+  ga('ob.require', 'linkid', 'linkid.js');
+  ga('ob.set', 'anonymizeIp', true);
+  ga('ob.set', 'dimension1', '__ads_loaded__' in window ? '0' : '1');
+  ga('ob.set', 'dimension2', 'fr');
+  ga('ob.set', 'dimension3', 'BS');
+  ga('ob.set', 'dimension4', 'politics');
+  ga('ob.set', 'dimension5', '0');
+  ga('ob.set', 'dimension6', '1');
+  ga('ob.set', 'dimension7', '1');
+  ga('ob.set', 'dimension10', '1044304');
+  ga('ob.set', 'dimension11', '1');
+  ga('ob.set', 'dimension12', '2');
+  ga('ob.set', 'dimension13', '1');
+  ga('ob.set', 'dimension14', '__ads_loaded__' in window ? '1' : '0');
+  ga('ob.set', 'dimension15', '__ads_loaded__' in window ? '0' : '1');
+  ga('ob.set', 'dimension16', '1044304');
+  ga('ob.set', 'dimension17', "Wikistrike");
+    if(window.obuserid){
+    ga('ob.set', 'dimension21', '' + window.obuserid);
+  }
+  if (location) {
+    ga('ob.set', 'dimension22', '' + location.hostname);
+  }
+  ga('ob.send', 'pageview');
+</script>
+
+<script>
+  var obconnected = 0
+  var obconnectedblog = 0
+  var obtimestamp = 0
+  var obuserid = undefined
+
+  function isConnected(connected, connected_owner, timestamp, user_id) {
+    obconnected = connected
+    obconnectedblog = connected_owner
+    obtimestamp = timestamp
+    obuserid = user_id
+    if (obconnected) {
+      document.querySelector('html').classList.add('ob-connected')
+    }
+    if (obconnectedblog) {
+      document.querySelector('html').classList.add('ob-connected-blog')
+    }
+  }
+</script>
+<script src="//connect.over-blog.com/ping/1044304/isConnected"></script>
+<script src="https://assets.over-blog-kiwi.com/b/blog/build/main.d1b414d0.js"></script>
+<script src="https://assets.over-blog-kiwi.com/b/blog/bundles/overblogblogblog/js/h.js?v1.4.8.0"></script>
+
+  <script src="https://static1.webedia.fr/js/gs.js" async></script>
+
+    <script>
+    var _eStat_Whap_loaded = 0
+  </script>
+  <script src="https://w.estat.com/js/whap.js"></script>
+  <script>
+    if (_eStat_Whap_loaded) {
+      eStatWhap.serial("800000207013")
+      eStatWhap.send()
+    }
+  </script>
+</head>
+    <body>        <div id="fb-root"></div>
+        <div class="container">
+            <!-- shortcut:[Header content] -->
+                            <div class="ads ads-728x90">
+                    <div id="_6003113"></div>                </div>
+                        <header class="header">
+                                    <p class="img">
+                        <a href="/" class="avatar" title="Wikistrike">
+                            <img src="https://image.over-blog.com/r1IckRL6NETkzZy_YHfz6bEj3r4=/100x100/smart/filters:no_upscale()/image%2F1044304%2F20170125%2Fob_b3a868_ws.PNG" width="100" height="100" alt="Wikistrike" />
+                        </a>
+                    </p>
+                                                <h1 class="blog-title">
+                    <a href="http://www.wikistrike.com" title="Rien ni personne n'est sup&eacute;rieur &agrave; la v&eacute;rit&eacute;">Wikistrike</a>
+                </h1>
+                                <p class="description">
+                    <strong>Rien ni personne n'est sup&eacute;rieur &agrave; la v&eacute;rit&eacute;</strong>
+                </p>
+            </header>
+
+            
+            <!-- menu -->
+            <nav class="menu">
+                <ul class="nav">
+                    <!-- Index -->
+                    <li  class="active" >
+                        <a   href="http://www.wikistrike.com">Accueil</a>
+                    </li>
+
+                                            <!-- Tags -->
+                        <li>
+                            <a href="#">Catégories</a>
+                            <ul>
+                                                                    <li >
+                                        <a href="/tag/politique%20internationale/">Politique internationale</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/economie/">Economie</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/social%20-%20societe/">Social - Société</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/ecologie%20-%20conso%20-%20biodiversite%20-%20energie/">Ecologie - conso - biodiversité - énergie</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/sante%20-%20psychologie/">Santé - psychologie</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/politique%20interieure/">Politique intérieure</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/science%20-%20technologie%20-%20web%20-%20recherche/">Science - technologie - web - recherche</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/insolite%20-%20etrange%20et%20betise%20humaine/">Insolite - étrange et bêtise humaine</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/terre%20et%20climat/">Terre et climat</a>
+                                    </li>
+                                                                    <li >
+                                        <a href="/tag/astronomie%20-%20espace/">Astronomie - Espace</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                    
+                    <!-- Pages -->
+                                                                <li>
+                            <a href="http://www.wikistrike.com/mail/form">Newsletter</a>
+                        </li>
+                                        <li class="last">
+                        <a href="http://www.wikistrike.com/contact">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+
+                                                <!-- shortcut:[Slider] -->
+                    <div class="slideshow">
+                        <div id="mySlides">
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/ySpBQ3iWH39MU813RVdfnLMxFO4=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201004%2Fob_1226af_u167sidq.jpg" alt="Espagne préhistorique: Le mystère de la ville massacrée de La Hoya dévoilé par des archéologues" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Espagne préhistorique: Le mystère de la ville massacrée de La Hoya dévoilé par des archéologues</b>
+                                                                                Dans une récente étude publiée le 1er octobre dans la revue Antiquité, des archéologues britanniques et espagnols ont examiné les vestiges ostéologiques trouvés dans la ville de La Hoya, en péninsule ibérique, massacrée à l’Âge du fer. Une découverte...
+                                        <a href="http://www.wikistrike.com/2020/10/espagne-prehistorique-le-mystere-de-la-ville-massacree-de-la-hoya-devoile-par-des-archeologues.html" title="Espagne préhistorique: Le mystère de la ville massacrée de La Hoya dévoilé par des archéologues" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/vMsBTwLY1Z9fmJYNvEOF4DFk4EU=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201004%2Fob_e9a4a3_ejel6xexgauizc5.jpg" alt="¨La Mairie de Paris encore une fois touchée par un scandale sexuel" />
+                                                                        <span>
+                                                                                    <b class="slideheading">¨La Mairie de Paris encore une fois touchée par un scandale sexuel</b>
+                                                                                Une enquête a été ouverte après une plainte pour viol portée le 1er octobre contre un collaborateur d’une adjointe écologiste à Paris. La plaignante dit avoir été violée par le jeune homme au sein de la mairie de la capitale. Le suspect aurait été suspendu...
+                                        <a href="http://www.wikistrike.com/2020/10/la-mairie-de-paris-encore-une-fois-touchee-par-un-scandale-sexuel.html" title="¨La Mairie de Paris encore une fois touchée par un scandale sexuel" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/w4WaPI81oHZDDrNDuji3zhBX3G4=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_928008_sbziwimr.jpg" alt="Les signes vitaux de Trump étaient très inquiétants, les 48 heures qui viennent sont cruciales " />
+                                                                        <span>
+                                                                                    <b class="slideheading">Les signes vitaux de Trump étaient très inquiétants, les 48 heures qui viennent sont cruciales </b>
+                                                                                La transparence à l'américaine : si les médecins de Donald #Trump disent que tout va bien, les journalistes de #WalterReed ont reçu une déclaration d'une source proche de #DonaldTrump expliquant que ses signes vitaux étaient "très préoccupants". -----
+Donald...
+                                        <a href="http://www.wikistrike.com/2020/10/les-signes-vitaux-de-trump-etaient-tres-inquietants-les-48-heures-qui-viennent-sont-cruciales.html" title="Les signes vitaux de Trump étaient très inquiétants, les 48 heures qui viennent sont cruciales " class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/j3FYhh-iCUmn661H4tom0AeqNWQ=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_52cd4d_120770190-1181901342210831-34713393310.jpg" alt="Zara Rahim, ancienne porte-parole d’Hillary Clinton écrit vouloir la mort de Donald Trump" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Zara Rahim, ancienne porte-parole d’Hillary Clinton écrit vouloir la mort de Donald Trump</b>
+                                                                                #Zara #Rahim ancienne porte parole d'Hilary Clinton écrit vouloir la mort de Trump. Dans son tweet, relayé par de nombreux journalistes tant qu’il était visible, Zara Rahim aurait donc écrit : «C'est contre mon identité morale de tweeter cela depuis quatre...
+                                        <a href="http://www.wikistrike.com/2020/10/zara-rahim-ancienne-porte-parole-d-hillary-clinton-ecrit-vouloir-la-mort-de-donald-trump.html" title="Zara Rahim, ancienne porte-parole d’Hillary Clinton écrit vouloir la mort de Donald Trump" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/9W7DD-MR4qo25_AWYxNdDkuCO4c=/960x350/smart/filters:no_upscale()/https%3A%2F%2Fpublic.flourish.studio%2Fresources%2Fbosh.svg" alt="Covid : dans une tribune, près de 300 scientifiques dénoncent les mesures gouvernementales &quot;disproportionnées&quot;" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Covid : dans une tribune, près de 300 scientifiques dénoncent les mesures gouvernementales &quot;disproportionnées&quot;</b>
+                                                                                Dans une tribune publiée lundi sur le site de Médiapart, près de 300 scientifiques, médecins et universitaires critiquent les dernières restrictions décidées par le gouvernement contre le Covid et leurs effets "secondaires" dramatiques. Ils appellent...
+                                        <a href="http://www.wikistrike.com/2020/10/covid-dans-une-tribune-pres-de-300-scientifiques-denoncent-les-mesures-gouvernementales-disproportionnees.html" title="Covid : dans une tribune, près de 300 scientifiques dénoncent les mesures gouvernementales &quot;disproportionnées&quot;" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/XCzE_EbIscyICmCIzwrA6RXLfhQ=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20200919%2Fob_d5ff01_ob-b32021-ob-c09e85-ob-c26157-ob-ec031.jpg" alt="Campagne de dons: Pourquoi nous soutenir" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Campagne de dons: Pourquoi nous soutenir</b>
+                                                                                Soutenir WikiStrike, c'est: - Défendre la liberté d'information, une fois de plus mise en danger avec la nouvelle loi "médiaticide" nommée loi Avia, et adoptée en début de semaine. Les dons sont désormais quasi nos seuls revenus. - S'inscrire dans une...
+                                        <a href="http://www.wikistrike.com/2020/09/campagne-de-dons-pourquoi-nous-soutenir.html" title="Campagne de dons: Pourquoi nous soutenir" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/e79vXrdSmEqtJ8lcd_7PDJesMXw=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_35cd2a_1986-1-1000x543.jpeg" alt="Accidents vaccinaux, hold-up juridique, « 1986 » : comment Big Pharma a fait la loi" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Accidents vaccinaux, hold-up juridique, « 1986 » : comment Big Pharma a fait la loi</b>
+                                                                                En matière de vaccination, il existe des exceptions juridiques qu’aucune autre industrie ne peut obtenir. Et pourtant, sous couvert de politiques sanitaires d’urgence, les industriels ont, d’abord aux États-Unis, obtenu une exemption juridique qui leur...
+                                        <a href="http://www.wikistrike.com/2020/10/accidents-vaccinaux-hold-up-juridique-1986-comment-big-pharma-a-fait-la-loi.html" title="Accidents vaccinaux, hold-up juridique, « 1986 » : comment Big Pharma a fait la loi" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/nqp5LxhHhB3DeCc3VlWH2WxS8X0=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_fe6edb_une-neandertal-covid.jpeg" alt="Covid-19 : des gènes hérités de Néandertal favoriseraient les formes graves de la maladie" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Covid-19 : des gènes hérités de Néandertal favoriseraient les formes graves de la maladie</b>
+                                                                                Environ 16 % des Européens et la moitié des Sud-Asiatiques en seraient porteurs
+Une équipe internationale de chercheurs a récemment lié un fragment d’ADN néandertalien dont l’Homme moderne a hérité à une probabilité de complications plus élevée chez les...
+                                        <a href="http://www.wikistrike.com/2020/10/covid-19-des-genes-herites-de-neandertal-favoriseraient-les-formes-graves-de-la-maladie.html" title="Covid-19 : des gènes hérités de Néandertal favoriseraient les formes graves de la maladie" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/lYQi0fEGgYD9SWYG-bimfgS3yzI=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_cdadb3_ejwq4qpwoaixkv.jpg" alt="Donald Trump hospitalisé " />
+                                                                        <span>
+                                                                                    <b class="slideheading">Donald Trump hospitalisé </b>
+                                                                                Donald marche vers l'hélicoptère et poste une vidéo dans laquelle il dit: "Je pense que je vais très bien.
+pic.twitter.com/B4H105KVSs — Donald J. Trump (@realDonaldTrump) October 2, 2020
+Video du président #trump visiblement en bonne forme se rendant...
+                                        <a href="http://www.wikistrike.com/2020/10/le-president-des-etats-unis-donald-trump-avait-annonce-dans-la-journee-de-vendredi-avoir-ete-teste-positif-au-covid-19-tout-comme-so" title="Donald Trump hospitalisé " class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                            <div class="m-slides">
+                                                                            <img src="https://image.over-blog.com/QKKivbiY5jJJM6rWCJolgNYC2vc=/960x350/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_2c5131_trou-noir-terre-1-20-thumb.jpg" alt="Un étrange document de recherche affirme qu’il y a un trou noir au centre de la Terre" />
+                                                                        <span>
+                                                                                    <b class="slideheading">Un étrange document de recherche affirme qu’il y a un trou noir au centre de la Terre</b>
+                                                                                Un document de recherche scandaleusement étrange prétend, entre autres, qu’il y a un trou noir au centre de la Terre. “pot de miel” pour leurre destiné à attirer, voir : Honeypot . Et d’une manière ou d’une autre, il a été publié dans une véritable revue...
+                                        <a href="http://www.wikistrike.com/2020/10/un-etrange-document-de-recherche-affirme-qu-il-y-a-un-trou-noir-au-centre-de-la-terre.html" title="Un étrange document de recherche affirme qu’il y a un trou noir au centre de la Terre" class="readmore">Lire la suite</a>
+                                    </span>
+                                </div>
+                                                    </div>
+
+                        <section class="jFlowPrev">
+                            <div></div>
+                        </section>
+                        <section class="jFlowNext">
+                            <div></div>
+                        </section>
+
+                        <div id="myController">
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                            <span class="jFlowControl"></span>
+                                                    </div>
+                    </div>
+                                <div id="home_featured2">
+                                        <ul>
+                                                    <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Espagne préhistorique: Le mystère de la ville massacrée de La Hoya dévoilé par des archéologues&quot; " href="http://www.wikistrike.com/2020/10/espagne-prehistorique-le-mystere-de-la-ville-massacree-de-la-hoya-devoile-par-des-archeologues.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/e-wGgZUxHNQdiztBvFDGTddpvw4=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201004%2Fob_1226af_u167sidq.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Dans une récente étude publiée le 1er octobre dans la revue Antiquité, des archéologues britanniques et espagnols ont examiné les vestiges ostéologiques trouvés dans la ville de La Hoya, en péninsule ibérique, massacrée à l’Âge du fer. Une découverte..." href="http://www.wikistrike.com/2020/10/espagne-prehistorique-le-mystere-de-la-ville-massacree-de-la-hoya-devoile-par-des-archeologues.html">
+                                                                                    Espagne préhistorique: Le mystère de la ville massacrée de La Hoya dévoilé par des archéologues
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Dans une récente étude publiée le 1er octobre dans la revue Antiquité, des archéologues britanniques et espagnols ont examiné les vestiges ostéologiques trouvés dans la ville de La Hoya, en péninsule ibérique, massacrée à l’Âge du fer. Une découverte...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/espagne-prehistorique-le-mystere-de-la-ville-massacree-de-la-hoya-devoile-par-des-archeologues.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; ¨La Mairie de Paris encore une fois touchée par un scandale sexuel&quot; " href="http://www.wikistrike.com/2020/10/la-mairie-de-paris-encore-une-fois-touchee-par-un-scandale-sexuel.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/zhfYxvsN7u3ejsrXmllSe1tIqNw=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201004%2Fob_e9a4a3_ejel6xexgauizc5.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Une enquête a été ouverte après une plainte pour viol portée le 1er octobre contre un collaborateur d’une adjointe écologiste à Paris. La plaignante dit avoir été violée par le jeune homme au sein de la mairie de la capitale. Le suspect aurait été suspendu..." href="http://www.wikistrike.com/2020/10/la-mairie-de-paris-encore-une-fois-touchee-par-un-scandale-sexuel.html">
+                                                                                    ¨La Mairie de Paris encore une fois touchée par un scandale sexuel
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Une enquête a été ouverte après une plainte pour viol portée le 1er octobre contre un collaborateur d’une adjointe écologiste à Paris. La plaignante dit avoir été violée par le jeune homme au sein de la mairie de la capitale. Le suspect aurait été suspendu...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/la-mairie-de-paris-encore-une-fois-touchee-par-un-scandale-sexuel.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Les signes vitaux de Trump étaient très inquiétants, les 48 heures qui viennent sont cruciales &quot; " href="http://www.wikistrike.com/2020/10/les-signes-vitaux-de-trump-etaient-tres-inquietants-les-48-heures-qui-viennent-sont-cruciales.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/2UdyaRviscaKBrIakj8vVJD-Alo=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_928008_sbziwimr.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="La transparence à l'américaine : si les médecins de Donald #Trump disent que tout va bien, les journalistes de #WalterReed ont reçu une déclaration d'une source proche de #DonaldTrump expliquant que ses signes vitaux étaient "très préoccupants". -----
+Donald..." href="http://www.wikistrike.com/2020/10/les-signes-vitaux-de-trump-etaient-tres-inquietants-les-48-heures-qui-viennent-sont-cruciales.html">
+                                                                                    Les signes vitaux de Trump étaient très inquiétants, les 48 heures qui viennent sont cruciales 
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    La transparence à l'américaine : si les médecins de Donald #Trump disent que tout va bien, les journalistes de #WalterReed ont reçu une déclaration d'une source proche de #DonaldTrump expliquant que ses signes vitaux étaient "très préoccupants". -----
+Donald...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/les-signes-vitaux-de-trump-etaient-tres-inquietants-les-48-heures-qui-viennent-sont-cruciales.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                            <li class="clear"></li>
+                                                                                        <li class="ads ads-728x90">
+                                    <div id="_ce0978c"></div>                                </li>
+                                                                                <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Zara Rahim, ancienne porte-parole d’Hillary Clinton écrit vouloir la mort de Donald Trump&quot; " href="http://www.wikistrike.com/2020/10/zara-rahim-ancienne-porte-parole-d-hillary-clinton-ecrit-vouloir-la-mort-de-donald-trump.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/9j-7rcr-t-jw329yqHVQAw0ND-o=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_52cd4d_120770190-1181901342210831-34713393310.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="#Zara #Rahim ancienne porte parole d'Hilary Clinton écrit vouloir la mort de Trump. Dans son tweet, relayé par de nombreux journalistes tant qu’il était visible, Zara Rahim aurait donc écrit : «C'est contre mon identité morale de tweeter cela depuis quatre..." href="http://www.wikistrike.com/2020/10/zara-rahim-ancienne-porte-parole-d-hillary-clinton-ecrit-vouloir-la-mort-de-donald-trump.html">
+                                                                                    Zara Rahim, ancienne porte-parole d’Hillary Clinton écrit vouloir la mort de Donald Trump
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    #Zara #Rahim ancienne porte parole d'Hilary Clinton écrit vouloir la mort de Trump. Dans son tweet, relayé par de nombreux journalistes tant qu’il était visible, Zara Rahim aurait donc écrit : «C'est contre mon identité morale de tweeter cela depuis quatre...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/zara-rahim-ancienne-porte-parole-d-hillary-clinton-ecrit-vouloir-la-mort-de-donald-trump.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Covid : dans une tribune, près de 300 scientifiques dénoncent les mesures gouvernementales &quot;disproportionnées&quot;&quot; " href="http://www.wikistrike.com/2020/10/covid-dans-une-tribune-pres-de-300-scientifiques-denoncent-les-mesures-gouvernementales-disproportionnees.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/-hyDHHs42TEUFlA_CJKkP_XHsLQ=/275x145/smart/filters:no_upscale()/https%3A%2F%2Fpublic.flourish.studio%2Fresources%2Fbosh.svg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Dans une tribune publiée lundi sur le site de Médiapart, près de 300 scientifiques, médecins et universitaires critiquent les dernières restrictions décidées par le gouvernement contre le Covid et leurs effets "secondaires" dramatiques. Ils appellent..." href="http://www.wikistrike.com/2020/10/covid-dans-une-tribune-pres-de-300-scientifiques-denoncent-les-mesures-gouvernementales-disproportionnees.html">
+                                                                                    Covid : dans une tribune, près de 300 scientifiques dénoncent les mesures gouvernementales &quot;disproportionnées&quot;
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Dans une tribune publiée lundi sur le site de Médiapart, près de 300 scientifiques, médecins et universitaires critiquent les dernières restrictions décidées par le gouvernement contre le Covid et leurs effets "secondaires" dramatiques. Ils appellent...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/covid-dans-une-tribune-pres-de-300-scientifiques-denoncent-les-mesures-gouvernementales-disproportionnees.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Campagne de dons: Pourquoi nous soutenir&quot; " href="http://www.wikistrike.com/2020/09/campagne-de-dons-pourquoi-nous-soutenir.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/knl6Yqfik4zJHZ9BzFS4CmPgRK8=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20200919%2Fob_d5ff01_ob-b32021-ob-c09e85-ob-c26157-ob-ec031.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Soutenir WikiStrike, c'est: - Défendre la liberté d'information, une fois de plus mise en danger avec la nouvelle loi "médiaticide" nommée loi Avia, et adoptée en début de semaine. Les dons sont désormais quasi nos seuls revenus. - S'inscrire dans une..." href="http://www.wikistrike.com/2020/09/campagne-de-dons-pourquoi-nous-soutenir.html">
+                                                                                    Campagne de dons: Pourquoi nous soutenir
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Soutenir WikiStrike, c'est: - Défendre la liberté d'information, une fois de plus mise en danger avec la nouvelle loi "médiaticide" nommée loi Avia, et adoptée en début de semaine. Les dons sont désormais quasi nos seuls revenus. - S'inscrire dans une...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/09/campagne-de-dons-pourquoi-nous-soutenir.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                            <li class="clear"></li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Accidents vaccinaux, hold-up juridique, « 1986 » : comment Big Pharma a fait la loi&quot; " href="http://www.wikistrike.com/2020/10/accidents-vaccinaux-hold-up-juridique-1986-comment-big-pharma-a-fait-la-loi.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/feB6Y4mQkMJcdVC63Z63cyXKrmA=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_35cd2a_1986-1-1000x543.jpeg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="En matière de vaccination, il existe des exceptions juridiques qu’aucune autre industrie ne peut obtenir. Et pourtant, sous couvert de politiques sanitaires d’urgence, les industriels ont, d’abord aux États-Unis, obtenu une exemption juridique qui leur..." href="http://www.wikistrike.com/2020/10/accidents-vaccinaux-hold-up-juridique-1986-comment-big-pharma-a-fait-la-loi.html">
+                                                                                    Accidents vaccinaux, hold-up juridique, « 1986 » : comment Big Pharma a fait la loi
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    En matière de vaccination, il existe des exceptions juridiques qu’aucune autre industrie ne peut obtenir. Et pourtant, sous couvert de politiques sanitaires d’urgence, les industriels ont, d’abord aux États-Unis, obtenu une exemption juridique qui leur...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/accidents-vaccinaux-hold-up-juridique-1986-comment-big-pharma-a-fait-la-loi.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Covid-19 : des gènes hérités de Néandertal favoriseraient les formes graves de la maladie&quot; " href="http://www.wikistrike.com/2020/10/covid-19-des-genes-herites-de-neandertal-favoriseraient-les-formes-graves-de-la-maladie.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/ziKiYURNmOWez-7fk0eKfPPI-Pw=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_fe6edb_une-neandertal-covid.jpeg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Environ 16 % des Européens et la moitié des Sud-Asiatiques en seraient porteurs
+Une équipe internationale de chercheurs a récemment lié un fragment d’ADN néandertalien dont l’Homme moderne a hérité à une probabilité de complications plus élevée chez les..." href="http://www.wikistrike.com/2020/10/covid-19-des-genes-herites-de-neandertal-favoriseraient-les-formes-graves-de-la-maladie.html">
+                                                                                    Covid-19 : des gènes hérités de Néandertal favoriseraient les formes graves de la maladie
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Environ 16 % des Européens et la moitié des Sud-Asiatiques en seraient porteurs
+Une équipe internationale de chercheurs a récemment lié un fragment d’ADN néandertalien dont l’Homme moderne a hérité à une probabilité de complications plus élevée chez les...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/covid-19-des-genes-herites-de-neandertal-favoriseraient-les-formes-graves-de-la-maladie.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Donald Trump hospitalisé &quot; " href="http://www.wikistrike.com/2020/10/le-president-des-etats-unis-donald-trump-avait-annonce-dans-la-journee-de-vendredi-avoir-ete-teste-positif-au-covid-19-tout-comme-so">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/VkMsG0sgVXVGLl2XvRKZ2f_0Olg=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_cdadb3_ejwq4qpwoaixkv.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Donald marche vers l'hélicoptère et poste une vidéo dans laquelle il dit: "Je pense que je vais très bien.
+pic.twitter.com/B4H105KVSs — Donald J. Trump (@realDonaldTrump) October 2, 2020
+Video du président #trump visiblement en bonne forme se rendant..." href="http://www.wikistrike.com/2020/10/le-president-des-etats-unis-donald-trump-avait-annonce-dans-la-journee-de-vendredi-avoir-ete-teste-positif-au-covid-19-tout-comme-so">
+                                                                                    Donald Trump hospitalisé 
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Donald marche vers l'hélicoptère et poste une vidéo dans laquelle il dit: "Je pense que je vais très bien.
+pic.twitter.com/B4H105KVSs — Donald J. Trump (@realDonaldTrump) October 2, 2020
+Video du président #trump visiblement en bonne forme se rendant...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/le-president-des-etats-unis-donald-trump-avait-annonce-dans-la-journee-de-vendredi-avoir-ete-teste-positif-au-covid-19-tout-comme-so">Lire la suite</a>
+                                </p>
+                            </li>
+                                                            <li class="clear"></li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Un étrange document de recherche affirme qu’il y a un trou noir au centre de la Terre&quot; " href="http://www.wikistrike.com/2020/10/un-etrange-document-de-recherche-affirme-qu-il-y-a-un-trou-noir-au-centre-de-la-terre.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/MGxpY4mm4lBAIfNnxbRpCzRNaFg=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_2c5131_trou-noir-terre-1-20-thumb.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Un document de recherche scandaleusement étrange prétend, entre autres, qu’il y a un trou noir au centre de la Terre. “pot de miel” pour leurre destiné à attirer, voir : Honeypot . Et d’une manière ou d’une autre, il a été publié dans une véritable revue..." href="http://www.wikistrike.com/2020/10/un-etrange-document-de-recherche-affirme-qu-il-y-a-un-trou-noir-au-centre-de-la-terre.html">
+                                                                                    Un étrange document de recherche affirme qu’il y a un trou noir au centre de la Terre
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Un document de recherche scandaleusement étrange prétend, entre autres, qu’il y a un trou noir au centre de la Terre. “pot de miel” pour leurre destiné à attirer, voir : Honeypot . Et d’une manière ou d’une autre, il a été publié dans une véritable revue...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/un-etrange-document-de-recherche-affirme-qu-il-y-a-un-trou-noir-au-centre-de-la-terre.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Intempéries: Inondations records dans les Alpes-Maritimes (vidéos). 12 personnes disparues &quot; " href="http://www.wikistrike.com/2020/10/intemperies-inondations-records-dans-les-alpes-maritimes-videos.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/l7UmytANjJvMH0futXkLGD3_d28=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_6902b9_7cpv8i9.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="12 personnes portées disparues dont 2 pompiers
+Une perturbation pluvieuse très active se décale vers l'est du pays. Cet après-midi, les pluies se généralisent et sont souvent soutenues sur la moitié est du pays à l'exception de l'Alsace et de la Corse...." href="http://www.wikistrike.com/2020/10/intemperies-inondations-records-dans-les-alpes-maritimes-videos.html">
+                                                                                    Intempéries: Inondations records dans les Alpes-Maritimes (vidéos). 12 personnes disparues 
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    12 personnes portées disparues dont 2 pompiers
+Une perturbation pluvieuse très active se décale vers l'est du pays. Cet après-midi, les pluies se généralisent et sont souvent soutenues sur la moitié est du pays à l'exception de l'Alsace et de la Corse....
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/intemperies-inondations-records-dans-les-alpes-maritimes-videos.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Covid-19 : L’épidémie est terminée en Europe et il n’y aura pas de 2ème vague. STOP les tests PCR à l’aveugle&quot; " href="http://www.wikistrike.com/2020/10/covid-19-l-epidemie-est-terminee-en-europe-et-il-n-y-aura-pas-de-2eme-vague.stop-les-tests-pcr-a-l-aveugle.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/z7qEW1oKFVM9pUFg5XFB0hu3drA=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_9ce72b_stop-covid-0-field-mise-en-avant-princ.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Tribune :Le discours et les décisions du gouvernement, entretenus par les médias, maintiennent un climat anxiogène au sein de la population, en lui promettant une deuxième vague imminente. Cela est mensonger, empêchant la reprise économique réelle et..." href="http://www.wikistrike.com/2020/10/covid-19-l-epidemie-est-terminee-en-europe-et-il-n-y-aura-pas-de-2eme-vague.stop-les-tests-pcr-a-l-aveugle.html">
+                                                                                    Covid-19 : L’épidémie est terminée en Europe et il n’y aura pas de 2ème vague. STOP les tests PCR à l’aveugle
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Tribune :Le discours et les décisions du gouvernement, entretenus par les médias, maintiennent un climat anxiogène au sein de la population, en lui promettant une deuxième vague imminente. Cela est mensonger, empêchant la reprise économique réelle et...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/covid-19-l-epidemie-est-terminee-en-europe-et-il-n-y-aura-pas-de-2eme-vague.stop-les-tests-pcr-a-l-aveugle.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                            <li class="clear"></li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Les «fermes à papiers» qui fabriquent de fausses études scientifiques, un business «opaque» et «juteux»&quot; " href="http://www.wikistrike.com/2020/10/les-fermes-a-papiers-qui-fabriquent-de-fausses-etudes-scientifiques-un-business-opaque-et-juteux.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/v0dXI7ESpfcLgO7hfjGrVbLylFs=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_d7dc6d_d5fylrmxkaej6eu.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Peu connu, le phénomène de «fermes à papiers» fabriquant à la chaîne de fausses études scientifiques est toutefois bien réel. Dans une enquête exclusive publiée ce 2 octobre, L’Express analyse ce business «opaque» qui se développe en Asie et qui rapporterait..." href="http://www.wikistrike.com/2020/10/les-fermes-a-papiers-qui-fabriquent-de-fausses-etudes-scientifiques-un-business-opaque-et-juteux.html">
+                                                                                    Les «fermes à papiers» qui fabriquent de fausses études scientifiques, un business «opaque» et «juteux»
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Peu connu, le phénomène de «fermes à papiers» fabriquant à la chaîne de fausses études scientifiques est toutefois bien réel. Dans une enquête exclusive publiée ce 2 octobre, L’Express analyse ce business «opaque» qui se développe en Asie et qui rapporterait...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/les-fermes-a-papiers-qui-fabriquent-de-fausses-etudes-scientifiques-un-business-opaque-et-juteux.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; «Une ligne rouge est franchie»: Macron exige une explication d’Erdogan sur le transfert de djihadistes en Azerbaïdjan&quot; " href="http://www.wikistrike.com/2020/10/une-ligne-rouge-est-franchie-macron-exige-une-explication-d-erdogan-sur-le-transfert-de-djihadistes-en-azerbaidjan.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/HtnfzN28lmfMzH7pgJpqFLvh6BE=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_9cc90a_ejrevpnxyakr54g.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Malgré les appels à un cessez-le-feu, les combats s’intensifient au Haut-Karabakh. Des combattants djihadistes ont été envoyés en Azerbaïdjan depuis la Turquie, assure Emmanuel Macron qui appellera son homologue turc pour des éclaircissements. En tant..." href="http://www.wikistrike.com/2020/10/une-ligne-rouge-est-franchie-macron-exige-une-explication-d-erdogan-sur-le-transfert-de-djihadistes-en-azerbaidjan.html">
+                                                                                    «Une ligne rouge est franchie»: Macron exige une explication d’Erdogan sur le transfert de djihadistes en Azerbaïdjan
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Malgré les appels à un cessez-le-feu, les combats s’intensifient au Haut-Karabakh. Des combattants djihadistes ont été envoyés en Azerbaïdjan depuis la Turquie, assure Emmanuel Macron qui appellera son homologue turc pour des éclaircissements. En tant...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/une-ligne-rouge-est-franchie-macron-exige-une-explication-d-erdogan-sur-le-transfert-de-djihadistes-en-azerbaidjan.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                                                                            <li>
+                                <div class="imgholder">
+                                    <a title="En savoir plus &quot; Trump et sa femme Melania testés positifs au Covid-19&quot; " href="http://www.wikistrike.com/2020/10/trump-et-sa-femme-melania-testes-positifs-au-covid-19.html">
+                                                                                    <img class="ob-media ob-img" src="https://image.over-blog.com/tZojcfVtHKZu7Ug4QVQkOgzFM2I=/275x145/smart/filters:no_upscale()/image%2F1044304%2F20201002%2Fob_e5a9bd_2tf-1ai.jpg" alt="" width="275" height="145" />
+                                                                            </a>
+                                </div>
+                                                                <h2 class="post-title">
+                                                                    <a title="Le président américain Donald Trump a annoncé dans la nuit de jeudi à vendredi qu’il avait été testé positif au Covid-19, tout comme sa femme Melania, et qu’il se mettait en quarantaine.
+“Ce soir, la Première dame et moi-même avons été testés positifs..." href="http://www.wikistrike.com/2020/10/trump-et-sa-femme-melania-testes-positifs-au-covid-19.html">
+                                                                                    Trump et sa femme Melania testés positifs au Covid-19
+                                                                            </a>
+                                                                </h2>
+                                                                <p class="entry">
+                                    Le président américain Donald Trump a annoncé dans la nuit de jeudi à vendredi qu’il avait été testé positif au Covid-19, tout comme sa femme Melania, et qu’il se mettait en quarantaine.
+“Ce soir, la Première dame et moi-même avons été testés positifs...
+                                </p>
+                                <p class="readmore">
+                                    <a href="http://www.wikistrike.com/2020/10/trump-et-sa-femme-melania-testes-positifs-au-covid-19.html">Lire la suite</a>
+                                </p>
+                            </li>
+                                                            <li class="clear"></li>
+                                                                                                    </ul>
+                    <!-- Pagination -->
+                                            <div class="ob-pagination">
+                        <span
+                class="ob-page ob-page-current "
+            >1</span>
+                                <a
+                href="/page/2"
+                class="ob-page ob-page-link "
+            >2</a>
+                                <a
+                href="/page/3"
+                class="ob-page ob-page-link "
+            >3</a>
+                                <a
+                href="/page/4"
+                class="ob-page ob-page-link "
+            >4</a>
+                                <a
+                href="/page/5"
+                class="ob-page ob-page-link "
+            >5</a>
+                                <a
+                href="/page/6"
+                class="ob-page ob-page-link "
+            >6</a>
+                                <a
+                href="/page/7"
+                class="ob-page ob-page-link "
+            >7</a>
+                                <a
+                href="/page/8"
+                class="ob-page ob-page-link "
+            >8</a>
+                                <a
+                href="/page/9"
+                class="ob-page ob-page-link "
+            >9</a>
+                                <a
+                href="/page/10"
+                class="ob-page ob-page-link ob-page-tens"
+            >10</a>
+                                <a
+                href="/page/20"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >20</a>
+                                <a
+                href="/page/30"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >30</a>
+                                <a
+                href="/page/40"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >40</a>
+                                <a
+                href="/page/50"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >50</a>
+                                <a
+                href="/page/60"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >60</a>
+                                <a
+                href="/page/70"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >70</a>
+                                <a
+                href="/page/80"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >80</a>
+                                <a
+                href="/page/90"
+                class="ob-page ob-page-link ob-page-more ob-page-tens"
+            >90</a>
+                                <a
+                href="/page/100"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >100</a>
+                                <a
+                href="/page/200"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >200</a>
+                                <a
+                href="/page/300"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >300</a>
+                                <a
+                href="/page/400"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >400</a>
+                                <a
+                href="/page/500"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >500</a>
+                                <a
+                href="/page/600"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >600</a>
+                                <a
+                href="/page/700"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >700</a>
+                                <a
+                href="/page/800"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >800</a>
+                                <a
+                href="/page/900"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >900</a>
+                                <a
+                href="/page/1000"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1000</a>
+                                <a
+                href="/page/1100"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1100</a>
+                                <a
+                href="/page/1200"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1200</a>
+                                <a
+                href="/page/1300"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1300</a>
+                                <a
+                href="/page/1400"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1400</a>
+                                <a
+                href="/page/1500"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1500</a>
+                                <a
+                href="/page/1600"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1600</a>
+                                <a
+                href="/page/1700"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1700</a>
+                                <a
+                href="/page/1800"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1800</a>
+                                <a
+                href="/page/1900"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >1900</a>
+                                <a
+                href="/page/2000"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2000</a>
+                                <a
+                href="/page/2100"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2100</a>
+                                <a
+                href="/page/2200"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2200</a>
+                                <a
+                href="/page/2300"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2300</a>
+                                <a
+                href="/page/2400"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2400</a>
+                                <a
+                href="/page/2500"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2500</a>
+                                <a
+                href="/page/2600"
+                class="ob-page ob-page-link ob-page-more ob-page-hundreds"
+            >2600</a>
+                                <a
+                href="/page/2"
+                class="ob-page ob-page-link ob-page-next"
+            >></a>
+                                <a
+                href="/page/2634"
+                class="ob-page ob-page-link ob-page-last"
+            >>></a>
+            </div>
+                                                                <div class="ads ads-728x90">
+                            <div id="_bc9ceab"></div>                        </div>
+                                    </div>
+                    </div>
+        <div class="callout">
+            <div class="calloutcontainer">
+                <div class="container">
+                    <div class="footbox">
+                        <!-- Archives -->
+                                                                                    <p class="widget-title">Archives</p>
+                                <ul id="archivelist">
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2020')">2020</a>
+                                            <ul id="arch_2020" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2020-10/">Octobre</a> (22)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-09/">Septembre</a> (172)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-08/">Août</a> (153)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-07/">Juillet</a> (163)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-06/">Juin</a> (185)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-05/">Mai</a> (191)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-04/">Avril</a> (208)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-03/">Mars</a> (231)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-02/">Février</a> (178)</li>
+                                                                                                                                                                                                <li><a href="/archive/2020-01/">Janvier</a> (222)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2019')">2019</a>
+                                            <ul id="arch_2019" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2019-12/">Décembre</a> (207)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-11/">Novembre</a> (175)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-10/">Octobre</a> (191)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-09/">Septembre</a> (183)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-08/">Août</a> (153)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-07/">Juillet</a> (183)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-06/">Juin</a> (185)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-05/">Mai</a> (213)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-04/">Avril</a> (215)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-03/">Mars</a> (206)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-02/">Février</a> (198)</li>
+                                                                                                                                                                                                <li><a href="/archive/2019-01/">Janvier</a> (220)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2018')">2018</a>
+                                            <ul id="arch_2018" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2018-12/">Décembre</a> (212)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-11/">Novembre</a> (268)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-10/">Octobre</a> (231)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-09/">Septembre</a> (216)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-08/">Août</a> (198)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-07/">Juillet</a> (223)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-06/">Juin</a> (228)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-05/">Mai</a> (247)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-04/">Avril</a> (298)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-03/">Mars</a> (311)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-02/">Février</a> (232)</li>
+                                                                                                                                                                                                <li><a href="/archive/2018-01/">Janvier</a> (245)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2017')">2017</a>
+                                            <ul id="arch_2017" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2017-12/">Décembre</a> (188)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-11/">Novembre</a> (209)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-10/">Octobre</a> (231)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-09/">Septembre</a> (231)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-08/">Août</a> (212)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-07/">Juillet</a> (200)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-06/">Juin</a> (212)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-05/">Mai</a> (223)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-04/">Avril</a> (235)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-03/">Mars</a> (233)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-02/">Février</a> (211)</li>
+                                                                                                                                                                                                <li><a href="/archive/2017-01/">Janvier</a> (254)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2016')">2016</a>
+                                            <ul id="arch_2016" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2016-12/">Décembre</a> (220)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-11/">Novembre</a> (222)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-10/">Octobre</a> (243)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-09/">Septembre</a> (251)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-08/">Août</a> (209)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-07/">Juillet</a> (194)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-06/">Juin</a> (246)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-05/">Mai</a> (265)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-04/">Avril</a> (260)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-03/">Mars</a> (305)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-02/">Février</a> (320)</li>
+                                                                                                                                                                                                <li><a href="/archive/2016-01/">Janvier</a> (264)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2015')">2015</a>
+                                            <ul id="arch_2015" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2015-12/">Décembre</a> (266)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-11/">Novembre</a> (315)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-10/">Octobre</a> (350)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-09/">Septembre</a> (351)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-08/">Août</a> (264)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-07/">Juillet</a> (280)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-06/">Juin</a> (332)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-05/">Mai</a> (292)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-04/">Avril</a> (284)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-03/">Mars</a> (287)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-02/">Février</a> (279)</li>
+                                                                                                                                                                                                <li><a href="/archive/2015-01/">Janvier</a> (325)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2014')">2014</a>
+                                            <ul id="arch_2014" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2014-12/">Décembre</a> (271)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-11/">Novembre</a> (290)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-10/">Octobre</a> (296)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-09/">Septembre</a> (295)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-08/">Août</a> (273)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-07/">Juillet</a> (288)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-06/">Juin</a> (295)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-05/">Mai</a> (305)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-04/">Avril</a> (295)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-03/">Mars</a> (299)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-02/">Février</a> (326)</li>
+                                                                                                                                                                                                <li><a href="/archive/2014-01/">Janvier</a> (375)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2013')">2013</a>
+                                            <ul id="arch_2013" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2013-12/">Décembre</a> (338)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-11/">Novembre</a> (412)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-10/">Octobre</a> (492)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-09/">Septembre</a> (521)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-08/">Août</a> (455)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-07/">Juillet</a> (463)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-06/">Juin</a> (491)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-05/">Mai</a> (526)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-04/">Avril</a> (541)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-03/">Mars</a> (627)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-02/">Février</a> (513)</li>
+                                                                                                                                                                                                <li><a href="/archive/2013-01/">Janvier</a> (619)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2012')">2012</a>
+                                            <ul id="arch_2012" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2012-12/">Décembre</a> (639)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-11/">Novembre</a> (678)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-10/">Octobre</a> (683)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-09/">Septembre</a> (680)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-08/">Août</a> (618)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-07/">Juillet</a> (633)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-06/">Juin</a> (582)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-05/">Mai</a> (709)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-04/">Avril</a> (796)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-03/">Mars</a> (816)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-02/">Février</a> (815)</li>
+                                                                                                                                                                                                <li><a href="/archive/2012-01/">Janvier</a> (841)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                            <li>
+                                            <a href="#" class="plustext" onclick="javascript: return switch_arch('2011')">2011</a>
+                                            <ul id="arch_2011" class="arch_month">
+                                                                                                                                                <li><a href="/archive/2011-12/">Décembre</a> (897)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-11/">Novembre</a> (949)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-10/">Octobre</a> (962)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-09/">Septembre</a> (677)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-08/">Août</a> (470)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-07/">Juillet</a> (433)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-06/">Juin</a> (346)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-05/">Mai</a> (256)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-04/">Avril</a> (79)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-03/">Mars</a> (58)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-02/">Février</a> (42)</li>
+                                                                                                                                                                                                <li><a href="/archive/2011-01/">Janvier</a> (11)</li>
+                                                                                                                                        </ul>
+                                        </li>
+                                                                    </ul>
+                                                                        </div>
+                    
+                    <!-- Custom tags group 3 -->
+                                            <div class="latestgallery">
+                            <p class="widget-title">Articles récents</p>
+                            <ul>
+                                                                    <li>
+                                        <a title="Dans une récente étude publiée le 1er octobre dans la revue Antiquité, des archéologues britanniques et espagnols ont examiné les vestiges ostéologiques trouvés dans la ville de La Hoya, en péninsule ibérique, massacrée à l’Âge du fer. Une découverte..." href="http://www.wikistrike.com/2020/10/espagne-prehistorique-le-mystere-de-la-ville-massacree-de-la-hoya-devoile-par-des-archeologues.html">
+                                                                                            <img  src="https://image.over-blog.com/pWjofgeo6BhBhNwir3UABs9db74=/150x95/smart/filters:no_upscale()/image%2F1044304%2F20201004%2Fob_1226af_u167sidq.jpg" alt="Espagne préhistorique: Le mystère de la ville massacrée de La Hoya dévoilé par des archéologues" width="150" height="95" />
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a title="Une enquête a été ouverte après une plainte pour viol portée le 1er octobre contre un collaborateur d’une adjointe écologiste à Paris. La plaignante dit avoir été violée par le jeune homme au sein de la mairie de la capitale. Le suspect aurait été suspendu..." href="http://www.wikistrike.com/2020/10/la-mairie-de-paris-encore-une-fois-touchee-par-un-scandale-sexuel.html">
+                                                                                            <img  src="https://image.over-blog.com/ovPn0JC11N5FrzCTNdzzoFAfK9M=/150x95/smart/filters:no_upscale()/image%2F1044304%2F20201004%2Fob_e9a4a3_ejel6xexgauizc5.jpg" alt="¨La Mairie de Paris encore une fois touchée par un scandale sexuel" width="150" height="95" />
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a title="La transparence à l'américaine : si les médecins de Donald #Trump disent que tout va bien, les journalistes de #WalterReed ont reçu une déclaration d'une source proche de #DonaldTrump expliquant que ses signes vitaux étaient "très préoccupants". -----
+Donald..." href="http://www.wikistrike.com/2020/10/les-signes-vitaux-de-trump-etaient-tres-inquietants-les-48-heures-qui-viennent-sont-cruciales.html">
+                                                                                            <img  src="https://image.over-blog.com/cp_sZaDy3kb1DDYtF9Lt74FG3BA=/150x95/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_928008_sbziwimr.jpg" alt="Les signes vitaux de Trump étaient très inquiétants, les 48 heures qui viennent sont cruciales " width="150" height="95" />
+                                                                                    </a>
+                                    </li>
+                                                                    <li>
+                                        <a title="#Zara #Rahim ancienne porte parole d'Hilary Clinton écrit vouloir la mort de Trump. Dans son tweet, relayé par de nombreux journalistes tant qu’il était visible, Zara Rahim aurait donc écrit : «C'est contre mon identité morale de tweeter cela depuis quatre..." href="http://www.wikistrike.com/2020/10/zara-rahim-ancienne-porte-parole-d-hillary-clinton-ecrit-vouloir-la-mort-de-donald-trump.html">
+                                                                                            <img  src="https://image.over-blog.com/mS2AHlH0GSWBC5BP67NmwgAEpUQ=/150x95/smart/filters:no_upscale()/image%2F1044304%2F20201003%2Fob_52cd4d_120770190-1181901342210831-34713393310.jpg" alt="Zara Rahim, ancienne porte-parole d’Hillary Clinton écrit vouloir la mort de Donald Trump" width="150" height="95" />
+                                                                                    </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                        <div class="clear"></div>
+                    <div class="calloutoverlay"></div>
+                    <div class="calloutoverlaybottom"></div>
+                </div>
+            </div>
+        </div>
+
+                    <!-- Ad footer -->
+            <div style="margin:auto;text-align:center;margin-bottom:20px;">
+                <div id="_4a5d528"></div>            </div>
+                
+        <footer class="footer">
+            <div class="container">
+                <p class="left">Theme: Elegant press &copy; 2013</p>
+                <p class="right">
+                    Hébergé par <a href="https://www.over-blog.com" target="_blank">Overblog</a>
+                </p>
+                <div class="clear"></div>
+            </div>
+        </footer>
+
+        <script src="https://assets.over-blog.com/t/catalog/jquery/nivo-slider/3.2/jquery.nivo.slider.pack.js"></script>
+        <script src="https://assets.over-blog.com/t/catalog/jquery/fancybox/2.5/source/jquery.fancybox.pack.js"></script>
+        <script type="text/javascript">
+                            // Archives
+                function switch_arch(year) {
+                    'use strict';
+                    var archiveYear, archiveMonths, displayStyle;
+                    displayStyle = '';
+                    archiveYear = document.getElementById('arch_' + year);
+                    if (typeof (archiveYear) !== 'undefined') {
+                        if (archiveYear.style.display !== 'none') {
+                            // Hide years without months
+                            archiveMonths = archiveYear.getElementsByTagName('li');
+                            if (!archiveMonths.length) {
+                                archiveYear.parentNode.style.display = 'none';
+                            }
+                            // Onclick management
+                            displayStyle = 'none';
+                        }
+                        archiveYear.style.display = displayStyle;
+                    }
+                    return false;
+                }
+                                                                                                switch_arch('2019');
+                                                                                switch_arch('2018');
+                                                                                switch_arch('2017');
+                                                                                switch_arch('2016');
+                                                                                switch_arch('2015');
+                                                                                switch_arch('2014');
+                                                                                switch_arch('2013');
+                                                                                switch_arch('2012');
+                                                                                switch_arch('2011');
+                                                
+            // Facebook button
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "https://connect.facebook.net/en_US/all.js#xfbml=1&appId=284865384904712";
+                    fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+
+            // Twitter button
+            !function(d,s,id){
+                var js,fjs=d.getElementsByTagName(s)[0];
+                if(!d.getElementById(id)){
+                    js=d.createElement(s);
+                    js.id=id;
+                    js.src="https://platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js,fjs);
+                }
+            }(document,"script","twitter-wjs");
+
+            // Google + button
+            window.___gcfg = {lang: 'fr'};
+
+            (function() {
+                var po = document.createElement('script');
+                    po.type = 'text/javascript';
+                    po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(po, s);
+            })();
+
+                    </script>
+
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                // Fancy box
+                $(".ob-section-images a, .ob-link-img").attr("rel", "fancybox");
+                $("a[rel=fancybox]").fancybox({
+                    'overlayShow'   : true,
+                    'titlePosition' : 'over',
+                    'transitionIn'  : 'fadin',
+                    'transitionOut' : 'fadin',
+                    'type'          : 'image'
+                });
+
+                (function() {
+                                    })();
+            });
+        </script>
+    <div class="ob-footer ob-footer-padded" id="legals" >
+    <ul>
+        <li class="ob-footer-item">Voir le profil de <a href="https://www.over-blog.com/user/971740.html" target="_blank">wikistrike.com</a> sur le portail Overblog</li>
+                <li class="ob-footer-item"><a href="/top">Top articles</a></li>
+        <li class="ob-footer-item"><a href="/contact">Contact</a></li>
+        <li class="ob-footer-item"><a href="https://www.over-blog.com/abuse/1044304"> Signaler un abus </a></li>
+        <li class="ob-footer-item"><a href="https://www.over-blog.com/terms-of-use" target="_blank">C.G.U.</a></li>
+            <li class="ob-footer-item"><a href="https://www.over-blog.com/cookies" target="_blank">Cookies et données personnelles</a></li>
+    </ul>
+</div>
+<div id="_77f8c1a"></div><div id="_05c47cd"></div><!-- Begin Mediamétrie Tag -->
+<script>
+function _eStat_Whap_loaded_func(){
+  eStatWhap.serial("800000207013");
+  eStatWhap.send();
+}
+
+(function() {
+  var myscript = document.createElement('script');
+  myscript.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'w.estat.com/js/whap.js';
+  myscript.setAttribute('async', 'true');
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(myscript, s);
+})();
+</script>
+<!-- End Mediamétrie Tag -->
+</body>
+</html>

@@ -9,7 +9,7 @@ from itertools import repeat
 from multiprocessing.pool import Pool
 
 import coloredlogs
-#import mysql.connector
+import mysql.connector
 import requests
 from dotenv import load_dotenv
 from workers import workers
@@ -69,7 +69,7 @@ def send_target_to_worker(worker: dict, target: str):
     address = f"http://{worker['ip']}:42075/new_target"
 
     try:
-        response = requests.post(address, data=data, timeout=25).json()
+        response = requests.post(address, data=data, timeout=50).json()
 
     except requests.RequestException as e:
         response = {"target": target, "success": False, "data": str(e)}
@@ -119,7 +119,7 @@ def get_path_from_url(url: str):
 
     return path
 
-"""
+
 def setup_db():
     conn = mysql.connector.connect(
 #        host=MYSQL_HOST,
@@ -213,7 +213,7 @@ def send_results_to_db(conn, worker, results):
 
     # sql = "INSERT INTO request VALUES (%s, %s, %s, %s, %s)"
 
-"""
+
 def send_target_to_workers(target: str, workers: list):
     """ Send a target to all workers in a multiprocessing pool. """
 
@@ -308,7 +308,18 @@ if __name__ == "__main__":
 
         log.info(f"Requesting {args.target}...")
         results = send_target_to_workers(args.target, workers)
+        conn = setup_db()
+        if not conn:
+            sys.exit(1)
 
+        for worker in workers:
+            send_worker_to_db(conn, worker)
+
+        for result in results:
+            if ping(result["worker"]["ip"]):
+                send_results_to_db(conn, result["worker"], result)
+
+    # if we are not sending targets, then just ping all workers
     else:
 
         for worker in workers:

@@ -1,0 +1,135 @@
+## Setting the User Password in Ansible Playbooks
+- name: Deploy Ansible User
+hosts: all
+tasks:
+
+- name: Create Devops User
+user:
+name: devops
+groups: "{{ admin_group }}"
+append: true
+create_home: true
+comment: "Ansible Management Account"
+expires: -1
+password: "{{ 'Password1' | password_hash('sha512','A512') }}"
+
+## Deploy SSH Public Key in Ansible Playbooks
+Deploy SSH Public Key
+-----
+$ cd $HOME/deploy_devops
+$ vim deploy_devops.yml
+---
+- name: Deploy Ansible User
+hosts: all
+tasks:
+
+- name: Create Devops User
+user:
+name: devops
+groups: "{{ admin_group }}"
+append: true
+create_home: true
+comment: "Ansible Management Account"
+expires: -1
+password: "{{ 'Password1' | password_hash('sha512','A512') }}"
+
+- name: Deploy Local User SSH Key
+authorized_key:
+user: devops
+state: present
+manage_dir: true
+key: "{{ lookup('file', '/home/tux/.ssh/id_rsa.pub') }}"
+...
+
+$ ansible-playbook deploy_devops.yml
+
+## Password-less Sudo Access
+Configure Password-less Sudo
+-----
+$ cd $HOME/deploy_devops
+$ vim deploy_devops.yml
+---
+- name: Deploy Ansible User
+hosts: all
+tasks:
+
+- name: Create Devops User
+user:
+name: devops
+groups: "{{ admin_group }}"
+append: true
+create_home: true
+comment: "Ansible Management Account"
+expires: -1
+password: "{{ 'Password1' | password_hash('sha512','A512') }}"
+
+- name: Deploy Local User SSH Key
+authorized_key:
+user: devops
+state: present
+manage_dir: true
+key: "{{ lookup('file', '/home/tux/.ssh/id_rsa.pub') }}"
+
+- name: Setup Sudo Access for Devops User
+copy:
+dest: /etc/sudoers.d/devops
+content: 'devops ALL=(ALL) NOPASSWD: ALL' 
+validate: /usr/sbin/visudo -cf %s
+...
+
+$ ansible-playbook deploy_devops.yml
+
+################################################
+//Second tutorial (Link: https://code-maven.com/enable-ansible-passwordless-sudo)
+
+#### inventory (host) .cfg file
+[all]
+192.168.56.11
+192.168.56.12
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
+
+#### /etc/sudoers file
+#
+# This file MUST be edited with the 'visudo' command as root.
+#
+# Please consider adding local content in /etc/sudoers.d/ instead of
+# directly modifying this file.
+#
+# See the man page for details on how to write a sudoers file.
+#
+Defaults	env_reset
+Defaults	mail_badpass
+Defaults	secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+
+# Host alias specification
+
+# User alias specification
+
+# Cmnd alias specification
+
+# User privilege specification
+root	ALL=(ALL:ALL) ALL
+
+# Members of the admin group may gain root privileges
+%admin ALL=(ALL) ALL
+
+# Allow members of group sudo to execute any command
+# Change it to "%sudo  ALL=(ALL:ALL) NOPASSWD: ALL"
+%sudo	ALL=(ALL:ALL) ALL
+
+# See sudoers(5) for more information on "#include" directives:
+
+#includedir /etc/sudoers.d
+
+### ansible deploy.yml config so the above sudoers file change.
+- hosts: all
+  tasks:
+    - lineinfile:
+        path: /etc/sudoers
+        state: present
+        regexp: '^%sudo'
+        line: '%sudo ALL=(ALL) NOPASSWD: ALL'
+        validate: 'visudo -cf %s'
+

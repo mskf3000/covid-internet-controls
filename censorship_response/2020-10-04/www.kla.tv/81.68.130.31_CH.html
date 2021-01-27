@@ -1,0 +1,3588 @@
+﻿<!DOCTYPE html>
+<html data-app-mode='PRODUCTION'>
+
+<head>
+	<!-- META Data for social media -->
+
+
+	<base href="https://www.kla.tv/">
+
+	<meta property="og:url" content="https://www.kla.tv/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="kla.TV" />
+	<meta property="og:description" content="Die anderen Nachrichten. frei - unabhängig - unzensiert ... Tägliche News ab 19:45 Uhr auf" />
+	<meta property="og:image" content="https://www.kla.tv/images/_global/ktv-logo2018.png" />
+	<!--{$begin META_OG_VIDEO}-->
+	<meta property="og:video:secure_url" content="https://youtube.com/klagemauerTV" />
+	<!--{$end META_OG_VIDEO}-->
+
+
+
+	<!--{$begin META_OG_VIDEO}-->
+	<!--<meta property="og:video" content="https://youtube.com/klagemauerTV" />-->
+
+	<!--<meta property="og:url" content="https://www.youtube.com/watch?v={$KTV_YT_ID}">
+        <meta property="og:image" content="https://i.ytimg.com/vi/{$KTV_YT_ID}/maxresdefault.jpg">
+
+
+            <meta property="og:type" content="video">
+                <meta property="og:video:url" content="https://www.youtube.com/embed/{$KTV_YT_ID}">
+                <meta property="og:video:secure_url" content="https://www.youtube.com/embed/{$KTV_YT_ID}">
+                <meta property="og:video:type" content="text/html">
+                <meta property="og:video:width" content="1920">
+                <meta property="og:video:height" content="1080">
+                <meta property="og:video:url" content="https://www.youtube.com/v/{$KTV_YT_ID}?version=3&amp;autohide=1">
+                <meta property="og:video:secure_url" content="https://www.youtube.com/v/{$KTV_YT_ID}?version=3&amp;autohide=1">
+                <meta property="og:video:type" content="application/x-shockwave-flash">
+                <meta property="og:video:width" content="1920">
+                <meta property="og:video:height" content="1080">-->
+	<!--{$end META_OG_VIDEO}-->
+
+
+
+
+	<meta charset="UTF-8">
+	<!--<title>Medien-Klagemauer.TV - Die anderen Nachrichten...</title>-->
+	<title>kla.TV - Die anderen Nachrichten</title>
+	<!--[if lte IE 8]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><![endif]-->
+	<meta http-equiv="X-UA-Compatible" content="IE=100"> <!-- Default: IE 9 or higher document-mode -->
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"
+		  href="/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/images/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+	<meta name="description" content="Kla.TV, Nachrichten, Dokumentationen, Unabhängig, Lügenpresse, Lügenmedien, Dokus, Medienkommentare, Medien, Bildung">
+	<meta name="author" content="klagemauer.TV">
+	<meta name="keywords" content="News, Nachrichten, Klagemauer-TV, Unzensiert, Medien">
+	<meta name="robots" content="all" />
+	<!--Gibt an ob die Seite von Suchmaschinen indexiert werden soll oder nicht-->
+
+	<link href="/css/fonts.css" rel="stylesheet" type="text/css" />
+
+	<script type="text/javascript" src="/js/vue-js/vue.min.js?v=20200318"></script>
+	<script type="text/javascript" src="/js/vue-js/axios.min.js"></script>
+	<script type="text/javascript" src="/js/vue-js/constants.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/vue-js/CollectingRequestCache.js?v=20201001"></script>
+	<script src="/js/vue-js/vue.custom.lib.js?v=20201001" type="text/javascript"></script>
+	<script src="/frameworks/infinite-scroll/vue-infinite-loading.js?v=20201001" type="text/javascript"></script>
+
+	<!-- START bootstrap-vue -->
+	<link type="text/css" rel="stylesheet" href="/frameworks/bootstrap-vue/bootstrap-vue.min.css" />
+	<!-- Load polyfills to support older browsers -->
+	<script src="/frameworks/bootstrap-vue/polyfill.js" crossorigin="anonymous"></script>
+	<!-- Load Vue followed by BootstrapVue -->
+	<script src="/frameworks/bootstrap-vue/bootstrap-vue.min.js?v=20201001"></script>
+	<!-- Load the following for BootstrapVueIcons support -->
+	<script src="/frameworks/bootstrap-vue/bootstrap-vue-icons.min.js?v=20201001"></script>
+	<!-- END bootstrap-vue -->
+	<script type="text/javascript" src="/frameworks/moment-js/moment.min.js?v=20201001"></script>
+
+	<!-- Load Animate.css-->
+	<link rel="stylesheet" type="text/css" href="/frameworks/animate-css/animate.css" media="screen"/>
+	<!-- END Animate.css-->
+
+	<script type="text/javascript"
+			src="/bower_components/angular/angular.min.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/bower_components/angular-resource/angular-resource.min.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/bower_components/angular-sanitize/angular-sanitize.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/app/app.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/app/services/api.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/app/controllers/showstart.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/js/app/controllers/showstart_languages.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/js/app/directive/tooltipster.directive.js?v=20201001"></script>
+
+
+	<script type="text/javascript"
+			src="/js/app/directive/smartstats-star-video.directive.js?v=20201001"></script>
+
+	<!--Showstart-->
+	<script type="text/javascript"
+			src="/js/app/directive/trend-lazy-loader.directive.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/js/app/directive/doku-lazy-loader.directive.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/js/app/directive/recommendation-tab-loader.js?v=20201001"></script>
+	<!--END Showstart-->
+
+	<!--Language-->
+	<script type="text/javascript"
+			src="/js/app/directive/showlanguage-lazy-loader.directive.js?v=20201001"></script>
+	<script type="text/javascript"
+			src="/js/app/directive/hoverimage.directive.js?v=20201001"></script>
+	<!--END Language-->
+
+	<!-- AngularJS Tooltipster -->
+	<script type="text/javascript"
+			src="/js/app/directive/tooltipster.directive.js?v=20201001"></script>
+
+
+	<link rel="stylesheet" href="/frameworks/bootstrap-4.1.3-dist/css/bootstrap.min.css?v=20201001">
+	<script type="text/javascript" src="/js/jquery-1.9.1.min.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/jquery-migrate-1.1.0.min.js?v=20201001"></script>
+	<script type="text/javascript" src="/frameworks/bootstrap-4.1.3-dist/js/bootstrap.min.js?v=20201001"></script>
+
+	<script type="text/javascript" src="/js/jquery.marquee.min.js?v=20190207"></script>
+	
+
+	<!-- START Slick-Slider -->
+	<script type="text/javascript" src="/frameworks/slick/slick.min.js?v=20201001"></script>
+	<link rel="stylesheet" type="text/css" href="/frameworks/slick/slick.css" />
+	<!-- END Slick-Slider -->
+
+
+	<!-- START jQuery Datepicker-->
+	<link rel="stylesheet" href="/css/jquery-ui.css?v=20180919b">
+	<script type="text/javascript" src="/js/ui/jquery-ui.js?v=20180919b"></script>
+	<script type="text/javascript" src="/js/ui/jquery.ui.datepicker.de.js?v=20180919b"></script>
+	<!-- END jQuery Datepicker-->
+
+	<!--Fileupload-->
+	<script type="text/javascript" src="/js/fileupload.js?v=20180919b"></script>
+
+	<script type="text/javascript" src="/js/karma.js?v=20201001"></script>
+
+	
+
+	<script src="/js/jquery.anythingslider.js?v=20180919b"></script>
+
+	<script type="text/javascript" src="/js/helper.js?v=20201001"></script>
+	<script type="text/javascript" src="/contact-form/js/iphorm.js?v=20180919b"></script>
+	<script type="text/javascript" src="/contact-form/js/plugins.js?v=20180919b"></script>
+	<script type="text/javascript" src="/contact-form/js/scripts.js?v=20180919b"></script>
+
+	<!-- START {RSS-Feed}-->
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?lang=de" />
+	<!-- END {RSS-Feed}-->
+
+	<!-- START {Settings-Menu ADMIN} -->
+	<script type="text/javascript" src="/js/fg.menu.js?v=20180919b"></script>
+	<link type="text/css" href="/css/fg.menu.css?v=20180919b" media="screen" rel="stylesheet" />
+	<link type="text/css" href="/css/ui.theme.css?v=20180919b" media="screen" rel="stylesheet" />
+	<!-- END {Settings-Menu ADMIN} -->
+
+	<!-- massautocomplete css -->
+	<link type="text/css" href="/css/massautocomplete.theme.css?v=20201001" media="screen"
+		  rel="stylesheet" />
+
+	<!-- START {jConfirm -->
+
+	<script type="text/javascript" src="/js/jquery.alerts.js?v=20180919b"></script>
+	<link type="text/css" href="/css/jquery.alerts.css?v=20180919b" media="screen"
+		  rel="stylesheet" />
+	<!-- END {jConfirm -->
+
+	<!-- START {LazyLoad} -->
+	<!-- Für Bilder nachladen, wenn man scrollt-->
+	<script type="text/javascript" src="/js/jquery.lazyload.min.js?v=20180919b"></script>
+	<!-- END {LazyLoad} -->
+
+	<!-- START {jQuery.Cookie} -->
+	<script type="text/javascript" src="/js/jquery.cookie.js?v=20180919b"></script>
+	<!-- END {jQuery.Cookie} -->
+
+	<!-- START {Cookie.Warn.Box} -->
+	<script type="text/javascript" src="/js/cookie.warn.box.js?v=20180919b"></script>
+
+	<link type="text/css" href="/css/cookie.warn.box.css?v=20180919b" media="screen"
+		  rel="stylesheet" />
+	<!-- END {Cookie.Warn.Box} -->
+
+
+
+
+	<!-- START Scroll-To-Plugin -->
+	<script type="text/javascript" src="/js/jquery.scrollTo.min.js?v=20180919b"></script>
+	<!-- END Scroll-To-Plugin -->
+
+
+	<link href="/style.css?v=20201001" rel="stylesheet" type="text/css" />
+	<link href="/css/redesign_2018_tobi.css?v=20201001" rel="stylesheet"
+		  type="text/css" />
+	<link href="/css/redesign_2018_kaleb.css?v=20201001" rel="stylesheet"
+		  type="text/css" />
+	<link href="/css/redesign_2018_benny.css?v=20201001" rel="stylesheet"
+		  type="text/css" />
+	<link href="/css/redesign_2018_desi.css?v=20201001" rel="stylesheet"
+		  type="text/css" />
+
+
+	<!-- Fontawesome -->
+	<link rel="stylesheet" type="text/css"
+		  href="/bower_components/components-font-awesome/css/font-awesome.min.css?v=20180919b"
+		  media="screen" />
+
+
+	<link href="/css/karma-royal-blue.css?v=20201001" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="css/lt8.css" media="screen"/><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen"/><![endif]-->
+	<link href="/contact-form/css/standard.css?v=20180919b" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="/css/divbox.css?v=20180919b" media="screen" />
+
+	<!-- bootbox code -->
+	<script src="/js/bootbox.min.js?v=20180919b"></script>
+
+	<!-- Javascript fürs Editieren und fürs Popup der Texte einbinden -->
+	<script src="/js/jquery.jeditable.mini.js?v=20180919b"></script>
+	<script src="/js/jquery.bpopup.min.js?v=20180919b"></script>
+
+	
+
+	<!-- Eigene JS-Funktionen-->
+	<script type="text/javascript" src="/js/View/content.js?v=20201001"></script>
+
+	<!-- Globale JavaScript-Funtionen-->
+
+	<script src="/js/View/global.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/display.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/follow.js?v=20201001"></script>
+
+	<!-- jQuery Tooltipster -->
+	<script type="text/javascript"
+			src="/frameworks/tooltipster-master/js/jquery.tooltipster.min.js?v=20180919"></script>
+	<link rel="stylesheet" type="text/css"
+		  href="/frameworks/tooltipster-master/css/tooltipster.css?v=20180919" />
+	<link rel="stylesheet" type="text/css" href="/frameworks/slick/slick.css?v=20180919" />
+
+
+	<style>
+		#AjaxIniTranslator {
+			width: 750px;
+			/* SET THE WIDTH OF THE MODAL */
+			margin-left: -375px;
+			/*Center = (width/2 * -1.)*/
+			z-index: 999999;
+		}
+
+		#AjaxIniTranslator .modal-body {
+			max-height: 1000px;
+		}
+	</style>
+
+</head>
+
+
+<body {$bodyjs} ng-app="ktvApp" class="controller-showstart bg-lightgreyyellow">
+
+<link rel="stylesheet" href="/frameworks/ouibounce/ouibounce.css?20171214">
+
+
+<!-- Start OuiBounce Modal -->
+<div id="ouibounce-modal" style="display:none;">
+    <div class="underlay"></div>
+    <div class="modal ouibounce-newsletter-modal" style="display: block;">
+        <div class="modal-body">
+            <div id="ouibounce-newsletter" style="text-align: center;">
+                <div id="ouibounce-newsletter-close">
+                    <img src="/images/_global/bg-accordion-close.png" />
+                </div>
+                <input id="ouibounce-form-email-modal"
+                    style="padding: 8px; border: 2px solid #868686; margin-top: -1px; height: 22px;" class="modal-email"
+                    type="email" placeholder="Ihre E-Mail-Adresse" />
+                <a class="trendbtn_broadcasts"
+                    style="width: 30%;display: inline-block;margin: 20px 0 0 20px; padding: 7px;"
+                    onclick="localStorage.setItem('ouibounce_newsletter_hide', true);document.location.href = '/index.php?a=shownewsletter&email='+$('#ouibounce-form-email-modal').val()">
+                    <span>Senden</span>
+                </a>
+
+                <span id="ouibounce-form-no-abonniert">
+                    <div style="margin-bottom: 8px">
+                        <span id="ouibounce-form-no">- Nein, danke! -</span>
+                        <span id="ouibounce-form-abonniert"
+                            onclick="localStorage.setItem('ouibounce_newsletter_hide', true);document.location.href = '/empfehlen'">-
+                            Jetzt weiterempfehlen -</span>
+                    </div>
+                    <div>
+                        <span id="ouibounce-newsletter-nicht-mehr-anzeigen">- Nicht mehr anzeigen
+                            -</span>
+                    </div>
+
+
+                </span>
+
+                <img src="/images/newsletter_popup.jpg" class="nl-popup-bg" />
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End OuiBounce Modal -->
+
+
+
+<script type="text/javascript" src="/frameworks/ouibounce/build/ouibounce.js"></script>
+
+<script>
+
+        $(document).ready(function () {
+
+            // Show Newsletter Pop-up only, when no Schutzschild is active
+            if($('#verlaeumdungDialog').length == 0){
+
+                // if you want to use the 'fire' or 'disable' fn,
+                // you need to save OuiBounce to an object
+                var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'), {
+                    aggressive: true,
+                    timer: 0,
+                    callback: function () { }
+                });
+
+
+                if (localStorage.getItem('ouibounce_newsletter_hide') == 'true') {
+                    $('#ouibounce-modal').remove();
+                }
+
+                $('body').on('click', function () {
+                    $("#ouibounce-modal").hide();
+                });
+
+                $('#ouibounce-modal .modal-footer, #ouibounce-modal #ouibounce-form-no, #ouibounce-modal #ouibounce-newsletter-close, #ouibounce-modal #ouibounce-newsletter-nicht-mehr-anzeigen').on('click', function () {
+                    $("#ouibounce-modal").hide();
+                    localStorage.setItem('ouibounce_newsletter_hide', 'true');
+                });
+
+                $('#ouibounce-modal .modal').on('click', function (e) {
+                    e.stopPropagation();
+                });
+                
+            }
+        });
+
+</script>
+<style>
+    .ouibounce-newsletter-modal.ouibounce-newsletter-modal {
+        overflow: visible;
+    }
+
+    #ouibounce-modal {
+        z-index: 1750;
+    }
+
+    #ouibounce-modal #ouibounce-newsletter {
+        position: relative;
+    }
+
+    #ouibounce-modal .modal-footer p {
+        text-transform: none;
+    }
+
+    #ouibounce-modal .modal-title {
+        background-color: #13223C !important;
+    }
+
+    #ouibounce-modal .modal-body {
+        padding: 0;
+    }
+
+    #ouibounce-modal .modal {
+        width: 750px;
+        max-width: 90vw;
+        height: 390px;
+    }
+
+    #ouibounce-modal .nl-popup-bg {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+
+    #ouibounce-modal #ouibounce-form-email-modal {
+        position: absolute;
+        top: 235px;
+        left: 105px;
+        border: none !important;
+        width: 39.5%;
+        height: 40px !important;
+    }
+
+    #ouibounce-modal .trendbtn_broadcasts {
+        border: none;
+        background-color: #fde602;
+        border-radius: 15px;
+        color: #66848f !important;
+        font-weight: 600;
+        position: absolute;
+        top: 266px;
+        left: 13%;
+        text-transform: uppercase;
+    }
+
+    #ouibounce-modal #ouibounce-form-no {
+        margin-right: 25px;
+    }
+
+    #ouibounce-modal #ouibounce-form-no-abonniert {
+        position: absolute;
+        top: 335px;
+        left: 16%;
+        font-size: .75em;
+        cursor: pointer;
+    }
+
+    #ouibounce-modal #ouibounce-newsletter-close {
+        position: absolute;
+        right: -7px;
+        top: -10px;
+        cursor: pointer;
+    }
+
+    #ouibounce-modal #ouibounce-newsletter-close>img {
+        transform: rotate(-45deg);
+    }
+
+    @media only screen and (max-width: 832px) {
+        #ouibounce-modal .modal {
+            height: 47vw;
+        }
+
+        #ouibounce-modal #ouibounce-form-email-modal {
+            top: 28vw;
+        }
+
+        #ouibounce-modal .trendbtn_broadcasts {
+            top: 32vw;
+        }
+
+        #ouibounce-modal #ouibounce-form-no-abonniert {
+            top: 41vw;
+        }
+    }
+
+    @media only screen and (max-width: 695px) {
+        #ouibounce-modal #ouibounce-form-no-abonniert {
+            top: 42vw;
+            left: 2%;
+        }
+    }
+</style>
+
+<div class="cookie_warn_box bg-darkblue">
+	<div class="row">
+		<div class="cookie_warn_box_txt col-10">
+			Diese Website verwendet Cookies. Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies setzen. Bei uns sind Ihre Daten sicher. Wir geben keine Ihrer Analyse- oder Kontaktdaten an Dritte weiter! Weiterführende Informationen erhalten Sie in der <a href='https://www.kla.tv/index.php?a=showprivacy' class='cookie_warn_box_link_color'>Datenschutzerklärung</a>.
+		</div>
+		<div class="cookie_warn_box_btn col-2"><button class="btn_trend_white cookie_accepted_Btn">OK</button></div>
+	</div>
+</div>
+
+
+
+
+<!-- Das Hier ist für den Translator -->
+<div id="AjaxIniTranslator" data-backdrop="static" class="modal hide fade" tabindex="-1" role="dialog"
+	 aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+		<p></p>
+	</div>
+	<div class="modal-body">
+		<p>body content to be replaced</p>
+	</div>
+</div>
+
+<a href="javascript:" class="return-to-top"><i class="fa fa-angle-up"></i></a>
+
+<span style="display: none;" id="languageFromKtv">de</span>
+<div id="wrapper" class="big-banner">
+	<div id="header">
+
+		
+		
+		<!--{$begin VideoHQUpload}-->
+		<!-- Das Video in hoher Qualität hochladen -->
+		<div id="AjaxSendHighQuality" data-backdrop="static" class="modal hide fade" tabindex="-1" role="dialog"
+			 aria-labelledby="myModalLabel" aria-hidden="true" style="height:1200px; display: none;">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				<p></p>
+			</div>
+			<div class="modal-body">
+				<p>body content to be replaced</p>
+			</div>
+		</div>
+
+		<div id="AjaxSetTags" data-backdrop="static" class="modal hide fade" tabindex="-1" role="dialog"
+			 aria-labelledby="myModalLabel" aria-hidden="true" style="height: 1000px; display: none;">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				<p></p>
+			</div>
+			<div class="modal-body">
+				<p>body content to be replaced</p>
+			</div>
+		</div>
+		<!--{$end VideoHQUpload}-->
+
+
+
+
+		
+
+
+		<div class="container-fluid bg-white" id="telegram_adbox" style="display: none;">
+			<div class="container py-2">
+				<a href="https://t.me/s/KlagemauerTV" type="button" class="btn btn-telegram btn-lg btn-block"
+				   style="min-height: 35px;font-size: 1.3em;">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+						 aria-hidden="true" focusable="false" width="1.2em" height="1.05em"
+						 style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"
+						 preserveAspectRatio="xMidYMid meet" viewBox="0 0 448 512">
+						<path
+								d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"
+								fill="#ffffff" /></svg>
+					<span>Folge uns auf Telegram</span>
+				</a>
+			</div>
+		</div>
+
+
+		<div class="container-fluid bg-darkblue">
+			<div class="container">
+				<div class="row social-header">
+					<div class="col col-6 social-header-links">
+						<ul class="float-left">
+							<!--{$begin dynamiclinks-nav_ueberuns}-->
+							<li>
+								<a href="/index.php?a=showaboutus">Über uns</a>
+							</li>
+							<!--{$end dynamiclinks-nav_ueberuns}-->
+							<!--{$begin dynamiclinks-ad_material}-->
+							<li>
+								<a href="/index.php?a=showaboutus&sub=ad_material">Werbematerial</a>
+							</li>
+							<!--{$end dynamiclinks-ad_material}-->
+							<!--{$begin dynamiclinks-nav_material}-->
+							<li>
+								<a href="/index.php?a=showdvdiso">Streumaterial</a>
+							</li>
+							<!--{$end dynamiclinks-nav_material}-->
+							<!--{$begin dynamiclinks-vernetzung}-->
+							<li>
+								<a href="https://www.kla.tv/vernetzung" target="_blank">Vernetzung</a>
+							</li>
+							<!--{$end dynamiclinks-vernetzung}-->
+
+							<li>
+								<a href="/index.php?a=showcontact">Kontakt</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col col-6 social-header-icon">
+						<ul>
+							<li>
+								<a href="https://www.frei3.de/articlegroup/19adc422-d7d7-4b2a-8b86-3c7d6cd1f198" target="_blank"
+								   title="Kla.TV auf frei3"><img
+										src="/images/2018/social-icon/logo_frei3_weiss.png" /></a>
+							</li>
+							<li>
+								<a href="https://www.youtube.com/klagemauerTV" target="_blank" title="Kla.TV auf YouTube"><img
+										src="/images/2018/social-icon/icon_youtube.png" /></a>
+							</li>
+							<li>
+								<a href="https://www.facebook.com/klagemauerTV" target="_blank" title="Kla.TV auf Facebook"><img
+										src="/images/2018/social-icon/icon_facebook.png" /></a>
+							</li>
+							<li>
+								<a href="https://t.me/s/KlagemauerTV" target="_blank"
+								   title="Kla.TV auf Telegram"><img
+										src="/images/2018/social-icon/telegram_weiss.png" /></a>
+							</li>
+							<li>
+								<a href="https://www.instagram.com/kla.tv/" target="_blank"
+								   title="Kla.TV auf Instagram"><img
+										src="/images/2018/social-icon/instagram_weiss.png" /></a>
+							</li>
+							<li>
+								<a href="https://www.twitter.com/klagemauerTV" target="_blank" title="Kla.TV auf Twitter"><img
+										src="/images/2018/social-icon/icon_twitter.png" /></a>
+							</li>
+							<li>
+								<a href="https://vk.com/klagemauertv" target="_blank"
+								   title="Kla.TV auf VK"><img
+										src="/images/2018/social-icon/vk_weiss.png" /></a>
+							</li>
+							<li>
+								<a href="https://www.bitchute.com/channel/klatv/" target="_blank" title="Kla.TV auf BitChute"><img
+										src="/images/2018/social-icon/bitchute_weiss_v02.png" /></a>
+							</li>
+							<li>
+								<a href="https://lbry.tv/@KlaTV:0" target="_blank" title="Kla.TV auf Lbry"><img
+										src="/images/2018/social-icon/icon_lbry_v2.png" /></a>
+							</li>
+							<li>
+								<a href="https://archive.org/details/@kla_tv" target="_blank" title="Kla.TV auf Archive"><img
+										src="/images/2018/social-icon/icon_archive_v2.png" /></a>
+							</li>
+							<li>
+								<a href="/rss.php?lang=de" target="_blank" title="Kla.TV RSS"><img
+										src="/images/2018/social-icon/icon_rss.png" /></a>
+							</li>
+
+							<!--{$begin newsletterFooterMainPageTop}-->
+							<li>
+								<a href="/abo" role="button"
+								   class="btn btn-lightgreen w-100"
+								   style="font-size: 1.1em;height: 30px;padding: 0 5px;line-height: 28px;">Newsletter</a>
+							</li>
+							<!--{$end newsletterFooterMainPageTop}-->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div id="vue-language-mainmenu">
+			<language-menu-main rootslash="/" :onmountdisplay="'de' != 'de'" lang="de" :display="showLangMenu"></language-menu-main>
+
+
+			<div id="main_menu_header_bar" style="min-width: 960px;" class="container-fluid bg-white">
+				<div class="container">
+					<div class="row menu-header">
+						<div class="col-12 mt-4 menu-col">
+							
+<nav class="menu-nav">
+		<ul class="w-100" id="vuejs-menu">
+			<li class="float-left">
+				<a href="/index.php?a=showstart&lpage=false" style="padding: 0;"><img src="/images/_global/ktv-logo2018.png" height="83" alt="" class="klatv-logo"></a>
+			</li>
+			<li class="search mt-2 float-right" id="big_ac_search_input"> 
+				<div class="searchform_start">
+					<div>
+						<vuejs-autocomplete-item startSearchWithEnter="Suche starten mit »Enter«" suchbegriff_eingabe="Suche">
+						</vuejs-autocomplete-item>
+					</div>
+				</div>
+			</li>
+			
+			
+			
+			<li @click="toggleLangMenu()" id="vueLangMenuFlagElem" v-tooltipster title="Öffnen mit Klicken" class="lang-nav-item float-right">
+				<a class="capitalize menu_lang_icon" id="vueLangMenuFlagAnker"><img
+						src="/images/glob_language_bigger/24x24/de.png"
+						class="cur_lang_mainmenu_icon" alt="" /> de <span style="font-size: 10px;">(+
+						70 Sprachen)</span><img
+						src="/images/_global/arrow_down-dropdown.png" height="10" alt=""></a>
+			
+			</li>
+
+			<li class="float-right"><a href="/index.php?a=showportal">12 Rubriken <img src="/images/_global/arrow_down-dropdown.png" height="10" alt=""></a>
+				<ul>
+					
+					<li><a href="/index.php?a=showportal&keyword=bildung">Bildung & Erziehung</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17013"></a></li>
+							
+							<li><a href="/16786">Rechtsexpertin entlarvt Machtstruktur</a></li>
+							
+							<li><a href="/16580">Kritik am feministischen Extremismus</a></li>
+							
+							<li><a href="/16582">Gefährliches Experiment an schwedischen Vorschulkindern</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=bildung"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=gesundheit">Gesundheit & Medizin</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17269"></a></li>
+							
+							<li><a href="/17282">Corona und das Mittel der Angst</a></li>
+							
+							<li><a href="/17268"></a></li>
+							
+							<li><a href="/17263">Noch nie ein tödliches Coronavirus in der Schweiz? (von Richard Koller)</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=gesundheit"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=ideologie">Ideologie</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17266">Aufbruch der Neuen Welt - und ihre Phänomene (Teil 2 von 3)</a></li>
+							
+							<li><a href="/17237">Aufbruch der Neuen Welt - und ihre Phänomene (Teil 1 von 3 | Rubrik: Ideologie)</a></li>
+							
+							<li><a href="/17179">Sasek warnt Demonstranten: „Keine Schnellschüsse!“</a></li>
+							
+							<li><a href="/17125">Eine bessere Welt dank Corona?</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=ideologie"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=kultur">Kultur</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17288">♫ Unaufhaltsam ♫ – Familie Ebert mit Freunden</a></li>
+							
+							<li><a href="/17233">Lied: "Paradise"</a></li>
+							
+							<li><a href="/17200">Kla.TV-Konferenz März 2019: ♫ Schwarmintelligenz ♫ – Mathias Ebert mit Familie & Freunden</a></li>
+							
+							<li><a href="/17006">„Frei“  -  Ein Song von Veronika Dressler</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=kultur"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=medien">Medien</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17315">Friedenskette + Ernte-Dank-Demo: Zeichen für Frieden, Einheit und Wahrheit</a></li>
+							
+							<li><a href="/17312">Stark zensiert: Plandemic II: Indoctornation</a></li>
+							
+							<li><a href="/17308">Von Sasek „ausgebeuteter“ Mitarbeiter meldet sich zu Wort.</a></li>
+							
+							<li><a href="/17309">David Icke: Die aktuelle Weltgefahr heißt nicht Corona sondern Faschismus</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=medien"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=politik">Politik</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17280">Corona-Strategie: Angst erwünscht</a></li>
+							
+							<li><a href="/17264">Venezuela lässt US-Kopfgeldpolitik ins Leere laufen</a></li>
+							
+							<li><a href="/17257">Jens Spahn – ein Pharmalobbyist als Bundesgesundheitsminister</a></li>
+							
+							<li><a href="/17218">Rasanter 5G-Ausbau während des Lockdowns - Zufall oder Kalkül?</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=politik"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=rechtundunrecht">Justiz & Gesetze</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17224">AUNS-Referat zu CH-Abstimmung: „Kontrolle über Zuwanderung zurückerlangen“</a></li>
+							
+							<li><a href="/17175">,,Ein Raubtier ist und bleibt ein Raubtier“</a></li>
+							
+							<li><a href="/16910">Michael Ballweg – Initiator von „WIR FÜR DAS GRUNDGESETZ – QUERDENKEN711“</a></li>
+							
+							<li><a href="/16644">Kindesmissbrauch: Ex-Scotland-Yard-Beamter & Whistleblower Jon Wedger packt aus</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=rechtundunrecht"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=terror">Terror</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17195">9/11: Eine nukleare Kernschmelze?</a></li>
+							
+							<li><a href="/16907">Anonymous-Rebels distanzieren sich – wer steckt hinter dem Hackerangriff?</a></li>
+							
+							<li><a href="/16904">Virtuelle Auftragskiller - Sasek kontert Hackerangriffe auf Kla.TV</a></li>
+							
+							<li><a href="/16788">Putsch gegen Venezuelas Regierung scheitert am nationalen Zusammenhalt</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=terror"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=umwelt">Umwelt</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17300">KLIMAWANDEL – Realität, Irrtum oder Lüge?</a></li>
+							
+							<li><a href="/16925">Klimawandel: 97 % Einigkeit unter Wissenschaftlern hat es nie gegeben</a></li>
+							
+							<li><a href="/16504">Michael Jordan:  Früherkennung mobilfunkgeschädigter Bäume</a></li>
+							
+							<li><a href="/16286">CO2-Debatte als Ablenkung von Wettermanipulationen durch Militärs</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=umwelt"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=technik">Technik</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17250">Cui bono – wem nützt das vielgepriesene E-Auto?</a></li>
+							
+							<li><a href="/17249">Die teuer erkauften Rohstoffe der modernen Hochleistungsakkus</a></li>
+							
+							<li><a href="/17104">Google, Facebook  auf der Anklagebank wegen versuchtem Völkermord</a></li>
+							
+							<li><a href="/17031">Der perfide Plan des “World Economic Forum” 2020</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=technik"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=wirtschaft">Wirtschaft</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17276">Corona: wer profitiert von der Weltwirtschaftskrise?</a></li>
+							
+							<li><a href="/17124">Bauernopfer - Dokumentarfilm über die Landwirtschaft</a></li>
+							
+							<li><a href="/16692">„Im Schatten der Pandemie - die große Umverteilung“</a></li>
+							
+							<li><a href="/16526">Wie sicher ist Deutschlands Stromnetz aktuell?</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=wirtschaft"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+					<li><a href="/index.php?a=showportal&keyword=wissenschaft">Wissenschaft</a>
+						<ul class="dirlinks">
+							
+							<li><a href="/17038">Corona-Impfstoff: Größere Gesundheitsgefahr als die Erkrankung selbst?</a></li>
+							
+							<li><a href="/16961">CoV-2 aus dem Labor? Was die wissenschaftliche Literatur verrät</a></li>
+							
+							<li><a href="/16952">Dokumentation: Erdöl im Überfluss</a></li>
+							
+							<li><a href="/16738">Illegale Biowaffenforschung</a></li>
+							
+							<li><a href="/index.php?a=showportal&keyword=wissenschaft"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+				</ul>
+			</li>
+			<li class="float-right"><a href="#">Sendeformate <img src="/images/_global/arrow_down-dropdown.png" height="10" alt=""></a>
+				<ul data-lang="de" id="menu_broadcast_format" ref="menuBroadcast">
+					<li v-for="elem in broadcastformatlist">
+						<a :href="'/' + elem.url_name">
+							<span v-if="elem.options" v-html="elem.options.icon"></span>
+							{{elem.title}}
+						</a>
+						<ul class="dirlinks">
+							<h5>{{elem.description}}</h5>
+							<li v-if="elem.videos" v-for="video in elem.videos.slice(0,4)">
+								<a :href="'/' + elem.url_name + '/' + video.id">
+									{{video.title}}
+								</a>
+							</li>
+							<li><a :href="'/' + elem.url_name"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+
+
+<!-- BEGIN AngularJS VueJS refactoring Trend Menu-->
+
+			<li  data-trendmenu="true" class="float-right"><a href="/#">Trends <img src="/images/_global/arrow_down-dropdown.png" height="10" alt=""></a>
+				<ul v-if="vm.trends.length > 0">
+				
+				 
+
+
+			<div id="default_mainmenu_trends_big_div"  style="width: 871px;background-color: white;height: 300px;margin-left: -253px;">
+					
+
+
+<div class="trendsbox" v-bind:class="{'d-block': vm.ready}" style="width: 947px;padding: 8px;height: 547px;background: #013968;">
+        <div class="d-flex justify-content-center mt-3" v-if="vm.trends.length == 0" >
+                <div>
+                    <img class="ktv_fancy_loader_circle" src="images/loader_klatv.gif"/>
+                </div>
+            </div>
+		<span v-if="vm.trends.length > 0">
+		<div class="item" style="background-color: white;">
+                <div class="row" style="width: 933px;">
+                    <div class="col col-5">
+						<a style="padding: 0;" :href="'/' + vm.trends[0].id + '&autoplay=true'">
+                        <div class="menu_trendlayer"
+                             onmouseleave="	$(this).children('.menu_trendplayericon').hide();
+        														$(this).children('.menu_trendicon').show();"
+                             onmouseenter="	$(this).children('.menu_trendicon').hide();
+        														$(this).children('.menu_trendplayericon').show();">
+                            <div class="menu_trendicon"><span>1</span></div>
+                            <div class="menu_trendplayericon"></div>
+                            <br/>
+                        </div>
+                        <div class="menu_trendblacklayer" style="height: 215px; width: 347px;"></div>
+                        <div class="menu_trendbottomlayer">
+                            <div class="menu_trendVidTime">{{vm.trends[0].videotime}}</div>
+                            <div class="menu_trendKlaLink">www.kla.tv/{{vm.trends[0].id}}</div>
+                        </div>
+						<img :src="vm.trends[0].img_big" style="margin-left: 5px; width: 346px;"/>
+						</a>
+                    </div>
+
+                   <div class="col" style="color: #000;">
+                        <h3 style="color: black;" v-html="vm.trends[0].title"></h3>
+                        <p style="color: black;display: block;font-family: sans-serif;line-height: 1.6;width: 96%;max-height: 150px;" v-html="vm.trends[0].desc"></p>
+                       
+
+
+					<smartstatstar  lang_view="Ansichten" lang_popular="Beliebt" :videoid="parseInt(vm.trends[0].id)" :format="'big'" basepath="/"></smartstatstar>
+					
+					
+
+
+
+                    <div class="socialsvideo" style="margin-bottom: -16px; margin-top: 9px;">
+                        <a :href=" 'mailto:' +  rawurlencode('BITTE HIER DIE E-MAIL EINTRAGEN,') + '?subject=' + rawurlencode('Kla.TV-Empfehlung | www.kla.tv/' + vm.trends[0].id + ' | ' + vm.trends[0].title) + '&body=' + rawurlencode('Hallo, das könnte interessant für Dich sein:\n\n' + vm.trends[0].title + '\n\n' + vm.trends[0].desc + '\n\n' + 'https://www.kla.tv/' + vm.trends[0].id)" title="via E-Mail empfehlen" class="social-share-buttons social-share-mail"><i class="fa fa-envelope"></i></a>
+						<a v-if="vm.trends[0].youtube_link.length > 1" :href="'https://www.youtube.com/c/KlaTv'" target="_blank" title="Video auf YouTube anschauen" class="social-share-buttons social-share-youtube"><i class="fa fa-youtube"></i></a>
+						<a :href="'https://www.facebook.com/sharer.php?u=' + encode('https://www.kla.tv/' + vm.trends[0].id)" title="Auf Facebook teilen" data-title="Facebook" data-social-type="facebook" data-our-share-page="https://www.kla.tv/" target="_blank" class="social-share-buttons social-share-facebook social-share-windows"><i class="fa fa-facebook"></i></a>
+						<a :href="'https://twitter.com/intent/tweet?text=' + encode('@klagemauerTV: ' + vm.trends[0].title + '\n' + ktv_link_to_youtube_or_website(vm.trends[0]))" title="Auf Twitter teilen" data-title="Twitter" target="_blank" class="social-share-buttons social-share-twitter social-share-windows"><i class="fa fa-twitter"></i></a>
+						<a :href="'tg://msg_url?url=' + encode(vm.trends[0].title + '\n' + ktv_link_to_youtube_or_website(vm.trends[0]))" target="_blank" title="Auf Telegram teilen" class="social-share-buttons social-share-telegram">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1.2em" height="1.08em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 448 512"><path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z" fill="#ffffff"/></svg>
+						</a>
+						<a v-if="vm.trends[0].vimeo.length > 1" :href="'https://vimeo.com/' + vm.trends[0].vimeo" target="_blank" title="Video auf Vimeo anschauen" class="social-share-buttons social-share-vimeo"><i class="fa fa-vimeo"></i></a>
+                        <a :href="'whatsapp://send?text=' + encode(vm.trends[0].title + '\n' + ktv_link_to_youtube_or_website(vm.trends[0]))" data-action="share/whatsapp/share" title="Auf Whatsapp teilen" data-title="Whatsapp" target="_blank" class="social-share-buttons social-share-whatsapp social-share-windows"><i class="fa fa-whatsapp"></i></a>
+						<a :href="'sms:?&body=' + encode(vm.trends[0].title + '\n' + ktv_link_to_youtube_or_website(vm.trends[0]))" title="Per SMS weiterleiten" class="social-share-buttons social-share-sms"><i class="fa fa-comments-o" aria-hidden="true" ></i></a>
+						<a :href="'//vk.com/share.php?url=' + encode('https://www.kla.tv/' + vm.trends[0].id + '?social-ref=vk')" title="Auf VK teilen" data-title="VK" target="_blank" class="social-share-buttons social-share-vk social-share-windows"><i class="fa fa-vk"></i></a>
+                    </div>
+                </div>
+        </div>
+
+
+        <div class="trendtinyboxcontainer item" style="height: 290px; ">
+            <div class="row" style="width: 934px;">
+                <a :href="'/' + trend.id + '&autoplay=true'" style="margin-left: -8px;" class="col col-3 menu_trendimage_a"
+                   v-for="(trend, index) in vm.trends.slice(1)">
+				   
+				   <div class="item trendtinybox" style="min-height: 147px;">
+                        <div class="trendimage"
+                             onmouseleave="	$(this).children('.trendtinyplayericon').hide();
+																	$(this).children('.trendtinyicon').show();
+																	$(this).children('.trendtinylayer').fadeIn(300);"
+                             onmouseenter="	$(this).children('.trendtinyicon').hide();
+																	$(this).children('.trendtinyplayericon').show();
+																	$(this).children('.trendtinylayer').fadeOut(100);">	
+                            <div class="trendtinyicon"><span style="margin-top: 15px;">{{index+2}}</span></div>
+                            <div class="trendtinyplayericon"></div>
+                            <div class="trendtinylayer"></div>
+                            <div class="trendtinybottomlayer">
+                                <div style="position: absolute; height: 18px;padding-top: 4px;margin-top: 1px; font-size:13px;" class="trendtinyVidTime">{{trend.videotime}}</div>
+                                <div style="height: 18px;padding-top: 4px;margin-top: 5px;" class="trendtinyKlaLink">www.kla.tv/{{trend.id}}</div>
+							</div>
+							<img class="trendpicturemin" style="height: 134px;" :src="trend.img_small"/>
+							</div>
+						</div>
+					<div style="margin-bottom: 4px;margin-left: 7px;width: 217px;"><span style="font-size: 15px;margin-bottom: 10px;line-height: 1.1;font-weight: 500;" 
+						v-html="textWithDots(trend.title)" class="text-black"></span></div>
+						
+						<smartstatstar  style="margin-left: 6px;"  lang_view="Ansichten" lang_popular="Beliebt" :videoid="parseInt(trend.id)"
+							:format="'small'" basepath="/"></smartstatstar>
+						
+		
+                    </div>
+                </a>
+            </div>
+        </div>
+		</span>
+
+			<a hash="trends" class="main_menu_startsite_scroll_anchor" href="/go#/trends">
+				<div style="font-weight: 400;width: 897px;margin-top: -60px;display: block;position: absolute;margin-left: 7px;"
+					class="trendbtn_broadcasts" >Weitere Trends anzeigen</div>
+			</a>
+
+				<div class="clearfix"></div>
+				</div>
+			</div>
+			
+			</ul>
+			</li>
+		
+<!-- END AngularJS VueJS refactoring Trend Menu-->
+
+
+
+
+			<li class="float-right"><a href="/index.php?a=showstart&lpage=false">Start <img src="/images/_global/arrow_down-dropdown.png" height="10" alt=""></a>
+				<ul>
+					<li><a href="/index.php?a=showformular"><img src="/images/icons/start-left-box-icons/hand_write.png" alt="" width="25" style="margin-top: -5px; margin-left: 0;position: relative;">Klage einreichen</a></li>
+					<li><a class="main_menu_startsite_scroll_anchor" hash="newest-broadcast"><img src="/images/icons/start-left-box-icons/neuesteSendungen.png" alt="" width="25" style="margin-top: -5px; margin-left: 0;position: relative;">Neueste Sendungen</a></li>
+					<li><a href="/playlists"><img
+								src="/images/icons/ic_playlist_layer_white_140px.png" alt="" width="25"
+								style="margin-top: -5px; margin-left: 0;position: relative;">Playlists</a></li>
+
+
+					<li><a class="main_menu_startsite_scroll_anchor" hash="trends"><img src="/images/icons/start-left-box-icons/trends.png" alt="" width="25" style="margin-top: -5px; margin-left: 0;position: relative;">Kla.TV-Trends</a></li>
+					<li><a class="main_menu_startsite_scroll_anchor" hash="akttopdoku"><img src="/images/icons/start-left-box-icons/topDokufilme.png" alt="" width="25" style="margin-top: -5px; margin-left: 0;position: relative;">Top-Dokufilme</a></li>
+					<li><a class="main_menu_startsite_scroll_anchor" hash="top-broadcasts"><img src="/images/icons/start-left-box-icons/empfehlungen.png" alt="" width="25" style="margin-top: -5px; margin-left: 0;position: relative;">Infos zu Ländern</a></li>
+					
+					
+					<li><a href="/index.php?a=newsletterslider"><img src="/images/icons/start-left-box-icons/news.png" alt="" width="25" style="margin-top: -5px; margin-left: 0;position: relative;">Newsletter</a>
+						<ul class="dirlinks">
+							
+							<li style="cursor: pointer;"><a class="main_menu_newsletter_anchor" hash="week=2020-39" >Newsletter der Woche: 39 / 2020</a></li>
+							
+							<li style="cursor: pointer;"><a class="main_menu_newsletter_anchor" hash="week=2020-38" >Newsletter der Woche: 38 / 2020</a></li>
+							
+							<li style="cursor: pointer;"><a class="main_menu_newsletter_anchor" hash="week=2020-37" >Newsletter der Woche: 37 / 2020</a></li>
+							
+							<li style="cursor: pointer;"><a class="main_menu_newsletter_anchor" hash="week=2020-36" >Newsletter der Woche: 36 / 2020</a></li>
+							
+							<li><a href="/index.php?a=newsletterslider"><b>mehr ...</b></a></li>
+						</ul>
+					</li>
+					
+				</ul>
+			</li>
+		</ul>
+</nav>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="hashtag-menu-wrap container" ref="hashtagMenu" data-lang="de"
+			 id="hashtag_menu_view" v-show="loading && hashtagmenulist.length > 0" style="display: none;">
+			<ul class="hashtag-menu">
+				<li><span><a href="/playlists">Top-Themen:</a></span></li>
+				<li class="hashtag-container" v-for="hashtagitem in hashtagmenulist.slice(0, maxTopHashtag)">
+						<span><a :href="'/'+hashtagitem.url_name"
+								 class="text-white hashtag-menu-name">#{{hashtagitem.name}}</a></span>
+					<div class="hashtag-box">
+						<div>
+							<div class="hashtag-headline-container mb-3">
+								<span class="hashtag-headline-line"></span>
+								<h2>{{hashtagitem.title}}</h2>
+							</div>
+							<p class="hashtag-desc mb-4">
+								{{hashtagitem.description}}
+							</p>
+							<div class="container hashtag-video-container">
+								<div class="row" style="min-width: 930px;">
+									<div class="col-md-3"
+										 v-for="(video, index) in hashtagitem.videos.slice(0,vidlimit)" :key="index">
+										<a class="hashtag-video-link"
+										   :href="'/'+hashtagitem.url_name+'/'+video.id">
+											<div class="hashtag-video-img-wrapper">
+												<img class="hashtag-video-thumb" :src="loadW275(video)" />
+												<img class="hashtag-play-img"
+													 src="/images/2018/player-icon_80px.jpg" />
+												<span class="video-duration">{{video.timestring}}</span>
+											</div>
+											<p class="video-desc">
+												<strong v-html="textWithDots(video.title)"></strong>
+											</p>
+										</a>
+										<smartstatstar lang_view="Ansichten" :videoid="video.id"
+													   :format="'small'" :basepath="'/'"></smartstatstar>
+									</div>
+								</div>
+							</div>
+							<div class="hashtag-mehr-zu-btn mt-4">
+								<a class="trendbtn_broadcasts" :href="'/'+hashtagitem.url_name">
+									<span>Mehr zu #{{hashtagitem.name}}</span>&nbsp;<small>({{hashtagitem.count}}
+									Videos)</small>
+								</a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="hashtag-container hashtag-mehr">
+						<span><a href="/playlists"
+								 title="Mehr Top-Themen ansehen">mehr...</a></span>
+					<div class="hashtag-box hashtag-small-more"
+						 v-if="hashtagmenulist.slice(maxTopHashtag).length > 0">
+						<div>
+							<div class="container hashtag-video-container">
+								<div class="row">
+									<div class="col-md-4 py-3 hashtag-title-more"
+										 v-for="hashtagitem in hashtagmenulist.slice(maxTopHashtag)">
+										<a class="hashtag-video-link"
+										   :href="'/'+hashtagitem.url_name"
+										   :title="hashtagitem.title">
+											<h5 class="text-muted">#{{hashtagitem.name}}</h5>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="hashtag-mehr-zu-btn mt-4">
+								<a class="trendbtn_broadcasts" :href="'/playlists'">
+									<span>Alle Themen</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+
+		<div class="container-fluid mt-4" id="darkblue_gradient_container">
+			<div class="main-area container">
+
+
+				<div data-showstart-controller>
+ 
+
+    <!--<div class="marquee">
+        <a href="/5G">
+            <b>+++ Fake-News!</b> Angebliches 5G-Panik-Video ist nicht von Ivo Sasek. Seine Stellungnahme folgt demnächst hier auf Kla.TV. &nbsp; &nbsp; &nbsp; &nbsp;
+            <b>+++</b><i>Bleiben Sie dran!</i> <b>+++</b>
+        </a>
+    </div>-->
+    
+  
+
+    <div class="row link_content">
+
+        <div class="carousel slide col-6">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div><a title="Hackerangriffe auf KlaTV" href="https://www.kla.tv/Hacker"> <img class="d-block img-fluid" src="_files/image.klagemauer.tv/werbung_img/20200731_KlaTV_Headerbanner_Hackerangriffe_af_v02.png" alt="Hackerangriffe auf KlaTV" width="900" height="230" /> </a></div>
+</div>
+<div class="carousel-item">
+<div><a title="Sasek warnt Demonstranten - keine Schnellschuesse" href="https://www.kla.tv/17179"> <img class="d-block img-fluid" src="_files/image.klagemauer.tv/werbung_img/20200909_KlaTV_Headerbanner_WarnungDemonstranten_rina_v04.jpg" alt="Sasek warnt Demonstranten - keine Schnellschuesse" /> </a></div>
+</div>
+<div class="carousel-item">
+<div><a title="Komplizen des Schreckens - Medienverdeckte Voelkermorde" href="https://www.kla.tv/17164"> <img class="d-block img-fluid" src="_files/image.klagemauer.tv/werbung_img/20200909_KlaTV_Headerbanner_KomplizenSchrecken_v01.jpg" alt="Komplizen des Schreckens - Medienverdeckte Voelkermorde" /> </a></div>
+</div>
+</div>
+</div>
+<div class="carousel slide col-6">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div><a title="Coronavirus" href="https://www.kla.tv/Coronavirus"> <img class="d-block img-fluid" src="_files/image.klagemauer.tv/werbung_img/20200527_KlaTV_Headerbanner_Corona_v02.jpg" alt="Coronavirus - Ursprung, Hintergr&uuml;nde &amp; Ziele" /> </a></div>
+</div>
+<div class="carousel-item">
+<div><a title="Aufbruch der neuen Welt" href="https://www.kla.tv/17266"> <img class="d-block img-fluid" src="_files/image.klagemauer.tv/werbung_img/20200919_EGT_AufbruchDerNeuenWelt_Teil1_Banner_Isi_Teil2.png" alt="Aufbruch der neuen Welt - und ihre Ph&auml;nomene" /> </a></div>
+</div>
+</div>
+</div>
+
+        <!-- Change Bootstrap Carousel to up-to-down direction -->
+        <style type="text/css">
+            /* Solution from here: https://stackoverflow.com/a/44383068 */
+            .carousel-item-next.carousel-item-left,
+            .carousel-item-prev.carousel-item-right {
+                -webkit-transform: translate3d(0, 0, 0);
+                transform: translate3d(0, 0, 0);
+            }
+            .carousel-item-next,
+            .active.carousel-item-right {
+                -webkit-transform: translate3d(0, -100%, 0);
+                transform: translate3d(0, -100%, 0);
+            }
+            .carousel-item-prev,
+            .active.carousel-item-left {
+                -webkit-transform: translate3d(0, +100%, 0);
+                transform: translate3d(0, +100, 0);
+            }
+
+            /* Change transition time to next slide: https://stackoverflow.com/a/17332516 */
+            .carousel-inner .carousel-item {
+                transition: -webkit-transform 2.5s ease;
+                transition: transform 2.5s ease;
+                transition: transform 2.5s ease, -webkit-transform 2.5s ease;
+            }
+        </style>
+        <!-- Start Bootstrap Carousel -->
+        <script type="text/javascript">
+            (function($){
+                $(document.body).ready(function(){
+
+                    /* Change transition time to next slide: https://stackoverflow.com/a/17332516 */
+                    $.fn.carousel.Constructor.TRANSITION_DURATION = 2500;  // 2 seconds
+
+                    $('.carousel').carousel({
+                        interval: 8000
+                    })
+                })
+            })(jQuery);
+        </script>
+
+
+     
+    </div>
+
+
+    <div class="row mt-4 mb-3" ng-controller="showstartLanguages">
+        <div class="col-2 start-left-banner-col"> <!-- class="home-banner-category" -->
+
+            <div class="start-left-banner">
+                <div>
+                    <div class="start-left-box-wrapper">
+                        <a href="/index.php?a=showformular" hash="">
+                            <div class="start-left-box bg-white">
+                                <div class="start-left-icon bg-darkblue">
+                                    <img src="images/icons/start-left-box-icons/hand_write.png"
+                                         alt="">
+                                </div>
+                                <div class="start-left-text">
+                                    <b style='font-size: 24px;'>Klage</b><br><span style='font-size: 16px;'>einreichen</span>
+                                </div>
+                            </div>
+                            <div class="start-left-line"></div>
+                        </a>
+                    </div>
+                    <div class="start-left-box-wrapper">
+                        <a class="main_menu_startsite_scroll_anchor" hash="trends">
+                            <div class="start-left-box bg-white">
+                                <div class="start-left-icon bg-darkblue">
+                                    <img src="images/icons/start-left-box-icons/trends.png"
+                                         alt="">
+                                </div>
+                                <div class="start-left-text">
+                                    Kla.TV-Trends
+                                </div>
+                            </div>
+                            <div class="start-left-line"></div>
+                        </a>
+                    </div>
+                    <div class="start-left-box-wrapper">
+                        <a class="main_menu_startsite_scroll_anchor" hash="akttopdoku">
+                            <div class="start-left-box bg-white">
+                                <div class="start-left-icon bg-darkblue">
+                                    <img src="images/icons/start-left-box-icons/topDokufilme.png"
+                                         alt="">
+                                </div>
+                                <div class="start-left-text">
+                                    TOP- Dokufilme
+                                </div>
+                            </div>
+                            <div class="start-left-line"></div>
+                        </a>
+                    </div>
+                    <div class="start-left-box-wrapper">
+                        <a class="main_menu_startsite_scroll_anchor" hash="top-broadcasts">
+                            <div class="start-left-box bg-white">
+                                <div class="start-left-icon bg-darkblue">
+                                    <img src="images/icons/start-left-box-icons/empfehlungen.png"
+                                         alt="">
+                                </div>
+                                <div class="start-left-text">
+                                    Infos zu Ländern
+                                </div>
+                            </div>
+                            <div class="start-left-line"></div>
+                        </a>
+                    </div>
+                    <div class="start-left-box-wrapper">
+                        <a href="/?a=showplaylist">
+                            <div class="start-left-box bg-white">
+                                <div class="start-left-icon bg-darkblue">
+                                    <img src="images/icons/ic_playlist_layer_white_140px.png" alt="">
+                                </div>
+                                <div class="start-left-text">
+                                    Playlists
+                                </div>
+                            </div>
+                            <div class="start-left-line"></div>
+                        </a>
+                    </div>
+                    <div class="start-left-box-wrapper">
+                        <a href="/news">
+                            <div class="start-left-box bg-white">
+                                <div class="start-left-icon bg-darkblue">
+                                    <img src="images/icons/start-left-box-icons/news.png"
+                                         alt="">
+                                </div>
+                                <div class="start-left-text">
+                                    News erhalten!
+                                </div>
+                            </div>
+                            <div class="start-left-line"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ***************** - Homepage jQuery Slider - ***************** -->
+        <div class="col-10 start-right-player-col"> <!--class="home-banner-wrap-medium"-->
+            <div class="startpageplayer-wrapper"> <!-- -->
+                <!--Render Player here-->
+                <!--{$begin klaTVPlayerJs}-->
+<link href="/_files/system.klagemauer.tv/skyClick/dist/skyclick.css?v=1.0.1" rel="stylesheet">
+<link href="/_files/system.klagemauer.tv/skyClick/skin/klatv/dist/skin.css?v=1.0.1" rel="stylesheet">
+<script type="text/javascript" src="/_files/system.klagemauer.tv/skyClick/dist/skyclick.js?v=1.0.1"></script>
+
+<script type="text/javascript" src="/js/skyclick.ktv.plugins.js?v=20201001"></script>
+<link href="/style_relatedvideo.css?v=20171118-v2" rel="stylesheet" type="text/css" />
+<!--{$end klaTVPlayerJs}-->
+
+<!-- This two div elements (klatv-player-wrapper + klatv-player-wrapper-size-helper) is needed to
+prevent height jumping, when player will be loaded & the player has the full width and height that is availabe.
+The inner div (klatv-player-wrapper-size-helper) is needed, that not not position of player itself must changed to "absolute",
+because player element can depend on position:relative of player itself.-->
+<div class="klatv-player-wrapper">
+    <div class="klatv-player-wrapper-size-helper">
+        <video id="klaTVPlayer1" class="klaTVPlayer"></video>
+    </div>
+</div>
+<script>
+    $(document).ready(function() {
+        var skyClickPlayerJson = {
+    "poster": "\/_files\/image.klagemauer.tv\/themeblock_img\/_startscreens\/2020-10-04_todaybroadcast.png",
+    "language": "en",
+    "playlist": [
+        {
+            "poster": "\/_files\/image.klagemauer.tv\/themeblock_img\/_startscreens\/2020-10-04_todaybroadcast.png",
+            "qualities": [
+                {
+                    "src": "\/_files\/video.kla.tv\/2016\/09\/8985\/KlaTvWerbeclip_1080p.webm",
+                    "label": "1080p HD",
+                    "default": false,
+                    "ad": true
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2016\/09\/8985\/KlaTvWerbeclip_720p.webm",
+                    "label": "720p HD",
+                    "default": false,
+                    "ad": true
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2016\/09\/8985\/KlaTvWerbeclip_480p.webm",
+                    "label": "480p SD",
+                    "default": true,
+                    "ad": true
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2016\/09\/8985\/KlaTvWerbeclip_360p.webm",
+                    "label": "360p MQ",
+                    "default": false,
+                    "ad": true
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2016\/09\/8985\/KlaTvWerbeclip_180p.webm",
+                    "label": "180p NQ",
+                    "default": false,
+                    "ad": true
+                }
+            ],
+            "overlays": [],
+            "textTracks": [
+                {
+                    "src": "\/_files\/video.kla.tv\/2016\/09\/8985\/KlaTvWerbeclip_preview.vtt",
+                    "kind": "thumbnails"
+                }
+            ],
+            "metadata": {
+                "videoId": 8985,
+                "videoDate": "Dienstag, 13.09.2016",
+                "blockId": 16074,
+                "startFromHere": null,
+                "repeatedBroadcastLabel": "Archiv-Sendung",
+                "isRepeatedBroadcast": false,
+                "blockKeyword": "2020-10-04"
+            }
+        },
+        {
+            "poster": "\/_files\/image.klagemauer.tv\/themeblock_img\/_startscreens\/2020-10-04_todaybroadcast.png",
+            "qualities": [
+                {
+                    "src": "\/_files\/video.kla.tv\/2020\/10\/17315\/FriedensketteACsErnteDankDemoZ_1080p.webm",
+                    "label": "1080p HD",
+                    "default": false,
+                    "ad": false
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2020\/10\/17315\/FriedensketteACsErnteDankDemoZ_720p.webm",
+                    "label": "720p HD",
+                    "default": false,
+                    "ad": false
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2020\/10\/17315\/FriedensketteACsErnteDankDemoZ_480p.webm",
+                    "label": "480p SD",
+                    "default": true,
+                    "ad": false
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2020\/10\/17315\/FriedensketteACsErnteDankDemoZ_360p.webm",
+                    "label": "360p MQ",
+                    "default": false,
+                    "ad": false
+                },
+                {
+                    "src": "\/_files\/video.kla.tv\/2020\/10\/17315\/FriedensketteACsErnteDankDemoZ_180p.webm",
+                    "label": "180p NQ",
+                    "default": false,
+                    "ad": false
+                }
+            ],
+            "overlays": [],
+            "textTracks": [
+                {
+                    "src": "\/_files\/video.kla.tv\/2020\/10\/17315\/FriedensketteACsErnteDankDemoZ_preview.vtt",
+                    "kind": "thumbnails"
+                }
+            ],
+            "metadata": {
+                "videoId": 17315,
+                "videoDate": "Sonntag, 04.10.2020",
+                "blockId": 16074,
+                "startFromHere": true,
+                "repeatedBroadcastLabel": "Archiv-Sendung",
+                "isRepeatedBroadcast": false,
+                "blockKeyword": "2020-10-04"
+            }
+        }
+    ],
+    "autoplay": false,
+    "plugins": {
+        "related": {
+            "src": "\/?get_related_json=yes_get_related_json&rel_id=17315&app=showstart",
+            "autoPlayTimer": 10,
+            "heading": "Chronologisch r\u00fcckw\u00e4rts:",
+            "datestring": "Samstag, 03.10.2020",
+            "date": "2020-10-03"
+        },
+        "ktvSettings": {
+            "playlistMode": "THEMEBLOCK"
+        },
+        "ktvConstants": [],
+        "ktvUtilities": [],
+        "ktvRepeatingBroadcastFlag": [],
+        "ktvShortLinkFlag": [],
+        "ktvTabSwitcher": [],
+        "ktvJumpToTime": [],
+        "ktvUpdateTimeShortLink": [],
+        "ktvStatistic": [],
+        "ktvSmartstatsStar": {
+            "smartstats_url": "https:\/\/smartstats.kla.tv\/v1\/stats\/",
+            "basepath": "\/",
+            "lang": {
+                "popular": "Beliebt",
+                "views": "Ansichten"
+            }
+        },
+        "resolutionCookieStorage": {
+            "cookieName": "ktv.user.selectedVideoQuality"
+        }
+    }
+};
+        if(skyClickPlayerJson.plugins && skyClickPlayerJson.plugins.related && skyClickPlayerJson.plugins.related.heading && skyClickPlayerJson.plugins.related.date) {
+            var date = skyClickPlayerJson.plugins.related.date;
+            var heading;
+            var akt = new Date(new Date().setUTCHours(0,0,0,0));
+            var d = new Date(date);
+            var timeDiff = Math.abs(akt.getTime() - d.getTime());
+            if(timeDiff == 0) {
+                heading = "Heutige Sendung:";
+            }
+            else if(timeDiff == 86400000) { // gestern
+                heading = "Sendung von gestern:";
+            }
+            else if(timeDiff == 172800000) {
+                heading = "Sendung von vorgestern:";
+            }
+            else {
+                heading = "Chronologisch rückwärts:";
+            }
+            skyClickPlayerJson.plugins.related.heading = heading;
+        }
+        var e = SkyClick.setup("klaTVPlayer1", skyClickPlayerJson);
+        window.klaTVPlayer1 = e;
+    })
+</script>
+
+                <!--Render Player here-->
+            </div>
+
+            <div class="videoinfo-tabs-wrapper mt-5">
+                
+                <link rel="stylesheet" type="text/css"
+	href="/bower_components/components-font-awesome/css/font-awesome.min.css" media="screen" />
+
+<!------------- TITLE, TABS and VOT-UP BEGIN ---- {$begin comm_title}--------------------->
+
+<!--div data-video-id="17315"" bewirkt, dass Tabs auf Startseite erst später angezeigt werden-->
+
+<div data-video-id="17315" style="clear: both; background-color: white; " class="vid_desc" >
+
+	<div class="row" style="padding-left: 15px; padding-right: 15px; ">
+		<div class="col-12 left" >
+
+			<div class="row col-12 hashtag-popularstar-bar">
+				<div class="col-12 left hashtag-small" style="margin-top: 10px; font-size: 1.3rem; ">
+					<a class="mr-4 d-inline-block" href="/Coronavirus">#Coronavirus</a><a class="mr-4 d-inline-block" href="/Friedensbewegung">#Friedensbewegung</a><a class="mr-4 d-inline-block" href="/Medienkommentare">#Medienkommentare</a>
+				</div>
+			</div>
+		
+			<div class="row video-title">
+				<h1 class="col h4 mb-2 mt-3">
+					<b>Friedenskette + Ernte-Dank-Demo: Zeichen für Frieden, Einheit und Wahrheit</b>
+				</h1>
+			</div>
+
+			<div class="text-fontsize row" style="padding: 15px 0px 15px 0px; margin: 0px; ">
+					<div class="col-12" style="max-width: 605px; padding: 0px; float: left; ">
+						<span class="edit">
+						<span style="color: #000;" id="video_desc_{$editvidID}"
+							rel="video*desc*{$editvidID}">Tausende Menschen bildeten am Wochenende eine Atmosphäre des Aufatmens, getragen von Frieden, Harmonie und Einheit. Sie erzeugten somit einen deutlichen Gegenpol zur Spaltung im Zuge der Corona-Panik durch Politik und Medien und den krassen Folgen der verordneten Maßnahmen, die anerkannte Wissenschaftler als völlig unangebracht bezeichnen. Was ist, wenn sich Friede, Harmonie und Aufatmen tatsächlich als Gradmesser für die Wahrheit erweisen?</span>
+						</span>
+						<!--{$begin vidtab_readmore_snippet}-->
+						<a id="vidtab_readmore_tag" style="font-weight: bold;" data-tab-selector="#sendungstext-tab-17315">[weiterlesen]</a>
+						<!--{$end vidtab_readmore_snippet}-->
+						<br /><br />
+						<div data-smartstats-star-video lang_view="Ansichten"
+								lang_popular="Beliebt" basepath="/" format="small"
+								videoid="17315">
+						</div>
+						<button class="save" rel="edit_desc_{$editvidID}"><img
+								src="/images/icons/save.png" title="Speichern" /></button>
+						
+						
+
+					</div>
+			</div>
+
+		
+
+			<div style="font-style: italic; color: #555; margin-bottom: 10px; ">
+				Lizenz: <img style="height: 20px" src="/images/icons/CC_InCircle_icon.svg"><img style="height: 20px" 
+					src="/images/icons/BY_ManInCircle_icon.svg"> Creative Commons-Lizenz mit Namensnennung
+				<i class="fa fa-info-circle social-info-tokken ng-scope tooltipstered" aria-hidden="true" data-tooltip-max-width="300" 
+					data-tooltip-content="Verbreitung und Wiederaufbereitung ist mit Namensnennung erwünscht! Das Material darf jedoch nicht aus dem Kontext gerisssen präsentiert werden. Mit öffentlichen Geldern (GEZ, Serafe, ...) finanzierte Institutionen ist die Verwendung ohne Rückfrage untersagt. Verstöße können strafrechtlich verfolgt werden." 
+					data-ktv-tooltipster="">
+				</i>
+			</div>
+		</div>
+
+	</div>
+
+<span id="jump_to_video_tab"></span>
+
+		
+
+
+
+<div class="tab-color-box px-4 pt-4 pb-1">
+	<!--*************************** TABS BEGIN ********************************-->
+	<div>
+		<ul class="nav nav-tabs flex-nowrap" id="myTab" role="tablist">
+			<li class="nav-item">
+			<a class="nav-link active h-100" id="sendung-verbreiten-tab-17315" data-toggle="tab" href="#sendung-verbreiten-17315" role="tab" aria-controls="sendung-verbreiten-17315" aria-selected="true">
+					<div class="">
+						<div class="d-flex">
+							<div class="mr-4 col-auto px-0">
+								<i class="fa fa-share-alt fa-2x"></i>
+							</div>	
+							<div class="flex-fill">
+								<b>Sendung<br/>verbreiten</b>
+							<br /> www.kla.tv/17315
+						</div>
+					</div>
+				</div>
+			</a>
+			</li>
+			<!--{$begin tab_text}-->
+			<li class="nav-item">
+			<a class="nav-link h-100" id="sendungstext-tab-17315" data-toggle="tab" href="#sendungstext-17315" role="tab" aria-controls="sendungstext-17315" aria-selected="false">
+				<div class="">
+					<div class="d-flex">
+						<div class="mr-4 col-auto px-0">
+							<i class="fa fa-file-text fa-2x"></i>
+						</div>
+						<div class="flex-fill">
+							<b>Sendungstext</b>
+							<br />
+							in geschriebener Form <br>+ Quellenangabe
+						</div>
+						</div>
+					</div>
+				</a>
+			</li>
+			<!--{$end tab_text}-->
+			<!--{$begin tab_download}-->
+			<li class="nav-item">
+			<a class="nav-link h-100" id="sendung-herunterladen-tab-17315" data-toggle="tab" href="#sendung-herunterladen-17315" role="tab" aria-controls="sendung-herunterladen" aria-selected="false">
+				<div class="">
+					<div class="d-flex">
+						<div class="mr-4 col-auto px-0">
+							<i class="fa fa-download fa-2x"></i>
+						</div>
+						<div class="flex-fill">
+						<b>Sendung<br> herunterladen</b>
+								</div>
+							</div>
+						</div>
+				</a>
+			</li>
+			<!--{$end tab_download}-->
+		</ul>
+		<style type="text/css">
+		
+				li.nav-item.col {
+					padding: 0px;
+				}
+
+
+				.tab-color-box {
+					background-color: white;
+				}
+		</style>
+	</div>
+<!--*************************** TABS ENDE *********************************-->
+
+
+<!--*************************** TABS-Inhalte BEGIN ************************-->
+	<div class="tab-content" id="myTabContent">
+
+		<!--++++++++++++ TABS-Inhalte Tab-0 BEGIN ++++++++++++-->
+		<div class="tab-pane fade show active" id="sendung-verbreiten-17315" role="tabpanel" aria-labelledby="sendung-verbreiten-tab-17315">		
+			
+			<!--{$begin viddescription}-->
+			<!--{$end viddescription}-->
+
+			<div class="socialsvideo">
+				<div class="social-tab-container">
+
+					<div class="social-icon-slider">
+						<!--{$begin ktv_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="ktv">
+							<div class="social-share-buttons social-share-ktv">
+								<i class="fa fa-share-alt"style="margin-right: 3px; margin-top: 2px;"></i>
+							</div>
+							<div class="social-share-button-label">Kla.TV</div>
+						</div>
+						<!--{$end ktv_social_button}-->
+						<!--{$begin embed_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="embed">
+							<div class="social-share-buttons social-share-embed">
+								<i class="fa fa-code" style="color: #fff; font-weight: bolder;"></i>
+							</div>
+							<div class="social-share-button-label">Einbetten</div>
+						</div>
+						<!--{$end embed_social_button}-->
+						<!--{$begin mail_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="mail">
+							<div class="social-share-buttons social-share-mail">
+								<i class="fa fa-envelope"></i>
+							</div>
+							<div class="social-share-button-label">E-Mail</div>
+						</div>
+						<!--{$end mail_social_button}-->
+						<!--{$begin youtube_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="youtube">
+							<div class="social-share-buttons social-share-youtube">
+								<i class="fa fa-youtube"></i>
+							</div>
+							<div class="social-share-button-label">YouTube</div>
+						</div>
+						<!--{$end youtube_social_button}-->
+						<!--{$begin facebook_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="facebook">
+							<div class="social-share-buttons social-share-facebook">
+								<i class="fa fa-facebook"></i>
+							</div>
+							<div class="social-share-button-label">Facebook</div>
+						</div>
+						<!--{$end facebook_social_button}-->
+						<!--{$begin twitter_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="twitter">
+							<div class="social-share-buttons social-share-twitter">
+								<i class="fa fa-twitter"></i>
+							</div>
+							<div class="social-share-button-label">Twitter</div>
+						</div>
+						<!--{$end twitter_social_button}-->
+						<!--{$begin telegram_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="telegram">
+							<div class="social-share-buttons social-share-telegram">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+									aria-hidden="true" focusable="false" width="1.2em" height="1.08em"
+									style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"
+									preserveAspectRatio="xMidYMid meet" viewBox="0 0 448 512">
+									<path
+										d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"
+										fill="#ffffff" /></svg>
+							</div>
+							<div class="social-share-button-label">Telegram</div>
+						</div>
+						<!--{$end telegram_social_button}-->
+						
+						
+						<!--{$begin whatsapp_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="whatsapp">
+							<div class="social-share-buttons social-share-whatsapp">
+								<i class="fa fa-whatsapp"></i>
+							</div>
+							<div class="social-share-button-label">Whatsapp</div>
+						</div>
+						<!--{$end whatsapp_social_button}-->
+						<!--{$begin sms_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="sms">
+							<div class="social-share-buttons social-share-sms">
+								<i class="fa fa-comments-o" aria-hidden="true"></i>
+							</div>
+							<div class="social-share-button-label">SMS</div>
+						</div>
+						<!--{$end sms_social_button}-->
+						<!--{$begin vk_social_button}-->
+						<div class="social-tab-index" data-social-tab-index="vk">
+							<div class="social-share-buttons social-share-vk">
+								<i class="fa fa-vk"></i>
+							</div>
+							<div class="social-share-button-label">VK</div>
+						</div>
+						<!--{$end vk_social_button}-->
+						<div class="social-share-buttons">
+							<i class="fa fa-info-circle social-info-tokken" aria-hidden="true"
+								data-tooltip-max-width="200" data-tooltip-content="Ihre Privatsphäre ist geschützt. Es werden keine Informationen zu Ihrem Surfverhalten an Dritte weitergegeben."
+								data-ktv-tooltipster></i>
+						</div>
+					</div>
+
+					<div class="social-tab-content">
+						<div id="social-tab-id-ktv" class="social-active"><!--div für den Embed-Bereich, der sich erst nach Klick öffnet-->
+							<div id="social-share-content-ktv" class="social-share-border" style="border-color: #365581"> <!--div für äußeren Rahmen um den "auf kla.TV teilen" Bereich-->
+								<a class="social-share-content social-share-ktv"><!-- -ktv-bar -->
+									<i class="fa fa-link"></i> Link teilen</a>
+								<div class="row position-relative further-content-share-ktv">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25" style="fill:#365581" />
+										</svg>
+									</div>
+									<div class="row col-12">
+										<!-- <span class="clearfix"></span> -->
+										<!--{$begin video_link_box}-->
+										<div class="col-6 video-link-time-area">
+											<span class="share-video-desc-title">Direktlink zu dieser Sendung:</span></br>
+											<div id="videolink-without-time">
+												<input class="link-to-copy" id="link-without-videostarttime"
+													type="text" value="www.kla.tv/17315" />
+											</div>
+											<div id="videolink-with-time" class="link-inactive">
+												<input class="link-to-copy link-position"
+													id="link-with-videostarttime" type="text"
+													value="www.kla.tv/17315" />
+											</div>
+											<div id="copy-video-link">
+												<span id="copy-icon-in-button" 
+												title="In Zwischenablage kopieren">
+													<i class="fa fa-clipboard" aria-hidden="true"></i>
+												</span>
+											</div>
+											<label id="label-select-video-link-with-time">
+												<input type="checkbox" class="video-link-with-time-or-not" />
+												Starten bei <span
+													class="select-link-with-videostarttime">00:00:00</span>
+											</label>
+										</div>
+										<!--{$end video_link_box}-->
+										
+									</div>
+									<span class="clearfix"></span>
+								</div>
+							</div><!--End-div für äußeren Rahmen um den "auf kla.TV teilen" Bereich-->
+						</div><!--End-div für den Embed-Bereich, der sich erst nach Klick öffnet-->
+						
+
+						<div id="social-tab-id-embed" class="social-inactive">
+							<div class="social-share-border" style="border-color: #333333"><!--div für äußeren Rahmen um den "Video einbetten" Bereich-->
+								<a class="social-share-content social-share-embed">
+									<i class="fa fa-code" style="font-weight: bolder;"></i> Einbetten auf eigene Internetseite</a>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #333333;"/>
+										</svg>
+									</div>
+									<div class="row col-12" id="videosnippet_embedcode_div_visible">
+										<textarea id="embedTxt​"
+											class="embed-textarea"><iframe src="https://www.kla.tv/index.php?a=showembed&vidid=17315&lang=de" width="590" height="332" frameBorder="0" allowfullscreen></iframe></textarea>
+										<textarea id="embedTxt2​"
+											class="embed-textarea embed-code-inactive"><iframe src="https://www.kla.tv/index.php?a=showembed&{$embed_link_typ}={$blockid}&lang=de" width="590" height="332" frameBorder="0" allowfullscreen></iframe></textarea>
+									</div>
+									<div class="row col-12">
+										<div id="copy-embed-code">
+											<span id="copy-icon-in-button" 
+											title="In Zwischenablage kopieren">
+												<i class="fa fa-clipboard" aria-hidden="true"></i>
+											</span>
+										</div>
+									</div>
+
+									
+								</div>
+							</div><!--End-div für äußeren Rahmen um den "Video einbetten" Bereich-->
+						</div>
+
+						<div id="social-tab-id-mail" class="social-inactive">
+							<div class="social-share-border" style="border-color: #5134e9">
+								<div class="social-share-content social-share-mail">
+									<i class="fa fa-envelope"></i> E-Mail
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #5134e9;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="mailto:BITTE%20HIER%20DIE%20E-MAIL%20EINTRAGEN%2C?subject=Kla.TV-Empfehlung%20%7C%20www.kla.tv%2F17315%20%7C%20Friedenskette%20%2B%20Ernte-Dank-Demo%3A%20Zeichen%20f%C3%BCr%20Frieden%2C%20Einheit%20und%20Wahrheit&body=Hallo%2C%20das%20k%C3%B6nnte%20interessant%20f%C3%BCr%20Dich%20sein%3A%0A%0AFriedenskette%20%2B%20Ernte-Dank-Demo%3A%20Zeichen%20f%C3%BCr%20Frieden%2C%20Einheit%20und%20Wahrheit%0A%0ATausende%20Menschen%20bildeten%20am%20Wochenende%20eine%20Atmosph%C3%A4re%20des%20Aufatmens%2C%20getragen%20von%20Frieden%2C%20Harmonie%20und%20Einheit.%20Sie%20erzeugten%20somit%20einen%20deutlichen%20Gegenpol%20zur%20Spaltung%20im%20Zuge%20der%20Corona-Panik%20durch%20Politik%20und%20Medien%20und%20den%20krassen%20Folgen%20der%20verordneten%20Ma%C3%9Fnahmen%2C%20die%20anerkannte%20Wissenschaftler%20als%20v%C3%B6llig%20unangebracht%20bezeichnen.%20Was%20ist%2C%20wenn%20sich%20Friede%2C%20Harmonie%20und%20Aufatmen%20tats%C3%A4chlich%20als%20Gradmesser%20f%C3%BCr%20die%20Wahrheit%20erweisen%3F%0A%0Ahttps%3A%2F%2Fwww.kla.tv%2F17315" 
+											title="via E-Mail empfehlen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #5134e9; border-color: #5134e9; font-size: 2rem;">
+													<i class="fa fa-envelope" aria-hidden="true"></i> via E-Mail empfehlen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-youtube" class="social-inactive">
+							<div class="social-share-border" style="border-color: #f33d2e">
+								<div class="social-share-content social-share-youtube">
+									<i class="fa fa-youtube"></i> YouTube
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #f33d2e;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="https://www.youtube.com/c/KlaTv" target="_blank" title="Video auf YouTube anschauen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #f33d2e; border-color: #f33d2e; font-size: 2rem;">
+													<i class="fa fa-play" aria-hidden="true"></i> Video auf YouTube anschauen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-facebook" class="social-inactive">
+							<div class="social-share-border" style="border-color: #3f5fa4">
+								<div class="social-share-content social-share-facebook">
+									<i class="fa fa-Facebook"></i> Facebook
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #3f5fa4;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.kla.tv%2F17315" target="_blank" title="Auf Facebook teilen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #3f5fa4; border-color: #3f5fa4; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Auf Facebook teilen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-twitter" class="social-inactive">
+							<div class="social-share-border" style="border-color: #00b6fb">
+								<div class="social-share-content social-share-twitter">
+									<i class="fa fa-twitter"></i> Twitter
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #00b6fb;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="https://twitter.com/intent/tweet?text=%40klagemauerTV%3A+Friedenskette+%2B+Ernte-Dank-Demo%3A+Zeichen+f%C3%BCr+Frieden%2C+Einheit+und+Wahrheit%0Ahttps%3A%2F%2Fwww.kla.tv%2F17315" target="_blank" title="Auf Twitter teilen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #00b6fb; border-color: #00b6fb; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Auf Twitter teilen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-telegram" class="social-inactive">
+							<div class="social-share-border" style="border-color: #2ba0da">
+								<div class="social-share-content social-share-telegram">
+									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+										aria-hidden="true" focusable="false" width="1.2em" height="1.08em"
+										style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg); "
+										preserveAspectRatio="xMidYMid meet" viewBox="0 0 448 512">
+										<path
+											d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"
+											fill="#ffffff" /></svg> Telegram
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #2ba0da;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="tg://msg_url?url=Friedenskette+%2B+Ernte-Dank-Demo%3A+Zeichen+f%C3%BCr+Frieden%2C+Einheit+und+Wahrheit%0Ahttps%3A%2F%2Fwww.kla.tv%2F17315" target="_blank" title="Auf Telegram teilen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #2ba0da; border-color: #2ba0da; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Auf Telegram teilen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<!-- <div id="social-tab-id-vimeo" class="social-inactive">
+							<div class="social-share-border" style="border-color: #55cde3">
+								<div class="social-share-content social-share-vimeo">
+									<i class="fa fa-vimeo"></i> Vimeo
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #55cde3;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="{$VIMEO_URL}" target="_blank" title="Video auf Vimeo anschauen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #55cde3; border-color: #55cde3; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Video auf Vimeo anschauen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div> -->
+						
+						<div id="social-tab-id-bitchute" class="social-inactive">
+							<div class="social-share-border" style="border-color: #ef4137">
+								<div class="social-share-content social-share-bitchute">
+									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+										aria-hidden="true" focusable="false" width="1.2em" height="1.57em"
+										style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg); margin-bottom: 8px;"
+										preserveAspectRatio="xMidYMid meet" viewBox="0 0 625.449 561"
+										enable-background="new 0 0 625.449 561">
+										<path fill="#FFFFFF" d="M436.68,122.18l-70.87,58.13c-15.97-8.76-34.31-13.75-53.81-13.75c-61.86,0-112,50.14-112,112
+											c0,11.23,1.66,22.07,4.74,32.29l-71.99,56.49C119.48,340.59,112,310.45,112,278.56c0-110.46,89.54-200,200-200
+											C359.15,78.56,402.49,94.88,436.68,122.18z" />
+										<path fill="#FFFFFF"
+											d="M512,278.56c0,110.45-89.54,200-200,200c-78.06,0-145.67-44.729-178.62-109.959l88.54-23.48
+											c20.4,27.56,53.15,45.44,90.08,45.44c57.4,0,104.71-43.19,111.23-98.84l88.51-23.48C511.91,271.66,512,275.1,512,278.56z" />
+									</svg> Bitchute
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #ef4137;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="{$bitchute_url}" target="_blank" title="Auf Bitchute teilen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #ef4137; border-color: #ef4137; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Auf Bitchute teilen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-whatsapp" class="social-inactive">
+							<div class="social-share-border" style="border-color: #73d660">
+								<div class="social-share-content social-share-whatsapp">
+									<i class="fa fa-whatsapp"></i> Whatsapp
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #73d660;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="whatsapp://send?text=Friedenskette+%2B+Ernte-Dank-Demo%3A+Zeichen+f%C3%BCr+Frieden%2C+Einheit+und+Wahrheit%0Ahttps%3A%2F%2Fwww.kla.tv%2F17315" target="_blank" title="Auf Whatsapp teilen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #73d660; border-color: #73d660; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Auf Whatsapp teilen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-sms" class="social-inactive">
+							<div class="social-share-border" style="border-color: #ff8800">
+								<div class="social-share-content social-share-sms">
+									<i class="fa fa-comments-o"></i> SMS
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #ff8800;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="sms:?&body=Friedenskette+%2B+Ernte-Dank-Demo%3A+Zeichen+f%C3%BCr+Frieden%2C+Einheit+und+Wahrheit%0Ahttps%3A%2F%2Fwww.kla.tv%2F17315" target="_blank" title="Per SMS weiterleiten">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #ff8800; border-color: #ff8800; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Per SMS weiterleiten
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div id="social-tab-id-vk" class="social-inactive">
+							<div class="social-share-border" style="border-color: #5280b0">
+								<div class="social-share-content social-share-vk">
+									<i class="fa fa-vk"></i> VK
+								</div>
+								<div class="row position-relative further-content-share">
+									<div class="row col-12 social-share-svg-div">
+										<svg>
+											<polygon points="0,0 30,0 15,25"
+												style="fill: #5280b0;"/>
+										</svg>
+									</div>
+									<div class="row col-12 justify-content-center">
+										<div style="padding: 10px;">
+											<a href="//vk.com/share.php?url=https%3A%2F%2Fwww.kla.tv%2F17315%3Fsocial-ref%3Dvk" target="_blank" title="Auf VK teilen">
+												<button type="button" class="btn btn-primary btn-lg"
+													style="background: #5280b0; border-color: #5280b0; font-size: 2rem;">
+													<i class="fa fa-share-alt" aria-hidden="true"></i> Auf VK teilen
+												</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+			
+
+
+		
+		
+			
+		<!--++++++++++++ TABS-Inhalte Tab-0 ENDE ++++++++++++-->
+		
+		<!--++++++++++++ TABS-Inhalte Tab-1 BEGIN ++++++++++++-->
+		<div class="tab-pane fade" id="sendungstext-17315" role="tabpanel" aria-labelledby="sendungstext-tab-17315">
+		<!-- TAB VIDEO TEXT -->
+	<!--{$begin vidtexting}-->
+	<div id="tab-1-5f7a49e949ed1" style="" class="tab-box">
+
+		<div class="comment-content width100p" >
+			
+
+			<div id="textwrappercomment" class="comment-text comment-text-extend">
+
+				<span class="comment-author edit">
+					<span id="text_title_" class="text_titel_size"
+						rel="text*title*">Friedenskette + Ernte-Dank-Demo: Zeichen für Frieden, Einheit und Wahrheit</span>
+					<button class="save" rel="edit_title_"><img src="/images/icons/save.png"
+							title="Speichern" /></button>
+				</span>
+
+				<a href="https://www.kla.tv/17315">www.kla.tv/17315</a>
+
+				<div id="changeSizeBox">
+					<a clicktype="-" titel="Schriftart verkleinern" class="changeSizeText"><img
+							src="/images/icons/resizer_02.png" /></a>
+					<a clicktype="." class="changeSizeText"><img src="/images/icons/resizer_03.png" /></a>
+					<a clicktype="+" class="changeSizeText"><img src="/images/icons/resizer_01.png" /></a>
+				</div>
+
+				<br>
+				<span class="comment-date edit">
+					<span id="text_datum_" class="text_datum_size"
+						rel="text*datum*">04.10.2020</span>
+					<button class="save" rel="edit_datum_"><img src="/images/icons/save.png"
+							title="Speichern" /></button>
+				</span>
+
+
+				<p class="edit" style="white-space: pre-line; max-width: 605px; ">
+					<span id="text_text_" class="text_text_size text-fontsize"
+						rel="text*text*">Moderator: Initiator und Veranstalter dieses ereignisreichen Tages heute ist der Bürgerdialog Konstanz e.V. unter dem Vorsitz von Gerry Mayr, der sich freundlicherweise bereit erklärt hat mit uns ein kurzes Interview zu führen. 
+Gerry, die Organisation von so einer Veranstaltung erfordert enorm viel Investition, was hat dich dazu bewogen da jetzt so tief einzusteigen?
+Gerry: Ja, diese ganze Geschichte, die betrifft uns alle, die betrifft mich auch direkt. Gut, ich bin so vielseitig aufgestellt, dass ich jetzt persönlich nicht so betroffen bin, aber ich sehe dieses extreme Unrecht, ich sehe hier meinen Hotelbetrieb. Plötzlich kommt ein Lockdown in NRW; Herr Laschet sagt, es dürfen keine Leute mehr raus. Dann habe ich hier Touristen gehabt, nette Menschen, ein Mädchen mit einem Fahrrad, ich musste sie wegschicken. Ich musste sie zum Krankenhaus schicken. 150 Euro für einen PCR Test, oder Gesundheitstest, Schnelltest. Ich habe den Urlaub dem Mädchen versaut. 
+Dann kam ein anderes Ehepaar, zwei Menschen mit dem Auto hergefahren, die wussten von diesem Lockdown gar nicht irgendwo was. Die hatten sich auf ihren Urlaub gefreut und auf den schönen Bodensee; plötzlich musste ich sie wegschicken. Das ist diskriminierend. Wir diskriminieren, oder unsere Bundesregierung diskriminiert Menschen im eigenen Land. Das ist Unrecht.
+
+Moderator: Jetzt könnte man ja sagen, das ist zum Schutz der Bevölkerung. Wie stehst du dazu?
+Gerry: Das ist Blödsinn. Der Schutz der Bevölkerung, wenn man die Zahlen anschaut – gehen wir mal auf zwei Zahlen: das sind die Toten heute vom RKI, das sind jetzt neun und es sind die 2.500, die sowieso jeden Tag sterben in Deutschland. Wenn ich zwei oder neun – manchmal waren es nur zwei Menschen am Tag und neun Menschen in Verhältnis setze zu 2.500, dann muss ich doch sagen: Ja, 99% der Bevölkerung der Bundesrepublik von den 83,1 Millionen leiden unter Maßnahmen, so wie ich mit meinem Hotel, seh finanzielle Einbußen, muss Personal entlassen und das mache ich nicht gerne, ich habe gute Leute. Ich habe mich auf den einzigen Frühling in 2012 gefreut – den hat man mir genommen. Wegen acht Menschen, zwölf Menschen auf der einen Seite, 2.500 auf der anderen Seite. Das ist nicht fair. Und das ist nicht Deutschland. Das ist nicht das, was ich den Menschen in der ganzen Welt erzähle: Kommt in mein Land, hier habt ihr eine Judikative, eine Exekutive und eine Legislative, die funktionieren. Es funktioniert nicht mehr.
+
+Moderator: Querdenken, Querdenken Konstanz, Querdenken Stuttgart, jede Stadt hat eine Querdenken-Gruppe. Wie hängt ihr zusammen? Wie organisiert ihr euch, oder seid ihr eigenständig?
+Gerry: Das ist relativ einfach zu erklären, das war mir wichtig. Wir haben lange gebraucht um Querdenken 753, also das ist die Telefonnummer, da mit reinzubringen, weil ich keine Lust hatte auf Abhängigkeit. Also wenn man in meine Vita geht, im Moment gibt es noch Wikipedia Gerry Mayr, dann sieht man Freiheit, dann sieht man Reisen und ich wollte kein Franchisenehmer werden und ich muss sagen, das bin ich nicht. Die Initiative, die Saat die Michael Ballweg gesät hat, schon im April mit 80 Menschen in Stuttgart, die dann weiterging – im Moment sind es über 100 Städte in ganz Deutschland, wo Menschen jeden Samstag, Sonntag, unter der Woche in Spaziergängen auf die Straße gehen – das ist unglaublich. Das ist eine tolle Geschichte und jede dieser Städte sind frei, sind frei denken, sind frei liebend. Sie haben sich unter einem Dach versammelt, unter dem Dach Querdenken. Und das ist ein gutes Dach und da bin ich Michael Ballweg auch ganz klar zu Dank verpflichtet, dass er hier eine Gemeinschaft geschaffen hat, wo auch viel sagen wir mal Verirrte, die in diesen tausenden Bewegungen, politisch irgendwo, Pegida, von mir aus auch rechts, irgendwo QAnon – ich bin da nirgendwo richtig firm drin, aber die gibt es, das hört man und die wurden alle aufgefangen und wurden eigentlich in der Liebe und im Frieden auf einen richtig guten Weg gebracht. Weil unsere Demonstration, unsere Art wie wir mit den Politikern, auch mit den Behörden umgehen, wird immer friedlich sein.
+
+Moderator: Und in der Vorbereitung hast du Kontakt zu den öffentlichen Stellen gehabt. Wie war da die Reaktion? Gab es offene Türen, gab es Widerstände?
+Gerry: Natürlich wenn man, .... es ist ein Großereignis, der Bodensee, das sind 260 Kilometer, da kann man nicht nur fünf Menschen hinstellen...
+Moderator: Ja, ein riesen Ereignis eigentlich...
+Gerry: Ja und ich dachte mir als Mensch, der eben auf diesem Planeten lebt, es kann ja nicht sein, dass eine Friedensmenschenkette jetzt irgendwie schwierig wird oder überhaupt eigentlich einen behördlichen Zuspruch oder Genehmigung braucht. Es ist für mich auch immer noch nicht nachvollziehbar. Wir sind den Weg gegangen mit den Behörden, ich muss sagen anfangs war es schwierig, weil wir sind auch ein bisschen Querdenker, Freidenker, freiheitsliebende Leute und dann kommen solche bisschen langhaarig, Hintergrund Motorradmechaniker, so ein Biker bin ich, und dann kommt so einer und will eine Friedensmenschenkette anmelden mit vielen anderen Leuten zusammen, das war natürlich in den Augen der Behörden so ein bisschen komisch. 
+
+Moderator: Ihr habt auch starke Auflagen bekommen, nicht? Ich habe sie mir auf eurer Homepage angeschaut.
+Gerry: Ja, das ist natürlich dem Coronathema geschuldet. Wir leben in einer Coronazeit. Eine Friedensmenschenkette unter anderen Bedingungen wäre sicherlich einfacher, würde auch viel mehr Menschen ansprechen. Jetzt haben sie uns doch auch durch Coronageschichten Fallen gestellt, Infektionsschutzmaßnahmen hochgezogen, Hotspots durch großartige, überdimensionierte Tests geschaffen, sodass die Menschen sich in dieser Kette nicht bewegen können. Also ich merke schon, dass die Behörden das nicht so gerne freiwillig einfach dulden und das als toll finden.
+
+Moderator: Und gab es auch schon Kontakte zu den Medien? Gab es Reaktionen von den Medien im Vorfeld, von der lokalen Zeitung, oder hattet ihr da Kontakte?
+Gerry: Die örtliche Zeitung, die berichtet über mich doch einigermaßen fair, weil ich hier als Prominenter der Stadt laut Wikipedia doch einigen Menschen schon irgendwie schöne Bilder von der ganzen Welt mitgebracht habe. Und es geht, dadurch dass ich auch freier Journalist bin, Mitglied im Deutschen Journalistenverband, weiß man über den Presseehrenkodex Bescheid; man berichtet schon jetzt fairer, fairer als andere Leute vor der Kamera oder im Print, muss ich schon sagen. Und auch das Bewusstsein der sogenannten Mainstreammedien, also ARD, ZDF, der rechtlichen Medien hat sich auch verändert.
+
+Moderator: In welcher Weise hat sich das verändert deiner Meinung nach?
+Gerry: Ja, sie können sich nicht mehr dem erschließen, dass wir die Wenigen sind – gar nicht mehr. Also wir waren in Berlin – natürlich wissen die auch, dass die Zahlen, die sie da uns vorgegaukelt haben, absolut unrealistisch sind. Wir waren in Berlin am 1.08 sicherlich 800.000, meine Hochrechnung. Da konnte ich es ganz gut kontrollieren am 1.08, weil ich in den Zügen mitgelaufen bin mit meinen Kameras. Am 29.08 gehe ich ganz sicherlich von über einer Million aus. Und wann man das ausrechnet – wir sind verärgert, weil die Mainstreammedien von 47.000 am 29.08 berichtet haben, am 1.08 von 17.000, das ist lächerlich, das ist unwahr und da sind wir wieder bei dem Punkt Unwahrheit und mein Name in Zusammenhang, das geht nicht. Also musste ich auch da was tun.
+
+Moderator: Gerry, wer so viel auf die Beine stellt, der gewinnt auch an Einfluss. Und da stellt sich immer wieder die Frage: Wie finanziert ihr euch? Wer steht dahinter? In wessen Interessen seid ihr unterwegs?
+Gerry: Also, bei mir ist es ganz klar: Konstanz und auch die Friedenskette - da bin ich federführend und auch der Kopfhinhaltende. Wir finanzieren das Ganze, das stemmen wir völlig allein. Was mich anbelangt, ich habe mein ganzes Privatvermögen dort reingesteckt, dass diese Party, also diese Demonstration morgen ein voller Erfolg gibt. Und alle anderen die da sind, das sind ja mehrere hundert Menschen. Vom kleinen Ordner bis zum „Head“ oben – die machen das alle ehrenamtlich. Kein Mensch verdient hier irgendwas. Wir arbeiten zusammen. Die Betroffenen, die ganze Eventbranche, die am Ende ist eigentlich, die stellen uns Anlagen zur Verfügung zu absoluten Schmerzgrenz-Preisen. Die verdienen da nichts, die wollen alle nur am Leben bleiben. Wir wollen alle, dass die pandemische Lage sofort so schnell wie nur irgendwie möglich verschwindet. Also wir sind auf Spendengelder angewiesen. Und ich muss sagen, die Menschen sehen, dass wir für sie da sind, dass wir sie auffangen, dass wir für sie was tun – für unsere Zukunft und auch für uns natürlich. Ich tu das für mich. Für die Zukunft. Für die Zukunft meiner Kinder, in den Kinderdörfern, egal irgendwo. Und da bringen wir uns alle ein. Wir wollen eine andere Welt haben. Wir wollen eine menschlichere Welt haben. Und die Spendenzuwendungen sind ganz, ganz, ganz wichtig – ohne die könnten wir das nicht leisten. Deswegen ein ganz, ganz großes Dankeschön an alle; ob‘s nur ein Euro ist oder auch – ich habe Spenden bekommen mit Tausend Euro. Da seht ihr mal wie wichtig das für die Menschen ist, das zu unterstützen, dass es „Macher“ gibt, die den Kopf hinhalten. Wir haben die Nacht durchgearbeitet mit drei Stunden Schlaf die ganzen letzten Wochen. Das ist für viele, nicht nur für mich, völlig normaler Alltag jetzt. Damit wir was erreichen. Damit wir schauen, dass die Regierung aufwacht und wieder zu uns Menschen runterblickt, auf Augenhöhe. Das ist nicht passiert, das ist nicht so.
+Also ganz klar, wir haben keine Macher im Hintergrund, also nicht bei Querdenken 753. Und soweit ich weiß nirgendwo, bei keinem dieser Städte stecken irgendwo böse Geldgeber, die irgendwas da erreichen wollen. Das ist 100% so.
+
+Moderator: Ja, Gerry, Herzlichen Dank für dieses Interview. Wir wünschen dir viel Erfolg für diesen Tag und darüber hinaus auch noch Alles Gute.
+Gerry: Dankeschön. Hat mich gefreut, hier sein zu dürfen – für euch, für euch alle.
+
+
+
+
+Dieser Glaube wurde über die letzten Jahrzehnte massiv erschüttert, eingeschränkt – nicht nur Glaube in Religion, sondern der Glaube auch an unsere Familien und wozu sie im Stande sind und wozu sie in der Lage sind. Wir wurden immer mehr auseinandergetrieben, Männer und Frauen wurden auseinandergetrieben, wir wurden von den Kindern auseinandergetrieben. Wir laufen alle morgens aus dem Haus, bringen schon unter Druck und Stress die Kinder in Einrichtungen, damit wir sie abends nach Feierabend nach dem schnellen Einkaufen wieder einsammeln können und dann noch ein kurzes Zeitfenster haben, um das zu leben, was Familie ist. 
+
+Das was ich euch jetzt sage, ist wirklich bitter. Wir haben eigentlich verloren. Wir haben verloren. Wir haben nicht das Geld, das die anderen haben. Wir haben nicht die Verstrickungen, die seit vielen, vielen Jahren, Jahrzehnten, Jahrhunderten zusammenkommen. Wir haben nicht die Satelliten, aber wir haben eins: wir haben die Seele. Wir haben das Herz und wir sind die Vielen! Ich danke euch! Wir sind es und wir werden immer mehr!
+
+Warum Welt? – ganz einfach. Ihr repräsentiert die Menschheit. Ihr repräsentiert die Menschen, die jetzt geschunden sind. Ihr repräsentiert die Menschen, die jetzt isoliert sind - als Alte. Ihr repräsentiert die Kinder, die sie jetzt mit den Masken quälen. Ihr repräsentiert die Menschheit und ich danke euch, dass ihr da seid! Wir alle wissen, dass das was wir jetzt erleben, nichts mehr, überhaupt nichts mehr mit Gesundheit zu tun hat. Es geht darum diese Welt zu kontrollieren. Es geht darum, dass ganz wenige Mächtige diese Welt sich in die Hand nehmen wollen und sie wollen sie Gott aus der Hand nehmen und das werden wir niemals zu lassen. Ich freue mich so sehr, dass ihr da seid und es werden immer mehr, immer mehr auch auf den verschiedenen Bühnen. Und wir wissen wie sehr unsere Bewegung gewachsen ist.
+
+Fängt man hundert rote Feuerameisen sowie hundert große schwarze Ameisen und platziert sie zusammen in einem Glas, passiert zunächst einmal nichts. Schüttelt man das Glas jedoch heftig und wirft es auf den Boden, werden die Ameisen kämpfen, bis sie sich schließlich gegenseitig umbringen. Die Sache ist die, dass die roten Ameisen die schwarzen Ameisen für den Feind halten und umgekehrt. Während in der Wirklichkeit, der wirkliche Feind die Person ist, die das Glas schüttelt. Das ist genau das, was in der heutigen Gesellschaft passiert: links gegen rechts, schwarz gegen weiß, pro-Maske gegen anti-Maske – ganz egal, die eigentliche Frage, die wir uns stellen müssen: Wer schüttelt das Glas und warum?
+</span>
+					<button class="save" rel="edit_text_"><img src="/images/icons/save.png"
+							title="Speichern" /></button>
+				</p>
+
+				<p style="float: right;"><b id="von_size">von
+
+						<span class="edit">
+							<span id="text_author_" class="text_author_size"
+								rel="text*author*">--</span>
+							<button class="save" rel="edit_author_"><img
+									src="/images/icons/save.png" title="Speichern" /></button>
+						</span>
+
+
+					</b></p>
+				<div class="comment_quellen"><b id="quellen_size">Quellen/Links: </b>
+
+					<span class="edit" style="white-space: pre-line;overflow-wrap: break-word;">
+						<span id="text_source_" class="text_source_size"
+							rel="text*source*">Verbinden für Frieden und Freiheit am 3. Oktober 2020:
+<a target="_blank" href="https://www.friedenskette-bodensee.de/home">https://www.friedenskette-bodensee.de/home</a><br/>
+
+Friedenskette Bodensee am 3. Oktober 2020:
+<a target="_blank" href="https://youtu.be/4sf7QAvfmno">https://youtu.be/4sf7QAvfmno</a><br/>  </span>
+						<button class="save" rel="edit_source_"><img
+								src="/images/icons/save.png" title="Speichern" /></button>
+					</span>
+
+				</div>
+			</div>
+		</div><br class="clear" />
+	</div>
+	<!--{$end vidtexting}-->
+		</div>
+		<!--++++++++++++ TABS-Inhalte Tab-1 ENDE ++++++++++++-->
+
+		<!--++++++++++++ TABS-Inhalte Tab-2 BEGIN ++++++++++++-->
+		
+		<div class="tab-pane fade" id="sendung-herunterladen-17315" role="tabpanel" aria-labelledby="sendung-herunterladen-tab-17315">
+
+	
+
+	<!--{$begin tab_content_download}-->
+	<!-- TAB VIDEO DOWNLOAD -->
+	<div id="tab-2-5f7a49e949ed1" style="" class="tab-box download_tab">
+
+		
+
+		<h4><b>Friedenskette + Ernte-Dank-Demo: Zeichen für Frieden, Einheit und Wahrheit</b></h4>
+
+
+		Sendung und Zubehör in der gewünschten Qualität herunterladen:
+
+		<div style="margin-top: 5px">
+
+			<div class="download-section-left">
+				<!--{$begin download_enabled}-->
+
+				<div class="download_mp4_box">
+					<b class="download_mp4_box_txt1" >Film-Datei
+						(.mp4)</b><br><span class="download_mp4_box_txt2"
+						>Bitte Downloadqualität auswählen</span></div>
+
+				<!-- START Video Download-Dropdown -->
+				<div id="drop_video_download_5f7a49e949ed1" class="download-dropdown"></div>
+				<!-- END Video Download-Dropdown -->
+
+				<!--{$begin mp3_download_dropdown}-->
+				<div class="download_mp3_box">
+					<b class="download_mp4_box_txt1" >Ton-Datei
+						(.mp3)</b><br><span class="download_mp4_box_txt2"
+						>Bitte Downloadqualität auswählen</span></div>
+
+				<!-- START MP3 Download-Dropdown -->
+				<div id="drop_mp3_download_5f7a49e949ed1" class="download-dropdown"></div>
+				<!-- END MPe Download-Dropdown -->
+				<!--{$end mp3_download_dropdown}-->
+
+				<!--{$end download_enabled}-->
+
+				
+
+			</div>
+
+			<!-- START Video Download-Dropdown -->
+			<div class="picture-download">
+				<a href="/_downloads/image.kla.tv/2020/10/17315/FriedensketteACsErnteDankDemoZ_start_orig.jpg" download="2020-10-04_Friedenskette_+_Ernte-Dank-Demo:_Zeichen_für_Frieden,_Einheit_und_Wahrheit_Image_HQ.jpg"
+					target="_blank"><img class="picture-download-thumb"
+						src="/_files/image.kla.tv/2020/10/17315/FriedensketteACsErnteDankDemoZ_start_590x332.jpg" width="200px" /><br></a>
+				<a href="/_downloads/image.kla.tv/2020/10/17315/FriedensketteACsErnteDankDemoZ_start_orig.jpg" download="2020-10-04_Friedenskette_+_Ernte-Dank-Demo:_Zeichen_für_Frieden,_Einheit_und_Wahrheit_Image_HQ.jpg"
+					target="_blank">
+					<div class="picture-download_button">
+						<div class="picture-download_symbol-field">
+							<i class="fa fa-download" style="font-size: 30px"></i></div>
+						<div><b>Bild (hohe Qualität)</b> 1280x720 -
+							283 KB</div>
+					</div>
+				</a>
+				<a href="/_downloads/image.kla.tv/2020/10/17315/FriedensketteACsErnteDankDemoZ_theme_orig.jpg" download="2020-10-04_Friedenskette_+_Ernte-Dank-Demo:_Zeichen_für_Frieden,_Einheit_und_Wahrheit_Image_NQ.jpg" target="_blank">
+					<div class="picture-download_button">
+						<div class="picture-download_symbol-field">
+							<i class="fa fa-download" style="font-size: 30px"></i></div>
+						<div><b>Bild (niedrige Qualität)</b> 436x270 - 52 KB
+						</div>
+					</div>
+				</a>
+
+			</div>
+			<!-- END Video Download-Dropdown -->
+
+			<style type="text/css">
+				#drop_video_download_ {
+					$uniqueId
+				}
+
+				.dd-option-image,
+				#drop_video_download_ {
+					$uniqueId
+				}
+
+				.dd-selected-image {
+					width: 30px;
+				}
+
+				#drop_picture_download_ {
+					$uniqueId
+				}
+
+				.dd-option-image,
+				#drop_picture_download_ {
+					$uniqueId
+				}
+
+				.dd-selected-image {
+					width: 60px;
+				}
+
+				#drop_video_download_ {
+					$uniqueId
+				}
+
+				.dd-select,
+				#drop_mp3_download_ {
+					$uniqueId
+				}
+
+				.dd-select {
+					height: 55px;
+				}
+
+				#drop_mp3_download_ {
+					$uniqueId
+				}
+
+					{
+					margin-top: 10px;
+				}
+
+				.vid_desc .dd-select,
+				.vid_desc .dd-options {
+					width: 270px !important
+				}
+			</style>
+
+			<br class="clear" />
+
+			
+
+
+			<!--{$begin download}-->
+			<!--	<a class="ka_button small_button small_royalblue" style ="float: right;" href="ajax.download.php?vidid=17315" style="opacity: 1;">
+						<span>↓ niedrige Qualität</span>
+				</a>-->
+			<!--{$end download}-->
+
+			<br class="clear" />
+		</div>
+	</div>
+	<!--{$end tab_content_download}-->
+		
+		</div>
+		<!--++++++++++++ TABS-Inhalte Tab-2 ENDE ++++++++++++-->
+	</div>
+</div>
+<!--*************************** TABS-Inhalte ENDE ************************-->
+
+
+</div>	
+<!------------- TABS and VOT-UP END ---- {$begin comm_title}---------------->
+
+
+
+<!--{$begin ddslick_area}-->
+	<!--START ddslick Download-Dropdown -->
+	<script type="text/javascript" src="/js/jquery.ddslick.js?v=20180927"></script>
+	<script type="text/javascript">
+		<!-- START DATA FOR VIDEO DOWNLOAD -->
+
+		//Dropdown Qualitätsdaten
+		var ddData_5f7a49e949ed1 = [
+			<!--{$begin json_origin_download}-->
+			{
+				text: "Originaldatei",
+				value: 1,
+				quality: "origin",
+				selected: false,
+				description: "1140MB",
+				imageSrc: "/images/icons/origin_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_origin_download}-->
+
+			<!--{$begin json_1080_download}-->
+			{
+				text: "1080p hohe Qualität",
+				value: 2,
+				quality: "1080p",
+				selected: false,
+				description: "1920x1080 - 1123MB",
+				imageSrc: "/images/icons/hd_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_1080_download}-->
+
+			<!--{$begin json_720_download}-->
+			{
+				text: "720p hohe Qualität",
+				value: 3,
+				quality: "720p",
+				selected: false,
+				description: "1280x720 - 724MB",
+				imageSrc: "/images/icons/hd_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_720_download}-->
+
+			<!--{$begin json_480_download}-->
+			{
+				text: "480p mittlere Qualität",
+				value: 4,
+				quality: "480p",
+				selected: false,
+				description: "852x480 - 311MB",
+				imageSrc: "/images/icons/sd_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_480_download}-->
+
+			<!--{$begin json_360_download}-->
+			{
+				text: "360p mittlere Qualität",
+				value: 5,
+				quality: "360p",
+				selected: false,
+				description: "640x360 - 166MB",
+				imageSrc: "/images/icons/mq_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_360_download}-->
+
+			<!--{$begin json_180_download}-->
+			{
+				text: "180p niedrige Qualität",
+				value: 6,
+				quality: "180p",
+				selected: false,
+				description: "320x180 - 79MB",
+				imageSrc: "/images/icons/nq_icon_download.png",
+				loadFromArchive: false
+			}
+			<!--{$end json_180_download}-->
+		];
+		<!-- END DATA FOR VIDEO DOWNLOAD -->
+
+
+		// MP3 Download Dropdown
+		var ddData_MP3_5f7a49e949ed1 = [
+			<!--{$begin json_mp3_320_download}-->
+			{
+				text: "320 kBit/s hohe Qualität",
+				value: 1,
+				quality: "mp3_320k",
+				selected: false,
+				description: "88MB",
+				imageSrc: "/images/icons/hd_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_mp3_320_download}-->
+			<!--{$begin json_mp3_192_download}-->
+			{
+				text: "192 kBit/s mittlere Qualität",
+				value: 1,
+				quality: "mp3_192k",
+				selected: false,
+				description: "53MB",
+				imageSrc: "/images/icons/mq_icon_download.png",
+				loadFromArchive: false
+			},
+			<!--{$end json_mp3_192_download}-->
+			<!--{$begin json_mp3_96_download}-->
+			{
+				text: "96 kBit/s niedrige Qualität",
+				value: 1,
+				quality: "mp3_96k",
+				selected: false,
+				description: "27MB",
+				imageSrc: "/images/icons/nq_icon_download.png",
+				loadFromArchive: false
+			}
+			<!--{$end json_mp3_96_download}-->
+		];
+		<!-- END DATA FOR MP3 DOWNLOAD -->
+
+		// Init Video-Download Dropdown
+		initDownloadDropdown(
+			$('#drop_video_download_5f7a49e949ed1'),
+			ddData_5f7a49e949ed1,
+			17315,
+			"  ",
+			'https://archive.kla.tv/'
+		);
+
+		// Init MP3-Download Dropdown
+		initDownloadDropdown(
+			$('#drop_mp3_download_5f7a49e949ed1'),
+			ddData_MP3_5f7a49e949ed1,
+			17315,
+			"  ",
+			'https://archive.kla.tv/'
+		);
+
+		var boxopened = false;
+		$(".download_mp4_box").click(function(){
+			if(!boxopened) {
+				setTimeout(function() {
+					$('#drop_video_download_5f7a49e949ed1').ddslick('open');
+				}, 100);
+				boxopened = true;
+			}
+			else {
+				setTimeout(function() {
+					$('#drop_video_download_5f7a49e949ed1').ddslick('close');
+				}, 100);
+				boxopened = false;
+			}
+
+		});
+
+		var boxMp3opened = false;
+		$(".download_mp3_box").click(function(){
+			if(!boxMp3opened) {
+				setTimeout(function() {
+					$('#drop_mp3_download_5f7a49e949ed1').ddslick('open');
+				}, 100);
+				boxMp3opened = true;
+			}
+			else {
+				setTimeout(function() {
+					$('#drop_mp3_download_5f7a49e949ed1').ddslick('close');
+				}, 100);
+				boxMp3opened = false;
+			}
+
+		});
+	</script>
+<!--{$end ddslick_area}-->
+
+                
+            </div>
+
+            <!-- AllInOne-Trailer -->
+            <!--	<a href="#" rel="ShowAlInOneBox" class="light-trailer-button" style="display:block;float:right;margin-top:10px;position:relative">
+            <img class="normal" style="position:absolute;top:0px;right:0px" src="images/_global/light_trailer_button.png"></img>
+            <img class="over" style="position:absolute;top:0px;right:0px" src="images/_global/light_trailer_button-hover.png"></img>
+            </a>-->
+
+        </div><!-- end home-banner-wrap -->
+    </div>
+
+    <div class="row mt-4">
+
+        <div class="col-7 offset-5">
+            <div class="float-right">
+                <form method="get" action="?a&">
+                    <div class="searchbydatebox">
+                        Sendungen von
+                        <!-- Verstecktes Feld um weitere Get-Variablen zu senden -->
+                        <input type="hidden" name="a" value="showportal"/>
+                        <input type="hidden" name="keyword" value="allvids"/>
+                        <input class="sendung-datepicker" id="start-datepicker" type="text" name="from">
+                        bis
+                        <input class="sendung-datepicker" id="end-datepicker" type="text" name="to">
+                        <button type="submit" style="background: none; border: none; cursor: pointer;float: right;padding: 0px;padding-top: 5px;padding-left: 5px;">
+                            <i class="fa fa-search" aria-hidden="true" style="font-size: 20px;"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    // jQuery-Datepicker
+                    var date = new Date();
+                    //date.setMonth(date.getMonth() - 1, 1);
+                    date = new Date(date.setDate(date.getDate() - 30));
+
+                    //Z-Index erhöhen, damit sich der Kalender über der Themenbild-Slideshow befindet
+                    var increaseZIndex = function () {
+                        setTimeout(function () {
+                            $('.ui-datepicker').css('z-index', 1000);
+                        }, 0);
+                    }
+
+                    $("#start-datepicker").datepicker({
+                        minDate: new Date('0000-00-00'),
+                        maxDate: '0',
+                        beforeShow: increaseZIndex
+                    }).datepicker('setDate', date);
+
+                    $("#end-datepicker").datepicker({
+                        minDate: new Date('0000-00-00'),
+                        maxDate: '0',
+                        defaultDate: '0',
+                        beforeShow: increaseZIndex
+                    }).datepicker('setDate', new Date());
+                    // Daten nur bis heute anzeigen
+
+                });
+            </script>
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <h1 data-scroll-anchor="newest-broadcast" class="h1 mb-3"><span class="text-black">Neueste Sendungen:</span></h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <div class="text" style="text-align:center;">
+                <span ng-show="data.latestBroadcasts.loading" id="showstart_languageList_UpArraw"></span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="newest-broadcast row" ng-class="{'d-block': data.latestBroadcasts.ready}">
+        <div class="col">
+            <div class="row" style="border-left: thick solid #fff; margin-top: 10px;">
+    <div ng-repeat="broadcast in vm.data.broadcasts track by $index" repeat-ready-function-handler="repeatReadyHandler" class="broadcast-list-repeater-div col-12">
+
+        <div class="row" ng-if="vm.data.broadcasts[$index-1].datum != vm.data.broadcasts[$index].datum">
+            <div class="col-12">
+                <span style="border-radius: 100%; background: #01325d; width: 19px; height: 19px;position: relative; display: inline-block; margin-left: -27px;"></span>
+                <span class="broadcast-list-timeline-date">{{broadcast.datum}}</span>
+            </div>
+        </div>
+        <div class="my-3" style="display: flex;">
+            <div style="width: 2.5%;" class="bg-lightblue">
+                <a href="/{{broadcast.specialFlag.url_name}}"
+                   class="label label-left-box" style="background-color: #{{broadcast.specialFlag.color}}"
+                   ng-show="broadcast.specialFlag">
+                    <div class="middle-txt"><span class="label-rotate">{{broadcast.specialFlag.title}}</span></div>
+                </a>
+                <span class="label is-reply-broadcast label-left-box" ng-show="broadcast.repeatedBroadcast">
+            <div class="middle-txt">
+                <span class="label-rotate">
+                Archiv-Sendung
+                    <span class="repeatIconWrapper"
+                          data-tooltip-content="Wiederholung vom {{broadcast.originalVideoDate}}"
+                          data-ktv-tooltipster>
+                        <i class="fa fa-repeat"></i>
+                    </span>
+                </span>
+            </div>
+        </span>
+            </div>
+            <div style="width: 97.5%;">
+                <div class="item top10_first_item startlist"
+                     ng-style="broadcast.qs == 0 && {'background-color':'#fbc4c4'} || broadcast.qs == 2 && {'background-color':'#ffcf88'}">
+
+                    <div class="row">
+                        <div class="mb-3 col-12">
+                            <a href="/{{broadcast.link}}">
+                        <span class="label broadcast-shortlink pl-5">
+                            www.kla.tv/{{broadcast.id}}
+                        </span>
+                                <h3 class="showstartVideoTitel h4" ng-bind-html="broadcast.title"></h3>
+                            </a>
+                        </div>
+                        <div class="col-4">
+                            <div class="portfolio_content_top_three">
+                                <div class="port_img_three">
+                                    <a href="/{{broadcast.link}}">
+                                        <!--neue Sendungen-->
+                                        <div class="preload preload_three moderator_hover"
+                                             ng-if="!broadcast.isOldBroadcast"
+                                             style="height: 154px;" id="moderator_hover_{{$index}}"
+                                             ng-mouseover="moderatoren_hover('moderator_hover_'+$index)"
+                                             ng-mouseleave="moderatoren_leave('moderator_hover_'+$index)">
+                                            <div class="preview_hover_box" ng-if="!noWebpSupport">
+                                                <div class="preview_img">
+                                                    <img src="" data-original="/{{broadcast.preview}}" width="275" height="155">
+                                                </div>
+                                            </div>
+                                            <div class="moderator_hover_box"
+                                                 ng-if="broadcast.moderatorStudioInfo.moderatorTag || broadcast.moderatorStudioInfo.studioTag">
+                                                <div class="moderator_hover_light"
+                                                     ng-if="broadcast.moderatorStudioInfo.moderatorTag">
+                                                    <img src="/images/_global/moderatoren_schein_v2.png"
+                                                         width="275" height="170">
+                                                </div>
+                                                <div class="moderator_hover_image"
+                                                     ng-if="broadcast.moderatorStudioInfo.moderatorTag">
+                                                    <img src="/{{broadcast.moderatorStudioInfo.moderatorImg}}"
+                                                         width="275" height="170">
+                                                </div>
+                                                <div class="moderator_hover_studio">
+                                                    <div class="moderator_hover_studiolang" style="margin-top: -5px;"
+                                                         ng-if="broadcast.moderatorStudioInfo.studioTag">
+                                                        <img class="moderator_hover_studioimage"
+                                                             src="/{{broadcast.moderatorStudioInfo.studioFlag}}">&nbsp;
+                                                        <span class="moderator_hover_studiotxt" style="font-size: 1em;">Studio:</span>
+                                                        <span class="moderator_hover_studiotxt"
+                                                              style="font-size: 19px;"><b>{{broadcast.moderatorStudioInfo.studioName}}</b></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <img src="/{{broadcast.startimg}}" width="275"
+                                                 height="154" class="thumbnail_theme_blur">
+                                            <div class="themeVidTimeLatest" ng-hide="broadcast.videoTime == '0:00'">
+                                                {{broadcast.videoTime}}
+                                            </div>
+                                        </div>
+
+                                        <!--alte Sendungen-->
+                                        <div class="preload preload_three moderator_hover"
+                                             ng-if="broadcast.isOldBroadcast"
+                                             id="moderator_hover_{{$index}}"
+                                             ng-mouseover="moderatoren_hover('moderator_hover_'+$index)"
+                                             ng-mouseleave="moderatoren_leave('moderator_hover_'+$index)">
+                                            <div class="moderator_hover_playericon" style="top: 65px;"></div>
+                                            <!--alte Sendungen haben keinen hover, sonst von neue Sendungen kopieren-->
+                                            <img src="/{{broadcast.startimg}}" width="275"
+                                                 height="170" class="thumbnail_theme_blur">
+                                            <div class="themeVidTimeLatest" ng-hide="broadcast.videoTime == '0:00'">
+                                                {{broadcast.videoTime}}
+                                            </div>
+
+                                        </div>
+                                    </a><!-- end preload_four -->
+                                </div><!-- end port_img_four -->
+                                <!-- Language Related Broadcasts (Flag's) -->
+
+                                <div class="clear"></div>
+
+                                <div class="related-languages-container only-flags" style="max-width: 275px;"
+                                     ng-show="broadcast.relatedLanguageBroadcasts.length > 0">
+                                    <a href="/{{foreignLanguage.id}}"
+                                       class="related-language"
+                                       ng-repeat="foreignLanguage in broadcast.relatedLanguageBroadcasts"
+                                       data-tooltip-content="{{foreignLanguage.preRenderedTooltip}}"
+                                       data-ktv-tooltipster>
+                                        <img class="related-language-icons" width="16px" src="/images/glob_language_bigger/24x24/{{foreignLanguage.languageNameShort}}.png">
+                                    </a>
+                                </div>
+
+                                <div class="clear"></div>
+
+                            </div>
+                        </div>
+                        <div class="col-8 text pl-3">
+                            <p class="showstartText" ng-bind-html="broadcast.desc"></p>
+                            <hr style="width:100%;"/>
+                            <div class="row">
+                                <div class="col col-9" ng-if="broadcast.hashtags.length > 0" style="overflow-wrap: break-word;">
+                                    <a href="/{{hashtag.url_name}}" title="{{hashtag.title}}"
+                                       class="mr-1 hashtaglink" ng-repeat="hashtag in broadcast.hashtags" style="overflow-wrap: break-word;">#{{hashtag.name}}  </a>
+                                </div>
+                                <div class="col col-3" data-smartstats-star-video lang_view="Ansichten" lang_popular="Beliebt" basepath="/" format="big" videoid="{{broadcast.id}}"></div>
+                                </div>
+                            <div style="clear: both;"></div>
+                            
+                        </div>
+                        
+
+                    </div>
+
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+
+
+
+    <div style="clear: both;"></div>
+
+    <!-- MEHR VIDEOS LADEN -->
+
+            <div class="d-flex justify-content-center mt-3" ng-show="!data.latestBroadcasts.loading && data.latestBroadcasts.thenloading || !data.latestBroadcasts.ready">
+                    <div>
+                        <img class="ktv_fancy_loader_circle" src="images/loader_klatv.gif"/>
+                    </div>
+                </div>
+
+
+    <div class="trendbtn_broadcasts w-100" style="margin-top: 37px;" ng-click="loadMoreVideos()" ng-show="!data.latestBroadcasts.loading || !vm.ready">
+        Weitere Sendungen anzeigen
+    </div>
+
+
+    <br class="clear"/>
+
+    <!-- ***************** - START kla.TV Trends - ***************** -->
+
+    <br>
+    
+    <div class="trendsbox" data-ktv-trend-lazy-loader ng-class="{'d-block': vm.ready}">
+        
+        <div id="currenttrend_wrapper" ng-show="vm.visibleTrends && vm.runs">
+        <hr>
+        <div class="row">
+            <div class="col">
+                <h2 class="mb-3 mt-5 h1" data-scroll-anchor="trends">Kla.TV-Trends:</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <h4 class="mb-2 h4" style="color: #666;">Sendungen mit den meisten Klicks in den letzten 14 Tagen</h4>
+            </div>
+        </div>
+
+        <div class="item container">
+            <a href="{{vm.trends[0].id}}&autoplay=true" style="color: black;">
+
+                <div class="row">
+
+                    <div class="col">
+                        <div class="trendlayer"
+                             onmouseleave="	$(this).children('.trendplayericon').hide();
+        														$(this).children('.trendicon').show();"
+                             onmouseenter="	$(this).children('.trendicon').hide();
+        														$(this).children('.trendplayericon').show();">
+                            <div class="trendicon"><span>1</span></div>
+                            <div class="trendplayericon"></div>
+                            <br/>
+                            <!--<div>
+                                <span class="trendtextplayer" style="font-size: 22px;"
+                                  ng-bind-html="vm.trends[0].category"></span>
+                                <span class="trendtextplayer" style="font-size: 15px;"
+                                      ng-bind-html="vm.trends[0].date"></span>
+                            </div>-->
+                            <!--<div style="margin-top: 5px;"><span class="trendtextplayer" style="font-size: 18px;"
+                                                                ng-bind-html="vm.trends[0].title"></span></div>-->
+                        </div>
+                        <div class="trendblacklayer"></div>
+                        <div class="trendbottomlayer">
+                            <div class="trendVidTime">{{vm.trends[0].videotime}}</div>
+                            <div class="trendKlaLink">www.kla.tv/{{vm.trends[0].id}}</div>
+                        </div>
+                        <img src="{{vm.trends[0].img_big}}" style="margin-left: 5px;width: 436px;"/>
+                    </div>
+
+                   <div class="col" style="color: #000;">
+                        <h3 ng-bind-html="vm.trends[0].title"></h3>
+                        <p ng-bind-html="vm.trends[0].desc"></p>
+                       
+                        <div data-smartstats-star-video lang_view="Ansichten" lang_popular="Beliebt" basepath="/" videoid="{{vm.trends[0].id}}" format="big"></div
+
+                    <div class="socialsvideo">
+                        <a href="mailto:{{ 'BITTE HIER DIE E-MAIL EINTRAGEN,' | rawurlencode }}?subject={{ 'Kla.TV-Empfehlung | www.kla.tv/' + vm.trends[0].id + ' | ' + vm.trends[0].title | rawurlencode }}&body={{  'Hallo, das könnte interessant für Dich sein:\n\n' + vm.trends[0].title + '\n\n' + vm.trends[0].desc + '\n\n' + 'https://www.kla.tv/' + vm.trends[0].id | rawurlencode  }}" title="via E-Mail empfehlen" class="social-share-buttons social-share-mail"><i class="fa fa-envelope"></i></a>
+                        <a ng-if="vm.trends[0].youtube_link.length > 1" href="https://www.youtube.com/c/KlaTv" target="_blank" title="Video auf YouTube anschauen" class="social-share-buttons social-share-youtube"><i class="fa fa-youtube"></i></a>
+                        <a href="https://www.facebook.com/sharer.php?u={{'https://www.kla.tv/' + vm.trends[0].id | encodeURIComponent}}" title="Auf Facebook teilen" data-title="Facebook" data-social-type="facebook" data-our-share-page="https://www.kla.tv/" target="_blank" class="social-share-buttons social-share-facebook social-share-windows"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?text={{'@klagemauerTV: ' + vm.trends[0].title + '\n' + vm.ktv_link_to_youtube_or_website(vm.trends[0]) | encodeURIComponent}}" title="Auf Twitter teilen" data-title="Twitter" target="_blank" class="social-share-buttons social-share-twitter social-share-windows"><i class="fa fa-twitter"></i></a>
+                        <a href="tg://msg_url?url={{vm.trends[0].title + '\n' + vm.ktv_link_to_youtube_or_website(vm.trends[0]) | encodeURIComponent}}" target="_blank" title="Auf Telegram teilen" class="social-share-buttons social-share-telegram">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1.2em" height="1.08em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 448 512"><path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z" fill="#ffffff"/></svg>
+                        </a>
+                        <a ng-if="vm.trends[0].vimeo.length > 1" href="https://vimeo.com/{{vm.trends[0].vimeo}}" target="_blank" title="Video auf Vimeo anschauen" class="social-share-buttons social-share-vimeo"><i class="fa fa-vimeo"></i></a>
+                        <a href="whatsapp://send?text={{vm.trends[0].title + '\n' + vm.ktv_link_to_youtube_or_website(vm.trends[0]) | encodeURIComponent}}" data-action="share/whatsapp/share" title="Auf Whatsapp teilen" data-title="Whatsapp" target="_blank" class="social-share-buttons social-share-whatsapp social-share-windows"><i class="fa fa-whatsapp"></i></a>
+                        <a href="sms:?&body={{vm.trends[0].title + '\n' + vm.ktv_link_to_youtube_or_website(vm.trends[0]) | encodeURIComponent}}" title="Per SMS weiterleiten" class="social-share-buttons social-share-sms"><i class="fa fa-comments-o" aria-hidden="true" ></i></a>
+                        <a href="//vk.com/share.php?url={{'https://www.kla.tv/' + vm.trends[0].id+ '?social-ref=vk' | encodeURIComponent}}" title="Auf VK teilen" data-title="VK" target="_blank" class="social-share-buttons social-share-vk social-share-windows"><i class="fa fa-vk"></i></a>
+                    </div>
+
+                </div>
+            </a>
+        </div>
+
+
+        <div class="trendtinyboxcontainer container item" >
+            <div class="row">
+                <a href="{{trend.id}}&autoplay=true" style="margin-left: -8px;" class="col col-3"
+                   ng-repeat="trend in vm.trends" ng-if="!$first">
+                    <div class="item trendtinybox">
+                        <div class="trendimage"
+                             onmouseleave="	$(this).children('.trendtinyplayericon').hide();
+																	$(this).children('.trendtinyicon').show();
+																	$(this).children('.trendtinylayer').fadeIn(300);"
+                             onmouseenter="	$(this).children('.trendtinyicon').hide();
+																	$(this).children('.trendtinyplayericon').show();
+																	$(this).children('.trendtinylayer').fadeOut(100);">
+                            <div class="trendtinyicon"><span>{{$index+1}}</span></div>
+                            <div class="trendtinyplayericon"></div>
+                            <div class="trendtinylayer"></div>
+                            <div class="trendtinybottomlayer">
+                                <div class="trendtinyVidTime">{{trend.videotime}}</div>
+                                <div class="trendtinyKlaLink">www.kla.tv/{{trend.id}}</div>
+                            </div>
+                            <img class="trendpicturemin" style="height: 134px;" src="{{trend.img_small}}"/>
+                        </div>
+                        <h5 ng-bind-html="trend.title" class="text-black"></h5>
+                    </div>
+                    <div data-smartstats-star-video lang_view="Ansichten" lang_popular="Beliebt" style="margin-left: 12px; margin-bottom: 14px;margin-top: -14px;" basepath="/" videoid="{{trend.id}}" format="small"></div>
+                </a>
+        </div>
+
+
+        <div class="d-flex justify-content-center mt-3"  ng-if="!vm.loading">
+                <div>
+                    <img class="ktv_fancy_loader_circle" src="images/loader_klatv.gif"/>
+                </div>
+            </div>
+
+        <div class="trendbtn_broadcasts w-100" ng-click="vm.loadMoreTrends()" ng-if="!vm.trendFinish">Weitere Trends anzeigen</div>
+
+        <div class="clearfix"></div>
+    </div>
+    </div>
+
+    <br>
+    <hr>
+    <h2 class="mb-3 mt-5 h1" data-scroll-anchor="dauerbrenner">Kla.TV-Dauerbrenner:</h2>
+    <h4 class="mb-2 h4" style="color: #666;">Sendungen mit den meisten Klicks seit Bestehen</h4>
+
+
+    <!-- SLIDER STARTS JQUERY -->
+    <div id="onehashtag_view">
+        <hashtagcomp :hashtagid="9718" :smartstats="true" root_slash="/"></hashtagcomp>
+    </div>
+
+    <script type="text/javascript" src="/frameworks/slick/slick.min.js"></script>
+
+    <div class="clear"></div>
+    <br>
+    <hr>
+    <h2 data-scroll-anchor="akttopdoku" class="mt-5 mb-3 h1">Top Kla.TV-Dokufilme:</h2>
+    <div data-ktv-doku-lazy-loader>
+        <div class="container item top10_first_item doku-top" style="height: auto;" ng-class="{'d-block': vm.ready}">
+            <div class="row">
+                <div ng-repeat="doku in vm.dokus" class="col col-3"
+                     style="position: relative; float: left;margin-top: 6px; margin-bottom: 12px;">
+                    <span class="videoTimeAtDokus">{{doku.videotime}}</span>
+                    <a href="{{doku.id}}&autoplay=true" style="text-decoration: none;">
+                        <img class="doku-item" src="/{{doku.img_small}}">
+                    </a>
+                    <div data-smartstats-star-video lang_view="Ansichten" lang_popular="Beliebt"
+                        style="text-align: left;margin-left: 3px;" basepath="/"
+                        videoid="{{doku.id}}" format="small"></div>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center mt-3" ng-if="!vm.loading || !vm.ready">
+            <div>
+                <img class="ktv_fancy_loader_circle" src="images/loader_klatv.gif"/>
+            </div>
+        </div>
+
+        <div class="trendbtn_broadcasts w-100" ng-click="vm.loadMoreDokus()" ng-if="!vm.dokuFinish && vm.ready">Weitere Dokufilme</div>
+        <div class="clearfix"></div>
+    </div>
+    <!-- ***************** - END Top4 Dokufilme - ***************** -->
+
+    <!-- ***************** - START Top10 - ***************** -->
+
+
+    <!-- Anker to jump directly to top 30 videos -->
+
+    <br>
+    <hr>
+    <div class="row">
+        <div class="col">
+            <h2 class="mt-5 mb-3 h1" data-scroll-anchor="top-broadcasts">
+                Infos zu Ländern</h2>
+        </div>
+    </div>
+
+    <div data-ktv-recommendation-tab-loader>
+        <div class="top10" ng-class="{'d-block': vm.ready}">
+
+            <div class="row">
+                <div class="col">
+                    <div class="tabs-area">
+
+                        <ul class="tabset noinitTabs">
+
+                            <li ng-repeat="topic in vm.topics">
+                                <a ng-click="vm.recomm_more_click(topic.id)"
+                                   ng-class="{'active':vm.selcid==topic.id}" class="tab noinitTabs">
+												<span>
+													<div style="text-align: center !important;width: 170px;"
+                                                         class="showstart_recommds_tab_div text-black">
+													{{topic.name}}
+													</div>
+												</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a ng-click="vm.clickMoreMenu()"
+                                   ng-class="{'active':vm.topic_meu_ids.indexOf(vm.selcid) >= 0}"
+                                   class="tab-more-videos noinitTabs tab not-auto-scroll">
+												<span>
+													<div class="showstart_recommds_tab_div text-black">
+														Mehr ...<br><span
+                                                            style="font-size: 12px;margin-top: 2px;">bitte auswählen</span>
+													</div>
+												</span>
+                                </a>
+
+                            </li>
+
+                        </ul>
+
+
+                    </div>
+                </div>
+            </div>
+            <div id="recomm_more_menu" ng-show="vm.showmoremenu">
+
+                <ul class="dd-options" style="width: 260px; display: block" ng-show="vm.showmoremenu">
+                    <li ng-repeat="mtopic in vm.topics_menu">
+                        <a class="dd-option dd-option-selected" style="padding: 20px;"
+                           ng-click="vm.recomm_more_click(mtopic.id)">
+                            <label class="dd-option-text">{{mtopic.name}}</label>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="bg-white" ng-show="vm.topic_meu_ids.indexOf(vm.selcid) >= 0">
+                <h2 style="margin-left: 29px;font-size: 30px;padding-top: 10px;">{{vm.infotopic}}</h2>
+            </div>
+
+            <div id="tab-lyb" ng-show="!vm.loading" class="col bg-white">
+                <div class="top10_column column">
+
+                    <div class="row py-3">
+                        <div class="hover-top10-item col col-6" ng-repeat="vid in vm.topicvids.videos">
+                            <div class="mb-1 item column-item"
+                                 style="position: relative; background-color: transparent;">
+
+                                <div>
+
+                                    <a ng-href="/{{vm.topicvids.url_name}}/{{vid.id}}&autoplay=true"><img src="{{vid.image_theme.w176}}"
+                                                                                                        class="preview-image lazy"
+                                                                                                        data-original="{{vid.image_theme.w176}}"/></a>
+
+                                </div>
+
+
+                                <div class="themeVidTimeT10" style="left: -78px;top: 16px;">
+                                    {{vid.timestring}}
+                                </div>
+
+
+                                <div class="title" style="">
+                                    <a ng-href="/{{vm.topicvids.url_name}}/{{vid.id}}&autoplay=true">
+                                        <h5 style="height: 39px;width: 310px;" class="text-black"  ng-bind-html="vid.title">
+
+                                        </h5>
+                                    </a>
+                                </div>
+
+                                <!-- Language Related Broadcasts (Flag's) -->
+                                <div class="related-languages-container only-flags"
+                                     ng-show="vid.related_lang.length > 0" 
+                                     style="max-width: 320px;">
+                                    <a href="/{{foreignLanguage.id}}"
+                                       class="related-language"
+                                       ng-repeat="foreignLanguage in vid.related_lang"
+                                       data-tooltip-content="{{foreignLanguage.title}}" data-ktv-tooltipster>
+                                        <img class="related-language-icons" width="16px" src="/images/glob_language_bigger/24x24/{{foreignLanguage.language_name_short}}.png">
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="clearfix"></div>
+                </div>
+
+            </div>
+        </div>
+        
+        <div ng-show="vm.loading || !vm.ready" class="d-flex justify-content-center mt-3">
+                <div>
+                    <img class="ktv_fancy_loader_circle" src="images/loader_klatv.gif"/>
+                </div>
+            </div>
+    </div>
+
+
+    <!-- ***************** - END Top10 - ***************** -->
+    &nbsp;
+
+
+    <!-- ***************** - END Homepage Content Area - ***************** -->
+
+    <!--Box News-->
+    <div id="overlay" class="overlayBG" classname="overlayBG"
+         onClick="ChangeDisplay('none','overlay');ChangeDisplay('none','lightBox');"></div>
+    <div id="lightBox">
+        <form method="POST" action="?type=0">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="link('?type=0')">
+                    ×
+                </button>
+                <p></p>
+            </div>
+            <div>
+            <textarea name="textarea" id="text-inhalt" rows="15" cols="80"
+                      style="width: 900px; height:500px">{$inhaltbox}</textarea>
+            </div>
+            <br/>
+            <input type="hidden" name="typ" value="{$type}"/>
+            <input type="submit" name="save" value="Speichern"/>
+        </form>
+    </div>
+    <!--Box Top10-->
+    <a href="#" id="box_hide2">
+        <div id="overlay2" class="overlayBG" classname="overlayBG"></div>
+    </a>
+    <div id="lightBox2">
+        <form method="POST" action="?type=4">
+            <div class="modal-header">
+                <span style="font-size: 1.5em">Favoriten bearbeiten</span>
+                <a href="#" id="box_buttonhide2">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        ×
+                    </button>
+                </a>
+                <p></p>
+            </div>
+            <div>
+                <p style="padding: 0 40px;">
+                    Um die Reihenfolge der Top-Videos anzupassen,
+                    trage die Video-IDs der gewünschten Sendungen in die nachfolgenden Felder ein.
+                    Wenn es sich um eine BlockId handelt, dann wähle BlockId, sonst VideoId.<br>
+                    Die Video-ID kannst du wie folgt ausfindig machen:
+                </p>
+                <img src="/images/VideoID.png" alt="VideoID finden"/><br>
+                <table>
+                    
+                    <tr>
+                        <td>
+                            Top 01: <input type="text" value="10897" name="1" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_1"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_1"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 02: <input type="text" value="11146" name="2" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_2"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_2"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 03: <input type="text" value="9217" name="3" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_3"
+                                                   size="10"
+                                                   >
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_3"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 04: <input type="text" value="10957" name="4" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_4"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_4"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 05: <input type="text" value="7493" name="5" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_5"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_5"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 06: <input type="text" value="8962" name="6" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_6"
+                                                   size="10"
+                                                   >
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_6"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 07: <input type="text" value="9368" name="7" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_7"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_7"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 08: <input type="text" value="9037" name="8" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_8"
+                                                   size="10"
+                                                   >
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_8"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 09: <input type="text" value="5588" name="9" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_9"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_9"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 10: <input type="text" value="11079" name="10" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_10"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_10"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 11: <input type="text" value="9283" name="11" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_11"
+                                                   size="10"
+                                                   >
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_11"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 12: <input type="text" value="8726" name="12" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_12"
+                                                   size="10"
+                                                   >
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_12"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 13: <input type="text" value="9954" name="13" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_13"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_13"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 14: <input type="text" value="11020" name="14" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_14"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_14"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            Top 15: <input type="text" value="7808" name="15" size="10">
+                            <br>
+                            
+                            videoid: <input type="radio" value="videoid" name="typ_15"
+                                                   size="10"
+                                                   checked="checked">
+                            
+                            blockid: <input type="radio" value="blockid" name="typ_15"
+                                                   size="10"
+                                                   >
+                            
+                        </td>
+                    </tr>
+                    
+                </table>
+            </div>
+            <br/>
+            <input type="hidden" name="lang" value="1"/>
+            <input type="submit" name="save" value="Speichern"/>
+        </form>
+    </div>
+    <script src="/js/View/showstart.js?v=20201001"></script>
+    <script src="/js/vue-js/showOneHashtag.js?v=20201001"></script>
+</div>
+
+
+				<div class="clearfix"></div>
+
+			</div><!-- main-area -->
+
+
+
+		</div><!-- end main -->
+	</div><!-- end wrapper -->
+
+	<!-- ***************** - Top Footer - ***************** -->
+	<!--{$begin stickyFooterContentArea}-->
+	<div id="sticky-footer" class="container-fluid bg-darkblue">
+		<div class="container text-white">
+			<div class="row py-4">
+				<div class="col-5">
+					<h3 class="followsocialbuttons">Folgen Sie uns</h3>
+					<ul class="social_icons_list" style="list-style: none;">
+						<!--{$begin stickyFooter-social_link_frei3}-->
+						<li>
+							<a href="https://www.frei3.de/articlegroup/19adc422-d7d7-4b2a-8b86-3c7d6cd1f198" target="_blank" title="Kla.TV auf frei3"><img
+									src="/images/2018/social-icon/logo_frei3_weiss.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_frei3}-->
+						<!--{$begin stickyFooter-social_link_youtube}-->
+						<li>
+							<a href="https://www.youtube.com/klagemauerTV" target="_blank" title="Kla.TV auf Youtube"><img
+									src="/images/2018/social-icon/icon_youtube.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_youtube}-->
+						<!--{$begin stickyFooter-social_link_facebook}-->
+						<li>
+							<a href="https://www.facebook.com/klagemauerTV" target="_blank" title="Kla.TV auf Facebook"><img
+									src="/images/2018/social-icon/icon_facebook.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_facebook}-->
+						<!--{$begin stickyFooter-social_link_telegram}-->
+						<li>
+							<a href="https://t.me/s/KlagemauerTV" target="_blank"
+							   title="Kla.TV auf Telegram"><img
+									src="/images/2018/social-icon/telegram_weiss.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_telegram}-->
+						<!--{$begin stickyFooter-social_link_instagram}-->
+						<li>
+							<a href="https://www.instagram.com/kla.tv/" target="_blank"
+							   title="Kla.TV auf Instagram"><img
+									src="/images/2018/social-icon/instagram_weiss.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_instagram}-->
+						<!--{$begin stickyFooter-social_link_twitter}-->
+						<li>
+							<a href="https://www.twitter.com/klagemauerTV" target="_blank" title="Kla.TV auf Twitter"><img
+									src="/images/2018/social-icon/icon_twitter.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_twitter}-->
+						<!--{$begin stickyFooter-social_link_vk}-->
+						<li>
+							<a href="https://vk.com/klagemauertv" target="_blank" title="Kla.TV auf VK"><img
+									src="/images/2018/social-icon/vk_weiss.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_vk}-->
+						<!--{$begin stickyFooter-social_link_bitchute}-->
+						<li>
+							<a href="https://www.bitchute.com/channel/klatv/" target="_blank" title="Kla.TV auf BitChute"><img
+									src="/images/2018/social-icon/bitchute_weiss_v02.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_bitchute}-->
+						<!--{$begin stickyFooter-social_link_ibry}-->
+						<li>
+							<a href="https://lbry.tv/@KlaTV:0" target="_blank" title="Kla.TV auf Lbry"><img
+									src="/images/2018/social-icon/icon_lbry_v2.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_ibry}-->
+						<!--{$begin stickyFooter-social_link_archive}-->
+						<li>
+							<a href="https://archive.org/details/@kla_tv" target="_blank" title="Kla.TV auf Archive"><img
+									src="/images/2018/social-icon/icon_archive_v2.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_archive}-->
+						<!--{$begin stickyFooter-social_link_rss}-->
+						<li>
+							<a href="/rss.php?lang=de" target="_blank" title="Kla.TV RSS"><img
+									src="/images/2018/social-icon/icon_rss.png" /></a>
+						</li>
+						<!--{$end stickyFooter-social_link_rss}-->
+					</ul>
+				</div>
+
+				<!--{$begin newsletterFooterMainPage}-->
+				<div class="col-2">
+					<h3 class="text-right" style="line-height: 0.9;">Newsletter abonnieren</h3>
+				</div>
+
+
+				<div class="col-3">
+					<input type="text" id="newsletter-email-input" placeholder="E-Mail Adresse" />
+					<p class="newletter_policy_text_notice">* Mit Ihrer Anmeldung erklären Sie sich mit unserer <a class='policy_link' target='_blank' href='https://www.kla.tv/index.php?a=showprivacy'>Datenschutzerklärung</a> einverstanden.</p>
+				</div>
+
+
+				<div class="col-2">
+					<a class="btn_trend_white" href="#" id="newsletter-abo-btn-bottom"> <span>Weiter</span> </a>
+				</div>
+				<!--{$end newsletterFooterMainPage}-->
+			</div>
+		</div>
+	</div>
+	<!--{$end stickyFooterContentArea}-->
+
+	<div id="static-footer" class="container-fluid bg-white">
+		<div class="container text-darkblue">
+			<div class="row">
+				<div class="col float-left">
+					<div>
+						<a href="/index.php?a=showstart&lpage=false" class="float-left"><img
+								src="/images/_global/ktv-logo2018.png" height="40" alt=""
+								style="margin-top: 2px;"></a>
+					</div>
+					<div class="mt-3 ml-2 float-left">
+						&copy; 2020 <b>klagemauer.TV</b>
+					</div>
+				</div>
+				<div class="col float-right">
+					<ul class="footer_bottom_linklist mt-3">
+						<li>
+							<a href="/index.php?a=showstart"
+							   class="text-darkblue">Startseite</a>
+						</li>
+						<li>
+							<a href="/index.php?a=showcontact"
+							   class="text-darkblue">Kontakt</a>
+						</li>
+						<li>
+							<a href="/index.php?a=showimpressum"
+							   class="text-darkblue">Impressum</a>
+						</li>
+						<li>
+							<a href="/index.php?a=showprivacy"
+							   class="text-darkblue">Datenschutz</a>
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="related_html_cont" style="display: none;">{$related_html}</div>
+	<script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-1-slider.js"></script>
+	<script type="text/javascript" src="/js/testimonial-slider.js"></script>
+
+	<script type="text/javascript" src="/js/vue-js/showhashtagmenu.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/vue-js/autocomplition.search.js?v=20201001"></script>
+	<script type="text/javascript" src="/js/vue-js/languageMenuMain.js?v=20201001"></script>
+
+	<!-- Matomo -->
+	<script type="text/javascript">
+		var _paq = _paq || [];
+		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function () {
+			var u = "//privacy.klagemauer.tv/";
+			_paq.push(['setTrackerUrl', u + 'piwik.php']);
+			_paq.push(['setSiteId', '10']);
+			var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+			g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+		})();
+	</script>
+	<noscript>
+		<img src="https://privacy.klagemauer.tv/piwik.php?idsite=10&amp;rec=1" style="border:0" alt="" />
+	</noscript>
+
+</body>
+
+</html>

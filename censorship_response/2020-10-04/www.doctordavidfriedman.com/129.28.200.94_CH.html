@@ -1,0 +1,1634 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Dr. David Friedman</title>
+
+
+<meta name="Description" content="Dr. David Friedman, Dr. David Friedman is an international award-winning,  #1 best-selling author, syndicated TV health expert and radio host with a passion for natural health." />
+<meta name="Keywords" content="Dr. David Friedman, Dr. David Friedman" />
+<meta name="author" content="Dotlogics" />
+
+<!--Bootstrap and custom css start-->
+<link href="https://doctordavidfriedman.com/front/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="https://doctordavidfriedman.com/front/css/main.css" rel="stylesheet" type="text/css" media="projection,screen" />
+<link href="https://doctordavidfriedman.com/front/css/web-fonts/web-fonts.css" rel="stylesheet" type="text/css" />
+<link href="https://doctordavidfriedman.com/front/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="https://doctordavidfriedman.com/front/css/responsive.css" rel="stylesheet" type="text/css" />
+<link href="https://doctordavidfriedman.com/front/css/style.css" rel="stylesheet" type="text/css" />
+
+<!--Bootstrap and custom css end-->
+
+<!-- Google Chrome Frame for IE -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=edge" /> -->
+<!-- mobile meta (hooray!) -->
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" /> 
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no" />
+
+<!--include js -->
+<link rel="shortcut icon" type="image/x-icon" href="https://doctordavidfriedman.com/images/favicon.png" />
+<link rel="shortcut icon" href="https://doctordavidfriedman.com/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="https://doctordavidfriedman.com/images/favicon.ico" type="image/x-icon" />
+
+<!--Bootstrap js link-->
+<script type="text/javascript" src="https://doctordavidfriedman.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://doctordavidfriedman.com/js/bootstrap.min.js"></script>
+
+<!--Bootstrap js link-->
+
+<!--Fancy box-->
+<script type="text/javascript" src="https://doctordavidfriedman.com/js/jquery.fancybox.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    //FANCYBOX
+    //https://github.com/fancyapps/fancyBox
+    $(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+});
+</script>
+
+<script type="text/javascript">
+
+
+$(window).load(function(){        
+	//$('#myModal').modal('show');
+	
+	/* Here */
+	var isshow = localStorage.getItem('isshow');
+	if (isshow == null) {
+		
+		localStorage.setItem('isshow', 1);
+		
+		// Show popup here
+		//$('#jPopup').show();
+		$('#myModal').modal('show');
+	}
+	/*Here */
+	
+	//$('#myModal').modal('show');
+	
+}); 
+
+
+ </script>
+ 
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".aa").click(function(){
+		$(".hid").toggle();
+	});
+});
+</script>
+
+<!-- Popup Thankyou JS Starts -->
+<script type="text/javascript" src="https://doctordavidfriedman.com/front/js/jquery.popupoverlay.js"></script>
+<!-- Popup Thankyou JS Ends --><!--include js -->
+<meta name="google-site-verification" content="dlQzmbjpJnPSww9iEHYn-CXcXUr2Ubf4f1dLmEKvkG4" />
+</head>
+<body>
+        
+        <!--slipry slider js starts--
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>-->
+        <script src="https://doctordavidfriedman.com/front/slipry-slider/slippry.min.js"></script>
+        <!--slipry slider js ends-->
+        
+        <!--slipry slider css starts-->
+        <link rel="stylesheet" href="https://doctordavidfriedman.com/front/slipry-demo/demo.css">
+        <link rel="stylesheet" href="https://doctordavidfriedman.com/front/slipry-slider/slippry.css">
+        <!--slipry slider css ends-->
+<!--Header start here-->
+	<!-- Smart Search JS Starts -->
+<script type="text/javascript">
+$(document).ready(function() {
+	/*
+	$(document).on('keyup','#searc',function(){
+		var txt = $(this).val();
+		if(txt.length > 0){
+			$('#smartsearch').show();
+			
+		}else{
+			//$('#searchli').html('');
+			$('#smartsearch').hide();
+		}
+	});
+	
+	
+	$(document).on('focusout','#searc',function(){
+		setTimeout(function(){
+			$('#smartsearch').hide();	
+		},100);
+		//$('#search-content').html('');
+	});
+	
+
+	$(document).on('focus','#searc',function(){
+		var txt = $(this).val();
+		if(txt.length > 0){
+			$('#smartsearch').show();
+			
+		}else{
+			//$('#searchli').html('');
+			$('#smartsearch').hide();
+		}
+	});
+	*/
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+    
+    $(document).on('keyup','#searc',function(){
+        var txt = $(this).val();
+        if(txt.length > 0){
+            $.ajax({
+                type : 'POST',
+                url  : "https://doctordavidfriedman.com/home/smart_search",
+                data : {txt:txt},
+                success: function(data){
+                    data = JSON.parse(data);
+                    if(data.rows >0 ){
+                        $('#searchli').html(data.html);
+                    }else{
+                        $('#searchli').html('<li><div class="noSearchData">No search results for "<span>'+txt+'</span>"</div></li>');
+                    }
+                    $('#smartsearch').show();
+                }
+            });
+            
+        }else{
+            $('#searchli').html('');
+            $('#smartsearch').hide();
+        }
+    });
+
+    $(document).ready(function(e){
+	    $("html, body > *").not(".hed-serc", ".hed-serc *").click(function(){
+	        $('#smartsearch').hide();  
+	    });
+	});
+    
+    $(document).on('focus','#searc',function(){
+        var txt = $(this).val();
+        if(txt.length > 0){
+            $.ajax({
+                type : 'POST',
+                url  : "https://doctordavidfriedman.com/home/smart_search",
+                data : {txt:txt},
+                success: function(data){
+                    data = JSON.parse(data);
+                    if(data.rows >0 ){
+                        $('#searchli').html(data.html);
+                    }else{
+                        $('#searchli').html('<li><div class="noSearchData">No search results for "<span>'+txt+'</span>"</div></li>');
+                    }
+                    $('#smartsearch').show();
+                }
+            });
+            
+        }else{
+            $('#searchli').html('');
+            $('#smartsearch').hide();
+        }
+    });
+    
+    
+});
+</script>
+<!-- Smart Search JS Ends -->  
+
+<!--Header start here-->
+	<div class="container pd-tp-30">
+    	<div class="row">
+        <!--logo Section start here-->
+        	<div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
+            	<div class="logo-sec">
+                	<a href="https://doctordavidfriedman.com/">
+                		<img src="https://doctordavidfriedman.com/resources/company_logo/logo.png" alt="logo"/>
+                    </a>
+                	<!--<h2 class="log-txt">DR. DAVID FRIEDMAN</h2>
+                    <h3 class="log-txt2">Changing Lives - <span>For the Health of it!</span></h3>-->
+                </div>	
+            </div>
+             <!--logo Section end here-->
+            
+            <!--social  Section end here-->
+            <div class="col-lg-4 col-md-4 col-sm-3  col-xs-12">
+            	<div class="hed_soci">
+                	<ul class="hed-wrp">
+                    	<li><a  href="https://www.facebook.com/drdavidfriedman" target="_blank"  class="fb-pd"><i class="fa fa-facebook"></i></a></li>
+                        <li><a  href="https://twitter.com/drdavidfriedman" target="_blank" ><i class="fa fa-twitter"></i></a></li>
+                        <li><a  href="https://www.linkedin.com/in/dr-david-friedman-25966937" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
+                        <li><a  href="https://www.instagram.com/DrDfriedman" target="_blank" ><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="javascript:void(0);"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                	
+                </div>	
+            
+            
+            </div>
+            <!--social Section end here-->
+            
+            <div class=" col-lg-4 col-md-4 col-sm-4  col-xs-12">
+            	<div class="res-nav-ser">
+            		<div class="hed-serc">
+                	
+                    	<input type="search" placeholder="Search" id="searc"/>
+                        <input type="button"/> 
+                    
+                      <!-- Smart Search Dropdown Starts -->
+                    <div class="nwhite-wrap" id="smartsearch" style="display:none;">
+                        <div class="nwhite-inn">
+                            
+                            <div class="nwhite-row">
+                                <ul id="searchli">
+
+                                </ul>
+                            </div>
+                                 <!--   <li>
+                                        <a href="#">
+                                        	<strong>hammer</strong> drill
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                        	<strong>hammer</strong> drill bits
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                        	<strong>hammer</strong> drill corded
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                        	<strong>hammer</strong> drill cordless
+                                        </a>
+                                    </li>
+                                    <li>
+                                    	<div class="noSearchData">No search results for "<span>Sample Text</span>"</div>
+                                    </li>-->
+                                
+                            
+                        </div>
+                    </div>
+                    <!-- Smart Search Dropdown Ends --> 
+                
+                </div>
+            	</div>
+            
+            </div>
+        	
+        </div>
+    </div>
+    
+     <!--Nav section start here-->
+        	<section class="nav-sec">
+            	<div class="container">
+                	<div class="row">
+                    	<div class="col-md-12 col-lg-12">
+                        	 <nav class="navbar navbar-default">
+    							  
+                                        <!-- Brand and toggle get grouped for better mobile display -->
+                                        <div class="navbar-header">
+                                          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                                            <span class="sr-only">Toggle navigation</span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                          </button>
+                                          
+       								 	</div>
+    
+                                    <!-- Collect the nav links, forms, and other content for toggling -->
+                                    <div class="collapse navbar-collapse pd-zero" id="navbar-collapse-1">
+                                      <ul class="nav navbar-nav nav-pad">
+                                      <li><a href="https://doctordavidfriedman.com/">Home</a></li>
+                                          		<li class=""><a href="https://doctordavidfriedman.com/about">About</a></li>
+                                        <li class="dropdown ">
+                                              <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">Books <span class="caret"></span></a>
+                                              <ul class="dropdown-menu">
+                                                <li><a href="https://doctordavidfriedman.com/food-sanity">Food Sanity</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/cup-of-coffee">Cup of Coffee</a></li>
+                                              </ul>
+        								</li>
+                                        
+                                        <li class=""><a href="https://doctordavidfriedman.com/cd">CD</a></li>
+                                       <!-- <li><a href="#">Podcasts</a></li> -->
+                                         
+                                        
+                                        <li class="dropdown">
+                                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Radio Show <span class="caret"></span></a>
+                                              <ul class="dropdown-menu">
+                                              
+                                                <li class=""><a href="https://doctordavidfriedman.com/radio_show/about">About</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/radio_show/celebrity">Celebrity Interviews</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/podcasts">Podcasts</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/radio_show/chew_on_this">Chew on This</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/radio-show/ask-the-doctor">Ask The Doctor</a></li>
+                                              </ul>
+                                        </li>
+
+                                          <li class=""><a href="https://doctordavidfriedman.com/blog">Health Blog </a></li>
+                                       
+                                        <li class=""><a href="https://doctordavidfriedman.com/all-natural-supplements"> All-Natural Supplements</a></li>
+                                        <li class="dropdown ">
+                                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">In the Media <span class="caret"></span></a>
+                                              <ul class="dropdown-menu">
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/radio_tv_career">Radio & TV Career</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/tv_appearances">TV Appearances</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/audio_appreances">Radio Appearances</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/mprint">Print</a></li>
+                                              </ul>
+        								</li>
+                                        <li class="marg-zero "><a href="https://doctordavidfriedman.com/contact">Contact</a></li>
+                                      </ul>
+                                      
+                                    </div><!-- /.navbar-collapse -->
+                                  
+    						</nav><!-- /.navbar -->
+                        
+                        </div>
+                    </div>
+            	</div>
+                
+            </section>
+            	
+        
+        
+        <!--Nav section end here-->
+      
+
+<!--Header start here--><!--Header start here-->
+
+	<!--banner section start here-->
+        
+        <section class="demo_wrapper">
+			<!--echo 'href="#"';-->
+			<ul id="demo1">
+				<li>
+
+                    	<a href='http://doctordavidfriedman.com/about'>
+                    		<img src="https://doctordavidfriedman.com/resources/homepage_image/banner_img1.jpg" alt="doctor david friedman" />
+                        </a>	
+                    </li>
+                    
+                    <li>
+                    	<a href='http://www.doctordavidfriedman.com/in_the_media/radio_tv_career'>
+                    		<img src="https://doctordavidfriedman.com/resources/homepage_image/banner_img2.jpg" alt="doctor david friedman" />
+                        </a>	
+                    </li>
+                    
+                    <li>
+                    	<a href='http://toyourgoodhealthradio.com/'>
+                    		<img src="https://doctordavidfriedman.com/resources/homepage_image/banner_img3.jpg" alt="doctor david" />
+                        </a>	
+                    </li>
+                    
+                    <li>
+                    	<a href='http://www.doctordavidfriedman.com/in_the_media/mprint'>
+                    		<img src="https://doctordavidfriedman.com/resources/homepage_image/banner_img4.jpg" alt="doctor friedman" />
+                        </a>	
+                    </li>
+                    
+                    <li>
+                    	<a href='http://toyourgoodhealthradio.com/'>
+                    		<img src="https://doctordavidfriedman.com/resources/homepage_image/banner_img5.jpg" alt="1" />
+                        </a>	
+                    </li>
+			</ul>
+			
+		</section>
+
+		<script>
+			$(function() {
+				var demo1 = $("#demo1").slippry({
+					// transition: 'fade',
+					// useCSS: true,
+					// speed: 1000,
+					// pause: 3000,
+					// auto: true,
+					// preload: 'visible',
+					// autoHover: false
+				});
+
+				$('.stop').click(function () {
+					demo1.stopAuto();
+				});
+
+				$('.start').click(function () {
+					demo1.startAuto();
+				});
+
+				$('.prev').click(function () {
+					demo1.goToPrevSlide();
+					return false;
+				});
+				$('.next').click(function () {
+					demo1.goToNextSlide();
+					return false;
+				});
+				$('.reset').click(function () {
+					demo1.destroySlider();
+					return false;
+				});
+				$('.reload').click(function () {
+					demo1.reloadSlider();
+					return false;
+				});
+				$('.init').click(function () {
+					demo1 = $("#demo1").slippry();
+					return false;
+				});
+			});
+		</script>
+	
+	<!--banner section end here-->
+    
+    
+    
+    
+        <!--logo section Start here-->
+    	<section class="log-sec">
+        	<div class="log-hed">
+            	<h4>As Seen On:</h4>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mrg-botm">
+				<div class="all-logos">
+                    <table cellpadding="0" cellspacing="0" border="0" class="table-responsive">
+                        <tr>
+                            <td>
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340042_logo1.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340057_logo2.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340063_logo3.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340068_logo4.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340070_logo5.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340072_logo6.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340074_logo7.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340075_logo8.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340077_logo9.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340078_logo10.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340079_logo11.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340081_logo12.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340084_logo13.png" alt="dr. david friedman" class="img-responsive" />
+                                                                <img src="https://doctordavidfriedman.com/resources/homepage_image/logos/u_1499340087_logo14.png" alt="dr. david friedman" class="img-responsive" />
+                                                            </td>
+                        </tr>
+                    </table>
+                </div>
+			</div>
+		</section>
+    <!--logo section end here-->
+        
+    <!--Section 4  start here-->
+    	<section class="prod-sec">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-md-4 col-sm-4 col-xs-12">
+                    	<div class="bks-sec">
+                        	<table>
+                            	<tr>
+                                	<td>
+                                    	<img src="https://doctordavidfriedman.com/resources/homepage_image/thumb/thumb1_banner_img6.jpg" alt="dr. friedman" class="img-responsive"/>
+                                    </td>
+                                </tr>
+                            </table>
+                        	<div class="bks-sec-btn">
+                            	<div class="cds">
+                            		<a href="https://doctordavidfriedman.com/food-sanity">Books</a>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    	<div class="bks-sec">
+                        	<table>
+                            	<tr>
+                                	<td>
+                                    	<img src="https://doctordavidfriedman.com/resources/homepage_image/thumb/thumb1_banner_img7.jpg" alt="friedman" class="img-responsive"/>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                        	<div class="bks-sec-btn">
+                            	<div class="cds">
+                                	<a href="https://doctordavidfriedman.com/cd">CDs</a>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    	<div class="bks-sec">
+                        	<table>
+                            	<tr>
+                                	<td>
+                                    	<img src="https://doctordavidfriedman.com/resources/homepage_image/thumb/thumb1_banner_img8.jpg" alt="dr. david friedman" class="img-responsive"/>
+                                    </td>
+                                </tr>
+                            </table>
+                        	<div class="bks-sec-btn">
+                            	<div class="cds">
+                            		<a href="https://doctordavidfriedman.com/podcasts">Podcasts</a>
+                            	</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        </section>
+    
+    <!--Section 4  end here-->
+    
+    <!--Video section Start here-->
+    <section class="vd-sec" style="background-image:url(https://doctordavidfriedman.com/resources/homepage_image/banner_img9.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="vd-hed">
+						<h3>Featured VIdeos</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row pd-tp-vd">
+                                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="vid-1">
+                         <script type="text/javascript" src="https://video.foxnews.com/v/embed.js?id=5788088101001&w=466&h=263"></script><noscript>Watch the latest video at <a href="http://www.foxnews.com">foxnews.com</a></noscript>                        <p>FOX News: Are Hidden Chemicals  Making You Fat?</p>	
+                    </div>
+                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="vid-1">
+                         <iframe src="https://player.vimeo.com/video/98454790" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>                        <p>The Best of Ask The Doctor</p>	
+                    </div>
+                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="vid-1">
+                         <iframe src="https://player.vimeo.com/video/95889410" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>                        <p>The Bittersweet Truth About Artificial Sweeteners</p>	
+                    </div>
+                </div>
+                            </div>
+        </div>
+    </section>
+    <!--Video section end here-->
+    
+    <!--interview section start here-->
+    <section class="intve-sec">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="inter-hed">
+                        <h3>Featured Interviews</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row pd-tp-vd">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="inter-1">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="https://doctordavidfriedman.com/resources/page_image/2ce1f997c24ecd8fc398ae365432b2c0.png" class="img-responsive"/>
+                                </td>
+                            </tr>
+                        </table>
+                        <a onclick="myFunction('19b678a2c074c9cee2de516b18cc397d.mp3')">Jay Leno</a>
+                    </div>	
+                </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="inter-1">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="https://doctordavidfriedman.com/resources/page_image/4587349d768867d6d84af7e741857b39.png" class="img-responsive"/>
+                                </td>
+                            </tr>
+                        </table>
+                        <a onclick="myFunction('5c7d917e58db91312cf703dd45d261de.mp3')">William Shatner </a>
+                    </div>	
+                </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="inter-1">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="https://doctordavidfriedman.com/resources/page_image/7321a84ff90b15834aea656ed8de53a5.jpg" class="img-responsive"/>
+                                </td>
+                            </tr>
+                        </table>
+                        <a onclick="myFunction('305fcd8c11f336ba101fd4370310fbaf.mp3')">Suzanne Somers</a>
+                    </div>	
+                </div>
+                                                            </div><div class="row">
+                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="inter-1">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="https://doctordavidfriedman.com/resources/page_image/31d224e4b7da1c6f88503b193fcf31d2.jpg" class="img-responsive"/>
+                                </td>
+                            </tr>
+                        </table>
+                        <a onclick="myFunction('')">Andy Griffith</a>
+                    </div>	
+                </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="inter-1">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="https://doctordavidfriedman.com/resources/page_image/fcb4258e97a98006899d1080b20d4ce7.jpg" class="img-responsive"/>
+                                </td>
+                            </tr>
+                        </table>
+                        <a onclick="myFunction('')">Jenny McCarthy</a>
+                    </div>	
+                </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="inter-1">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="https://doctordavidfriedman.com/resources/page_image/bf76ef7f374530acaf920d44aaff3447.jpg" class="img-responsive"/>
+                                </td>
+                            </tr>
+                        </table>
+                        <a onclick="myFunction('63e4083091bba7f6ca1dabbffd05c7fc.mp3')">Howie Mandel</a>
+                    </div>	
+                </div>
+                            </div>
+        </div>
+    </section>
+    <!--interview section end here-->
+    
+      <section class="vd-sec2" style="background-image:url(https://doctordavidfriedman.com/resources/homepage_image/banner_img10.jpg)">
+    	<div class="container">
+        	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="new-bg-txt">
+                        	<a href="https://toyourgoodhealthradio.com/fitness" target="_blank">Connecting you with world renowned sports and fitness icons</a>
+                        </div>
+                    
+                    </div>
+                
+                </div>
+        
+        </div>
+    
+    </section>
+        <!--blog section end here-->
+    	<section class="blg-sec">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="inter-hed pd-less">
+                        	<h3>Featured Blogs</h3>
+                        </div>
+                    </div>
+                
+                </div>
+            </div>
+                        <div class="blg-slid">
+                        	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2831506316602.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/low-testosterone-could-your-cell-phone-or-laptop-be-to-blame-1">  Low Testosterone – Could Your Cell Phone or Lapt...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2701506317068.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/autoimmune-disease-why-the-body-attacks-itself">  Autoimmune Disease:  Why The Body Attacks Itself?</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_1811508692838.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/ten-tips-to-avoiding-gmos">  Ten Tips to Avoiding GMOs</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_8291523378907.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/coffee-and-cancer-are-there-any-grounds-for-concern">  Coffee and Cancer: Are there any grounds for conce...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2041526168272.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/dangerous-chemicals-in-your-microwave-popcorn">  Dangerous Chemicals In Your Microwave Popcorn!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2851528651835.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/farmed-and-dangerous">  Farmed and Dangerous!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_171534713499.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/expired-canned-foods-toss-or-eat">  Expired Canned Foods: Toss or Eat?</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2541549128422.jpeg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/does-buying-organic-break-the-bank">  Does Buying Organic Break the Bank?</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_5461550177297.jpeg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/scallops-the-most-counterfeit-food">  SCALLOPS: THE MOST COUNTERFEIT FOOD!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3581552841342.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/kerrygold-class-action-lawsuit">  Kerrygold Class Action Lawsuit</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_4631554411259.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/my-conversation-with-jay-leno-about-high-cholesterol">  My Conversation with Jay Leno about High Cholester...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3521554859731.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/veggies-ranked-by-how-healthy-they-are">  Veggies Ranked By How Healthy They Are</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_5441555190022.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/top-ten-nuts-ranked-by-how-healthy-they-are">  Top Ten Nuts Ranked by How Healthy They Are</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_1481499340457.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/probiotics-everything-you-need-to-know">  PROBIOTICS: EVERYTHING you need to know!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_1281558893319.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/herbs-ranked-by-how-healthy-they-are">  Herbs Ranked By How Healthy They Are</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2771559835787.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/back-pain-and-diet">  Back Pain and Diet</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3041564593140.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/ranking-sweeteners-by-how-unhealthy-they-are">  RANKING SWEETENERS BY HOW (UN)HEALTHY THEY ARE</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_4741568174951.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/glyphosate-the-cause-of-gluten-intolerance">  Glyphosate: The CAUSE of Gluten Intolerance</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2101571769807.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/microwave-myths-debunked">  Microwave Myths DEBUNKED!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_4391572756623.JPEG');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/beans-and-legumes-ranked-by-how-healthy-they-are">  BEANS (AND LEGUMES) RANKED BY HOW HEALTHY THEY ARE</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_501506316829.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/exercise-makes-you-gain-weight">  Exercise makes you GAIN weight!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_6901499326847.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/root-canals-and-heart-disease-my-personal-story">  Root Canals and Heart Disease: My Personal Story</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_4441543687529.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/sandwich-rankings-from-healthiest-to-unhealthy">  SANDWICH RANKINGS,  FROM HEALTHIEST TO UNHEALTHY</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3911576015460.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/beware-of-this-toxic-ingredient-in-salad-dressing">  Beware of this Toxic Ingredient in Salad Dressing!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3191578254237.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/sweet-deception">  Sweet Deception!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3281580260322.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/your-fitness-tracker-is-lying">  Your Fitness Tracker is LYING!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_4941583453934.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/do-hand-sanitizers-kill-coronavirus">  Do Hand Sanitizers Kill Coronavirus?</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2601584044674.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/coronavirus-fear-vs-facts">  Coronavirus: Fear vs. Facts</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_8141584903812.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/staying-indoors-increases-coronavirus-risk">  STAYING INDOORS INCREASES CORONAVIRUS RISK!</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_1531585502329.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/does-ibuprofen-cause-increased-risk-of-coronavirus">  Does Ibuprofen Cause Increased Risk of Coronavirus...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_8071585622449.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/hanger-management-why-you-get-angry-when-youre-hungry">  Hanger Management (why you get angry when you're h...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_2061585710941.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/usa-today-fact-checked-me-heres-my-response">  USA TODAY “Fact-Checked” Me!  Here's My Respon...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_3581586906336.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/do-we-need-salt-for-iodine">  Do We Need Salt For Iodine?</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_7911588899980.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/who-fact-checks-the-fact-checkers">  Who Fact-Checks the Fact-Checkers?</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_8511591843202.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/buffets-permanently-closed-decision-makers-have-stepped-out-of-line">  BUFFETS PERMANENTLY CLOSED:  DECISION MAKERS HAVE ...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_6611595960299.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/wines-ranked-by-how-healthy-they-are">  Wines Ranked by How Healthy They Are</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+            </div>            
+                        <div class="blg-slid pd-0">            	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_1991599935822.png');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/ranking-salad-toppers-by-how-healthy-they-are">  RANKING SALAD TOPPERS BY HOW HEALTHY THEY ARE</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                                    	
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 pd-lft-rig">
+                    <div class="new-struct" style="background-image: url('https://doctordavidfriedman.com/resources/blog_image/thumb/thumb3_img_9421601241283.jpg');">
+                        <div class="opacity-cover"></div> <!-- Overlay Bg -->
+                         
+                        <div class="cr-txt">
+                             <a href="blog/lab-grown-meat-what-you-need-to-know-before-lighting-up-the-grill">  Lab-Grown Meat: What You Need to Know Before Light...</a>
+                             
+                            <p class="cru-aut">By Dr. David Friedman</p>
+                        </div>
+                    </div>
+                </div>
+			
+                        
+                        
+            </div>            
+			
+			
+        </section>
+        <!--blog section end here-->
+<script>
+function myFunction($audio_src) {
+    if($audio_src){
+        var audioTag = '<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" /><meta name="HandheldFriendly" content="True" /><meta name="MobileOptimized" content="320" /> <meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no" /><style>*{padding:0px; margin:0px;}</style><div id="preloader" style="position: fixed; top: 0; left: 0; right: 0; bottom: 0;  z-index: 99;"><div id="status" style="width: 200px; height: 200px; position: absolute; left: 50%; top: 50%; background-image: url(front/images/status.gif); background-repeat: no-repeat; background-position: center; margin: -100px 0 0 -100px;"></div></div><link href="https://doctordavidfriedman.com/front/dist/skin/blue.monday/css/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="https://doctordavidfriedman.com/front/lib/jquery.min.js"></'+'script><script type="text/javascript" src="https://doctordavidfriedman.com/front/dist/jplayer/jquery.jplayer.min.js"></'+'script><script type="text/javascript">$(document).ready(function(){$("#jquery_jplayer_1").jPlayer({ready: function (event) {$(this).jPlayer("setMedia", {title: "Audio",mp3: "https://doctordavidfriedman.com/resources/page_audios/'+$audio_src+'"}).jPlayer("play");},swfPath: "https://doctordavidfriedman.com/front/dist/jplayer",supplied: "mp3",wmode: "window",useStateClassSkin: true,autoBlur: false,smoothPlayBar: true,keyEnabled: true,remainingDuration:true,toggleDuration: true }); }); </'+'script><div id="jquery_jplayer_1" class="jp-jplayer"></div><div id="jp_container_1" class="jp-audio" role="application" aria-label="media player"><div class="jp-type-single"><div class="jp-gui jp-interface"><div class="jp-controls"><button class="jp-play" role="button" tabindex="0">play</button><button class="jp-stop" role="button" tabindex="0">stop</button></div><div class="jp-progress"><div class="jp-seek-bar"><div class="jp-play-bar"></div></div></div><div class="jp-volume-controls"><button class="jp-mute" role="button" tabindex="0">mute</button><button class="jp-volume-max" role="button" tabindex="0">max volume</button><div class="jp-volume-bar"><div class="jp-volume-bar-value"></div></div></div><div class="jp-time-holder"><div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div><div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div><div class="jp-toggles" style="display: none;"><button class="jp-repeat" role="button" tabindex="0">repeat</button></div></div></div><div class="jp-details" style="display: none;"><div class="jp-title" aria-label="title">&nbsp;</div></div><div class="jp-no-solution"><span>Update Required</span>To play the media you will need to either update your browser to a recent version or update your Flash plugin.</div></div></div><script>$(document).ready(function(){ $("#preloader").hide();});</'+'script>';
+        
+
+
+        var audio_tag = '<audio controls="" style="width:300px; height:100px; position:absolute; top:50%; left:50%; margin-left:-150px; margin-top:-50px;" autoplay><source src="https://doctordavidfriedman.com/'+'resources/page_audios/'+$audio_src+'"></audio>';
+        //alert(audio_tag);
+        var w = 400;
+        var h = 200;
+        wLeft = window.screenLeft ? window.screenLeft : window.screenX;
+        wTop = window.screenTop ? window.screenTop : window.screenY;
+
+        var left = wLeft + (window.innerWidth / 2) - (w / 2);
+        var top = wTop + (window.innerHeight / 2) - (h / 2);
+        var myWindow = window.open("", '','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+        myWindow.document.write(audioTag);
+        myWindow.document.close();
+    }
+}
+</script>
+    <!--footer section start here-->
+    	<section class="footer">
+        	<div class="container-fluid">
+            	<div class="row">
+                	
+                	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mrg-botm">
+                    	
+                    	<div class="all-logos">
+                        	<table cellpadding="0" cellspacing="0" border="0" class="table-responsive">
+                            	<tr>
+                                	<td>
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow1.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow2.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow3.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow4.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow5.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow6.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow7.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow8.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow9.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow10.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow11.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow12.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow13.png" alt="" class="img-responsive" />
+                                    	<img src="https://doctordavidfriedman.com/front/images/logow14.png" alt="" class="img-responsive" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        
+                        
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+            
+            <div class="container">
+            	<div class="row">
+                	<div class="col-md-12 col-sm-12 col-xs-12">
+                    	<div class="fott-uper">
+                        	<h3>Free Health & Wellness Newsletter</h3>
+                            <p>Sign up to get Dr. David Friedman's health and wellness tips, featured videos, articles and podcasts!</p>
+                        	<div class="fot-search">
+                            	
+                                
+                                <form accept-charset="UTF-8" action="https://og368.infusionsoft.com/app/form/process/420966a8a023fe4fec8e7c1a99ceb489" class="infusion-form" id="inf_form_420966a8a023fe4fec8e7c1a99ceb489" method="POST">
+                                    <input name="inf_form_xid" type="hidden" value="420966a8a023fe4fec8e7c1a99ceb489" />
+                                    <input name="inf_form_name" type="hidden" value="Web Form submitted 2" />
+                                    <input name="infusionsoft_version" type="hidden" value="1.67.0.64" />
+                                    <div class="infusion-field">
+                                        <input class="sub_email_footer infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text"  placeholder="Email Address*"  />
+                                    </div>
+                                    <input class="sub_name_footer" name="inf_field_FirstName" type="hidden" value="null" />
+                                    <div class="infusion-submit">
+                                        <button type="submit" class="subscribe">Subscribe</button>
+                                    </div>
+                                </form>
+                                <div class="error" id="sub"></div>
+                            </div>
+                        </div>
+                        
+<script type="text/javascript" src="https://og368.infusionsoft.com/app/webTracking/getTrackingCode"></script>
+                    </div>
+                </div>
+            </div>
+        	<div class="fott-low">
+            	<div class="container">
+                	<div class="row">
+                    	<div class=" col-md-offset-1 col-md-11 col-sm-12">
+                        	<div class="fotter-nav">
+                            	
+                                      
+                                      <ul class="ft-naviga">
+                                        
+                                          <li class="dropup">
+                                              <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">Books <span class="caret"></span></a>
+                                              <ul class="dropdown-menu">
+                                                <li><a href="https://doctordavidfriedman.com/food-sanity">Food Sanity</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/cup-of-coffee">Cups of Coffee</a></li>
+                                              </ul>
+        									</li>
+                                        
+                                       	<li class=""><a href="https://doctordavidfriedman.com/cd">CD</a></li>
+                                         <li class="dropup">
+                                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Radio Show <span class="caret"></span></a>
+                                              <ul class="dropdown-menu">
+                                                <li><a href="https://doctordavidfriedman.com/radio_show/about">About</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/radio_show/celebrity">Celebrity Interviews</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/podcasts">Podcasts</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/radio_show/chew_on_this">Chew on This</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/radio-show/ask-the-doctor">Ask The Doctor</a></li>
+                                              </ul>
+        								</li>
+                                        <!--                                                                                    
+                                        -->
+                                        <li><a href="https://doctordavidfriedman.com/blogs">Health Blog </a></li>
+                                       	<li><a href="https://doctordavidfriedman.com/all-natural-supplements"> All-Natural Supplements</a></li>
+                                         <li class="dropup">
+                                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">In the Media <span class="caret"></span></a>
+                                              <ul class="dropdown-menu">
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/radio_tv_career">Radio & TV Career</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/tv_appearances">TV Appearances</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/audio_appreances">Radio Appearances</a></li>
+                                                <li><a href="https://doctordavidfriedman.com/in_the_media/mprint">Print</a></li>
+                                              </ul>
+        									</li>
+                                        
+                                        
+                                       	<li class="marg-zero "><a href="https://doctordavidfriedman.com/contact">Contact</a></li>
+                                      </ul>
+                            
+                            </div>
+                        
+                        </div>
+                    
+                    </div>
+                    
+                    <div class="row">
+                    	<div class="col-md-offset-5  col-sm-offset-4 col-sm-8 col-md-7 col-xs-12">
+                        	<div class="fot-soci">
+                            	<ul class="fot-fb">
+                                	<li><a  href="https://www.facebook.com/drdavidfriedman" target="_blank"  class="fb-pd"><i class="fa fa-facebook"></i></a></li>
+                        <li><a  href="https://twitter.com/drdavidfriedman" target="_blank" ><i class="fa fa-twitter"></i></a></li>
+                        <li><a  href="https://www.linkedin.com/in/dr-david-friedman-25966937" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
+                        <li><a  href="https://www.instagram.com/DrDfriedman" target="_blank" ><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="javascript:void(0);"><i class="fa fa-youtube"></i></a></li>
+                                </ul>
+                            
+                            </div>
+                        
+                        </div>
+                    
+                    
+                    </div>
+                    
+                   
+                    
+                    <div class="row">
+                    	<div class="col-md-12">
+                        	<div class="cop-rig-sec">
+                            	<p>&copy; 2020 DrDavidFriedman.com All rights reserved. Website created by <a href="http://www.dotlogics.com/" target="_blank">Dotlogics</a></p>
+                            	
+                            </div>
+                        
+                        </div>
+                    
+                    
+                    </div>
+                
+                </div>
+            
+            
+            </div>
+        </section>
+         <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+
+         <!-- Thankyou Popup Start -->
+         <a class="initialism fadeandscale_open" href="#fadeandscale" style="float:left; margin-bottom:10px;display: none;" data-popup-ordinal="0" id="open_11220182">Lightbox</a>
+         <div id="fadeandscale" class="n-well" style="display: none;">
+            <div class="thanks-pop-bdr">
+                <div class="thanks-pop-lf">
+                    <img src="https://doctordavidfriedman.com/front/images/logo.png" alt="" />
+                </div>
+                <div class="thanks-pop-ri">
+                    <h2>
+                        Thank you! Your information has been submitted.
+                    </h2>
+                    <p>
+                        Feel free to continue browsing <br /> the site.
+                    </p>
+                </div>
+            </div>
+    
+            <button class="fadeandscale_close pop-close"></button>    
+        </div>
+        <!-- Thankyou Popup Ends -->
+
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5909a4dcadb61723"></script> 
+
+    <script type="text/javascript">
+	function validateEmail(email) {
+		var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+		return re.test(email);
+	}
+
+	$(".subscribe").on('click',function(e){
+		var email = $('.sub_email_footer').val();
+        var txt = email.split("@");
+        $(".sub_name_footer").val(txt[0]);
+
+        //e.preventDefault();
+		
+		var is_valid = validateEmail(email);
+		$('#sub').html('');
+		
+		if(email.length==0){
+			$('#sub').html('This field is required.');
+            e.preventDefault();
+            return false;
+		}
+		else {
+			if(email.length>0) {
+				if(is_valid === false) {
+					$('#sub').html('Please enter a valid email address.');
+                    e.preventDefault();
+                    return false;
+				} else {
+					var base_url = "https://doctordavidfriedman.com/";
+					$.ajax({
+						type: "POST",
+						url: 'https://doctordavidfriedman.com/subscribe',
+                        async:false,
+						data:{email:email , ci_csrf_token:''},
+						
+						success: function(res) {
+							if(res == "done") {
+								$('input[name=sub_email]').val('');
+								//$('#sub').text('Thank you for subscribing with us!');
+								//window.location= 'https://doctordavidfriedman.com/thank-you';
+								//$('#thank_popup').click();
+                                //$("#open_11220182").trigger("click");
+							} else {
+								$('#sub').html('You are already subscribed.');
+                                e.preventDefault();
+                                return false;
+							}
+						},
+						error: function() {
+							$('#sub').html('Network error. Try again.');
+                            e.preventDefault();
+                            return false;
+						}
+					});
+				}
+			}
+		}
+	});
+	  
+	/*  
+	$(document).ready(function(e) {
+		$("input[name='search_data']").click(function(){ 
+			$("input[name='search_data']").attr('autocomplete', 'off');
+		});
+	});
+	*/
+
+    $(document).ready(function () {
+
+        $('#fadeandscale').popup({
+            pagecontainer: '.container',
+            transition: 'all 0.3s'
+        });
+
+        if($('#conact_s').val() == 1){
+            $("#open_11220182").trigger("click");
+        }
+
+    });
+
+</script>    <!--footer section end here-->
+
+
+
+    
+<!-- One Time Popup Start Here -->
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog self-popup">
+        <div class="modal-content">
+        	
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"></button>
+            </div>
+            
+            <div class="modal-body">
+                <div class="img-sec">
+                    <img src="https://doctordavidfriedman.com/front/images/pop-up-img.jpg" alt="" />
+                </div>
+                <div class="pop-txt">
+                    <h6>Improve The Health Of Your Inbox</h6>
+                    <p>
+                        Sign up for our free newsletters and receive tips and advice for living a healthy, balanced life.
+                    </p>
+                    <div class="pop-frm"  id="sub_form">
+         
+                        
+                                 <form accept-charset="UTF-8" action="https://og368.infusionsoft.com/app/form/process/f03d9359b6cd7afdb7307b062f4125d4" class="infusion-form" id="inf_form_f03d9359b6cd7afdb7307b062f4125d4" method="POST">
+                                    <input name="inf_form_xid" type="hidden" value="f03d9359b6cd7afdb7307b062f4125d4" />
+                                    <input name="inf_form_name" type="hidden" value="Web Form submitted" />
+                                    <input name="infusionsoft_version" type="hidden" value="1.67.0.64" />
+                                    <div class="infusion-field">
+                                        
+                                        <input class="sub_name_home infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" placeholder="Name*" />
+                                    </div>
+                                    <div class="infusion-field">
+                                        
+                                        <input class="sub_email_home infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text"  placeholder="Email*"/>
+                                    </div>
+                                    <div class="error">
+                                        <p id="error"></p>
+                                    </div>
+                                    <div class="sub_succees">
+                                        <p id="succees"></p>
+                                    </div>
+                                    <div class="infusion-submit">
+                                    <a href="#" class="pop-btn-1" data-dismiss="modal">No Thanks</a>
+                                        <button type="submit" class="pop-btn-2">SIGN UP TODAY</button>
+                                    </div>
+                                </form>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+</div>
+<!-- One Time Popup Ends Here -->
+<script type="text/javascript">
+    
+    var frm = $('#inf_form_f03d9359b6cd7afdb7307b062f4125d4');
+
+  frm.submit(function (e) {
+        var sub_name = $('.sub_name_home').val();
+        var sub_email = $('.sub_email_home').val();
+        
+        if(sub_name == "" || sub_email == ""){
+            $("#error").html('These fields are required.');
+            e.preventDefault();
+            return false;
+        }
+
+        var is_valid = validateEmail(email);
+        if(is_valid === false) {
+            $('#error').html('Please enter a valid email address.');
+            e.preventDefault();
+            return false;
+        }
+        
+
+        //e.preventDefault();
+
+        $.ajax({
+            type: frm.attr('method'),
+            url: 'https://doctordavidfriedman.com/books/subscribe',
+            async:false,
+            data: {sub_name:sub_name , sub_email:sub_email},
+            success: function (data) {
+                //$('#succees').html(data);
+                console.log('Submission was successful.');
+                console.log(data);
+                myObj = JSON.parse(data);
+                //alert(myObj.st);
+                if(myObj.st == 's'){
+                    $("#error").html('');
+                    //$('#succees').html(myObj.msg);
+                    //setTimeout(function() { $('#myModal').modal('hide'); }, 3000);
+                }
+                if(myObj.st == 'f'){
+                    $('#error').html(myObj.msg);
+                    e.preventDefault();
+                    return false;
+                }
+               
+            },
+            error: function (data) {
+                $('#error').html();
+                $('#error').html('Network error. Try again.');
+                e.preventDefault();
+                return false;
+            },
+        });
+    });
+</script>
+
+</body>
+
+</html>

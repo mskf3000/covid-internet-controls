@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+__pycache__
+env
+.pytest_cache
+wtb.spec
+build
+*.env
+
+authorized_keys
+cert.pem
+key.pem
