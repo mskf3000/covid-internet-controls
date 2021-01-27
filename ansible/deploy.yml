@@ -25,8 +25,8 @@
         state: present
 
     - name: Clone Git repository
-      git:
-        repo: "https://github.com/lukesturgis/covid-internet-controls"
+      git: 
+        repo: "https://github.com/sahilgupta221/covid-internet-controls"
         dest: /src
         accept_hostkey: yes
       register: gitclone
