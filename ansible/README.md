@@ -115,6 +115,7 @@ Run the following command in respective order in effected VPS:
 <br>1. docker build -t worker worker/
 <br>2. docker run -p 42075:42075 worker &
 <br>3. docker ps (helps to check if docker container is up and running)
+<br>4. curl http://localhost:42075/sahil
 <br>
 
 19. Stoping and removing docker images and container:
