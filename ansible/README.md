@@ -109,6 +109,15 @@ Run the following command in respective order in effected VPS:
 <br>2. docker run -p 42075:42075 workers &
 <br>3. docker ps (helps to check if docker container is up and running)
 <br>
+    
+    
+
+18. Stoping and removing docker images and container:
+Run the following command in respective order:
+<br>1. docker stop $(docker ps -a -q)
+<br>2. docker rm $(docker ps -a -q)
+<br>3. docker rmi $(docker images -a -q)
+<br>
 
 ## Sahil: In case 3.6 is installed from source code
 A. To set python3.6 as default python3 interpreter
