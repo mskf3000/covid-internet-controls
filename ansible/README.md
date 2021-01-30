@@ -111,7 +111,7 @@ Run the following command in respective order in effected VPS:
 <br>
     
 18. Mannual building and running of docker container:
-Run the following command in respective order in effected VPS:
+Run the following command in respective order:
 <br>1. docker build -t worker worker/
 <br>2. docker run -p 42075:42075 worker &
 <br>3. docker ps (helps to check if docker container is up and running)
