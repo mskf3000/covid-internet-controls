@@ -106,23 +106,8 @@ Sol: apt install python3-pip
 17. Mannual building and running of docker container:
 Run the following command in respective order in effected VPS:
 <br>1. docker build -t worker /src/worker
-<br>2. docker run -p 42075:42075 worker &
+<br>2. docker run -p 42075:42075 workers &
 <br>3. docker ps (helps to check if docker container is up and running)
-<br>
-    
-18. Mannual building and running of docker container:
-Run the following command in respective order:
-<br>1. docker build -t worker worker/
-<br>2. docker run -p 42075:42075 worker &
-<br>3. docker ps (helps to check if docker container is up and running)
-<br>4. curl http://localhost:42075/sahil
-<br>
-
-19. Stoping and removing docker images and container:
-Run the following command in respective order:
-<br>1. docker stop $(docker ps -a -q)
-<br>2. docker rm $(docker ps -a -q)
-<br>3. docker rmi $(docker images -a -q)
 <br>
 
 ## Sahil: In case 3.6 is installed from source code

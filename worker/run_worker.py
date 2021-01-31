@@ -92,7 +92,17 @@ def new_target():
         return make_response("error", "Invalid data format. Need target.")
 
     return request_webpage(requested_target)
+"""
+Sahil: test method to test VPS setup on local machine
+"""
+@app.route("/sahil", methods=["GET"])
+def sahil():
+    try:
+        requested_target = request.form["target"] + ":Sahil test method"
+    except KeyError:
+        return make_response("error", "Invalid data format. Need target.")
 
+    return requested_target
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=42075)

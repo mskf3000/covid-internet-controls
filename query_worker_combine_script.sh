@@ -1,7 +1,7 @@
 #!/bin/bash
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
-IFS=$'\n' read -d '' -r -a websites < /home/hbuser/covid-internet-controls/website_list.txt ; echo ${websites[*]}
+IFS=$'\n' read -d '' -r -a websites < /home/ubuntu/Documents/covid-internet-controls/website_list.txt ; echo ${websites[*]}
 
 for i in "${websites[@]}"
 do
@@ -11,9 +11,9 @@ sudo python3.6 query_workers.py -t $i -v
 sleep $ranNum
 done
 
-sleep 108
+sleep 60
 
-IFS=$'\n' read -d '' -r -a websites < /home/hbuser/covid-internet-controls/trigger_terms_website.txt ; echo ${websites[*]}
+IFS=$'\n' read -d '' -r -a websites < /home/ubuntu/Documents/covid-internet-controls/trigger_terms_website.txt ; echo ${websites[*]}
 touch sahiltest.txt
 for i in "${websites[@]}"
 do
