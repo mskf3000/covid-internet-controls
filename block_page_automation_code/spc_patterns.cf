@@ -1,0 +1,526 @@
+#
+# Content-based patterns
+#
+
+# Full-page iframe of a presumed blockpage operated by an Indian
+# telco.  It displays generic text:
+#
+# Your requested URL has been blocked as per the directions received
+# from Department of Telecommunications, Government of India. Please
+# contact administrator for more information.
+#
+# The full URL of the blocked page is included as a query parameter,
+# so they _could_ display custom messages.
+[in_dot_airtel]
+match = content
+pattern = ^http(s?) ((?:www\.)?)airtel\.in /dot/ dpid [0-9]+ dpruleid [0-9]+
+
+[in_dot_airtel_no_query]
+match = content
+pattern = ^http(s?) ((?:www\.)?)airtel\.in /dot/
+
+# Similar, different ISP.
+[in_dot_rcom]
+match = content
+pattern = ^http(s?) restrictedurl\.rcom\.co\.in
+   /dot-deny-page-ns\.html dpid [0-9]+ dpruleid [0-9]+
+
+# Suspiciously similar query parameters but expressed as a redirect
+# to http://[ipaddress]:8080/webadmin/deny/index.php.
+[in_dot_webadmin_deny]
+match = content
+pattern = ^http(s?) ([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+) 8080
+    /webadmin/deny/index\.php dpid [0-9]+ dpruleid [0-9]+
+
+
+# Generic Indian blockpage - all you get is some variation on the
+# generic text above, injected directly.
+[in_generic_text]
+match = content
+pattern =
+  has been blocked as per (instructions|the directions received)
+  from department of telecommunications(, ?government)? of india
+
+[in_generic_text_2]
+match = content
+pattern =
+  has been blocked under (the )?instructions of (the|a) competent
+  govern?ment authority or in ?compliance
+
+[in_generic_text_3]
+match = content
+pattern =
+  url or domain you are trying to access is blocked as per dot instructions
+
+# This only shows up in India right now, and the .* covers a bunch of
+# very similar legalese to the above, but this is the actual name of a
+# piece of software, so I want to key off that.  It's marketed as a
+# ingress filter for business:
+# http://www.sifytechnologies.com/services/cleanconnect/
+[sify_blockpage]
+match = content
+pattern =
+  sify \.\.\. web page blocked .* powered by sify cleanconnect
+
+# This sounds like a generic error message but it shows up _only_ in
+# India, and on a whole bunch of URLs that trip other patterns from
+# elsewhere in India.  Also, it's served with code 200.
+[in_generic_404_1]
+match = content
+pattern = ^404\. that\'s an error\.$
+
+[in_generic_404_2]
+match = content
+pattern = ^http error 404 - file or directory not found($| = )
+
+# The .. on either side of this message are intended to match
+# *“ and ”* respectively; the exact same punctuation was used for some
+# of the "in_generic_text" messages.
+[in_generic_403_1]
+match = content
+pattern = ^..error 403: access denied/forbidden..$
+
+
+# similarly, Vietnam
+[vn_generic_404_1]
+match = content
+pattern = ^404 page not found we\'re sorry but the page you\'re looking for
+
+# Forced redirection to block pages maintained by 2 different
+# agencies of the Korean government, with a whole lot of text which I
+# cannot feed to a machine translator because it's baked into images.
+# warning = KCSC, Korea Communications Standards Commission.
+# gracwarning = GRAC, Game Rating and Administration Committee.
+# Both also bear badges from the National Police Agency.
+[kr_warning_or]
+match = content
+pattern = ^http(s?) ((?:www\.)?)warning\.or\.kr /
+
+[kr_gracwarning_or]
+match = content
+pattern = ^http(s?) ((?:www\.)?)gracwarning\.or\.kr /
+
+# Korean in-line generic block message, possibly specific to
+# AS55628 SONGDO GLOBAL UNIVERSITY CAMPUS CO.
+# EUC-KR text comes through as "\xXX\xXX\xXX..." possibly because an
+# earlier stage attempted to decode it as UTF-8 and failed.  The actual
+# text in full is
+#
+# 웹사이트 필터링 정책에 따라 다음과 같은 경우에는 웹사이트 연결이
+# 차단됩니다. - 네트워크 관리자나 보안 담당자가 차단하도록 설정한
+# 웹사이트에 연결할 때 - 유해한 정보가 있는 웹사이트에 연결할 때
+#
+# which machine translates as a generic "blocked by network admins"
+# message.  Seems to show up mostly for torrent sites.
+[kr_generic_1]
+match = content
+pattern = web page is blocked by administrator\.
+    \\xc0\\xa5\\xbb\\xe7\\xc0\\xcc\\xc6\\xae
+    \\xc7\\xca\\xc5\\xcd\\xb8\\xb5
+    \\xc1\\xa4\\xc3\\xa5\\xbf
+
+# Also seen on AS55628 SONGDO GLOBAL UNIVERSITY CAMPUS CO., only a few
+# hits (site spot checks: gambling, m4m dating, porn) but the URL
+# brings up a blockpage.  Big red text extracted from the blockpage by
+# OCR (it was embedded in an image):
+#
+# 불범/유해사이트에 대한 차단 안내
+#
+# which machine translates "Blocking against illegel / harmful sites".
+
+[kr_cleanweb]
+match = content
+pattern = ^https? cleanweb[0-9]*\.uplus\.co\.kr /kren
+
+# Seen on a few porn sites, Korea only.
+# OCRed text:
+#
+# 고객닙끼써 접속흠썰 갸끼트는
+# 유해칭보갸폐트르 폈줌녀줌 브-츤좀짭 l 위해 궂딴뫼었슬니 다. 폐 。 돠뼈|7끼 숙 폐
+# SK브캠뱀드겟꿈 안전한 인터넷 씽꿈흠슬 위해 흠흠 댈쫙댈 설궂돋 권꽈샨흠쫙니폐
+# 유폐 촨컹므로부터 좀더 나온 인터넷 촨컹흠 폐뚝흥 위폐 겟줌디언 고첵닙폐만 쫙흥흥돠는
+# 프-렵줌앙니폐
+# 호캠 무료 쉴차
+#
+# machine translation doesn't make sense of this, it's probably
+# mis-OCRed, but there's a picture of a computer screen with the
+# number 19 on it and an international not-allowed symbol, so I'm
+# calling it a block page.
+[kr_guardian_skbroadband]
+match = content
+pattern = ^https? guardian[0-9]*\.skbroadband\.com /
+
+# Surveillance, probably for advertising purposes, by Korean telco.
+# I want to track each of the IP addresses separately.
+[kr_surveillance_ip_a1]
+match = content
+pattern = https? [a-z0-9.-]+ / http 222\.101\.143\.147( 8080)? /tm/
+
+[kr_surveillance_ip_a2]
+match = content
+pattern = https? [a-z0-9.-]+ / http 221\.152\.164\.179( 8080)? /tm/
+
+[kr_surveillance_ip_b1]
+match = content
+pattern = https? [a-z0-9.-]+ / http 210\.91\.152\.242( 8080)? /tm/
+
+[kr_surveillance_ip_b2]
+match = content
+pattern = https? [a-z0-9.-]+ / http 210\.117\.120\.98( 8080)? /tm/
+
+[kr_surveillance_ip_b3]
+match = content
+pattern = https? [a-z0-9.-]+ / http 210\.117\.120\.106( 8080)? /tm/
+
+[kr_surveillance_ip_b4]
+match = content
+pattern = https? [a-z0-9.-]+ / http 210\.117\.121\.18( 8080)? /tm/
+
+[kr_surveillance_ip_c1]
+match = content
+pattern = https? [a-z0-9.-]+ / http 203\.233\.24\.9( 8080)? /tm/
+
+[kr_surveillance_ip_c2]
+match = content
+pattern = https? [a-z0-9.-]+ / http 203\.233\.19\.171( 8080)? /tm/
+
+[kr_surveillance_ip_c3]
+match = content
+pattern = https? [a-z0-9.-]+ / http 203\.251\.37\.182( 8080)? /tm/
+
+[kr_surveillance_ip_d1]
+match = content
+pattern = https? [a-z0-9.-]+ / http 211\.193\.127\.29( 8080)? /tm/
+
+[kr_surveillance_ip_d2]
+match = content
+pattern = https? [a-z0-9.-]+ / http 211\.193\.127\.39( 8080)? /tm/
+
+[kr_surveillance_ip_e1]
+match = content
+pattern = https? [a-z0-9.-]+ / http 59\.14\.144\.11( 8080)? /tm/
+
+# This URL, if supplied with appropriate parameters, redirects you to
+# an arbitrary other website.  It doesn't attempt to profile the browser
+# the way the kr_surveillance_* servers do, but it's still insinuating
+# itself silently, so I'm thinking surveillance.
+[cn_surveillance_linktech]
+match = content
+pattern = ^https? click\.linktech\.cn /
+
+# Hungarian block applied to gambling-related websites.  Pattern
+# matches beginning of message + "inaccessible" + terms identifying
+# the agency responsible (National Tax and Customs Office).
+# Full text:
+#
+# TÁJÉKOZTATÁS Tájékoztatjuk a felhasználót, hogy a jelen honlapon
+# közzétett tartalom, mint elektronikus hírközlő hálózat út ján
+# közzétett adat ideiglenes hozzáférhetetlenné tételét a Nemzeti Adó-
+# és Vámhivatal \d+ számú határozatával, 365 napos időta rtamra
+# elrendelte. Az ideiglenes hozzáférhetetlenné tétel elrendelésére
+# tiltott szerencsejáték szervezés megvalósítása miatt került sor. Az
+# ideiglenes hozzáférhetetlenné tétel elrendelésének jogalapja a
+# szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2.
+# § (2) bekezdése, 37. § 14. pontja, illetve 36/G. § (1) bekezdése.
+#
+# This appears to be a fancy legalese way of saying "this site is
+# blocked because online gambling is forbidden according to these
+# laws: ..."
+[hu_vámhivatal]
+match = content
+pattern = Tájékoztatjuk a felhasználót,? .* hozzáférhetetlenné
+          .* Nemzeti .* Vámhivatal
+
+# Nearly identical text, but the agency responsible is the
+# Szerencsejáték Felügyelet (Gambling Authority) instead of the
+# National Tax and Customs Office.
+[hu_szerencsejáték]
+match = content
+pattern = Tájékoztatjuk a felhasználót,? .* hozzáférhetetlenné
+          .* Szerencsejáték Felügyelet
+
+
+
+# "This website is for sale!" in Arabic.
+# I'm suspicious of this message because it shows up only from Iran,
+# on sites that are plausibly censored in Iran, and I get a _different_
+# site-for-sale message if I visit them.
+[website_for_sale_arabic]
+match = content
+pattern = ^[a-z0-9.-]+ - هذا الموقع الالكتروني للبيع! -
+
+# Same pattern, but with the text in English.
+# Shows up in Morocco and Sudan.
+[website_for_sale_english]
+match = content
+pattern = ^[a-z0-9.-]+ - This website is for sale! -
+
+
+# Generic Turkish blockpage - one sentence of legalese.
+[tr_engelleme]
+match = content
+pattern = Erişim Engelleme Kararlarının Aktarımı
+
+# Redirection to a specific IP address, seen only in Turkey.
+# (Address currently serves only a generic nginx 404 but the
+# set of pages that trips this is suspicious enough to call it
+# a true positive.)
+[tr_ipaddr]
+match = content
+pattern = ^http(s?) 195\.175\.254\.2 /$
+
+# Three gambling sites in .kz redirect to an IP address that's in
+# Google's blacklist of malware/phishing domains.  Only when you
+# contact them from .kz.  That's maybe not censorship but it sure is
+# weird.
+# The IP address is not currently responding to wget.
+# https://transparencyreport.google.com/safe-browsing/search?url=http:%2F%2F185.148.145.7%2F
+# says "contains harmful content, including pages that: Send visitors to harmful websites"
+[kz_malware]
+match = content
+pattern = ^http(s?) 185\.148\.145\.7 /
+
+# This is _probably_ a false positive: it seems to come up quite
+# indiscriminately and the page at this URL talks about having run out
+# of mobile minutes.  But let's track it anyway.
+[ug_out_of_minutes]
+match = content
+pattern = ^http(s?) www\.redirect\.mtn\.co\.ug /mtnredirect/mtn-redirect\.html
+
+# Thai blockpage.  Content of page: a tasteful green and gold logo
+# labeled "Ministry of Digital Economy and Society" in English and
+# what I presume is the same name in Thai, and below that, the text
+#     เว็บไซต์นี้มีเนื้อหาและข้อมูลที่ไม่เหมาะสม
+#     ถูกระงับโดยกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
+# which machine translates as
+#     This site contains inappropriate content and information.
+#     Suspended by the [Ministry of Digital Economy and Society]
+[th_digital_ministry]
+match = content
+pattern = ^http 103\.77\.116\.101 /$
+
+# Similar, ISP-operated (csloxinfo appears to be a Thai ISP/NSP),
+# different text:
+#     URL นี้ได้ถูกปิดกั้นแล้ว เนื่องจาก
+#     มีคำสั่งศาลให้ปิดกั้น
+#     หรือ
+#     มีลักษณะเข้าข่ายที่อาจกระทบต่อความมั่นคงแห่งราชอาณาจักร
+#     หรืออาจขัดต่อความสงบเรียบร้อยหรือศีลธรรมอันดีของประชาชน
+#     This URL has been blocked by
+#     a Court order
+#     Or
+#     it could have an affect on or be against the security of the
+#     Kingdom, public order or good morals.
+# (both English and Thai appear on the page - machine translation of the Thai
+# indicates it's the same statement in both languages).
+#
+# court.html just talks about court orders, not "against the security
+# of the Kingdom, ...", but it's otherwise the same.
+[th_csloxinfo]
+match = content
+pattern = ^http redir\.csloxinfo\.com /(?:(?:court|block[0-9]*)\.html)?$
+
+# This URL doesn't load but looking at the URL hits it's probably the
+# same as above, and the IP address belongs to csloxinfo.  Also
+# observed for queries through TripleT Internet service provider Bangkok.
+[th_csloxinfo_ip]
+match = content
+pattern = ^http 103\.208\.24\.21 /
+
+# Thai generic blockpage delivered as text.  Full text is
+#   “ขออภัยในความไม่สะดวก กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร
+#   ได้มีคำสั่งให้ระงับการเผยแพร่เว็บไซด์ที่ท่านต้องการเข้าชม เนื่องจากมีรูปภาพ ข้อความ และ
+#   เนื้อหาบางส่วนที่ไม่เหมาะสม สอบถามรายละเอียดเพิ่มเติมได้ที่
+#   กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร โทร 0 2141 6950”
+# Machine translation:
+#   Sorry for the inconvenience Ministry of Information and
+#   Communication Technology Has ordered to suspend publishing the site
+#   you want to visit. It has some pictures, text and some inappropriate
+#   content. For more information on Ministry of Information and
+#   Communication Technology [call this number].
+#
+# Pattern looks for tjhe words corresponding to "Ministry of
+# Information and Communication Technology Has ordered to suspend
+# publishing the site you want to visit."
+
+[th_generic_mict]
+match = content
+pattern = กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร ได้มีคำสั่งให้ระงับการเผยแพร่เว็บไซด์ที่ท่านต้องการเข้าชม
+
+# Russian block page servers
+[ru_warning_rt]
+match = content
+pattern = ^http warning\.rt\.ru / id [0-9]+ st [0-9]+ dt [0-9.]+ rs
+
+[ru_block_mts]
+match = content
+pattern = ^http block\.mts\.ru / host
+
+[ru_atlex_block]
+match = content
+pattern = ^http www\.atlex\.ru /block\.html url
+
+# Iranian block page
+[ir_10_10_34_34]
+match = content
+pattern = ^[A-Z0-9-]+ http 10\.10\.34\.34 / type Invalid%20Site
+
+# Saudi Arabia
+[sa_128_204_240_1]
+match = content
+pattern = ^Blocked URL http 128\.204\.240\.1 /(blue/)? This page is blocked
+
+# Probably the same software, but with a UAE blockpage
+[ae_proxy_emirates]
+match = content
+pattern =
+  ^Blocked URL http proxy\.emirates\.net\.ae /(blue/)? This page is blocked
+
+# This doesn't look like a real request timeout to me.
+# Searching for this text brings up a number of people baffled by its
+# appearance, in contexts suggesting malware rather than censorship, but
+# nobody has any kind of detail.
+[fishy_timeout_1]
+match = content
+pattern =
+  ^Request Timeout Request Timeout The server timed out while waiting for
+   the browser\'s request. Reference \#[0-9a-z.]+
+
+# This is the wording used by HAProxy for HTTP 408
+[fishy_timeout_2]
+match = content
+pattern =
+  ^408 Request Time-out Your browser didn\'t send a complete request in time.
+
+#
+# Structural patterns
+#
+
+# Script injection with no other content (seen particularly in Korea)
+[script_injection]
+match = structure
+pattern = <html <script [^<>]*? script> html>
+
+# This is what it would look like, structurally, if a MITM injected the
+# shortest 30x redirection they could get away with.  The leading fap?
+# looks for a packet with the TCP FIN+ACK bits set.  Shows up primarily in
+# observations from .kr.
+[http_redir_injection_kr]
+match = structure
+pattern = ^fap? http/1\.[01] 30[0-9] (redirect|found|moved( permanently)?)
+          location$
+
+# A slightly different version, shows up in observations from .tr.
+[http_redir_injection_tr]
+match = structure
+pattern = ^fap? http/1\.[01] 30[0-9]\s+server nginx connection close location$
+
+# The structure associated with the text for in_generic_text and other
+# variations on that message.  Yes, they really used <h0>...</h0>.
+[in_generic_struct_1]
+match = structure
+pattern = <body <h0 <font color black <font size [0-9.]+ font> h0> body> html>
+
+[in_generic_struct_2]
+match = structure
+pattern = <body <h0 <font color black font> h0> body> html>
+
+# The structure associated with the airtel_in full-screen iframe.
+[in_iframe_1]
+match = structure
+pattern = <iframe src width 100% height 100% frameborder 0 iframe>
+
+[in_iframe_2]
+match = structure
+pattern = <iframe src style visibility : visible ; height : 100% ; position : absolute
+    allowtransparency true marginheight 0 marginwidth 0 frameborder 0 width 100% iframe>
+
+# The structure associated with the Hungarian gambling block page.
+[hu_vámhivatal_s]
+match = structure
+pattern = <body <div align center <strong <font size [0-9.]+ font> strong> div>
+                <div align justify <br <u u> div> body> html>
+
+# The structure associated with the Korean telco surveillance.
+[kr_surveillance_s]
+match = structure
+pattern = ^fap? http/1.[01] 200 OK .*?
+    <meta http-equiv refresh [0-9+] meta>
+    <iframe id f frameborder 0 style width : 1 height : 1 iframe>
+    <script f
+
+# The structure associated with the generic Turkish block message.
+[tr_bloket]
+match = structure
+pattern = server bloket
+    <html <head <title title> <body bgcolor white
+          <center <h1 h1> center> <hr <center center> body> html>
+
+# The structure associated with the .kz malware redirect.
+[kz_malware_s]
+match = structure
+pattern = fap http/1\.[01] 30[0-9] found
+    content-type text/html; charset.utf-8
+    content-length location <html <head
+    <meta http-equiv content-type text/html;charset.utf-8
+    <title title> head> <body <h1 h1> <a href a> body> html>
+
+
+#
+# Site-specific patterns.  Try not to do this if at all possible, as it
+# can miss stuff.
+#
+
+# Redirection from a specific Al Jazeera article to the top of the
+# site.  This is a plausible way to make it look like the article has
+# been taken down, and it's observed on pages known to be the targets
+# of other kinds of censorship in India.
+[al_jazeera_article_to_top]
+only_for_urls =
+    ^https?://([a-z0-9-]+\.)?aljazeera\.com/[a-z]+/[a-z]+/[0-9]{4}/[0-9]{2}
+match = content
+pattern = ^https? ([a-z0-9-]+\.)?aljazeera\.com /$
+
+#
+# Discard filters.  If one of these matches, the entire observation is
+# scrapped.  This is for known false positives, where the score is high
+# but it's definitely not a block page.
+#
+
+# GoDaddy parked domain
+[mcc_godaddy_com]
+match = content
+pattern = http mcc\.godaddy\.com /park(ed)?/
+discard = true
+
+# Google front-end redirector
+[ipv4_google_com]
+match = content
+pattern = ^http ipv4\.google\.com /sorry/index continue
+discard = true
+
+[google_gws_rd_ssl]
+match = content
+pattern = ^https www\.google\.[a-z.]+ / gws_rd ssl
+discard = true
+
+# bet365.com front-end redirector?
+[bet365_df]
+match = content
+pattern = ^http www\.w3\.org /1999/xhtml http games\.bet365\.com /df\.aspx$
+discard = true
+
+# recaptcha used as an antiscraping measure?
+[recaptcha]
+match = content
+pattern =
+    ^https www\.google\.com /recaptcha/
+     https www\.gstatic\.com /recaptcha/
+discard = true
+
+# extremely generic parked domain message
+[cashparking_not_approved]
+match = content
+pattern =
+  ^This domain is currently not approved for CashParking\.$
+discard = true
