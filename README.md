@@ -30,7 +30,7 @@ Then run the tests:
 
 ## Dependencies
 1. pip3 install python-dotenv<br>
-2. mysql-connector <br>
+2. pip3 install mysql-connector <br>
 3. pip3 install coloredlogs<br>
 
 ## Sahil: Need to rewrite all the instructions for deployment
