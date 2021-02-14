@@ -66,80 +66,75 @@
 #ansible_password:easypass321! 
 #ansible_become:yes #ansible_become_password:easypass321!
 
+##test
+notVPS ansible_host=10.0.2.1 ansible_user=root ansible_password=easypass321!
 
-##onliveserver.com
-Australia_sydney ansible_host=139.99.140.84 ansible_user=root ansible_password=easypass321!
-Brazil_Sao_Paulo ansible_host=45.179.89.35 ansible_user=root ansible_password=easypass321!
-Germany_Kassel ansible_host=136.243.129.182 ansible_user=root ansible_password=easypass321!
-India_Noida ansible_host=103.129.97.180 ansible_user=root ansible_password=easypass321!
-Italy_Milan ansible_host=94.198.97.45 ansible_user=root ansible_password=easypass321!
-Japan_Tokyo ansible_host=210.140.10.50 ansible_user=root ansible_password=easypass321!
-Russia_Moscow ansible_host=158.255.2.65 ansible_user=root ansible_password=easypass321!
-Singapore ansible_host=139.99.31.107 ansible_user=root ansible_password=easypass321!
-SouthAfrica_Johannesburg ansible_host=102.130.116.16 ansible_user=root ansible_password=easypass321!
-SouthKorea_seoul ansible_host=27.255.75.155 ansible_user=root ansible_password=easypass321!
-Turkey_Istanbul ansible_host=152.89.36.213 ansible_user=root ansible_password=easypass321!
-United_kingdom_London ansible_host=79.141.170.113 ansible_user=root ansible_password=easypass321!
-Ukraine_Kyiv  ansible_host=176.107.188.184 ansible_user=root ansible_password=easypass321!
-
-##ChinaVPShosting (chinavpshosting.com)
-China_Guangzhou ansible_host=106.55.49.211 ansible_user=ubuntu ansible_password=easypass321!
-China_Chengdu ansible_host=118.24.106.35 ansible_user=ubuntu ansible_password=easypass321!
-China_Nanjing ansible_host=119.45.229.179 ansible_user=ubuntu ansible_password=easypass321!
-Hongkong ansible_host=129.226.185.138 ansible_user=ubuntu ansible_password=easypass321!
-China_Chongqing ansible_host=129.28.200.94 ansible_user=ubuntu ansible_password=easypass321!
-China_beijing ansible_host=152.136.208.91 ansible_user=ubuntu ansible_password=easypass321!
-China_Shanghai ansible_host=81.68.130.31 ansible_user=ubuntu ansible_password=easypass321!
-
-#FullVPSservers (client.fullvpsserver.com)
-Egypt_cairo_1 ansible_host=196.46.191.125 ansible_user=root ansible_password=easypass321!
-Bulgaria ansible_host=193.37.215.80 ansible_user=root ansible_password=easypass321!
-United_states_dallas ansible_host=45.176.188.31 ansible_user=root ansible_password=easypass321!
-Egypt_cairo_2 ansible_host=196.46.191.118 ansible_user=root ansible_password=easypass321!
-France ansible_host=194.99.23.123 ansible_user=root ansible_password=easypass321!
-Germany ansible_host=93.115.19.234 ansible_user=root ansible_password=easypass321! 
-Greece ansible_host=185.234.52.94 ansible_user=root ansible_password=easypass321!
-Japan ansible_host=85.208.110.239 ansible_user=root ansible_password=easypass321!
-Mexico ansible_host=131.196.253.138 ansible_user=root ansible_password=easypass321!
-United_States_Miami ansible_host=45.164.20.145 ansible_user=root ansible_password=easypass321!
-Singapore ansible_host=210.16.120.249 ansible_user=root ansible_password=easypass321!
-Sweden ansible_host=185.243.215.157 ansible_user=root ansible_password=easypass321!
-Turkey_Istanbul ansible_host=185.65.206.202 ansible_user=root ansible_password=easypass321!
-United_Kingdom ansible_host=178.157.82.66 ansible_user=root ansible_password=easypass321!
-South_Korea_Seoul ansible_host=103.140.45.111 ansible_user=root ansible_password=easypass321!
-LosAngeles ansible_host=45.170.251.248 ansible_user=root ansible_password=easypass321!
-
-
-#vwt.net(https://vwt.net/whmcs/clientarea.php)
-Cordoba_Argentina ansible_host=190.103.177.37 ansible_user=client ansible_password=easypass321!
-Australia_brisbane ansible_host=45.248.77.52 ansible_user=root ansible_password=easypass321!
-Brazil2 ansible_host=45.231.133.131 ansible_user=root ansible_password=easypass321!
-Canada_toronto_1 ansible_host=66.85.30.94 ansible_user=root ansible_password=easypass321! ansible_port=137
-Canada_toronto_2 ansible_host=66.85.30.96 ansible_user=root ansible_password=easypass321! ansible_port=489
-Colombia ansible_host=190.120.231.14 ansible_user=client ansible_password=easypass321!
-Germany3 ansible_host=168.119.125.66 ansible_user=root ansible_password=easypass321!
-Egypt3 ansible_host=41.215.240.135 ansible_user=root ansible_password=easypass321!
-France2 ansible_host=158.255.215.175 ansible_user=root ansible_password=easypass321!
-Mumbai_IN ansible_host=103.86.177.2 ansible_user=root ansible_password=easypass321!
-Bangalore_IN ansible_host=159.65.158.78 ansible_user=root ansible_password=easypass321!
-Iran ansible_host=185.187.49.249 ansible_user=root ansible_password=easypass321!
-Italy_Milan_2 ansible_host=149.154.157.199 ansible_user=root ansible_password=easypass321!
-Japan2 ansible_host=180.149.230.23 ansible_user=root ansible_password=easypass321!
-South_Korea2 ansible_host=202.168.154.57 ansible_user=root ansible_password=easypass321!
-Mexico2 ansible_host=190.103.179.7 ansible_user=client ansible_password=easypass321!
-Peru ansible_host=190.120.229.6 ansible_user=client ansible_password=easypass321!
-Russia2 ansible_host=213.183.56.83 ansible_user=root ansible_password=easypass321!
-Siberia_Novosibirsk ansible_host=217.65.87.244 ansible_user=root ansible_password=easypass321!
-Siberia_Khabarovsk ansible_host=92.223.80.10 ansible_user=root ansible_password=easypass321!
-Singapore2 ansible_host=103.216.223.23 ansible_user=root ansible_password=easypass321!
-Turkey2 ansible_host=46.20.1.88 ansible_user=root ansible_password=easypass321!
-Ukraine ansible_host=91.203.145.201 ansible_user=root ansible_password=easypass321!
-UK2 ansible_host=46.17.63.208 ansible_user=root ansible_password=easypass321!
-South_Africa ansible_host=169.255.58.210 ansible_user=root ansible_password=easypass321!
-
-
-
-
-
-
-
+###onliveserver.com
+#Australia_sydney ansible_host=139.99.140.84 ansible_user=root ansible_password=easypass321!
+#Brazil_Sao_Paulo ansible_host=45.179.89.35 ansible_user=root ansible_password=easypass321!
+#Germany_Kassel ansible_host=136.243.129.182 ansible_user=root ansible_password=easypass321!
+#India_Noida ansible_host=103.129.97.180 ansible_user=root ansible_password=easypass321!
+#Italy_Milan ansible_host=94.198.97.45 ansible_user=root ansible_password=easypass321!
+#Japan_Tokyo ansible_host=210.140.10.50 ansible_user=root ansible_password=easypass321!
+#Russia_Moscow ansible_host=158.255.2.65 ansible_user=root ansible_password=easypass321!
+#Singapore ansible_host=139.99.31.107 ansible_user=root ansible_password=easypass321!
+#SouthAfrica_Johannesburg ansible_host=102.130.116.16 ansible_user=root ansible_password=easypass321!
+#SouthKorea_seoul ansible_host=27.255.75.155 ansible_user=root ansible_password=easypass321!
+#Turkey_Istanbul ansible_host=152.89.36.213 ansible_user=root ansible_password=easypass321!
+#United_kingdom_London ansible_host=79.141.170.113 ansible_user=root ansible_password=easypass321!
+#Ukraine_Kyiv  ansible_host=176.107.188.184 ansible_user=root ansible_password=easypass321!
+#
+###ChinaVPShosting (chinavpshosting.com)
+#China_Guangzhou ansible_host=106.55.49.211 ansible_user=ubuntu ansible_password=easypass321!
+#China_Chengdu ansible_host=118.24.106.35 ansible_user=ubuntu ansible_password=easypass321!
+#China_Nanjing ansible_host=119.45.229.179 ansible_user=ubuntu ansible_password=easypass321!
+#Hongkong ansible_host=129.226.185.138 ansible_user=ubuntu ansible_password=easypass321!
+#China_Chongqing ansible_host=129.28.200.94 ansible_user=ubuntu ansible_password=easypass321!
+#China_beijing ansible_host=152.136.208.91 ansible_user=ubuntu ansible_password=easypass321!
+#China_Shanghai ansible_host=81.68.130.31 ansible_user=ubuntu ansible_password=easypass321!
+#
+##FullVPSservers (client.fullvpsserver.com)
+#Egypt_cairo_1 ansible_host=196.46.191.125 ansible_user=root ansible_password=easypass321!
+#Bulgaria ansible_host=193.37.215.80 ansible_user=root ansible_password=easypass321!
+#United_states_dallas ansible_host=45.176.188.31 ansible_user=root ansible_password=easypass321!
+#Egypt_cairo_2 ansible_host=196.46.191.118 ansible_user=root ansible_password=easypass321!
+#France ansible_host=194.99.23.123 ansible_user=root ansible_password=easypass321!
+#Germany ansible_host=93.115.19.234 ansible_user=root ansible_password=easypass321! 
+#Greece ansible_host=185.234.52.94 ansible_user=root ansible_password=easypass321!
+#Japan ansible_host=85.208.110.239 ansible_user=root ansible_password=easypass321!
+#Mexico ansible_host=131.196.253.138 ansible_user=root ansible_password=easypass321!
+#United_States_Miami ansible_host=45.164.20.145 ansible_user=root ansible_password=easypass321!
+#Singapore ansible_host=210.16.120.249 ansible_user=root ansible_password=easypass321!
+#Sweden ansible_host=185.243.215.157 ansible_user=root ansible_password=easypass321!
+#Turkey_Istanbul ansible_host=185.65.206.202 ansible_user=root ansible_password=easypass321!
+#United_Kingdom ansible_host=178.157.82.66 ansible_user=root ansible_password=easypass321!
+#South_Korea_Seoul ansible_host=103.140.45.111 ansible_user=root ansible_password=easypass321!
+#LosAngeles ansible_host=45.170.251.248 ansible_user=root ansible_password=easypass321!
+#
+#
+##vwt.net(https://vwt.net/whmcs/clientarea.php)
+#Cordoba_Argentina ansible_host=190.103.177.37 ansible_user=client ansible_password=easypass321!
+#Australia_brisbane ansible_host=45.248.77.52 ansible_user=root ansible_password=easypass321!
+#Brazil2 ansible_host=45.231.133.131 ansible_user=root ansible_password=easypass321!
+#Canada_toronto_1 ansible_host=66.85.30.94 ansible_user=root ansible_password=easypass321! ansible_port=137
+#Canada_toronto_2 ansible_host=66.85.30.96 ansible_user=root ansible_password=easypass321! ansible_port=489
+#Colombia ansible_host=190.120.231.14 ansible_user=client ansible_password=easypass321!
+#Germany3 ansible_host=168.119.125.66 ansible_user=root ansible_password=easypass321!
+#Egypt3 ansible_host=41.215.240.135 ansible_user=root ansible_password=easypass321!
+#France2 ansible_host=158.255.215.175 ansible_user=root ansible_password=easypass321!
+#Mumbai_IN ansible_host=103.86.177.2 ansible_user=root ansible_password=easypass321!
+#Bangalore_IN ansible_host=159.65.158.78 ansible_user=root ansible_password=easypass321!
+#Iran ansible_host=185.187.49.249 ansible_user=root ansible_password=easypass321!
+#Italy_Milan_2 ansible_host=149.154.157.199 ansible_user=root ansible_password=easypass321!
+#Japan2 ansible_host=180.149.230.23 ansible_user=root ansible_password=easypass321!
+#South_Korea2 ansible_host=202.168.154.57 ansible_user=root ansible_password=easypass321!
+#Mexico2 ansible_host=190.103.179.7 ansible_user=client ansible_password=easypass321!
+#Peru ansible_host=190.120.229.6 ansible_user=client ansible_password=easypass321!
+#Russia2 ansible_host=213.183.56.83 ansible_user=root ansible_password=easypass321!
+#Siberia_Novosibirsk ansible_host=217.65.87.244 ansible_user=root ansible_password=easypass321!
+#Siberia_Khabarovsk ansible_host=92.223.80.10 ansible_user=root ansible_password=easypass321!
+#Singapore2 ansible_host=103.216.223.23 ansible_user=root ansible_password=easypass321!
+#Turkey2 ansible_host=46.20.1.88 ansible_user=root ansible_password=easypass321!
+#Ukraine ansible_host=91.203.145.201 ansible_user=root ansible_password=easypass321!
+#UK2 ansible_host=46.17.63.208 ansible_user=root ansible_password=easypass321!
+#South_Africa ansible_host=169.255.58.210 ansible_user=root ansible_password=easypass321!

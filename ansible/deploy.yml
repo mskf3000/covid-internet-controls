@@ -52,4 +52,4 @@
         detach: yes
         restart_policy: always
         published_ports: 42075:42075
-      when: gitclone.changed
+        #when: gitclone.changed
