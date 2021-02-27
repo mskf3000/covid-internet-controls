@@ -28,7 +28,7 @@
       git: 
         repo: "https://github.com/sahilgupta221/covid-internet-controls"
         dest: /src
-	version: namita
+        version: namita
         accept_hostkey: yes
       register: gitclone
 
