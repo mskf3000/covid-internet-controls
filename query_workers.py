@@ -127,8 +127,8 @@ def setup_db():
 #        passwd=MYSQL_PASSWORD,
 #        database="covid_internet_controls",
         host="127.0.0.1",
-        user= "sahilgupta221",
-        passwd="easypass321!",
+        user= "root",
+        passwd="",
         database="covid_internet_controls",
 
     )

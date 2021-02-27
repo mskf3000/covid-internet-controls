@@ -1,7 +1,7 @@
 #!/bin/bash
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
-IFS=$'\n' read -d '' -r -a websites < /home/hbuser/covid-internet-controls/website_list.txt ; echo ${websites[*]}
+IFS=$'\n' read -d '' -r -a websites < /home/${USER}/covid-internet-controls/website_list.txt ; echo ${websites[*]}
 
 for i in "${websites[@]}"
 do
@@ -13,7 +13,7 @@ done
 
 sleep 108
 
-IFS=$'\n' read -d '' -r -a websites < /home/hbuser/covid-internet-controls/trigger_terms_website.txt ; echo ${websites[*]}
+IFS=$'\n' read -d '' -r -a websites < /home/${USER}/covid-internet-controls/trigger_terms_website.txt ; echo ${websites[*]}
 touch sahiltest.txt
 for i in "${websites[@]}"
 do
