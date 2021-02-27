@@ -28,6 +28,11 @@ Then run the tests:
 
     pytest
 
+## Dependencies
+1. pip3 install python-dotenv<br>
+2. pip3 install mysql-connector <br>
+3. pip3 install coloredlogs<br>
+
 ## Sahil: Need to rewrite all the instructions for deployment
 1. website_list.txt should contains all the website in given sample format.
 2. query_worker_multiple_targets.sh is wrapper script which takes multiple target websites from website_list.txt file.
