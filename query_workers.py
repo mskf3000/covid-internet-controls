@@ -61,6 +61,32 @@ def ping(worker: str):
         return pingable
 
 
+
+
+def tracert(worker: dict, target: str,type: str):
+    """ Send a target to a single worker. """	
+    time.sleep(randrange(20)+1)
+    data = {"key": REQUEST_KEY, "target": target, "type": type}
+    log.debug(f"TRACERT:Sending {target} & {type} to {worker['country_name']}...")
+    
+    address = f"http://{worker['ip']}:42075/tracert"
+
+    try:
+        response = requests.post(address, data=data, timeout=50).json()#TODO this might be a problem with such a short timeout against a tracert perhaps
+
+    except requests.RequestException as e:
+        response = {"target": target, "success": False, "data": str(e)}#not sure what exactly this is doing with target
+
+    log.debug(f"TRACERT:{json.dumps(response, indent=4)}")
+    response["worker"] = worker
+    now = datetime.now()
+    formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
+    response["date"] = formatted_date
+    return response
+
+
+
+
 def send_target_to_worker(worker: dict, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
@@ -274,6 +300,9 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "-w", "--worker", type=str, help="Send targets to a specific worker."
+    )
+    parser.add_argument(
+        "-c", "--tracert", type=str, help="Run traceroute of provided type."
     )
 
     args = parser.parse_args()

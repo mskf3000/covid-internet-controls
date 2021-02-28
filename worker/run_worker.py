@@ -94,5 +94,18 @@ def new_target():
     return request_webpage(requested_target)
 
 
+@app.route("/tracert", methods=["POST"])
+def new_target():
+    """ Respond to a new target request. """
+    try:
+        requested_target = request.form["target"]
+        requested_type = request.form["type"]
+
+    except KeyError:
+        return make_response("error", "Invalid data format. Need target & type.")
+
+    return traceroute_of_type(requested_type)
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=42075)
