@@ -5,9 +5,10 @@ HEALTHCHECK --interval=5m --timeout=3s \
 
 #COPY ./ /src #copying necesarry folders of project for flask
 COPY ./worker /src
-COPY ./Wherestheblock /src
+RUN pip install --no-cache-dir -r /src/requirements.txt
 
-RUN pip install --no-cache-dir -r /src/worker/requirements.txt
+COPY ./Wherestheblock /src
+RUN pip install --no-cache-dir -r /src/requirements.txt
 
 EXPOSE 42075
 
