@@ -93,6 +93,9 @@ def new_target():
 
     return request_webpage(requested_target)
 
+@app.route("/namita", methods=["GET"])
+def namita():
+    return "<h1>namita's test string</h1>"
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=42075)
