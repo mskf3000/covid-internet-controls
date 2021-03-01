@@ -95,7 +95,7 @@ def new_target():
 
 
 @app.route("/tracert", methods=["POST"])
-def new_target():
+def tracert():
     """ Respond to a new target request. """
     try:
         requested_target = request.form["target"]
