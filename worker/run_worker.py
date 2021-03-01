@@ -119,13 +119,14 @@ def traceroute_of_type(requested_target: str,requested_type: str):
 @app.route("/tracert", methods=["POST"])
 def tracert():
     """ Respond to a new target request. """
-    try:
-        requested_target = request.form["target"]
-        requested_type = request.form["type"]
-
-    except KeyError:
-        return make_response("error", "Invalid data format. Need target & type.")
-
+    #testing without input
+    #try:
+    #    requested_target = request.form["target"]
+    #    requested_type = request.form["type"]
+    #
+    #except KeyError:
+    #    return make_response("error", "Invalid data format. Need target & type.")
+    requested_target = "";requested_type = "";
     return traceroute_of_type(requested_target,requested_type)
 
 
