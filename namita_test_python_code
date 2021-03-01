@@ -20,11 +20,6 @@ def lat_long():
 
 # Getting host name and IP address
 def host_IP():
-    # hostname = socket.gethostname()
-    # IP_Addr = socket.gethostbyname(hostname)
-    #
-    # print("Computer name is: " + hostname)
-    # print("IP Address of the computer is: " + IP_Addr)
 
     ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
     location_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
@@ -38,11 +33,7 @@ def coordinate_distance():
     long1 = float(input("Longitude of location 1:"))
     lat2 = float(input("Latitude of location 2: "))
     long2 = float(input("Longitude of location 2:"))
-    # lat1 = 13.0827
-    # long1 = 80.2707
-    # lat2 = 43.1566
-    # long2 = 77.6088
-
+   
     lat1 = radians(lat1)
     long1 = radians(long1)
     lat2 = radians(lat2)
