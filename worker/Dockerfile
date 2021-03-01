@@ -5,7 +5,7 @@ HEALTHCHECK --interval=5m --timeout=3s \
 
 COPY ./ /src
 
-RUN pip install --no-cache-dir -r /src/requirements.txt
+RUN pip install --no-cache-dir -r /src/worker/requirements.txt
 
 EXPOSE 42075
 
