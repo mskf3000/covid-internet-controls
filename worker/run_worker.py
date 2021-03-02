@@ -93,9 +93,15 @@ def new_target():
 
     return request_webpage(requested_target)
 
-@app.route("/namita", methods=["GET"])
+@app.route("/namita", methods=["GET","POST"])
 def namita():
-    return "<h1>namita's test string</h1>"
+#    return "<h1> namita's test</h1>"
+    return jsonify(request.args)
+
+# @app.route("/rtt_distance", methods=["GET","POST"])
+# def rtt_distance():
+#      if request.method == 'POST':
+#          ip = request.data.g
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=42075)
+    app.run(host="0.0.0.0", port=42075, debug=True)
