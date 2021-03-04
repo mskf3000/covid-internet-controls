@@ -116,7 +116,7 @@ def traceroute_of_type(requested_target: str,requested_type: str):
     
     return data#return the json created by the previous script's methods
 
-@app.route("/tracert", methods=["POST"])
+@app.route("/tracert", methods=["POST","GET"])
 def tracert():
     """ Respond to a new target request. """
     #testing without input
@@ -126,8 +126,11 @@ def tracert():
     #
     #except KeyError:
     #    return make_response("error", "Invalid data format. Need target & type.")
-    requested_target = "";requested_type = "";
-    return traceroute_of_type(requested_target,requested_type)
+    #requested_target = "";requested_type = "";
+    #return traceroute_of_type(requested_target,requested_type)
+    return "<h1>namita's test string</h1>"
+    #return jsonify(request.args)
+    
 
 
 if __name__ == "__main__":
