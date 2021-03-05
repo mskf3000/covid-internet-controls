@@ -128,8 +128,8 @@ def tracert():
     #    return make_response("error", "Invalid data format. Need target & type.")
     #requested_target = "";requested_type = "";
     #return traceroute_of_type(requested_target,requested_type)
-    return "<h1>namita's test string</h1>"
-    #return jsonify(request.args)
+    #return "<h1>namita's test string</h1>"
+    return jsonify(request.args)
     
 
 
