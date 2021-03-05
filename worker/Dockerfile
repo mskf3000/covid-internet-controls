@@ -10,7 +10,7 @@ RUN pip install --no-cache-dir -r /src/worker/requirements.txt
 COPY ./Wherestheblock /src/Wherestheblock
 RUN pip install --no-cache-dir -r /src/Wherestheblock/requirements.txt
 
-COPY ./Wherestheblock/wtb.py /src/worker/wtb.py
+COPY ./Wherestheblock/ /src/worker/
 
 EXPOSE 42075
 
