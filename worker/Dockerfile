@@ -4,10 +4,10 @@ HEALTHCHECK --interval=5m --timeout=3s \
     CMD curl -f http://localhost:42075/ping || exit 1
 
 #COPY ./ /src #copying necesarry folders of project for flask
-COPY ./worker /src
+COPY ./worker /src/worker
 RUN pip install --no-cache-dir -r /src/requirements.txt
 
-COPY ./Wherestheblock /src
+COPY ./Wherestheblock /src/worker
 RUN pip install --no-cache-dir -r /src/requirements.txt
 
 EXPOSE 42075
