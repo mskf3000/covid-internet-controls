@@ -135,6 +135,7 @@ def tracert():
     sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
     exec(a_script)
     script_descriptor.close()  
+    time.sleep(10000)
     return "<h1>namita's test string</h1>"
     #return jsonify(request.args)
     
