@@ -7,8 +7,8 @@ HEALTHCHECK --interval=5m --timeout=3s \
 COPY ./worker /src/worker
 RUN pip install --no-cache-dir -r /src/worker/requirements.txt
 
-COPY ./Wherestheblock /src/worker
-RUN pip install --no-cache-dir -r /src/worker/requirements.txt
+COPY ./Wherestheblock /src/Wherestheblock
+RUN pip install --no-cache-dir -r /src/Wherestheblock/requirements.txt
 
 EXPOSE 42075
 
