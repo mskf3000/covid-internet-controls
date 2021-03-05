@@ -10,6 +10,8 @@ RUN pip install --no-cache-dir -r /src/worker/requirements.txt
 COPY ./Wherestheblock /src/Wherestheblock
 RUN pip install --no-cache-dir -r /src/Wherestheblock/requirements.txt
 
+COPY ./Wherestheblock/wtb.py /src/worker/wtb.py
+
 EXPOSE 42075
 
 ENTRYPOINT ["gunicorn", "--chdir", "/src/worker", "run_worker:app", "-w", "2", "--threads", "2", "-b", "0.0.0.0:42075"]

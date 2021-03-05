@@ -128,8 +128,14 @@ def tracert():
         return make_response("error", "Invalid data format. Need target & type.")
     #requested_target = "";requested_type = "";
     #return traceroute_of_type(requested_target,requested_type)
-    sys.path.insert(0,'/src/Wherestheblock/')
-    traceroute_of_type(requested_target,requested_type)
+    #traceroute_of_type(requested_target,requested_type)
+    
+    script_descriptor = open("wtb.py")
+    a_script = script_descriptor.read()
+    sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
+    exec(a_script)
+    script_descriptor.close() 
+    
     return "<h1>namita's test string</h1>"
     #return jsonify(request.args)
     
