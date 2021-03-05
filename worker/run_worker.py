@@ -129,6 +129,7 @@ def tracert():
     #requested_target = "";requested_type = "";
     #return traceroute_of_type(requested_target,requested_type)
     #traceroute_of_type(requested_target,requested_type) 
+    import sys
     script_descriptor = open("wtb.py")
     a_script = script_descriptor.read()
     sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
