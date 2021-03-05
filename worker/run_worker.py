@@ -16,6 +16,9 @@ load_dotenv()
 
 REQUEST_KEY = os.getenv("REQUEST_KEY")
 
+fh =logging.FileHandler('spam2.log')
+fh.setLevel(logging.DEBUG)
+logger.addHandler(fh)
 
 # def verify_request(key: str):
 #    """Verify a given request, ensuring the request key matches."""
