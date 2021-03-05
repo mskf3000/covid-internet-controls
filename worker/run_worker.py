@@ -100,14 +100,13 @@ def new_target():
 def traceroute_of_type(requested_target: str,requested_type: str):
     #run wtb script
     #import wtb 
-    
-    #not familier with the workflow of this python script, so just going to focus on running it right now and making sure this works
-    import sys
-    script_descriptor = open("wtb.py")
-    a_script = script_descriptor.read()
-    sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
+    #
+    #import sys
+    #script_descriptor = open("wtb.py")
+    #a_script = script_descriptor.read()
+    #sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
     exec(a_script)
-    script_descriptor.close()
+    #script_descriptor.close()
     #end temp code
     
     #build output, needs to come from method resc
@@ -132,12 +131,8 @@ def tracert():
     #requested_target = "";requested_type = "";
     #return traceroute_of_type(requested_target,requested_type)
     #traceroute_of_type(requested_target,requested_type) 
-    import sys
-    script_descriptor = open("wtb.py")
-    a_script = script_descriptor.read()
-    sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
-    exec(a_script)
-    script_descriptor.close()  
+    import os
+    os.system('python3 wtb.py -t 129.21.14.15 -P udp')
     return "<h1>namita's test string</h1>"
     #return jsonify(request.args)
     
