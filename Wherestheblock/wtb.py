@@ -31,6 +31,10 @@ log = logging.getLogger(__name__)
 coloredlogs.install(level="INFO", fmt="%(message)s")
 user_agent = UserAgent()
 
+#testing logging
+fh=logging.FileHandler('spam.log')
+fh.setLevel(logging.DEBUG)
+logger.addHandler(fh)
 
 class Traceroute(dict):
     """
