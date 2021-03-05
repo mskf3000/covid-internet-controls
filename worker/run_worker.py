@@ -120,12 +120,12 @@ def traceroute_of_type(requested_target: str,requested_type: str):
 def tracert():
     """ Respond to a new target request. """
     #testing without input
-    #try:
-    #    requested_target = request.form["target"]
-    #    requested_type = request.form["type"]
-    #
-    #except KeyError:
-    #    return make_response("error", "Invalid data format. Need target & type.")
+    try:
+        requested_target = request.form["target"]
+        requested_type = request.form["type"]
+    
+    except KeyError:
+        return make_response("error", "Invalid data format. Need target & type.")
     #requested_target = "";requested_type = "";
     #return traceroute_of_type(requested_target,requested_type)
     #return "<h1>namita's test string</h1>"
