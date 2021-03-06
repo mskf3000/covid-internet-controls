@@ -64,7 +64,7 @@ def ping(worker: str):
 
 
 def tracert(worker: dict, target: str,type: str):
-    """ Send a target to a single worker. """	
+    """ Send a target to a single worker to run a tracert"""
     time.sleep(randrange(20)+1)
     data = {"key": REQUEST_KEY, "target": target, "type": type}
     log.debug(f"TRACERT:Sending {target} & {type} to {worker['country_name']}...")
@@ -72,8 +72,7 @@ def tracert(worker: dict, target: str,type: str):
     address = f"http://{worker['ip']}:42075/tracert"
 
     try:
-        response = requests.post(address, data=data, timeout=50).json()#TODO this might be a problem with such a short timeout against a tracert perhaps
-
+        response = requests.post(address, data=data, timeout=250).json()#TODO this might be a problem with such a short timeout against a tracert perhaps changed 50 to 250
     except requests.RequestException as e:
         response = {"target": target, "success": False, "data": str(e)}#not sure what exactly this is doing with target
 
