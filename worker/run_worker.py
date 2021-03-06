@@ -131,10 +131,10 @@ def tracert():
     
     #requested_target = "";requested_type = "";
     #return traceroute_of_type(requested_target,requested_type)
-    #traceroute_of_type(requested_target,requested_type) 
+    #traceroute_of_type(requested_target,requested_type)
     import os
-    os.system('python3 wtb.py -t 129.21.14.15 -P udp')
-    with open('output/129.21.14.15.json','r') as file:
+    os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
+    with open('output/'+requested_target'.json','r') as file:
         data = file.read()#.replace('\n','') #might not be needed
         return data
     #return jsonify(request.args)
