@@ -96,33 +96,10 @@ def new_target():
 
     return request_webpage(requested_target)
 
-
-def traceroute_of_type(requested_target: str,requested_type: str):
-    #run wtb script
-    #import wtb 
-    #
-    #import sys
-    #script_descriptor = open("wtb.py")
-    #a_script = script_descriptor.read()
-    #sys.argv = ["wtb.py","-t","129.21.14.15","-P","udp"]
-    exec(a_script)
-    #script_descriptor.close()
-    #end temp code
-    
-    #build output, needs to come from method resc
-    data = {
-        "requested_type": requested_type,
-        "target": requested_target,
-        "success": True,
-    }
-    
-    return data#return the json created by the previous script's methods
-
 @app.route("/tracert", methods=["POST"])
 def tracert():
     """ Respond to a new target request. """
-    #testing without input
-    requested_target = "";requested_type = "";
+    #requested_target = "";requested_type = "";
     try:
         requested_target = request.form["target"]
         requested_type = request.form["type"]
@@ -130,11 +107,11 @@ def tracert():
     except KeyError:
         return make_response("error", "Invalid data format. Need target & type.")
     
-    #return traceroute_of_type(requested_target,requested_type)
-    #traceroute_of_type(requested_target,requested_type)
     import os
-    os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
-    with open('output/'+requested_target'.json','r') as file:
+    #os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
+    os.system('python3 wtb.py -t 129.21.14.15 -P udp')
+    #with open('output/'+requested_target'.json','r') as file:
+    with open('output/129.21.14.15.json','r') as file:
         data = file.read()#.replace('\n','') #might not be needed
         return data
     #return jsonify(request.args)
