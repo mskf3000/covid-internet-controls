@@ -133,6 +133,9 @@ def tracert():
     #traceroute_of_type(requested_target,requested_type) 
     import os
     os.system('python3 wtb.py -t 129.21.14.15 -P udp')
+    with open('129.21.14.15.json','r') as file:
+        data = file.read().replace('\n','')
+        return data
     return "<h1>namita's test string</h1>"
     #return jsonify(request.args)
     
