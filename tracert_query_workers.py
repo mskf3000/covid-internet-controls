@@ -264,7 +264,7 @@ def tracert_send_target_to_worker(worker: dict, target: str, trace_type: str):
     address = f"http://{worker['ip']}:42075/tracert"
 
     try:
-        response = requests.post(address, data=data, timeout=50).json()
+        response = requests.post(address, data=data, timeout=20050).json()
 
     except requests.RequestException as e:
         response = {"target": target, "success": False, "data": str(e)}
@@ -278,12 +278,12 @@ def tracert_send_target_to_worker(worker: dict, target: str, trace_type: str):
 
 
 
-def tracert_send_target_to_workers(target: str,trace_type:str, workers: list):
+def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
     """ Send a target to all workers in a multiprocessing pool. """
 
     with Pool(processes=60) as pool:
         results = list(
-            pool.starmap(tracert_send_target_to_worker, zip(workers,trace_type, repeat(target)))
+            pool.starmap(tracert_send_target_to_worker, zip(workers, trace_type, repeat(target)))
         )
 
 	
@@ -385,7 +385,9 @@ if __name__ == "__main__":
 
 
             log.info(f"Requesting {args.target}...")
-            results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)#TODO NEXT STEP
+            results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
+            sys.exit(0)#TODO NEXT STEP
+            
             conn = setup_db()#TODO
             if not conn:
                 sys.exit(1)
@@ -425,7 +427,6 @@ if __name__ == "__main__":
         
         log.info(f"Requesting {args.target}...")
         results = tracert_send_target_to_workers(args.target,args.type, workers)
-        print("RESULT: "+results)
         sys.exit(0)#TODO NEXT STEP
         
         conn = setup_db()
