@@ -255,7 +255,7 @@ def send_target_to_workers(target: str, workers: list):
 
         return results
 
-def tracert_send_target_to_worker(worker: dict, target: str, trace_type: str):
+def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
     data = {"key": REQUEST_KEY, "target": target, "type": trace_type}
@@ -264,12 +264,13 @@ def tracert_send_target_to_worker(worker: dict, target: str, trace_type: str):
     address = f"http://{worker['ip']}:42075/tracert"
 
     try:
-        response = requests.post(address, data=data, timeout=20050).json()
+        print("Troubleshooting"+",,,type:"+trace_type+",,,target:"+target)
+        response = requests.post(address, data=data, timeout=1150).json()#PROBLEM HERE
+        #print(response)#SUPER IMPORTANT      
 
     except requests.RequestException as e:
         response = {"target": target, "success": False, "data": str(e)}
-
-    log.debug(f"{json.dumps(response, indent=4)}")
+    #log.debug(f"{json.dumps(response, indent=4)}")#this I don't think works, can be removed
     response["worker"] = worker
     now = datetime.now()
     formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
@@ -283,7 +284,7 @@ def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
 
     with Pool(processes=60) as pool:
         results = list(
-            pool.starmap(tracert_send_target_to_worker, zip(workers, trace_type, repeat(target)))
+            pool.starmap(tracert_send_target_to_worker, zip(workers,trace_type ,repeat(target)))
         )
 
 	
@@ -291,7 +292,7 @@ def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
         # first, then the failures
         successes = []
         failures = []
-
+        #TODO NEXT POINT HERE TOMORROW
         for result in results:
             status_line = f"{BOLD}{result['worker']['country_name']:<20}{RESET}"
 
@@ -384,7 +385,7 @@ if __name__ == "__main__":
             
 
 
-            log.info(f"Requesting {args.target}...")
+            log.info(f"Requesting {args.target}...{args.tracert_type}")
             results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
             sys.exit(0)#TODO NEXT STEP
             
