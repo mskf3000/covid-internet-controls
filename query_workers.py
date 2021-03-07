@@ -275,7 +275,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "-w", "--worker", type=str, help="Send targets to a specific worker."
     )
-
+    parser.add.argument(
+        "-r", "--rttdist", type=str, help="Get distance from RTT"
+    )
     args = parser.parse_args()
 
     # set log level to debug if verbose flag is passed
