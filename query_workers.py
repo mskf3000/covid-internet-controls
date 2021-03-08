@@ -60,7 +60,6 @@ def ping(worker: str):
     finally:
         return pingable
 
-
 def send_target_to_worker(worker: dict, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
@@ -256,6 +255,27 @@ def send_target_to_workers(target: str, workers: list):
 
         return results
 
+# Edit this section for rtt distance
+def rtt_distance (worker: dict, target: str):
+    """ Send a target to a single worker. """	
+    time.sleep(randrange(20)+1)
+    data = {"key": REQUEST_KEY, "target": target}
+    log.debug(f"Sending {target} to {worker['country_name']}...")
+    
+    address = f"http://{worker['ip']}:42075/rtt_distance"
+
+    try:
+        response = requests.post(address, data=data, timeout=50).json()
+
+    except requests.RequestException as e:
+        response = {"target": target, "success": False, "data": str(e)}
+
+    log.debug(f"{json.dumps(response, indent=4)}")
+    response["worker"] = worker
+    now = datetime.now()
+    formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
+    response["date"] = formatted_date
+    return response
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -275,7 +295,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-w", "--worker", type=str, help="Send targets to a specific worker."
     )
-    parser.add.argument(
+    parser.add_argument(
         "-r", "--rttdist", type=str, help="Get distance from RTT"
     )
     args = parser.parse_args()
@@ -286,6 +306,14 @@ if __name__ == "__main__":
             level="DEBUG", fmt="%(asctime)s - %(levelname)s - %(message)s"
         )
 
+    #rtt flag
+    if args.rttdist:
+       print("Flag passed")
+    else:
+       print("RTT flag passed with no distance calculated") #check
+       sys.exit(1)
+
+    
     if args.target:
 
         # if sending targets, see if we are targeting a specific worker.
@@ -330,5 +358,6 @@ if __name__ == "__main__":
             else:
                 print(f"{worker['country_name']:<20} OFFLINE")
 
+          
 
 

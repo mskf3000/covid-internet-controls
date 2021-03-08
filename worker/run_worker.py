@@ -93,16 +93,23 @@ def new_target():
 
     return request_webpage(requested_target)
 
+
 @app.route("/rtt_distance", methods=["GET","POST"])
 def rtt_distance():
 #    try:
-#       requested_target = request.form["IP"]
+#       requested_target = request.form["ip"]
 #    except KeyError:
 #        return make_response("error", "Invalid data format. Need target.")
   
 
 #    return "<h1> test string </h1>"
-    return jsonify(request.args)
+    import os 
+    os.system('python3 rtt_distance.py')
+    with open('rtt_distance.json,'r'') as outfile:
+    #with open('output/129.21.14.15.json','r') as file:
+        data = outfile.read() #.replace('\n','') #might not be needed
+        return data
+#    return jsonify(request.args)
 
 
 if __name__ == "__main__":
