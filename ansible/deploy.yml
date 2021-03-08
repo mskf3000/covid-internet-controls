@@ -41,7 +41,8 @@
       
           
     - name: Build Docker image
-      command: docker build -t worker /src/worker
+      #command: docker build -t worker /src/worker
+      command: docker build -t worker -f /src/worker/Dockerfile /src
       #when: gitclone.changed
 
 
