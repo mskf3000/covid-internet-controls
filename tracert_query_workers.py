@@ -266,7 +266,7 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     try:
         print("Troubleshooting"+",,,type:"+trace_type+",,,target:"+target)
         response = requests.post(address, data=data, timeout=1150).json()#PROBLEM HERE
-        #print(response)#SUPER IMPORTANT      
+        print(response)#SUPER IMPORTANT      
 
     except requests.RequestException as e:
         response = {"target": target, "success": False, "data": str(e)}
@@ -295,7 +295,7 @@ def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
         #TODO NEXT POINT HERE TOMORROW
         for result in results:
             status_line = f"{BOLD}{result['worker']['country_name']:<20}{RESET}"
-
+            print("here?")
             if result["success"]:
                 successes.append(
                     status_line + f"{GREEN}SUCCESS - {result['status_code']}{RESET}"
