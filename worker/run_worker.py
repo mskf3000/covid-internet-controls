@@ -2,11 +2,15 @@
 
 import logging
 import os
+import sys
+import json
 
 import requests
 from dotenv import load_dotenv
 from fake_useragent import UserAgent
 from flask import Flask, jsonify, request
+
+from rtt_distance import ip_rtt
 
 app = Flask(__name__)
 log = logging.getLogger(__name__)
@@ -94,22 +98,21 @@ def new_target():
     return request_webpage(requested_target)
 
 
-@app.route("/rtt_distance", methods=["GET","POST"])
+@app.route("/rtt_distance", methods=["POST"])
 def rtt_distance():
-#    try:
-#       requested_target = request.form["ip"]
-#    except KeyError:
-#        return make_response("error", "Invalid data format. Need target.")
-  
+    try:
+        requested_ip = request.form["ip"]
+        result = ip_rtt(requested_ip)
+       # json_result = json.dumps(result, indent=2)  
+        return make_response("success", result)
+    except KeyError:
+        #e = sys.exc_info()[0]
+        #log.error(e)
+        return make_response("error", "Invalid data format. Need IP")
+
 
 #    return "<h1> test string </h1>"
-    import os 
-    os.system('python3 rtt_distance.py')
-    with open('rtt_distance.json,'r'') as outfile:
-    #with open('output/129.21.14.15.json','r') as file:
-        data = outfile.read() #.replace('\n','') #might not be needed
-        return data
-#    return jsonify(request.args)
+#     return jsonify(request.args)
 
 
 if __name__ == "__main__":
