@@ -296,7 +296,6 @@ def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
         # first, then the failures
         successes = []
         failures = []
-        #TODO NEXT POINT HERE TOMORROW
         for result in results:
             status_line = f"{BOLD}{result['worker']['country_name']:<20}{RESET}"
             print("here?")
@@ -392,6 +391,14 @@ if __name__ == "__main__":
             log.info(f"Requesting {args.target}...{args.tracert_type}")
             results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
             print("go to me, success from prev")
+            for result in results:
+                print("newresult")
+                print("We are going to split this up in the data we need first")
+                #print(json.dumps(result["protocol"],indent =1))
+                    #my_json=json.dumps(result)
+                for k in result["protocol"]:
+                    for l in result["protocol"][k]:
+                        print("key:"+l+", value:"+str(result["protocol"][k][l]))
             sys.exit(0)#TODO NEXT STEP
             
             conn = setup_db()#TODO
