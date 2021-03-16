@@ -258,17 +258,20 @@ def send_target_to_workers(target: str, workers: list):
 def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
+    print("in worker, type is "+trace_type)
     data = {"key": REQUEST_KEY, "target": target, "type": trace_type}
-    log.debug(f"Sending {target} to {worker['country_name']}...")
-    
+    log.debug(f"Sending {target} to {worker['country_name']}...") 
     address = f"http://{worker['ip']}:42075/tracert"
-
+    print(address)
     try:
         print("Troubleshooting"+",,,type:"+trace_type+",,,target:"+target)
-        response = requests.post(address, data=data, timeout=1150).json()#PROBLEM HERE
+        response = requests.post(address, data=data).json()#PROBLEM HERE
         print(response)#SUPER IMPORTANT      
+        response["success"] = True #this is done on the other end for the other request I believe
+        response["status_code"] = "A OK" #this is done on the other end for the other request I believe
 
     except requests.RequestException as e:
+        print(e)
         response = {"target": target, "success": False, "data": str(e)}
     #log.debug(f"{json.dumps(response, indent=4)}")#this I don't think works, can be removed
     response["worker"] = worker
@@ -282,9 +285,10 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
 def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
     """ Send a target to all workers in a multiprocessing pool. """
 
+    print("in workers, type is "+trace_type)
     with Pool(processes=60) as pool:
         results = list(
-            pool.starmap(tracert_send_target_to_worker, zip(workers,trace_type ,repeat(target)))
+            pool.starmap(tracert_send_target_to_worker, zip(workers,repeat(trace_type),repeat(target)))
         )
 
 	
@@ -387,6 +391,7 @@ if __name__ == "__main__":
 
             log.info(f"Requesting {args.target}...{args.tracert_type}")
             results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
+            print("go to me, success from prev")
             sys.exit(0)#TODO NEXT STEP
             
             conn = setup_db()#TODO
@@ -400,7 +405,7 @@ if __name__ == "__main__":
                 if ping(result["worker"]["ip"]):#TODO? probs good
                     send_results_to_db(conn, result["worker"], result)#TODO? probs good 
         else:
-            print("Passed tracert without tracert_target and tracert_type (c2,c3)")
+            #print("Passed tracert without tracert_target and tracert_type (c2,c3)")
             sys.exit(1)
         
     elif args.target:
