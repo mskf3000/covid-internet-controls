@@ -101,24 +101,6 @@ def ip_rtt(ip:str):
         results_array.append(results_dict)
         # continue
     ping_results = ping_parser.parse(result).as_dict()
-    for ip in ip_lists:
-        print("Pinging ", ip)
-        ping_parser = pingparsing.PingParsing()
-        transmitter = pingparsing.PingTransmitter()
-        transmitter.destination = ip
-        transmitter.count = 5
-        result = transmitter.ping()
-        host = str(host_ip)
-        dest = str(ip)
-        results_dict = dict({'source': host, 'destination': dest, 'RTT': '', 'distance': ''})
-        # print(result)
-        if "Request timed out" in result.stdout or result.returncode == 1:
-            error_msg = f"Request to {ip} timed out"
-            results_dict["error"] = error_msg
-            print(error_msg)
-            results_array.append(results_dict)
-            continue
-        ping_results = ping_parser.parse(result).as_dict()
         # ip_with_rtt_file.write("Host IP: " + str(host_ip) + "\n")
         # ip_with_rtt_file.write("Destination IP: " + ip + "\n")
         # ip_with_rtt_file.write("RTT: " + str(ping_results["rtt_avg"] + "\n"))
@@ -134,9 +116,6 @@ def ip_rtt(ip:str):
     distance = ((4 / 9) * RTT_time * 186.282)
     dist = f'{distance} mi'
 
-        RTT_time = ping_results["rtt_avg"]
-        distance = ((4 / 9) * RTT_time * 186.282)
-        dist = f'{distance} mi'
         # print("IP: ", ip, ",", "Distance(mi): " + dist)
         # ip_with_rtt_file.write("Distance: " + str(distance))
         #results_dict = dict({'Source': host, 'Destination': ip,
@@ -144,11 +123,6 @@ def ip_rtt(ip:str):
     results_dict["RTT"] = RTT_time
     results_dict["distance"] = dist
     results_array.append(results_dict)
-
-        results_dict["RTT"] = ping_results["rtt_avg"]
-        results_dict["distance"] = dist
-        results_array.append(results_dict)
-
 
     #json_result = json.dumps(results_array, indent=2)
     #print(json_result)
