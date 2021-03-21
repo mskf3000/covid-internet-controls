@@ -4,4 +4,7 @@ Flask==1.1.1
 fake_useragent==0.1.11
 python-dotenv==0.13.0
 gunicorn==20.0.4
+socket.py==0.1.0
+pingparsing==1.2.0
+
 
