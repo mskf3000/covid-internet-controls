@@ -62,7 +62,6 @@ from math import *
 # print("Distance:", distance_nmi, "n mi")
 
 def ip_rtt(ip:str):
-def ip_rtt():
     # Getting Source (host) IP address
     #ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
     #location_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
