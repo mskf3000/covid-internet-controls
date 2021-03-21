@@ -117,7 +117,7 @@ def ip_rtt(ip:str):
         # ip_with_rtt_file.write("Distance: " + str(distance))
         #results_dict = dict({'Source': host, 'Destination': ip,
         #                    'RTT': str(ping_results["rtt_avg"]), 'Distance(mi)': dist})
-    results_dict["RTT"] = ping_results["rtt_avg"]
+    results_dict["RTT"] = RTT_time
     results_dict["distance"] = dist
     results_array.append(results_dict)
 
