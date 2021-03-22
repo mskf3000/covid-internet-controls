@@ -88,52 +88,52 @@ def ip_rtt(ip:str):
     # with open("ips_with_rtt.csv", "w") as ip_with_rtt_file:
         #ip_with_rtt_file.write("host_ip,ip,rtt_avg\n")
 
-    results_array = []
+   results_array = []
 
-    print("Pinging ", ip)
-    ping_parser = pingparsing.PingParsing()
-    transmitter = pingparsing.PingTransmitter()
-    transmitter.destination = ip
-    transmitter.count = 5
-    result = transmitter.ping()
-    host = str(host_ip)
-    dest = str(ip)
-    results_dict = dict({'source': host, 'destination': dest, 'rtt': '', 'distance': ''})
-    # print(result)
-    if "Request timed out" in result.stdout or result.returncode == 1:
-        error_msg = f"Request to {ip} timed out"
-        results_dict["error"] = error_msg
-        print(error_msg)
-        results_array.append(results_dict)
-        # continue
-    ping_results = ping_parser.parse(result).as_dict()
-        # ip_with_rtt_file.write("Host IP: " + str(host_ip) + "\n")
-        # ip_with_rtt_file.write("Destination IP: " + ip + "\n")
-        # ip_with_rtt_file.write("RTT: " + str(ping_results["rtt_avg"] + "\n"))
-        # ip_with_rtt_file.write(f"{ip},{ping_results['rtt_avg']}\n")
-        # print(ip, ":")
-#       print("RTT_min: ", ping_results['rtt_min'], "RTT_avg: ", ping_results['rtt_avg'], "RTT_max: ",
-#       ping_results['rtt_max'])
+   print("Pinging ", ip)
+   ping_parser = pingparsing.PingParsing()
+   transmitter = pingparsing.PingTransmitter()
+   transmitter.destination = ip
+   transmitter.count = 5
+   result = transmitter.ping()
+   host = str(host_ip)
+   dest = str(ip)
+   results_dict = dict({'source': host, 'destination': dest, 'rtt': '', 'distance': ''})
+   # print(result)
+   if "Request timed out" in result.stdout or result.returncode == 1:
+       error_msg = f"Request to {ip} timed out"
+       results_dict["error"] = error_msg
+       print(error_msg)
+       results_array.append(results_dict)
+       # continue
+   ping_results = ping_parser.parse(result).as_dict()
+       # ip_with_rtt_file.write("Host IP: " + str(host_ip) + "\n")
+       # ip_with_rtt_file.write("Destination IP: " + ip + "\n")
+       # ip_with_rtt_file.write("RTT: " + str(ping_results["rtt_avg"] + "\n"))
+       # ip_with_rtt_file.write(f"{ip},{ping_results['rtt_avg']}\n")
+       # print(ip, ":")
+#      print("RTT_min: ", ping_results['rtt_min'], "RTT_avg: ", ping_results['rtt_avg'], "RTT_max: ",
+#      ping_results['rtt_max'])
 
-        # Distance Calculation
-        # for ip in ip_lists:
-    ping_results["rtt_avg"] = float(ping_results["rtt_avg"])
-    RTT_time = float(ping_results["rtt_avg"])
-    rtt_dist = ((4 / 9) * RTT_time * 186.282)
-    print(rtt_dist)
-    dist = f'{distance_nmi} nmi'
+       # Distance Calculation
+       # for ip in ip_lists:
+   ping_results["rtt_avg"] = float(ping_results["rtt_avg"])
+   RTT_time = float(ping_results["rtt_avg"])
+   rtt_dist = ((4 / 9) * RTT_time * 186.282)
+   print(rtt_dist)
+   dist = f'{distance_nmi} nmi'
 
-        # print("IP: ", ip, ",", "Distance(mi): " + dist)
-        # ip_with_rtt_file.write("Distance: " + str(distance))
-        #results_dict = dict({'Source': host, 'Destination': ip,
+       # print("IP: ", ip, ",", "Distance(mi): " + dist)
+       # ip_with_rtt_file.write("Distance: " + str(distance))
+       #results_dict = dict({'Source': host, 'Destination': ip,
         #                    'RTT': str(ping_results["rtt_avg"]), 'Distance(mi)': dist})
     results_dict["rtt"] = RTT_time
     results_dict["distance"] = dist
     results_array.append(results_dict)
 
-    #json_result = json.dumps(results_array, indent=2)
-    #print(json_result)
-    return results_array
+   #json_result = json.dumps(results_array, indent=2)
+   #print(json_result)
+   return results_array
 
 # lat_long()
 # host_IP()
