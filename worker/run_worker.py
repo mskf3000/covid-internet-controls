@@ -108,7 +108,11 @@ def tracert():
         return make_response("error", "Invalid data format. Need target & type.")
     
     import os
-    os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
+    #to catch all protocols, if requested_type is all, run without type
+    if requested_type == "all":
+        os.system('python3 wtb.py -t '+requested_target)
+    else:
+        os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
     #os.system('python3 wtb.py -t 129.21.14.15 -P udp')
     with open('output/'+requested_target+'.json','r') as file:
     #with open('output/129.21.14.15.json','r') as file:

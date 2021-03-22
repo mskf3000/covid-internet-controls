@@ -396,9 +396,9 @@ if __name__ == "__main__":
                 print("We are going to split this up in the data we need first")
                 print(json.dumps(result["protocol"],indent =1))
                     #my_json=json.dumps(result)
-                #for k in result["protocol"]:
+                for k in result["protocol"]:
                 #    for l in result["protocol"][k]:
-                #        print("key:"+l+", value:"+str(result["protocol"][k][l]))
+                    print("key:"+k+", value:"+str(result["protocol"][k]))
             sys.exit(0)#TODO NEXT STEP
             
             conn = setup_db()#TODO
