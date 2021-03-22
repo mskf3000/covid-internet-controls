@@ -120,7 +120,7 @@ def ip_rtt(ip:str):
    ping_results["rtt_avg"] = float(ping_results["rtt_avg"])
    RTT_time = float(ping_results["rtt_avg"])
    rtt_dist = ((4 / 9) * RTT_time * 186.282)
- 
+   rtt_dist_nmi = rtt_dist / 1.151
    dist = f'{distance_nmi} nmi'
 
        # print("IP: ", ip, ",", "Distance(mi): " + dist)
@@ -129,7 +129,7 @@ def ip_rtt(ip:str):
         #                    'RTT': str(ping_results["rtt_avg"]), 'Distance(mi)': dist})
    results_dict["rtt"] = RTT_time
    results_dict["distance"] = dist
-   results_dict["rtt_distance"] = rtt_dist
+   results_dict["rtt_distance"] = rtt_dist_nmi
    results_array.append(results_dict)
 
    #json_result = json.dumps(results_array, indent=2)
