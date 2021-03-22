@@ -98,7 +98,7 @@ def ip_rtt(ip:str):
    result = transmitter.ping()
    host = str(host_ip)
    dest = str(ip)
-   results_dict = dict({'source': host, 'destination': dest, 'rtt': '', 'distance': ''})
+   results_dict = dict({'source': host, 'destination': dest, 'rtt': '', 'distance': '','rtt_distance': ''})
    # print(result)
    if "Request timed out" in result.stdout or result.returncode == 1:
        error_msg = f"Request to {ip} timed out"
@@ -120,7 +120,7 @@ def ip_rtt(ip:str):
    ping_results["rtt_avg"] = float(ping_results["rtt_avg"])
    RTT_time = float(ping_results["rtt_avg"])
    rtt_dist = ((4 / 9) * RTT_time * 186.282)
-   print(rtt_dist)
+ 
    dist = f'{distance_nmi} nmi'
 
        # print("IP: ", ip, ",", "Distance(mi): " + dist)
@@ -129,6 +129,7 @@ def ip_rtt(ip:str):
         #                    'RTT': str(ping_results["rtt_avg"]), 'Distance(mi)': dist})
    results_dict["rtt"] = RTT_time
    results_dict["distance"] = dist
+   results_dict["rtt_distance"] = rtt_dist
    results_array.append(results_dict)
 
    #json_result = json.dumps(results_array, indent=2)
