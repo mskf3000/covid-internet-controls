@@ -74,8 +74,8 @@ def ip_rtt(ip:str):
 #  print("Distance:", distance_km, "km")
 #  print("Distance:", distance_nmi, "n mi")
 
-    host_name = socket.gethostname()
-    host_ip = socket.gethostbyname(host_name)
+   host_name = socket.gethostname()
+   host_ip = socket.gethostbyname(host_name)
 
     # Reading IP addresses to get RTT
     #with open(r"target_ips.txt") as ip_list_file:
