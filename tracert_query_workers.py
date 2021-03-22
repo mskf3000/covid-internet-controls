@@ -137,6 +137,38 @@ def setup_db():
     log.error("Unable to establish a connection to the database.")
     return None
 
+def tracert_setup_db():
+    conn = mysql.connector.connect(
+#        host=MYSQL_HOST,
+#        user=MYSQL_USER,
+#        passwd=MYSQL_PASSWORD,
+#        database="covid_internet_controls",
+        host="127.0.0.1",
+        user= "sahilgupta221",
+        passwd="easypass321!",
+        database="censorship_traceroute_database",
+
+    )
+    if conn.is_connected():
+        return conn
+
+    log.error("Unable to establish a connection to the database.")
+    return None
+
+
+def send_tracert_to_db(conn,result):
+    from datetime import datetime
+    now = datetime.now()
+    fnow = now.strftime('%Y-%m-%d %H:%M:%S')
+
+    log.info(f"Updating DB for tracerts")
+    sql = "INSERT IGNORE INTO traceroute (date,icmp_traceroute) VALUES (%s, %s)"
+    values = (fnow,json.dumps(result))
+    log.debug(f"sql is {sql}")
+    log.debug(f"values are {values}")
+    cursor = conn.cursor()
+    cursor.execute(sql, values)
+    conn.commit()
 
 def send_to_db(conn, sql, values):
     log.debug(f"sql is {sql}")
@@ -391,26 +423,23 @@ if __name__ == "__main__":
             log.info(f"Requesting {args.target}...{args.tracert_type}")
             results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
             print("go to me, success from prev")
-            for result in results:
-                print("newresult")
-                print("We are going to split this up in the data we need first")
-                print(json.dumps(result["protocol"],indent =1))
+            #for result in results:
+                #print("newresult")
+                #print("We are going to split this up in the data we need first")
+                #print(json.dumps(result["protocol"],indent =1))
                     #my_json=json.dumps(result)
-                for k in result["protocol"]:
-                #    for l in result["protocol"][k]:
-                    print("key:"+k+", value:"+str(result["protocol"][k]))
-            sys.exit(0)#TODO NEXT STEP
+           #     for k in result["protocol"]:
+           #     #    for l in result["protocol"][k]:
+           #         print("key:"+k+", value:"+str(result["protocol"][k]))
             
-            conn = setup_db()#TODO
+            conn = tracert_setup_db()
             if not conn:
                 sys.exit(1)
     
-            for worker in workers:
-                send_worker_to_db(conn, worker)#TODO
-    
             for result in results:
-                if ping(result["worker"]["ip"]):#TODO? probs good
-                    send_results_to_db(conn, result["worker"], result)#TODO? probs good 
+                print("sending data to db")
+                send_tracert_to_db(conn, result)
+    
         else:
             #print("Passed tracert without tracert_target and tracert_type (c2,c3)")
             sys.exit(1)
@@ -439,6 +468,7 @@ if __name__ == "__main__":
 
         
         log.info(f"Requesting {args.target}...")
+        print("what's going on there, I think I just typod this at one point, and it needs to be reverted to non-tracert")
         results = tracert_send_target_to_workers(args.target,args.type, workers)
         sys.exit(0)#TODO NEXT STEP
         
