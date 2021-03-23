@@ -290,15 +290,11 @@ def send_target_to_workers(target: str, workers: list):
 def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
-    print("in worker, type is "+trace_type)
     data = {"key": REQUEST_KEY, "target": target, "type": trace_type}
     log.debug(f"Sending {target} to {worker['country_name']}...") 
     address = f"http://{worker['ip']}:42075/tracert"
-    print(address)
     try:
-        print("Troubleshooting"+",,,type:"+trace_type+",,,target:"+target)
         response = requests.post(address, data=data).json()#PROBLEM HERE
-        print(response)#SUPER IMPORTANT      
         response["success"] = True #this is done on the other end for the other request I believe
         response["status_code"] = "A OK" #this is done on the other end for the other request I believe
 
@@ -317,7 +313,6 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
 def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
     """ Send a target to all workers in a multiprocessing pool. """
 
-    print("in workers, type is "+trace_type)
     with Pool(processes=60) as pool:
         results = list(
             pool.starmap(tracert_send_target_to_worker, zip(workers,repeat(trace_type),repeat(target)))
@@ -330,7 +325,6 @@ def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
         failures = []
         for result in results:
             status_line = f"{BOLD}{result['worker']['country_name']:<20}{RESET}"
-            print("here?")
             if result["success"]:
                 successes.append(
                     status_line + f"{GREEN}SUCCESS - {result['status_code']}{RESET}"
@@ -394,13 +388,9 @@ if __name__ == "__main__":
         )
     
     if args.tracert:
-        print("passed the tracert flag successfully")#logging is harder to redirect
         if args.tracert_target and args.tracert_type:
-            print("passed the target and type flag successfully")#logging is harder to redirect
-            print("target:"+args.tracert_target+" and type:"+args.tracert_type)
             #check if worker was provided
             if args.worker:
-                print("passed the worker flag successfully")#logging is harder to redirect
                 print("worker:"+args.worker)
                 target_worker = None
                 for worker in workers:
@@ -423,25 +413,15 @@ if __name__ == "__main__":
             log.info(f"Requesting {args.target}...{args.tracert_type}")
             results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
             print("go to me, success from prev")
-            #for result in results:
-                #print("newresult")
-                #print("We are going to split this up in the data we need first")
-                #print(json.dumps(result["protocol"],indent =1))
-                    #my_json=json.dumps(result)
-           #     for k in result["protocol"]:
-           #     #    for l in result["protocol"][k]:
-           #         print("key:"+k+", value:"+str(result["protocol"][k]))
             
             conn = tracert_setup_db()
             if not conn:
                 sys.exit(1)
     
             for result in results:
-                print("sending data to db")
                 send_tracert_to_db(conn, result)
     
         else:
-            #print("Passed tracert without tracert_target and tracert_type (c2,c3)")
             sys.exit(1)
         
     elif args.target:
