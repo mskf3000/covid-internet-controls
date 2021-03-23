@@ -46,8 +46,8 @@ def ip_rtt(ip:str):
 
    first_city_name = source_data_dict["city"]
    second_city_name = dest_data_dict["city"]
-   first_city_coordinates = f'{source_data_dict["latitude"]}, {source_data_dict["longitude"]}
-   second_city_coordinates = f'{dest_data_dict["latitude"]}, {dest_data_dict["longitude"]}
+   first_city_coordinates = f'{source_data_dict["latitude"]}, {source_data_dict["longitude"]}'
+   second_city_coordinates = f'{dest_data_dict["latitude"]}, {dest_data_dict["longitude"]}'
 
    # Distance between two latitudes and longitudes:
 
