@@ -114,12 +114,13 @@ def tracert():
     else:
         os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
     #os.system('python3 wtb.py -t 129.21.14.15 -P udp')
+    data = "";
     with open('output/'+requested_target+'.json','r') as file:
     #with open('output/129.21.14.15.json','r') as file:
         data = file.read()#.replace('\n','') #might not be needed
-        file.close()
-        os.remove('output/'+requested_target+'.json','r')
-        return data
+    
+    os.remove('output/'+requested_target+'.json')
+    return data
     #return jsonify(request.args)
     
 
