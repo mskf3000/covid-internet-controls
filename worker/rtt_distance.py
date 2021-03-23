@@ -36,7 +36,7 @@ def ip_rtt(ip:str):
    # Geolocating Source (host) IP address
    ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
    source_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
-   source_data_dict = location_data_raw.json()
+   source_data_dict = source_data_raw.json()
    #print("Host Latitude: ", source_data_dict["latitude"], "Host Longitude: ", source_data_dict["longitude"])
     
    # Geolocating Destination IP Address
