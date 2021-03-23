@@ -117,6 +117,8 @@ def tracert():
     with open('output/'+requested_target+'.json','r') as file:
     #with open('output/129.21.14.15.json','r') as file:
         data = file.read()#.replace('\n','') #might not be needed
+        file.close()
+        os.remove('output/'+requested_target+'.json','r')
         return data
     #return jsonify(request.args)
     
