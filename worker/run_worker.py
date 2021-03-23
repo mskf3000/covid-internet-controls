@@ -16,18 +16,6 @@ load_dotenv()
 
 REQUEST_KEY = os.getenv("REQUEST_KEY")
 
-#fh =logging.FileHandler('spam2.log')
-#fh.setLevel(logging.DEBUG)
-#logger.addHandler(fh)
-
-# def verify_request(key: str):
-#    """Verify a given request, ensuring the request key matches."""
-
-#    if key != REQUEST_KEY:
-#        return False
-#    return True
-
-
 def request_webpage(target: str, timeout: int = 10):
     """ Request a given webpage, returning the received response. """
 
@@ -81,13 +69,6 @@ def ping():
 @app.route("/new_target", methods=["POST"])
 def new_target():
     """ Respond to a new target request. """
-    #    try:
-    #        if not verify_request(request.form["key"]):
-    #            return make_response("error", "Invalid key.")
-
-    #    except KeyError:
-    #        return make_response("error", "Key parameter required.")
-
     try:
         requested_target = request.form["target"]
 
@@ -99,7 +80,6 @@ def new_target():
 @app.route("/tracert", methods=["POST"])
 def tracert():
     """ Respond to a new target request. """
-    #requested_target = "";requested_type = "";
     try:
         requested_target = request.form["target"]
         requested_type = request.form["type"]
@@ -113,15 +93,12 @@ def tracert():
         os.system('python3 wtb.py -t '+requested_target)
     else:
         os.system('python3 wtb.py -t '+requested_target+' -P '+requested_type)
-    #os.system('python3 wtb.py -t 129.21.14.15 -P udp')
     data = "";
     with open('output/'+requested_target+'.json','r') as file:
-    #with open('output/129.21.14.15.json','r') as file:
         data = file.read()#.replace('\n','') #might not be needed
     
     os.remove('output/'+requested_target+'.json')
     return data
-    #return jsonify(request.args)
     
 
 
