@@ -45,7 +45,7 @@ def ip_rtt(ip:str):
    #print("Destination latitude: ", dest_location_dict["latitude"], ", Destination Longitude: ", dest_location_dict["longitude"])
 
    first_city_name = source_data_dict["city"]
-   second_city_name = dest_data_dict["city"]
+   second_city_name = dest_location_dict["city"]
    first_city_coordinates = f'{source_data_dict["latitude"]}, {source_data_dict["longitude"]}'
    second_city_coordinates = f'{dest_location_dict["latitude"]}, {dest_location_dict["longitude"]}'
 
