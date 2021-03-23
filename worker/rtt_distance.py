@@ -35,19 +35,24 @@ def ip_rtt(ip:str):
    
    # Geolocating Source (host) IP address
    ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
-   location_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
-   location_data_dict = location_data_raw.json()
-   print("Host Latitude: ", location_data_dict["latitude"], "Host Longitude: ", location_data_dict["longitude"])
+   source_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
+   source_data_dict = location_data_raw.json()
+   #print("Host Latitude: ", source_data_dict["latitude"], "Host Longitude: ", source_data_dict["longitude"])
     
    # Geolocating Destination IP Address
    url = f"http://api.ipstack.com/{ip}?access_key={ipstack_access_key}&format=1"
    dest_location_dict = requests.get(url).json()
-   print("Destination latitude: ", dest_location_dict["latitude"], ", Destination Longitude: ", dest_location_dict["longitude"])
+   #print("Destination latitude: ", dest_location_dict["latitude"], ", Destination Longitude: ", dest_location_dict["longitude"])
+
+   first_city_name = source_data_dict["city"]
+   second_city_name = dest_data_dict["city"]
+   first_city_coordinates = f'{source_data_dict["latitude"]}, {source_data_dict["longitude"]}
+   second_city_coordinates = f'{dest_data_dict["latitude"]}, {dest_data_dict["longitude"]}
 
    # Distance between two latitudes and longitudes:
 
-   lat1 = float(location_data_dict["latitude"])
-   long1 = float(location_data_dict["longitude"])
+   lat1 = float(source_data_dict["latitude"])
+   long1 = float(source_data_dict["longitude"])
    lat2 = float(dest_location_dict["latitude"])
    long2 = float(dest_location_dict["longitude"])
 
@@ -90,7 +95,7 @@ def ip_rtt(ip:str):
 
    results_array = []
 
-   print("Pinging ", ip)
+   
    ping_parser = pingparsing.PingParsing()
    transmitter = pingparsing.PingTransmitter()
    transmitter.destination = ip
@@ -98,8 +103,13 @@ def ip_rtt(ip:str):
    result = transmitter.ping()
    host = str(host_ip)
    dest = str(ip)
-   results_dict = dict({'source': host, 'destination': dest, 'rtt': '', 'distance': '','rtt_distance': ''})
+   print("Source IP Address: ", host)
+   print("Destination IP Address: ", dest)
+   print("Pinging ", ip)
+   results_dict = dict({'first_city_name': first_city_name, 'first_city_coordinates': first_city_coordinates, 'second_city_name': second_city_name, 'second_city_coordinates': second_city_coordinates,'rtt': '','distance': ''})
+   # results_dict = dict({'source': host, 'destination': dest, 'rtt': '', 'distance': '','rtt_distance': ''})
    # print(result)
+
    if "Request timed out" in result.stdout or result.returncode == 1:
        error_msg = f"Request to {ip} timed out"
        results_dict["error"] = error_msg
@@ -128,8 +138,8 @@ def ip_rtt(ip:str):
        #results_dict = dict({'Source': host, 'Destination': ip,
         #                    'RTT': str(ping_results["rtt_avg"]), 'Distance(mi)': dist})
    results_dict["rtt"] = RTT_time
-   results_dict["distance"] = dist
-   results_dict["rtt_distance"] = rtt_dist_nmi
+   #results_dict["distance"] = dist
+   results_dict["distance"] = rtt_dist_nmi
    results_array.append(results_dict)
 
    #json_result = json.dumps(results_array, indent=2)
