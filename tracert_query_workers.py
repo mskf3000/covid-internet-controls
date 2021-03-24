@@ -301,7 +301,6 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
         response["status_code"] = "A OK" #this is done on the other end for the other request I believe
         response["worker"] =  worker
         print(response["worker"])
-        print(response["protocol"])
 
     except requests.RequestException as e:
         print(e)
