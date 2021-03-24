@@ -61,7 +61,8 @@ class Traceroute(dict):
         payloads = {
             "icmp": ICMP(),
             "tcp": TCP(dport=53, flags="S"),
-            "udp": UDP() / DNS(qd=DNSQR(qname=self.target)),
+            "udp": UDP(), #/ DNS(qd=DNSQR(qname=self.target)),
+            "dns": UDP() / DNS(qd=DNSQR(qname=self.target)),
             "http": TCP(dport=80, flags="S"),
             "tls": TCP(dport=443, flags="S"),
         }
@@ -334,7 +335,7 @@ if __name__ == "__main__":
         "--protocol",
         default="all",
         type=str,
-        choices=["udp", "tcp", "icmp", "http", "tls"],
+        choices=["udp","dns", "tcp", "icmp", "http", "tls"],
         help="protocol choice (default: %(default)s)",
     )
     parser.add_argument(
@@ -405,7 +406,7 @@ if __name__ == "__main__":
 
     # default run all protocols
     if args.protocol == "all":
-        protocols = ["icmp", "tcp", "udp", "http", "tls"]
+        protocols = ["icmp","dns", "tcp", "udp", "http", "tls"]
     else:
         protocols = [args.protocol]
 
