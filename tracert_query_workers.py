@@ -87,6 +87,7 @@ def strip_protocol(url: str):
     url = url.replace("https://", "")
     return url
 
+
 def get_domain_name_from_url(url: str):
     """
     Parse a URL and extract the domain name without any extras (port, etc.)
@@ -405,14 +406,12 @@ if __name__ == "__main__":
 
             # otherwise, default to sending target to all workers
             else:
-                print("passed the worker flag unsuccessfully; querying all workers")#logging is harder to redirect
+                #print("passed the worker flag unsuccessfully; querying all workers")#logging is harder to redirect
                 workers = workers
             
 
 
-            log.info(f"Requesting {args.target}...{args.tracert_type}")
-            results = tracert_send_target_to_workers(args.target,args.tracert_type, workers)
-            print("go to me, success from prev")
+            results = tracert_send_target_to_workers(args.tracert_target,args.tracert_type, workers)
             
             conn = tracert_setup_db()
             if not conn:
@@ -444,14 +443,10 @@ if __name__ == "__main__":
 
         # otherwise, default to sending target to all workers
         else:
-            workers = workers 
+            workers = workers
 
-        
         log.info(f"Requesting {args.target}...")
-        print("what's going on there, I think I just typod this at one point, and it needs to be reverted to non-tracert")
-        results = tracert_send_target_to_workers(args.target,args.type, workers)
-        sys.exit(0)#TODO NEXT STEP
-        
+        results = send_target_to_workers(args.target, workers)
         conn = setup_db()
         if not conn:
             sys.exit(1)
