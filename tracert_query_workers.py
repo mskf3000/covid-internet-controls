@@ -295,9 +295,13 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     log.debug(f"Sending {target} to {worker['country_name']}...") 
     address = f"http://{worker['ip']}:42075/tracert"
     try:
+        #TODO, stop gaps here that need to be moved when wtb starts getting changed
         response = requests.post(address, data=data).json()#PROBLEM HERE
         response["success"] = True #this is done on the other end for the other request I believe
         response["status_code"] = "A OK" #this is done on the other end for the other request I believe
+        response["worker"] =  worker
+        print(response["worker"])
+        print(response["protocol"])
 
     except requests.RequestException as e:
         print(e)
