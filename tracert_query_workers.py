@@ -165,10 +165,10 @@ def send_tracert_to_db(conn,result):
     sqlFields = " (date,worker_ip,website_domain,country_name"
     sqlValues = " VALUES (%s,%s,%s,%s"
     valList =[]
-    valList.insert(result['date'])
-    valList.insert(result['worker']['ip'])
-    valList.insert(result['url']) 
-    valList.insert(result['worker']['country_name']) 
+    valList.append(result['date'])
+    valList.append(result['worker']['ip'])
+    valList.append(result['url']) 
+    valList.append(result['worker']['country_name']) 
     
 
     #resultDict = json.load(result)  
@@ -180,23 +180,23 @@ def send_tracert_to_db(conn,result):
         if(protocol == "udp"):
             sqlFields+=",udp_traceroute";
             sqlValues+=",%s"
-            valList.insert(procotol['udp'])
+            valList.append(protocol['udp'])
         elif(protocol == "tcp"):
             sqlFields+=",tcp_traceroute";
             sqlValues+=",%s"
-            valList.insert(procotol['tcp'])
+            valList.append(protocol['tcp'])
         elif(protocol == "http"):
             sqlFields+=",http_traceroute";
             sqlValues+=",%s"
-            valList.insert(procotol['http'])
+            valList.append(protocol['http'])
         elif(protocol == "dns"):
             sqlFields+=",dns_traceroute";
             sqlValues+=",%s"
-            valList.insert(procotol['dns'])
+            valList.append(protocol['dns'])
         elif(protocol == "tls"):
             sqlFields+=",tls_traceroute";
             sqlValues+=",%s"
-            valList.insert(procotol['tls'])
+            valList.append(protocol['tls'])
 
 
     #website_domain_host_ip , need to pull dns code, not important rn
