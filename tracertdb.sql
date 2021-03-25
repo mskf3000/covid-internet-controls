@@ -25,8 +25,8 @@ DROP TABLE IF EXISTS `traceroute`;
 CREATE TABLE `traceroute` (
   `id` mediumint(9) NOT NULL AUTO_INCREMENT,
   `date` datetime NOT NULL,
-  `ip` varchar(15) DEFAULT NULL,
-  `country_code` varchar(4) DEFAULT NULL,
+  `worker_ip` varchar(15) DEFAULT NULL,
+  `country_name` varchar(50) DEFAULT NULL,
   `website_domain` varchar(150) DEFAULT NULL,
   `website_domain_host_ip` varchar(15) DEFAULT NULL,
   `path` varchar(150) DEFAULT NULL,

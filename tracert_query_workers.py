@@ -158,17 +158,60 @@ def tracert_setup_db():
 
 
 def send_tracert_to_db(conn,result):
-    from datetime import datetime
-    now = datetime.now()
-    fnow = now.strftime('%Y-%m-%d %H:%M:%S')
 
     log.info(f"Updating DB for tracerts")
-    sql = "INSERT IGNORE INTO traceroute (date,icmp_traceroute) VALUES (%s, %s)"
-    values = (fnow,json.dumps(result))
+    #sql = "INSERT IGNORE INTO traceroute (date,ip) VALUES (#%s, %s)"
+    sql = "INSERT IGNORE INTO traceroute "
+    sqlFields = " (date,worker_ip,website_domain,country_name"
+    sqlValues = " VALUES (%s,%s,%s,%s"
+    valList =[]
+    valList.insert(result['date'])
+    valList.insert(result['worker']['ip'])
+    valList.insert(result['url']) 
+    valList.insert(result['worker']['country_name']) 
+    
+
+    #resultDict = json.load(result)  
+    #build data here
+    
+    #icmp/tcp/udp/tls/http/dns_traceroute
+    for protocol in result['protocol']:
+        print(protocol)
+        if(protocol == "udp"):
+            sqlFields+=",udp_traceroute";
+            sqlValues+=",%s"
+            valList.insert(procotol['udp'])
+        elif(protocol == "tcp"):
+            sqlFields+=",tcp_traceroute";
+            sqlValues+=",%s"
+            valList.insert(procotol['tcp'])
+        elif(protocol == "http"):
+            sqlFields+=",http_traceroute";
+            sqlValues+=",%s"
+            valList.insert(procotol['http'])
+        elif(protocol == "dns"):
+            sqlFields+=",dns_traceroute";
+            sqlValues+=",%s"
+            valList.insert(procotol['dns'])
+        elif(protocol == "tls"):
+            sqlFields+=",tls_traceroute";
+            sqlValues+=",%s"
+            valList.insert(procotol['tls'])
+
+
+    #website_domain_host_ip , need to pull dns code, not important rn
+     
+    #path, not sure where this field is coming from
+ 
+    #rest are middlebox, not important rn
+    
+    #postmodification
+    sql = sql+sqlFields+")"+sqlValues+")"
+    
     log.debug(f"sql is {sql}")
     log.debug(f"values are {values}")
     cursor = conn.cursor()
-    cursor.execute(sql, values)
+    cursor.execute(sql, tuple(valList))
     conn.commit()
 
 def send_to_db(conn, sql, values):
@@ -295,11 +338,14 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     log.debug(f"Sending {target} to {worker['country_name']}...") 
     address = f"http://{worker['ip']}:42075/tracert"
     try:
-        #TODO, stop gaps here that need to be moved when wtb starts getting changed
+        #TODO,some of these are stop gaps that need to be moved when wtb starts getting changed
         response = requests.post(address, data=data).json()#PROBLEM HERE
         response["success"] = True #this is done on the other end for the other request I believe
         response["status_code"] = "A OK" #this is done on the other end for the other request I believe
         response["worker"] =  worker
+        response["target"] = target
+        #now = datetime.now()
+        #response["date"]=now
         print(response["worker"])
 
     except requests.RequestException as e:
