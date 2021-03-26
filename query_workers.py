@@ -157,8 +157,9 @@ def rtt_distance_setup_db():
 
 def send_rtt_distance_to_db():
     log.info(f"Updating DB with geolocation data")
-    sql = "INSERT IGNORE INTO rtt_distance VALUES (%s, %f, %s, %f, %f, %f)"
-    values = (rtt_distance["first_city_name"], rtt_distance["first_city_coordinates"], rtt_distance["second_city_name"], rtt_distance["second_city_coordinates"], rtt_distance["rtt"], rtt_distance["distance"])
+    sql = "INSERT IGNORE INTO rtt_distance VALUES (%s, %s, %s, %s, %s, %s)"
+    values = (rtt_distance["first_city_name"], rtt_distance["first_city_coordinates"], rtt_distance["second_city_name"], 
+              rtt_distance["second_city_coordinates"], rtt_distance["rtt"], rtt_distance["distance"])
     send_to_db(conn, sql, values)
 
 def send_to_db(conn, sql, values):
