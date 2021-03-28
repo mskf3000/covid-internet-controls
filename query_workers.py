@@ -375,7 +375,7 @@ if __name__ == "__main__":
             level="DEBUG", fmt="%(asctime)s - %(levelname)s - %(message)s"
         )
 
-    #rtt flag
+    #rttdist flag
     if args.rttdist:
        print("flag passed")
        if args.worker:
