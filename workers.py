@@ -172,21 +172,21 @@ workers = [
         "country_code": "FR",
         "continent": "Europe",
         "city": "France",
-        "ip": "194.99.23.123",
+        "ip": "194.32.78.41",
     },
     {
         "country_name": "Germany",
         "country_code": "DE",
         "continent": "Europe",
         "city": "NA",
-        "ip": "93.115.19.234",
+        "ip": "89.43.33.21",
     },	
     {
         "country_name": "Greece",
         "country_code": "GR",
         "continent": "Europe",
         "city": "Greece",
-        "ip": "185.234.52.94",
+        "ip": "185.243.214.68",
     },
     {
         "country_name": "Japan",
@@ -214,14 +214,14 @@ workers = [
         "country_code": "SG",
         "continent": "Asia",
         "city": "NA",
-        "ip": "210.16.120.249",
+        "ip": "210.16.120.187",
     },
     {
         "country_name": "Sweden",
         "country_code": "SE",
         "continent": "Europe",
         "city": "Sweden",
-        "ip": "185.243.215.157",
+        "ip": "185.96.163.191",
     },
     {
         "country_name": "Turkey",
@@ -235,9 +235,8 @@ workers = [
         "country_code": "UK",
         "continent": "Europe",
         "city": "London",
-        "ip": "178.157.82.66",
+        "ip": "93.114.133.125",
     },
-
     {
         "country_name": "South Korea",
         "country_code": "SK",
@@ -306,7 +305,7 @@ workers = [
         "country_code": "EG",
         "continent": "Europe",
         "city": "NA",
-        "ip": "41.215.240.135",
+        "ip": "41.223.53.169",
     },
     {
         "country_name": "France2",
