@@ -167,7 +167,7 @@ def send_tracert_to_db(conn,result):
     valList =[]
     valList.append(result['date'])
     valList.append(result['worker']['ip'])
-    valList.append(result['url']) 
+    valList.append(result['url']) #TODO if the worker is offline, we needed to have caught it before here
     valList.append(result['worker']['country_name']) 
     
 
