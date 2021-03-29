@@ -176,27 +176,26 @@ def send_tracert_to_db(conn,result):
     
     #icmp/tcp/udp/tls/http/dns_traceroute
     for protocol in result['protocol']:
-        print(protocol)
         if(protocol == "udp"):
-            sqlFields+=",udp_traceroute";
+            sqlFields+=",udp_traceroute"
             sqlValues+=",%s"
-            valList.append(protocol['udp'])
+            valList.append(json.dumps(result['protocol'][protocol]))
         elif(protocol == "tcp"):
-            sqlFields+=",tcp_traceroute";
+            sqlFields+=",tcp_traceroute"
             sqlValues+=",%s"
-            valList.append(protocol['tcp'])
+            valList.append(json.dumps(result['protocol'][protocol]))
         elif(protocol == "http"):
-            sqlFields+=",http_traceroute";
+            sqlFields+=",http_traceroute"
             sqlValues+=",%s"
-            valList.append(protocol['http'])
+            valList.append(json.dumps(result['protocol'][protocol]))
         elif(protocol == "dns"):
-            sqlFields+=",dns_traceroute";
+            sqlFields+=",dns_traceroute"
             sqlValues+=",%s"
-            valList.append(protocol['dns'])
+            valList.append(json.dumps(result['protocol'][protocol]))
         elif(protocol == "tls"):
-            sqlFields+=",tls_traceroute";
+            sqlFields+=",tls_traceroute"
             sqlValues+=",%s"
-            valList.append(protocol['tls'])
+            valList.append(json.dumps(result['protocol'][protocol]))
 
 
     #website_domain_host_ip , need to pull dns code, not important rn
@@ -208,10 +207,13 @@ def send_tracert_to_db(conn,result):
     #postmodification
     sql = sql+sqlFields+")"+sqlValues+")"
     
-    log.debug(f"sql is {sql}")
-    log.debug(f"values are {values}")
+    #log.debug(f"sql is {sql}")
     cursor = conn.cursor()
-    cursor.execute(sql, tuple(valList))
+    print(sql)
+    print(len(tuple(valList)))
+    print(tuple(valList))
+    tupleVals = tuple(valList)
+    cursor.execute(sql, tupleVals)#TODO here
     conn.commit()
 
 def send_to_db(conn, sql, values):
