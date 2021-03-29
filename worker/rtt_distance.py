@@ -7,7 +7,7 @@ from math import *
 
 def ip_rtt(ip:str):
 # def rtt_distance(ip:str):   
-
+    
    # Geolocating Source (host) IP address
    ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
    source_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
@@ -66,7 +66,7 @@ def ip_rtt(ip:str):
    print("Source IP Address: ", host)
    print("Destination IP Address: ", dest)
    print("Pinging ", ip)
-   results_dict = dict({'first_city_name': first_city_name, 'first_city_coordinates': first_city_coordinates, 'second_city_name': second_city_name, 'second_city_coordinates': second_city_coordinates,'rtt': '','distance': ''})
+   results_dict = dict({'first_location_ip': host, 'first_city_name': first_city_name, 'first_city_coordinates': first_city_coordinates, 'second_location_ip': dest, 'second_city_name': second_city_name, 'second_city_coordinates': second_city_coordinates,'rtt': '','distance': ''})
 
    if "Request timed out" in result.stdout or result.returncode == 1:
        error_msg = f"Request to {ip} timed out"
