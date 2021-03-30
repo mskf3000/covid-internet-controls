@@ -158,8 +158,8 @@ def rtt_distance_setup_db():
 def send_rtt_distance_to_db(conn, result):
     log.info(f"Updating DB with geolocation data")
     #sql = "INSERT IGNORE INTO rtt_distance VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
-    sql = "INSERT IGNORE INTO rtt_distance(first_location_ip, first_location_name, first_location_coordinates, second_location_ip, second_location_name, second_location_coordinates, distance, rtt) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    values = (result["data"][0]["first_location_ip"], result["data"][0]["first_location_name"], result["data"][0]["first_location_coordinates"], result["data"][0]["second_location_ip"], result["data"][0]["second_location_name"], result["data"][0]["second_location_coordinates"], result["data"][0]["distance"], result["data"][0]["rtt"])
+    sql = "INSERT IGNORE INTO rtt_distance(first_location_ip, first_location_name, first_location_coordinates, second_location_ip, second_location_name, second_location_coordinates, rtt, distance) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+    values = (result["data"][0]["first_location_ip"], result["data"][0]["first_location_name"], result["data"][0]["first_location_coordinates"], result["data"][0]["second_location_ip"], result["data"][0]["second_location_name"], result["data"][0]["second_location_coordinates"], result["data"][0]["rtt"], result["data"][0]["distance"])
    # print("Results DB: ",result["data"][0]["distance"])
 #    send_to_db(conn, sql, values)
     log.debug(f"sql is {sql}")

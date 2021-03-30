@@ -18,8 +18,8 @@ def ip_rtt_distance(ip:str):
    dest_location_dict = requests.get(url).json()
    
    # Source and Destination locations and coordinates
-   first_location_name = f'{source_data_dict["city"]}.{source_data_dict["country"]}'
-   second_location_name = f'{dest_location_dict["city"]}.{dest_location_dict["country"]}'
+   first_location_name = f'{source_data_dict["city"]}.{source_data_dict["country_name"]}'
+   second_location_name = f'{dest_location_dict["city"]}.{dest_location_dict["country_name"]}'
    first_location_coordinates = f'{source_data_dict["latitude"]}.{source_data_dict["longitude"]}'
    second_location_coordinates = f'{dest_location_dict["latitude"]}.{dest_location_dict["longitude"]}'
 
@@ -63,7 +63,7 @@ def ip_rtt_distance(ip:str):
    source = str(source_ip)
    destination = str(ip)
    print("Pinging ", ip)
-   results_dict = dict({'first_location_ip': source, 'first_location_name': first_location_name, 'first_location_coordinates': first_location_coordinates, 'second_location_ip': destination, 'second_location_name': second_location_name, 'second_location_coordinates': second_location_coordinates,'distance': '','rtt': ''})
+   results_dict = dict({'first_location_ip': source, 'first_location_name': first_location_name, 'first_location_coordinates': first_location_coordinates, 'second_location_ip': destination, 'second_location_name': second_location_name, 'second_location_coordinates': second_location_coordinates,'rtt': '', 'distance': ''})
 
    if "Request timed out" in result.stdout or result.returncode == 1:
        error_msg = f"Request to {ip} timed out"
