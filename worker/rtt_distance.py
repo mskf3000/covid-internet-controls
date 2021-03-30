@@ -6,7 +6,7 @@ import pingparsing
 from math import *
 
 #def ip_rtt(ip:str):
-def rtt_distance(ip:str):   
+def ip_rtt_distance(ip:str):   
     
    # Geolocating Source (host) IP address
    ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
@@ -87,7 +87,7 @@ def rtt_distance(ip:str):
 
    return results_array
 
-#rtt_distance()
+#ip_rtt_distance()
 
 
 
