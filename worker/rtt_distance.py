@@ -5,24 +5,23 @@ import requests
 import pingparsing
 from math import *
 
-def ip_rtt(ip:str):
-# def rtt_distance(ip:str):   
+#def ip_rtt(ip:str):
+def rtt_distance(ip:str):   
     
    # Geolocating Source (host) IP address
    ipstack_access_key = "a77b2bc18426f38a043b75821a301d77"
    source_data_raw = requests.get(f"http://api.ipstack.com/check?access_key={ipstack_access_key}&format=1")
    source_data_dict = source_data_raw.json()
-   #print("Host Latitude: ", source_data_dict["latitude"], "Host Longitude: ", source_data_dict["longitude"])
-    
+       
    # Geolocating Destination IP Address
    url = f"http://api.ipstack.com/{ip}?access_key={ipstack_access_key}&format=1"
    dest_location_dict = requests.get(url).json()
    
    # Source and Destination locations and coordinates
-   first_city_name = source_data_dict["city"]
-   second_city_name = dest_location_dict["city"]
-   first_city_coordinates = f'{source_data_dict["latitude"]}.{source_data_dict["longitude"]}'
-   second_city_coordinates = f'{dest_location_dict["latitude"]}.{dest_location_dict["longitude"]}'
+   first_location_name = f'{source_data_dict["city"]},{source_data_dict["country"]}'
+   second_location_name = f'{dest_location_dict["city"]},{dest_location_dict["country"]}
+   first_location_coordinates = f'{source_data_dict["latitude"]},{source_data_dict["longitude"]}'
+   second_location_coordinates = f'{dest_location_dict["latitude"]},{dest_location_dict["longitude"]}'
 
    # Distance between two latitudes and longitudes:
 
@@ -51,8 +50,8 @@ def ip_rtt(ip:str):
    distance_nmi = distance_km / 1.852
 
    # Getting RTT from Source and Updating the results array
-   host_name = socket.gethostname()
-   host_ip = socket.gethostbyname(host_name)
+   source_name = socket.gethostname()
+   source_ip = socket.gethostbyname(host_name)
 
    results_array = []
    
@@ -61,12 +60,10 @@ def ip_rtt(ip:str):
    transmitter.destination = ip
    transmitter.count = 5
    result = transmitter.ping()
-   host = str(host_ip)
-   dest = str(ip)
-   print("Source IP Address: ", host)
-   print("Destination IP Address: ", dest)
+   source = str(source_ip)
+   destination = str(ip)
    print("Pinging ", ip)
-   results_dict = dict({'first_location_ip': host, 'first_city_name': first_city_name, 'first_city_coordinates': first_city_coordinates, 'second_location_ip': dest, 'second_city_name': second_city_name, 'second_city_coordinates': second_city_coordinates,'rtt': '','distance': ''})
+   results_dict = dict({'first_location_ip': source, 'first_location_name': first_location_name, 'first_location_coordinates': first_location_coordinates, 'second_location_ip': destination, 'second_location_name': second_location_name, 'second_location_coordinates': second_location_coordinates,'distance': '','rtt': ''})
 
    if "Request timed out" in result.stdout or result.returncode == 1:
        error_msg = f"Request to {ip} timed out"
