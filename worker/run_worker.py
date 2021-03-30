@@ -11,6 +11,7 @@ from fake_useragent import UserAgent
 from flask import Flask, jsonify, request
 
 from rtt_distance import ip_rtt
+#from rtt_distance import rtt_distance
 
 app = Flask(__name__)
 log = logging.getLogger(__name__)
@@ -103,17 +104,13 @@ def rtt_distance():
     try:
         requested_ip = request.form["ip"]
         result = ip_rtt(requested_ip)
+#        result = rtt_distance(requested_ip)
        # json_result = json.dumps(result, indent=2)  
         return make_response("success", result)
     except KeyError:
         #e = sys.exc_info()[0]
         #log.error(e)
         return make_response("error", "Invalid data format. Need IP")
-
-
-#    return "<h1> test string </h1>"
-#     return jsonify(request.args)
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=42075, debug=True)

@@ -25,7 +25,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
 #sleep 108
 
-IFS=$'\n' read -d '' -r -a websites < /home/${USER}/covid-internet-controls/target_ips.txt ; echo ${targets[*]}
+IFS=$'\n' read -d '' -r -a targets < /home/${USER}/covid-internet-controls/target_ips.txt ; echo ${targets[*]}
 
 for i in "${targets[@]}"
 do

@@ -155,12 +155,18 @@ def rtt_distance_setup_db():
     log.error("Unable to establish a connection to the database.")
     return None
 
-def send_rtt_distance_to_db():
+def send_rtt_distance_to_db(conn, result):
     log.info(f"Updating DB with geolocation data")
-    sql = "INSERT IGNORE INTO rtt_distance VALUES (%s, %s, %s, %s, %s, %s)"
-    values = (rtt_distance["first_city_name"], rtt_distance["first_city_coordinates"], rtt_distance["second_city_name"], 
-              rtt_distance["second_city_coordinates"], rtt_distance["rtt"], rtt_distance["distance"])
-    send_to_db(conn, sql, values)
+    #sql = "INSERT IGNORE INTO rtt_distance VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    sql = "INSERT IGNORE INTO rtt_distance(first_city_name, second_city_name, first_location_ip, second_location_ip, distance, rtt, first_city_coordinates, second_city_coordinates) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+    values = (result["data"][0]["first_city_name"], result["data"][0]["second_city_name"], result["data"][0]["first_location_ip"], result["data"][0]["second_location_ip"], result["data"][0]["distance"], result["data"][0]["rtt"], result["data"][0]["first_city_coordinates"], result["data"][0]["second_city_coordinates"])
+   # print("Results DB: ",result["data"][0]["distance"])
+#    send_to_db(conn, sql, values)
+    log.debug(f"sql is {sql}")
+    log.debug(f"values are {values}")
+    cursor = conn.cursor()
+    cursor.execute(sql, values)
+    conn.commit()
 
 def send_to_db(conn, sql, values):
     log.debug(f"sql is {sql}")
@@ -280,10 +286,10 @@ def send_target_to_workers(target: str, workers: list):
         return results
 
 # For rtt distance
-def rtt_distance_send_target_to_worker (worker: dict, ip: str, target: str):
+def rtt_distance_send_target_to_worker (worker: dict, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
-    data = {"key": REQUEST_KEY, "target": target, "ip": ip}
+    data = {"key": REQUEST_KEY, "ip": target}
     log.debug(f"Sending {target} to {worker['country_name']}...")
     
     address = f"http://{worker['ip']}:42075/rtt_distance"
@@ -291,7 +297,7 @@ def rtt_distance_send_target_to_worker (worker: dict, ip: str, target: str):
     try:
         response = requests.post(address, data=data, timeout=50).json()
         response["success"] = True
-        response["ip"] = ip
+        response["ip"] = target
 
     except requests.RequestException as e:
         print(e)
@@ -302,14 +308,16 @@ def rtt_distance_send_target_to_worker (worker: dict, ip: str, target: str):
     now = datetime.now()
     formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
     response["date"] = formatted_date
+    response["success"] = "OK"
+    response["status_code"] = "200"
     return response
 
-def rtt_distance_send_target_to_workers(target: str, ip: str, workers: list):
+def rtt_distance_send_target_to_workers(target: str, workers: list):
     """ Send a target to all workers in a multiprocessing pool. """
-
+    print("Workers: ", workers)
     with Pool(processes=60) as pool:
         results = list(
-            pool.starmap(rtt_distance_send_target_to_worker, zip(workers, repeat(ip), repeat(target)))
+            pool.starmap(rtt_distance_send_target_to_worker, zip(workers, repeat(target)))
         )
 
 	
@@ -377,34 +385,22 @@ if __name__ == "__main__":
 
     #rttdist flag
     if args.rttdist:
-       print("flag passed")
-       if args.worker:
-            target_worker = None
-            for worker in workers:
-                if worker["country_name"].lower() == args.worker.lower():
-                    target_worker = worker
-
-            if not target_worker:
-                log.error(f"Worker '{args.worker}' does not exist.")
-                sys.exit(1)
-
-            workers = [target_worker]
-
-       else:
-         #print("rtt flag passed with no distance calculated") #check
-         workers = workers
-    
-       results = rtt_distance_send_target_to_workers(args.rttdistance, workers)
-   
-       conn = rtt_distance_setup_db()
-       if not conn:
-            sys.exit(1)
-       for result in results:
+        workers = workers
+        print("testing", args.rttdist)
+        results = rtt_distance_send_target_to_workers(args.rttdist, workers)
+        print("Results: ", results)
+        conn = rtt_distance_setup_db()
+        for result in results:
             send_rtt_distance_to_db(conn, result)
+"""
+    if not conn:
+         sys.exit(1)
+    for result in results:
+         send_rtt_distance_to_db(conn, result)
     else:
        sys.exit(1)
-
-    
+"""
+"""
     if args.target:
 
         # if sending targets, see if we are targeting a specific worker.
@@ -450,5 +446,5 @@ if __name__ == "__main__":
                 print(f"{worker['country_name']:<20} OFFLINE")
 
           
-
+ """
 
