@@ -14,13 +14,6 @@ workers = [
         "ip": "158.255.2.65",
     },
     {
-        "country_name": "South Africa",
-        "country_code": "SA",
-        "continent": "Africa",
-        "city": "Johannesburg",
-        "ip": "102.130.116.16"
-    },
-    {
         "country_name": "South Korea",
         "country_code": "SK",
         "continent": "Asia",
