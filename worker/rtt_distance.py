@@ -20,8 +20,8 @@ def ip_rtt_distance(ip:str):
    # Source and Destination locations and coordinates
    first_location_name = f'{source_data_dict["city"]},{source_data_dict["country"]}'
    second_location_name = f'{dest_location_dict["city"]},{dest_location_dict["country"]}'
-   first_location_coordinates = f'{source_data_dict["latitude"]},{source_data_dict["longitude"]}'
-   second_location_coordinates = f'{dest_location_dict["latitude"]},{dest_location_dict["longitude"]}'
+   first_location_coordinates = f'{source_data_dict["latitude"]}.{source_data_dict["longitude"]}'
+   second_location_coordinates = f'{dest_location_dict["latitude"]}.{dest_location_dict["longitude"]}'
 
    # Distance between two latitudes and longitudes:
 
