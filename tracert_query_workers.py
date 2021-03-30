@@ -167,7 +167,7 @@ def send_tracert_to_db(conn,result):
     valList =[]
     valList.append(result['date'])
     valList.append(result['worker']['ip'])
-    valList.append(result['url']) #TODO if the worker is offline, we needed to have caught it before here
+    valList.append(result['url']) 
     valList.append(result['worker']['country_name']) 
     
 
@@ -209,11 +209,7 @@ def send_tracert_to_db(conn,result):
     
     #log.debug(f"sql is {sql}")
     cursor = conn.cursor()
-    print(sql)
-    print(len(tuple(valList)))
-    print(tuple(valList))
-    tupleVals = tuple(valList)
-    cursor.execute(sql, tupleVals)#TODO here
+    cursor.execute(sql, tuple(valList))
     conn.commit()
 
 def send_to_db(conn, sql, values):
@@ -341,14 +337,11 @@ def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
     address = f"http://{worker['ip']}:42075/tracert"
     try:
         #TODO,some of these are stop gaps that need to be moved when wtb starts getting changed
-        response = requests.post(address, data=data).json()#PROBLEM HERE
+        response = requests.post(address, data=data).json()
         response["success"] = True #this is done on the other end for the other request I believe
         response["status_code"] = "A OK" #this is done on the other end for the other request I believe
         response["worker"] =  worker
         response["target"] = target
-        #now = datetime.now()
-        #response["date"]=now
-        print(response["worker"])
 
     except requests.RequestException as e:
         print(e)
@@ -443,7 +436,6 @@ if __name__ == "__main__":
         if args.tracert_target and args.tracert_type:
             #check if worker was provided
             if args.worker:
-                print("worker:"+args.worker)
                 target_worker = None
                 for worker in workers:
                     if worker["country_name"].lower() == args.worker.lower():
@@ -457,7 +449,6 @@ if __name__ == "__main__":
 
             # otherwise, default to sending target to all workers
             else:
-                #print("passed the worker flag unsuccessfully; querying all workers")#logging is harder to redirect
                 workers = workers
             
 
@@ -469,7 +460,8 @@ if __name__ == "__main__":
                 sys.exit(1)
     
             for result in results:
-                send_tracert_to_db(conn, result)
+                if result['success']:
+                    send_tracert_to_db(conn, result)
     
         else:
             sys.exit(1)
