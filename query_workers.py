@@ -511,6 +511,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "-c3", "--tracert_type", type=str, help="Run traceroute of provided type."
     )
+    parser.add_argument(
+        "-r","--rttdist", type=str, help="Get rtt and distance details"
+    )
 
     args = parser.parse_args()
 
