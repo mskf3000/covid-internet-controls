@@ -1,7 +1,7 @@
 #!/bin/bash
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
-IFS=$'\n' read -d '' -r -a targets < /home/${USER}/covid-internet-controls/target_ips.txt ; echo ${targets[*]}
+IFS=$'\n' read -d '' -r -a targets < /home/${USER}/covid-internet-controls/rtt_target_ips.txt ; echo ${targets[*]}
 
 for i in "${targets[@]}"
 do
