@@ -10,7 +10,6 @@ from dotenv import load_dotenv
 from fake_useragent import UserAgent
 from flask import Flask, jsonify, request
 
-#from rtt_distance import ip_rtt
 from rtt_distance import ip_rtt_distance
 
 app = Flask(__name__)
