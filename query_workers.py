@@ -61,31 +61,6 @@ def ping(worker: str):
         return pingable
 
 
-
-
-def tracert(worker: dict, target: str,type: str):
-    """ Send a target to a single worker to run a tracert"""
-    time.sleep(randrange(20)+1)
-    data = {"key": REQUEST_KEY, "target": target, "type": type}
-    log.debug(f"TRACERT:Sending {target} & {type} to {worker['country_name']}...")
-    
-    address = f"http://{worker['ip']}:42075/tracert"
-
-    try:
-        response = requests.post(address, data=data, timeout=250).json()#TODO this might be a problem with such a short timeout against a tracert perhaps changed 50 to 250
-    except requests.RequestException as e:
-        response = {"target": target, "success": False, "data": str(e)}#not sure what exactly this is doing with target
-
-    log.debug(f"TRACERT:{json.dumps(response, indent=4)}")
-    response["worker"] = worker
-    now = datetime.now()
-    formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
-    response["date"] = formatted_date
-    return response
-
-
-
-
 def send_target_to_worker(worker: dict, target: str):
     """ Send a target to a single worker. """	
     time.sleep(randrange(20)+1)
@@ -163,6 +138,79 @@ def setup_db():
     log.error("Unable to establish a connection to the database.")
     return None
 
+def tracert_setup_db():
+    conn = mysql.connector.connect(
+#        host=MYSQL_HOST,
+#        user=MYSQL_USER,
+#        passwd=MYSQL_PASSWORD,
+#        database="covid_internet_controls",
+        host="127.0.0.1",
+        user= "sahilgupta221",
+        passwd="easypass321!",
+        database="censorship_traceroute_database",
+
+    )
+    if conn.is_connected():
+        return conn
+
+    log.error("Unable to establish a connection to the database.")
+    return None
+
+
+def send_tracert_to_db(conn,result):
+
+    log.info(f"Updating DB for tracerts")
+    #sql = "INSERT IGNORE INTO traceroute (date,ip) VALUES (#%s, %s)"
+    sql = "INSERT IGNORE INTO traceroute "
+    sqlFields = " (date,worker_ip,website_domain,country_name"
+    sqlValues = " VALUES (%s,%s,%s,%s"
+    valList =[]
+    valList.append(result['date'])
+    valList.append(result['worker']['ip'])
+    valList.append(result['url']) 
+    valList.append(result['worker']['country_name']) 
+    
+
+    #resultDict = json.load(result)  
+    #build data here
+    
+    #icmp/tcp/udp/tls/http/dns_traceroute
+    for protocol in result['protocol']:
+        if(protocol == "udp"):
+            sqlFields+=",udp_traceroute"
+            sqlValues+=",%s"
+            valList.append(json.dumps(result['protocol'][protocol]))
+        elif(protocol == "tcp"):
+            sqlFields+=",tcp_traceroute"
+            sqlValues+=",%s"
+            valList.append(json.dumps(result['protocol'][protocol]))
+        elif(protocol == "http"):
+            sqlFields+=",http_traceroute"
+            sqlValues+=",%s"
+            valList.append(json.dumps(result['protocol'][protocol]))
+        elif(protocol == "dns"):
+            sqlFields+=",dns_traceroute"
+            sqlValues+=",%s"
+            valList.append(json.dumps(result['protocol'][protocol]))
+        elif(protocol == "tls"):
+            sqlFields+=",tls_traceroute"
+            sqlValues+=",%s"
+            valList.append(json.dumps(result['protocol'][protocol]))
+
+
+    #website_domain_host_ip , need to pull dns code, not important rn
+     
+    #path, not sure where this field is coming from
+ 
+    #rest are middlebox, not important rn
+    
+    #postmodification
+    sql = sql+sqlFields+")"+sqlValues+")"
+    
+    #log.debug(f"sql is {sql}")
+    cursor = conn.cursor()
+    cursor.execute(sql, tuple(valList))
+    conn.commit()
 
 def send_to_db(conn, sql, values):
     log.debug(f"sql is {sql}")
@@ -281,6 +329,72 @@ def send_target_to_workers(target: str, workers: list):
 
         return results
 
+def tracert_send_target_to_worker(worker: dict, trace_type: str, target: str):
+    """ Send a target to a single worker. """	
+    time.sleep(randrange(20)+1)
+    data = {"key": REQUEST_KEY, "target": target, "type": trace_type}
+    log.debug(f"Sending {target} to {worker['country_name']}...") 
+    address = f"http://{worker['ip']}:42075/tracert"
+    try:
+        #TODO,some of these are stop gaps that need to be moved when wtb starts getting changed
+        response = requests.post(address, data=data).json()
+        response["success"] = True #this is done on the other end for the other request I believe
+        response["status_code"] = "A OK" #this is done on the other end for the other request I believe
+        response["worker"] =  worker
+        response["target"] = target
+
+    except requests.RequestException as e:
+        print(e)
+        response = {"target": target, "success": False, "data": str(e)}
+    #log.debug(f"{json.dumps(response, indent=4)}")#this I don't think works, can be removed
+    response["worker"] = worker
+    now = datetime.now()
+    formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
+    response["date"] = formatted_date
+    return response
+
+
+
+def tracert_send_target_to_workers(target: str, trace_type:str, workers: list):
+    """ Send a target to all workers in a multiprocessing pool. """
+
+    with Pool(processes=60) as pool:
+        results = list(
+            pool.starmap(tracert_send_target_to_worker, zip(workers,repeat(trace_type),repeat(target)))
+        )
+
+	
+        # put all results into respective lists so that we can print successes
+        # first, then the failures
+        successes = []
+        failures = []
+        for result in results:
+            status_line = f"{BOLD}{result['worker']['country_name']:<20}{RESET}"
+            if result["success"]:
+                successes.append(
+                    status_line + f"{GREEN}SUCCESS - {result['status_code']}{RESET}"
+                )
+
+            else:
+
+                # if we did not have success, verify that the worker
+                # is not just offline
+                if not ping(result["worker"]["ip"]):
+                    status_line += f"{RED}ERROR - Worker is offline{RESET}"
+
+                else:
+                    status_line += f"{RED}ERROR - {result['data']}{RESET}"
+
+                failures.append(status_line)
+
+        for success in successes:
+            print(success)
+
+        for failure in failures:
+            print(failure)
+
+        return results
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -301,7 +415,13 @@ if __name__ == "__main__":
         "-w", "--worker", type=str, help="Send targets to a specific worker."
     )
     parser.add_argument(
-        "-c", "--tracert", type=str, help="Run traceroute of provided type."
+        "-c", "--tracert", action="store_true",default=False, help="Run traceroute"
+    )
+    parser.add_argument(
+        "-c2", "--tracert_target", type=str, help="Run traceroute to provided target."
+    )
+    parser.add_argument(
+        "-c3", "--tracert_type", type=str, help="Run traceroute of provided type."
     )
 
     args = parser.parse_args()
@@ -311,8 +431,42 @@ if __name__ == "__main__":
         coloredlogs.install(
             level="DEBUG", fmt="%(asctime)s - %(levelname)s - %(message)s"
         )
+    
+    if args.tracert:
+        if args.tracert_target and args.tracert_type:
+            #check if worker was provided
+            if args.worker:
+                target_worker = None
+                for worker in workers:
+                    if worker["country_name"].lower() == args.worker.lower():
+                        target_worker = worker
 
-    if args.target:
+                if not target_worker:
+                    log.error(f"Worker '{args.worker}' does not exist.")
+                    sys.exit(1)
+
+                workers = [target_worker]
+
+            # otherwise, default to sending target to all workers
+            else:
+                workers = workers
+            
+
+
+            results = tracert_send_target_to_workers(args.tracert_target,args.tracert_type, workers)
+            
+            conn = tracert_setup_db()
+            if not conn:
+                sys.exit(1)
+    
+            for result in results:
+                if result['success']:
+                    send_tracert_to_db(conn, result)
+    
+        else:
+            sys.exit(1)
+        
+    elif args.target:
 
         # if sending targets, see if we are targeting a specific worker.
         # if so, we need to parse the workers file for the corresponding
