@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS `rtt_distance`
+DROP TABLE IF EXISTS `rtt_distance`;
 
-CREATE TABLE `rtt_distance`(
+CREATE TABLE `rtt_distance` (
 `id` int(15) NOT NULL AUTO_INCREMENT,
 `first_location_ip` varchar(15) NULL,
 `first_location_name` varchar(132) NULL,
