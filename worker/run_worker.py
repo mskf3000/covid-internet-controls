@@ -14,6 +14,10 @@ logging.getLogger("scapy").setLevel(logging.ERROR)
 logging.getLogger("requests").setLevel(logging.WARNING)
 load_dotenv()
 
+import sys
+sys.path.insert(1,'/src/RTTDistance')
+from rtt_distance import ip_rtt_distance
+
 REQUEST_KEY = os.getenv("REQUEST_KEY")
 
 def request_webpage(target: str, timeout: int = 10):
@@ -100,7 +104,14 @@ def tracert():
     os.remove('output/'+requested_target+'.json')
     return data
     
-
+@app.route("/rtt_distance", methods=["POST"])
+def rtt_distance():
+    try:
+        requested_ip = request.form["ip"]
+        result = ip_rtt_distance(requested_ip) 
+        return make_response("success", result)
+    except KeyError:
+        return make_response("error", "Invalid data format. Need IP")
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=42075)
