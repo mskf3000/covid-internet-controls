@@ -24,10 +24,10 @@ DROP TABLE IF EXISTS `rtt_distance`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `rtt_distance` (
   `id` int(15) NOT NULL AUTO_INCREMENT,
-  `first_location_ip` varchar(64) DEFAULT NULL,
+  `first_location_ip` varchar(15) DEFAULT NULL,
   `first_location_name` varchar(132) DEFAULT NULL,
   `first_location_coordinates` varchar(132) DEFAULT NULL,
-  `second_location_ip` varchar(64) DEFAULT NULL,
+  `second_location_ip` varchar(15) DEFAULT NULL,
   `second_location_name` varchar(132) DEFAULT NULL,
   `second_location_coordinates` varchar(132) DEFAULT NULL,
   `rtt` varchar(64) DEFAULT NULL,
