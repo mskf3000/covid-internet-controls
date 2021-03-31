@@ -10,6 +10,9 @@ RUN pip install --no-cache-dir -r /src/worker/requirements.txt
 COPY ./Wherestheblock /src/Wherestheblock
 RUN pip install --no-cache-dir -r /src/Wherestheblock/requirements.txt
 
+COPY ./RTTDistance /src/RTTDistance
+RUN pip install --no-cache-dir -r /src/RTTDistance/requirements.txt
+
 COPY ./Wherestheblock/ /src/worker/
 
 EXPOSE 42075
