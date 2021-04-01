@@ -76,12 +76,12 @@ def ip_rtt_distance(ip:str):
    # Distance Calculation from RTT
      
    ping_results["rtt_avg"] = float(ping_results["rtt_avg"])
-   RTT_time = float(ping_results["rtt_avg"])
-   rtt_dist = ((4 / 9) * RTT_time * 186.282)
+   rtt_time = float(ping_results["rtt_avg"])
+   rtt_dist = ((4 / 9) * rtt_time * 186.282)
    rtt_dist_nmi = rtt_dist / 1.151
    dist = f'{distance_nmi} nmi'
 
-   results_dict["rtt"] = RTT_time
+   results_dict["rtt"] = rtt_time
    results_dict["distance"] = rtt_dist_nmi
    results_array.append(results_dict)
 
