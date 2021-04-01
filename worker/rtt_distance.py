@@ -51,7 +51,7 @@ def ip_rtt_distance(ip:str):
 
    # Getting RTT from Source and Updating the results array
    source_name = socket.gethostname()
-   source_ip = socket.gethostbyname(source_name)
+   source_ip =  source_data_dict["ip"]
 
    results_array = []
    
