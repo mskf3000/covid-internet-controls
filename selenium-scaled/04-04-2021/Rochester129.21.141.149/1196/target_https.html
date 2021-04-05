@@ -1,0 +1,216 @@
+<html><head>
+
+    <title>Q0</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet" media="screen">
+    <style>
+    	.container { padding-left: 0px; padding-right: 0px; }
+		.footer { color: #777; }
+    	.panel { margin-top: 0px; }
+    	.exit { margin-top: -10px; margin-right: -10px; }
+    	.question_text, .question_subtext { font-size: 1.4em; }
+    	.btn { width: 100%; display: block; white-space: normal; margin-top: 5px; }
+    	.answer_0 { margin-top: 0px; }
+        .form-group { margin-top: 10px; }
+		img { max-width:100%; }
+		a.html {
+            width: 100%;
+            background-color: white;
+            margin-top: 5px;
+            color: black;
+            display: inline-block;
+            white-space: normal;
+            border-color: #ccc;        
+            box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 1px rgba(0, 0, 0, 0.075);
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+            border-radius: 6px;
+            padding: 3px 16px;        
+            -moz-user-select: none;
+            cursor: pointer;
+            font-weight: 400;
+            margin-bottom: 0;
+            text-align: center;
+            vertical-align: middle;
+            text-decoration: none;
+		}
+
+        .btn-survey {
+            color: #fff;
+            background-color: #4899af;
+            border-color: #3fa3bf;
+        }
+        .btn-survey:focus,
+        .btn-survey.focus {
+            color: #fff;
+            background-color: #25849e;
+            border-color: #16586b;
+        }
+        .btn-survey:hover {
+            color: #fff;
+            background-color: #25849e;
+            border-color: #1e7a91;
+        }
+        .btn-survey:active,
+        .btn-survey.active,
+        .open > .dropdown-toggle.btn-survey {
+            color: #fff;
+            background-color: #25849e;
+            border-color: #1e7a91;
+        }
+        .btn-survey:active:hover,
+        .btn-survey.active:hover,
+        .open > .dropdown-toggle.btn-survey:hover,
+        .btn-survey:active:focus,
+        .btn-survey.active:focus,
+        .open > .dropdown-toggle.btn-survey:focus,
+        .btn-survey:active.focus,
+        .btn-survey.active.focus,
+        .open > .dropdown-toggle.btn-survey.focus {
+            color: #fff;
+            background-color: #1e7a91;
+            border-color: #16586b;
+        }
+        .btn-survey:active,
+        .btn-survey.active,
+        .open > .dropdown-toggle.btn-survey {
+            background-image: none;
+        }
+        .btn-survey.disabled:hover,
+        .btn-survey[disabled]:hover,
+        fieldset[disabled] .btn-survey:hover,
+        .btn-survey.disabled:focus,
+        .btn-survey[disabled]:focus,
+        fieldset[disabled] .btn-survey:focus,
+        .btn-survey.disabled.focus,
+        .btn-survey[disabled].focus,
+        fieldset[disabled] .btn-survey.focus {
+            background-color: #4899af;
+            border-color: #3fa3bf;
+        }
+        .btn-survey .badge {
+            color: #4899af;
+            background-color: #fff;
+        }
+        
+        .btn-survey
+        .btn-survey:active
+        .btn-survey.active
+        .btn-survey.disabled
+        .btn-survey[disabled]
+        fieldset[disabled] .btn-survey
+        .btn-survey .badge
+        .btn-survey {
+            background-image: -webkit-linear-gradient(top, #4899af  0%, #1f829e 100%);
+            background-image:      -o-linear-gradient(top, #4899af 0%, #1f829e 100%);
+            background-image: -webkit-gradient(linear, left top, left bottom, from(#4899af), to(#1f829e));
+            background-image:         linear-gradient(to bottom, #4899af 0%, #1f829e 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff4899af', endColorstr='#ff1f829e', GradientType=0);
+            filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+            background-repeat: repeat-x;
+            border-color: #1d7891;
+        }
+        .btn-survey:hover,
+        .btn-survey:focus {
+            background-color: #1f829e;
+            background-position: 0 -15px;
+        }
+        .btn-survey:active,
+        .btn-survey.active {
+            background-color: #1f829e;
+            border-color: #1d7891;
+        }
+        .btn-survey.disabled,
+        .btn-survey[disabled],
+        fieldset[disabled] .btn-survey,
+        .btn-survey.disabled:hover,
+        .btn-survey[disabled]:hover,
+        fieldset[disabled] .btn-survey:hover,
+        .btn-survey.disabled:focus,
+        .btn-survey[disabled]:focus,
+        fieldset[disabled] .btn-survey:focus,
+        .btn-survey.disabled.focus,
+        .btn-survey[disabled].focus,
+        fieldset[disabled] .btn-survey.focus,
+        .btn-survey.disabled:active,
+        .btn-survey[disabled]:active,
+        fieldset[disabled] .btn-survey:active,
+        .btn-survey.disabled.active,
+        .btn-survey[disabled].active,
+        fieldset[disabled] .btn-survey.active {
+            background-color: #1f829e;
+            background-image: none;
+        }
+
+        
+		a.inactive { opacity: 0.7; filter: alpha(opacity=70); border-color: #ccc; border-width: 1px; }
+		a.inactive:hover { border-color: #2b669a; border-width: 1px; /*opacity: 1.0; filter: alpha(opacity=100);*/ }
+    	
+
+        
+    </style>
+    <style media="only screen and (min-width: 40em)">
+    	.container { padding-left: 15px; padding-right: 15px; }
+    	.panel { margin-top: 30px; }
+    	.question_text, .question_subtext { font-size: 2em; }
+    	.container { width: 960px; }
+    	.btn { display: inline-block; }
+    	.answer { height: 80px; line-height: 60px; font-size: 1.4em; }
+    	.answer_0 { margin-top: 5px; }
+        .form-group { margin-top: 10px; }
+        .form-group .answer { width: 290px; }
+    	.form-group textarea { width: 600px; height: 80px; margin-top: 5px; float: right !important;}
+    	
+a.answer { width: 220px; line-height:60px;  }
+.form-group textarea { float: left !important; }
+
+        
+	</style>
+
+	<link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/static/favicon.ico" type="image/x-icon">
+	
+    <!--[if lt IE 9]>
+          <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+  </head>
+  <body dir="ltr" class="country_US tag_1">
+    
+    
+    <div class="container">
+	    <div class="panel panel-default">
+		        <div class="panel-body">
+			        <a class="exit pull-right" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=ghc3.us_vaccine.q00a_select_language&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=anizedglittledisco.info&amp;k=ghc3.us_vaccine&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=__exit__';return false;">
+			        	<span class="glyphicon glyphicon-remove"></span>
+			        </a>
+			        <div class="question_text text-center"></div></div>
+		        
+		        <div class="panel-footer clearfix">
+		            <div class="text-center">
+					    		<a class="answer answer_0 answer_first answer_i_1 btn btn-lg btn-survey basic" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=ghc3.us_vaccine.q00a_select_language&amp;t=1&amp;c=US&amp;pl=&amp;al=1_0&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=anizedglittledisco.info&amp;k=ghc3.us_vaccine&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=spanish&amp;c=US_sp';return false;">Español</a>
+					    		<a class="answer answer_1 answer_last answer_i_0 btn btn-lg btn-survey basic" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=ghc3.us_vaccine.q00a_select_language&amp;t=1&amp;c=US&amp;pl=&amp;al=1_0&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=anizedglittledisco.info&amp;k=ghc3.us_vaccine&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=english&amp;c=US';return false;">English</a>
+		            </div>
+		        </div>
+	    </div>
+    </div>
+
+
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+    
+
+  
+
+</body></html>

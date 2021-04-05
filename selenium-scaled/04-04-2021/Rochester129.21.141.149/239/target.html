@@ -1,0 +1,267 @@
+<html lang="en"><head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-NPHB61BDSE"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'G-NPHB61BDSE');
+        </script>
+        <title>Welcome to the Simcast News portal.</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Search on topics your interested. Read great personalised news.">
+        <meta name="keywords" content="search,news,automotive,beauty,education,events,fashion,finance,games,health,home,insurance,legal,pets,property,shopping,sports,technology,transport,travel,utilties">
+        <meta name="author" content="Simcast">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="/templates/simcast/favicon.png" type="image/x-icon">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <link type="text/css" href="/templates/simcast/css/html.css" rel="stylesheet">
+        <link href="/lib/fontawesome-5.9.0/css/all.min.css" rel="stylesheet">
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var totX = 0;
+        var totY = 0;
+        var startx = 0;
+        var starty = 0;
+        var mess = 0;
+
+            //test for javascript
+            var fra = 0;
+            var ip = 0;
+            var infr = window.self !== window.top;
+            if (infr) {
+                fra = 1;
+            }
+            var pop = (window.opener !== undefined && window.opener !== null && window.opener !== window);
+            if (pop) {
+                ip = 1;
+            }
+            $.ajax({
+                method: "GET",
+                url: "/widgets/ms/js.php?fra=" + fra + "&ip=" + ip
+            });
+            document.addEventListener('touchstart', function (e) {
+            var touchobj = e.changedTouches[0]; // first touch
+            totX = totX + parseInt(touchobj.clientX);
+            totY = totY + parseInt(touchobj.clientY);
+        }, false);
+
+        document.addEventListener('touchend', function (e) {
+            var touchobj = e.changedTouches[0]; // last touch
+            totX = totX + abs(parseInt(touchobj.clientX) - startx);
+            totY = totY + abs(parseInt(touchobj.clientY) - starty);
+        }, false);
+
+        document.onmousemove = function (e) {
+            totX = totX + e.pageX;
+            totY = totY + e.pageY;
+        };
+        setInterval(checkCursor, 200);
+
+        function checkCursor() {
+            if ((totX !== 0) || (totY !== 0)) {
+                if (mess !== 2) {
+                    mess = 2;
+                    document.cookie = "mess=2";
+                    $.ajax({
+                        method: "GET",
+                        url: "/widgets/ms/up.php?mess=" + mess
+                    });
+                }
+            }
+        }
+    }
+    );
+</script>
+        <script>
+            $(document).ready(function () {
+                if ($(".columns").text().length === 0) {
+                    $('.columns').hide();
+                }
+            });
+        </script>
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+        <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(function () {
+                OneSignal.init({
+                    appId: "4c7b68c0-29d9-46be-b278-bfc487c22942"
+                });
+            });
+        </script>
+        <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+        <script>
+            var mess = parseInt(getCookie("mess"));
+            if (mess === 2) {
+                window.googletag = window.googletag || {cmd: []};
+                googletag.cmd.push(function () {
+                    var mapping1 = googletag.sizeMapping().addSize([768, 0], [[970, 250], [728, 90]]).addSize([0, 0], [320, 50]).build();
+                    var mapping2 = googletag.sizeMapping().addSize([768, 0], [728, 90]).addSize([0, 0], [320, 50]).build();
+                    googletag.defineSlot('/51855962/simcast/simcast_970x250', [[970, 250], [728, 90]], 'simcast_970x250').defineSizeMapping(mapping1).addService(googletag.pubads());
+                    googletag.defineSlot('/51855962/simcast/simcast_728x90', [728, 90], 'simcast_728x90').defineSizeMapping(mapping2).addService(googletag.pubads());
+                    googletag.defineSlot('/51855962/simcast/simcast_728x90_2', [728, 90], 'simcast_728x90_2').defineSizeMapping(mapping2).addService(googletag.pubads());
+                    googletag.defineSlot('/51855962/simcast/simcast_728x90_3', [728, 90], 'simcast_728x90_3').defineSizeMapping(mapping2).addService(googletag.pubads());
+                    googletag.defineSlot('/51855962/simcast/Simcast_300x250', [300, 250], 'Simcast_300x250').addService(googletag.pubads());
+                    googletag.defineSlot('/51855962/simcast/simcast_300x600', [300, 600], 'simcast_300x600').addService(googletag.pubads());
+                    googletag.defineSlot('/51855962/simcast/simcast_320x50', [320, 50], 'simcast_320x50').addService(googletag.pubads());
+                    googletag.pubads().enableSingleRequest();
+                    googletag.pubads().setTargeting('sub_id', ['6198399e4910e66-ovc.com']);
+                    googletag.enableServices();
+                });
+            }
+            function getCookie(cname) {
+                var name = cname + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+        </script>
+
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302" async=""></script><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021033001.js?31060680" async=""></script></head>
+    <body id="mainbody">
+        <div class="menutop clearfix">
+            <div id="plBanner">
+                <script id="parklogic" type="text/javascript" src="https://parking2.parklogic.com/page/enhance.js?pcId=56&amp;domain=6198399e4910e66-ovc.com"></script>
+            </div>
+            <div class="logo-block"><a href="/widgets/banners/rules.php?bid=110&amp;wid=2&amp;tid=59&amp;d=6198399e4910e66-ovc.com" target=""><img src="/templates/simcast/images/simcastlogo_35y.png" alt="Simcast Logo" class="logo-image"></a></div><div class="menu-block"><ul class="dropdown"><li><a href="/news" title="News">News</a><ul></ul></li><li><a href="/Entertainment" title="Entertainment">Entertainment</a><ul></ul></li><li><a href="/Money" title="Money">Money</a><ul></ul></li><li><a href="/Lifestyle" title="Lifestyle">Lifestyle</a><ul></ul></li><li><a href="/Health" title="Health">Health</a><ul></ul></li><li><a href="/Travel" title="Travel">Travel</a><ul></ul></li><li><a href="/Video" title="Videos">Videos</a><ul></ul></li><li><a href="/Sports" title="Sports">Sports</a><ul></ul></li><li><a href="/About-Us" onclick="return myConfirm(&quot;/About-Us&quot;);" title="About Us">About Us</a><ul><li><a href="/about-us/About-Simcast" title="About Simcast">About Simcast</a><ul></ul></li><li><a href="/about-us/Contact-Us" title="Contact Us">Contact Us</a><ul></ul></li><li><a href="/about-us/Policies" title="Policies">Policies</a><ul><li><a href="/about-us/policies/Privacy-Policy" title="Privacy Policy">Privacy Policy</a><ul></ul></li><li><a href="/about-us/policies/Terms-of-Use" title="Terms of Use">Terms of Use</a><ul></ul></li></ul></li></ul></li></ul></div>        <script>
+            function myConfirm(message) {
+                switch (message.length) {
+                    case 0:
+                        message = "WARNING!\nAre you sure you want to do this?";
+                    case 1:
+                        message = "";
+                        break;
+                }
+                if (confirm(message) === true) {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+        </script>
+        <div class="powered-block">Powered by <em><strong>Microsoft News</strong></em>
+</div>        </div>
+        <div id="contentwrapper">
+                        <div class="search-block">
+                    <div class="search-inputblock">
+                <h2 class="search-heading">Search Internet</h2>
+                <form method="post" action="/widgets/searches/rules.php">
+                                        <input type="text" name="q" value="Search here" onblur="if (this.value === '') {
+                                       this.value = 'Search here';
+                                       this.style.color = '#BBB';
+                                   }" onfocus="if (this.value === 'Search here') {
+                                       this.value = '';
+                                       this.style.color = '#000';
+                                   }" class="search-inputbox" aria-label="Search here">
+                    <input name="inputboxvar" type="hidden" value="q">
+                    <input name="ms" type="hidden" value="0">
+                    <input name="remote" type="hidden" value="1">
+                    &nbsp; <input name="sub" type="submit" class="search-button" value="Search" aria-label="Search">
+                </form>
+            </div>
+                </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css">
+<style>
+    p.modalheading {
+        font-size:24px;
+        font-weight:bold;
+        color:#A67EAC;
+        padding:10px 0px;
+    }
+    .modalinput {
+        font-size: 14px;
+        padding: 6px 12px;
+        height: 20px;
+        width:200px;
+        color: #555;
+        border: 1px solid #A67EAC;
+        border-radius: 4px;
+    }
+    .modalbutton {
+        height: 35px;
+        width: 90px;
+        border-radius: 5px;
+        border:0px;
+        margin: 10px 0px 10px 0px;
+        color: #fff;
+        padding: 0px 10px 0px 10px;
+        font-size: 18px !important;
+        background-color: #865E8C;
+        cursor: pointer;
+    }
+    .modalbutton:hover {
+        background-color:#A67EAC;
+    }
+</style>
+<script>
+    function displayModal(mm) {
+        $('#modalout').load('/widgets/modal/modal.php?mm=' + mm);
+    }
+    function displayComment(mm, k, id) {
+        $('#modalout').load('/widgets/modal/modal.php?mm=' + mm + "&k=" + k + "&id=" + id);
+    }
+    $(document).ready(function () {
+        var mm = 0;
+        if (mm !== 0) {
+            displayModal(mm);
+        }
+    });
+
+</script>
+<div id="modalout"></div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="articlewrapper">
+                <div class="row">
+                </div>
+            </div>
+            <div id="footer">
+            <div class="article-block"><table style="width:50%" cellpadding="1" border="0">
+	<tbody>
+		<tr>
+			<td style="width:33%"><a class="footerlink" href="/news">News</a><br>
+			<a class="footerlink" href="/autos">Automotive</a><br>
+			<a class="footerlink" href="/money">Money</a><br>
+			<a class="footerlink" href="/entertainment">Entertainment</a><br>
+			<a class="footerlink" href="/lifestyle">Lifestyle</a></td>
+			<td style="vertical-align:top; width:33%"><a class="footerlink" href="/health">Health</a><br>
+			<a class="footerlink" href="/travel">Travel</a><br>
+			<a class="footerlink" href="/video">Videos</a><br>
+			<a class="footerlink" href="/sports">Sports</a><br>
+			<a class="footerlink" href="/lifestyle">Lifestyle</a></td>
+			<td style="vertical-align:top; width:34%"><a class="footerlink" href="/about-us/About-Simcast">About Us</a><br>
+			<a class="footerlink" href="/about-us/Contact-Us">Contact Us</a><br>
+			<a class="footerlink" href="/about-us/policies/Privacy-Policy">Privacy Policy</a><br>
+			<a class="footerlink" href="/about-us/policies/Terms-of-Use">Terms of Use</a></td>
+		</tr>
+	</tbody>
+</table>
+</div>            </div>
+        </div>
+    
+
+
+</body></html>

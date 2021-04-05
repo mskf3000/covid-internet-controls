@@ -1,0 +1,30 @@
+<html lang="en"><head><title>Redirecting...</title><script type="text/javascript">function navigateTo(browser, window, url) {
+  if (browser != window) {
+    browser.location.href = url;
+    window.location.replace("about:blank");
+  } else {
+    window.location.replace(url);
+  }
+}
+
+function placeQuantcastImagePixel(window, pixelUrl) {
+  var existingOnload = window.onload;
+  window.onload = function() {
+    if (existingOnload)
+      existingOnload();
+
+    var img = window.document.createElement('img');
+    img.src = pixelUrl;
+    img.style.display = 'none';
+    window.document.body.appendChild(img);
+  }
+}
+
+var quantcastImagePixelUrl = "", timeout = quantcastImagePixelUrl ? 300 : 0;
+
+if(quantcastImagePixelUrl) {
+  placeQuantcastImagePixel(window, quantcastImagePixelUrl);
+}
+
+setTimeout(function(){ navigateTo(window.parent, window, "https://www.healthcarejobsite.com/job.asp?id=1511966523&tx=QL11019LGU&pt=2&aff=944FC014-51ED-4715-9B17-925A4D5A6293&utm_source=Job%20Feed&utm_medium=joblift%20b&utm_campaign=Healthcare&utm_term=944FC014-51ED-4715-9B17-925A4D5A6293"); }, timeout);
+</script></head><body></body></html>

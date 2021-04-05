@@ -1,0 +1,955 @@
+<html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<base href="http://alcomarket.kz/?lang=ru">
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link href="http://fonts.googleapis.com/css?family=Roboto:400,900,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+	<title>Alcomarket.kz - Главная страница, Алкомаркет в Алматы, алкогольные напитки по самой низкой цене</title><meta name="description" content="Alcomarket.kz - магазин элитных алкогольных напитков по низким ценам  в Алматы и других городах Казахстана. Доступные и элитные вина, виски, шампанское, алкоголь, водка. Алкогольные магазины, Казахстан"><meta name="keywords" content="алкомаркет, элитный, алкоголь, алкогольный, Алматы, коньяк, вино, ликеры, вермут, джин, виски, бренди, шампанское, коктейли, водка, ром, текила, кальвадос, магазин">	<link href="index.css" rel="stylesheet">
+	
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<link href="https://plus.google.com/102623023363337511440" rel="publisher">
+			<meta name="keywords" content="алкоголь, алко, алматы, коньяк, вино, ликеры, вермут, джин, виски, бренди, шампанское, коктейли, водка, ром, текила, кальвадос, магазин">
+	<link rel="alternate" hreflang="ru" href="http://alcomarket.kz/?lang=ru">
+	<link rel="alternate" hreflang="en" href="http://alcomarket.kz/?lang=en">
+	<link rel="alternate" hreflang="kk" href="http://alcomarket.kz/?lang=kz">
+</head>
+<body onload="step2()">
+<div id="all" style="display: none;">
+	<div class="wrap">
+		<div class="top">
+			<div class="top-left">
+						<a href="http://alcomarket.kz/?lang=kz"><img alt="" src="data/KZ.png"></a>
+		<a href="http://alcomarket.kz/?lang=ru"><img alt="" src="data/RU.png"></a>
+		<a href="http://alcomarket.kz/?lang=en"><img alt="" src="data/GB.png"></a>
+		<span class="top-disc">
+			Данный сайт несет информативный характер, не является рекламой и не осуществляет интернет продажи;<br> Продажи осуществляются исключительно в магазинах "Alcomarket.kz"
+			<br>
+		</span>
+					</div>
+			<a href="https://www.instagram.com/alcomarket.kz/" class="soc insta"></a>
+			<a href="http://vk.com/alcomarket2014" class="soc vk"></a>
+		</div>
+	</div>
+	<header>
+		<div class="wrap">
+			<nav>
+				
+			<a class="hitofweek" href="hitofm/?lang=ru"><img alt="alcomarket hitofm" src="img/htw_ru.png"></a>
+			<a class="abox" href="box/"><img alt="alcomarket opt" src="img/box.png"></a>
+			<a class="vip" href="vip/"><img alt="alcomarket vip card" src="img/vip.jpg"></a>
+			<a href="?lang=ru">Главная</a>
+			<a href="shop/?lang=ru">Магазины</a>
+			<a style="color: red!important" href="sale/?lang=ru">Акции</a>
+			<a href="advertisement/?lang=ru">Объявления</a>
+			<a href="kont/?lang=ru">Контакты</a>
+			<a href="delivery/?lang=ru" style="position: fixed; width: 100px;bottom: 90px;right: 10px;z-index: 100;">
+			<img src="data/deliver.jpg" style="width: 100%; display: block;">
+			</a>
+					<div class="fixedspeach" onclick="otzivall()"><img src="data/speech.png"><span>Оставить отзыв</span></div>
+			<div id="bg2" class="rating-bg" onclick="windowhide2()" style="display: none;"></div>
+			<div id="window3" class="rating-window">
+				<div class="window-head">
+					<div class="window-close" onclick="windowhide2();">×</div>
+					<div class="window-headtext">Оставить отзыв о<div id="shopname"></div></div>
+				</div>
+				<div class="rating-content">
+					<form action="item/speach/?lang=ru" method="POST" style="text-align: center;">
+						Телефон:
+						<input id="shopid" name="shopid" style="display: none;" value="/">
+						<input name="phone" class="window-input">
+						и(или) E-mail
+						<input name="email" class="window-input">
+						Отзыв
+						<textarea class="window-area" name="text"></textarea>
+						<input type="submit" class="fullitem-favorite">
+					</form>
+				</div>
+			</div>
+			<script type="text/javascript" async="" src="http://mc.yandex.ru/metrika/watch.js"></script><script>
+			function otzivall(){
+				$('#bg2').css('display','block');
+				$('#window3').css('display','block');
+			}
+			function windowhide2(){
+				$('#bg2').css('display','none');
+				$('#window3').css('display','none');
+			}
+			</script>
+					</nav>
+			<a href="http://alcomarket.kz/?lang=ru" class="logo">
+				<img alt="Алкомаркет Алматы Логотип" src="data/logo.png">
+			</a>
+		</div>
+	</header>
+	<div class="wrap">
+		<div class="list" id="listnav">
+			
+			<form class="search" action="search/">
+				<input autocomplete="off" oninput="asearch()" id="search" name="search" placeholder="Поиск продукции">
+			</form>
+			<div class="list-item">
+				<span class="list-span">Крепкие напитки</span>
+				<div class="list-add">
+					<a href="list/?lang=ru&amp;class=1&amp;type=1">Водка</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=2">Виски</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=3">Коньяк / Бренди</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=5">Текила</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=6">Джин</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=7">Ром</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=8">Настойки</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=9">Абсент</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=10">Граппа / Чача</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=11">Арманьяк</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=12">Кальвадос</a>
+					<a href="list/?lang=ru&amp;class=10">Бальзамы</a>
+					<a href="list/?lang=ru&amp;class=1&amp;type=13" class="list-last">Ликеры</a>
+				</div>
+			</div>
+			<div class="list-item">
+				<a href="list/?lang=ru&amp;class=2" class="list-span">Белое вино</a>
+			</div>
+			<div class="list-item">
+				<a href="list/?lang=ru&amp;class=3" class="list-span">Красное вино</a>
+			</div>
+			<div class="list-item">
+				<a href="list/?lang=ru&amp;class=4" class="list-span">Розовое вино</a>
+			</div>
+			<div class="list-item">
+				<span class="list-span">Игристые / Шампанское</span>
+				<div class="list-add">
+					<a href="list/?lang=ru&amp;class=5&amp;type=1">Шампанское</a>
+					<a href="list/?lang=ru&amp;class=5&amp;type=2" class="list-last">Игристые вина</a>
+				</div>
+			</div>
+			<div class="list-item">
+				<span class="list-span">Крепленые вина</span>
+				<div class="list-add">
+					<a href="list/?lang=ru&amp;class=6&amp;type=1">Вермут</a>
+					<a href="list/?lang=ru&amp;class=6&amp;type=2" class="list-last">Портвейн / Шерри</a>
+				</div>
+			</div>
+			<div class="list-item">
+				<a href="list/?lang=ru&amp;class=7" class="list-span">Пиво / Сидры</a>
+			</div>
+			<div class="list-item">
+				<a href="list/?lang=ru&amp;class=8&amp;type=1" class="list-span">Коктейли</a>
+			</div>
+			<div class="list-item">
+				<span class="list-span">Сопутствующая группа</span>
+				<div style="margin-top: -130px" class="list-add">
+					<a href="list/?lang=ru&amp;class=9&amp;type=1">Сок</a>
+					<a href="list/?lang=ru&amp;class=9&amp;type=2">Безалкогольное</a>
+					<a href="list/?lang=ru&amp;class=9&amp;type=3">Сиропы</a>
+					<a href="list/?lang=ru&amp;class=9&amp;type=4">Сигареты</a>
+					<a href="list/?lang=ru&amp;class=9&amp;type=5">Сыры , колбасы</a>
+					<a href="list/?lang=ru&amp;class=9&amp;type=6">Бакалея</a>
+	     			<a href="list/?lang=ru&amp;class=9&amp;type=7" class="list-last">Кондитерские изделия</a>
+			
+					</div>
+			</div>
+			
+		
+				 	<a href="hitofweek/?lang=ru" class="list-item list-last insta-sold" style="left:-1px; padding-bottom: 15px;position: absolute;border: 1px solid hsl(0, 0%, 90%)!important; background: white;">
+						<img src="img/htw_ru.jpg">
+					</a>
+						<script>
+			function asearch(){
+				st = $('#search');
+				stv = st.val();
+				stl = stv.length;
+				rs = $("#rsearch");
+				if(stl > 0){
+					rs.show();
+					$("#loader").css('display','block');
+					$("#rdata").html("");
+					$.ajax({
+						url: "search/search.php?lang=ru&search="+stv,
+						success: function(data){
+							$("#rdata").html(data);
+							$("#loader").css('display','none');
+						}
+					});
+				}
+				else {
+					rs.hide();
+				}
+				//alert("search/search.php?search="+stv);
+			}
+			function aclose(){
+				st = $('#search');
+				rs = $("#rsearch");
+				st.val("");
+				rs.hide();
+				$("#rdata").html("");
+			}
+		</script>
+		<div id="rsearch">
+			<b>Результаты по поиску:</b>
+			<span onclick="aclose()" class="rsearch-close">Закрыть</span>
+			<img alt="" id="loader" src="img/loader.gif">
+			<div id="rdata">
+				
+			</div>
+		</div>
+				</div>
+		<div class="content">
+					<script src="data/jquery-1.10.2.min.js"></script>
+		<script src="data/jquery.jcarousellite.min.js"></script>
+		<div class="slider-tool">
+			<div class="slider-nav left prev-no-style" onclick="left()"></div>
+			<div class="slider-nav right next-no-style" onclick="right()"></div>
+		</div>
+		<div class="slider">
+			<div class="carousel-no-style" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 860px;">
+				<ul style="margin: 0px; padding: 0px; position: relative; list-style: outside none none; z-index: 1; width: 9030px; left: -860px;"><li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/37_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №36 (Гоголя) <span>Подробнее</span></div>
+						</a>
+					</li><li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/?z=kz">
+							<img src="data/full_anons.JPG" style="width:425px;height: 239px;">
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="data/mak1_new.jpg" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №1 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+		<!--			<li>
+					<a href='shop/'>
+							<img src="data/alcomarket2_2.jpg" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №2 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>  -->
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/3_6.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №3 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/?z=kz">
+							<img src="shop/img/4_5.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №4 ( г.Шымкент ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/9_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №6 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/?z=kz">
+							<img src="shop/img/8_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №8 ( г.Караганда ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/?z=kz">
+							<img src="shop/img/11_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №10 ( г.Караганда ) <span>Подробнее</span></div>
+						</a>
+					</li>
+	<!--				<li>
+						<a href='shop/?z=kz'>
+							<img src="shop/img/12_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №11 ( г.Астана ) <span>Подробнее</span></div>
+						</a>
+					</li
+					
+					<li>
+						<a href='shop/?z=kz'>
+							<img src="shop/img/14_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №13 ( г.Шымкент ) <span>Подробнее</span></div>
+						</a>
+					</li >-->
+				
+	<!--				<li>
+						<a href='shop/?z=kz'>
+							<img src="shop/img/16_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №15 ( г.Караганда ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li>
+						<a href='shop/'>
+							<img src="shop/img/17_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №16 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li> -->
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/18_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №17 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+	<!--				<li>
+						<a href='shop/'>
+							<img src="shop/img/19_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №18 ( г.Костанай ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					
+					<li>
+						<a href='shop/'>
+							<img src="shop/img/21_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №20 ( г.Караганда ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li>
+						<a href='shop/'>
+							<img src="shop/img/22_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №21 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>  -->
+		<!--			<li>
+						<a href='shop/'>
+							<img src="shop/img/23_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №22 ( г.Павлодар ) <span>Подробнее</span></div>
+						</a>
+					</li>  -->
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/24_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №23 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/25_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №24 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					
+			<!--		<li>
+						<a href='shop/'>
+							<img src="shop/img/27_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №25 ( г.Талдыкорган ) <span>Подробнее</span></div>
+						</a>
+					</li> -->
+		<!--			<li>
+						<a href='shop/?z=kz'>
+							<img src="shop/img/5_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №26 ( г.Тараз ) <span>Подробнее</span></div>
+						</a>
+					</li>   -->
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/28_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №27 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/29_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №28 ( г.Талдыкорган) <span>Подробнее</span></div>
+						</a>
+					</li>
+		<!--			<li>
+						<a href='shop/'>
+							<img src="shop/img/30_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №29 ( г.Тараз) <span>Подробнее</span></div>
+						</a>
+					</li>  
+					<li>
+						<a href='shop/'>
+							<img src="shop/img/31_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №30 ( рынок Артын-Орда) <span>Подробнее</span></div>
+						</a>
+					</li>
+										<li>
+						<a href='shop/'>
+							<img src="shop/img/32_1.JPG" style="width:425px;height: 239px;">
+							<div class='newslide-span'>Магазин №31 ( мкр Жулдыз) <span>Подробнее</span></div>
+						</a>
+					</li>-->
+						<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/34_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №32 (Павлодар) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/33_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №33 (Универсам) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/35_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №34 (ТЦ Март) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/36_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №35 (Гоголя) <span>Подробнее</span></div>
+						</a>
+					</li>
+					<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/37_1.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №36 (Гоголя) <span>Подробнее</span></div>
+						</a>
+					</li>
+						<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/?z=kz">
+							<img src="data/full_anons.JPG" style="width:425px;height: 239px;">
+						</a>
+					</li>
+					
+				<li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="data/mak1_new.jpg" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №1 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li><li style="overflow: hidden; float: left; width: 430px; height: 246px;">
+						<a href="shop/">
+							<img src="shop/img/3_6.JPG" style="width:425px;height: 239px;">
+							<div class="newslide-span">Магазин №3 ( г.Алматы ) <span>Подробнее</span></div>
+						</a>
+					</li></ul>
+			</div>
+		</div>
+		<script>
+			$(".carousel-no-style").jCarouselLite({
+				auto: 12200,
+				btnNext: ".next-no-style",
+				btnPrev: ".prev-no-style",
+				visible: 2,
+				speed: 600
+			});
+		</script>			<!--<div class='content-h'>
+				<img src="data/slog.jpg" alt="Алкомаркет, слоган, Истинно упоительные цены">			</div>
+			-->
+			<div class="week-h">
+				Хит Месяца			</div>
+			<div class="week-d">
+							</div>
+			<a href="hitofm/?lang=ru" class="countdown-link">
+				Подробнее об акции «ХИТ МЕСЯЦА			</a>
+			<div class="slider2">
+				<ul id="slider2-box">
+					
+								<li class="first-li">
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=696" class="slider-link">
+										<img alt="Ricossa Barbaresco DOCG купить в магазинах Алкомаркет Алматы" src="allitem/696-x.jpg">
+										<div class="slider2-type">Красное вино</div>
+										<div class="slider2-name">Ricossa Barbaresco DOCG</div>
+										<span class="slider2-old"><span class="strikethrough2">7500тг</span></span>
+										<span class="slider2-price">5500 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 26%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=697" class="slider-link">
+										<img alt="Ricossa Barolo DOCG купить в магазинах Алкомаркет Алматы" src="allitem/697-x.jpg">
+										<div class="slider2-type">Красное вино</div>
+										<div class="slider2-name">Ricossa Barolo DOCG</div>
+										<span class="slider2-old"><span class="strikethrough2">10900тг</span></span>
+										<span class="slider2-price">7900 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 27%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=768" class="slider-link">
+										<img alt="Tullibardine Sovereign купить в магазинах Алкомаркет Алматы" src="allitem/768-x.jpg">
+										<div class="slider2-type">Виски</div>
+										<div class="slider2-name">Tullibardine Sovereign</div>
+										<span class="slider2-old"><span class="strikethrough2">20000тг</span></span>
+										<span class="slider2-price">16590 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 17%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=769" class="slider-link">
+										<img alt="Tullibardine 225 Sauternes Finish купить в магазинах Алкомаркет Алматы" src="allitem/769-x.jpg">
+										<div class="slider2-type">Виски</div>
+										<div class="slider2-name">Tullibardine 225 Sauternes Finish</div>
+										<span class="slider2-old"><span class="strikethrough2">22000тг</span></span>
+										<span class="slider2-price">17990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 18%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=772" class="slider-link">
+										<img alt="Tullibardine 228 Burgundy Finish купить в магазинах Алкомаркет Алматы" src="allitem/772-x.jpg">
+										<div class="slider2-type">Виски</div>
+										<div class="slider2-name">Tullibardine 228 Burgundy Finish</div>
+										<span class="slider2-old"><span class="strikethrough2">22000тг</span></span>
+										<span class="slider2-price">17990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 18%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=773" class="slider-link">
+										<img alt="Tullibardine 500 Sherry Finish купить в магазинах Алкомаркет Алматы" src="allitem/773-x.jpg">
+										<div class="slider2-type">Виски</div>
+										<div class="slider2-name">Tullibardine 500 Sherry Finish</div>
+										<span class="slider2-old"><span class="strikethrough2">22000тг</span></span>
+										<span class="slider2-price">17990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 18%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=955" class="slider-link">
+										<img alt="Penasol Seleccion Sangria купить в магазинах Алкомаркет Алматы" src="allitem/955-x.png">
+										<div class="slider2-type">Красное вино</div>
+										<div class="slider2-name">Penasol Seleccion Sangria</div>
+										<span class="slider2-old"><span class="strikethrough2">2590тг</span></span>
+										<span class="slider2-price">2190 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 15%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									<div class="box-loot"></div>
+								
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1043" class="slider-link">
+										<img alt="Filipetti Moscato Spumante купить в магазинах Алкомаркет Алматы" src="allitem/1043-x.jpg">
+										<div class="slider2-type">Игристые вина</div>
+										<div class="slider2-name">Filipetti Moscato Spumante</div>
+										<span class="slider2-old"><span class="strikethrough2">3290тг</span></span>
+										<span class="slider2-price">2990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 9%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1044" class="slider-link">
+										<img alt="Filipetti Moscato Spumante Rosato купить в магазинах Алкомаркет Алматы" src="allitem/1044-x.jpg">
+										<div class="slider2-type">Игристые вина</div>
+										<div class="slider2-name">Filipetti Moscato Spumante Rosato</div>
+										<span class="slider2-old"><span class="strikethrough2">3290тг</span></span>
+										<span class="slider2-price">2990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 9%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1078" class="slider-link">
+										<img alt="Daron Fine купить в магазинах Алкомаркет Алматы" src="allitem/1078-x.jpg">
+										<div class="slider2-type">Кальвадос</div>
+										<div class="slider2-name">Daron Fine</div>
+										<span class="slider2-old"><span class="strikethrough2">10900тг</span></span>
+										<span class="slider2-price">9500 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 12%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1081" class="slider-link">
+										<img alt="Daron Fine купить в магазинах Алкомаркет Алматы" src="allitem/1081-x.jpg">
+										<div class="slider2-type">Коньяк / Бренди</div>
+										<div class="slider2-name">Daron Fine</div>
+										<span class="slider2-old"><span class="strikethrough2">10900тг</span></span>
+										<span class="slider2-price">9500 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 12%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1090" class="slider-link">
+										<img alt="Filipetti Moscato Spumante купить в магазинах Алкомаркет Алматы" src="allitem/1090-x.jpg">
+										<div class="slider2-type">Шампанское</div>
+										<div class="slider2-name">Filipetti Moscato Spumante</div>
+										<span class="slider2-old"><span class="strikethrough2">3290тг</span></span>
+										<span class="slider2-price">2990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 9%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1091" class="slider-link">
+										<img alt="Filipetti Moscato Spumante Rosato купить в магазинах Алкомаркет Алматы" src="allitem/1091-x.jpg">
+										<div class="slider2-type">Шампанское</div>
+										<div class="slider2-name">Filipetti Moscato Spumante Rosato</div>
+										<span class="slider2-old"><span class="strikethrough2">3290тг</span></span>
+										<span class="slider2-price">2990 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 9%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1288" class="slider-link">
+										<img alt="Plantation 3 Stars купить в магазинах Алкомаркет Алматы" src="allitem/1288-x.jpg">
+										<div class="slider2-type">Ром</div>
+										<div class="slider2-name">Plantation 3 Stars</div>
+										<span class="slider2-old"><span class="strikethrough2">6890тг</span></span>
+										<span class="slider2-price">6490 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 5%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1660" class="slider-link">
+										<img alt="Remy Martin Louis XIII купить в магазинах Алкомаркет Алматы" src="allitem/1660-x.jpg">
+										<div class="slider2-type">Коньяк / Бренди</div>
+										<div class="slider2-name">Remy Martin Louis XIII</div>
+										<span class="slider2-old"><span class="strikethrough2">1200000тг</span></span>
+										<span class="slider2-price">990000 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 17%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1683" class="slider-link">
+										<img alt="Tundra Authentic купить в магазинах Алкомаркет Алматы" src="allitem/1683-x.jpg">
+										<div class="slider2-type">Водка</div>
+										<div class="slider2-name">Tundra Authentic</div>
+										<span class="slider2-old"><span class="strikethrough2">1990тг</span></span>
+										<span class="slider2-price">1790 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 10%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									<div class="box-loot"></div>
+								
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1688" class="slider-link">
+										<img alt="Tundra Authentic купить в магазинах Алкомаркет Алматы" src="allitem/1688-x.jpg">
+										<div class="slider2-type">Водка</div>
+										<div class="slider2-name">Tundra Authentic</div>
+										<span class="slider2-old"><span class="strikethrough2">2690тг</span></span>
+										<span class="slider2-price">2490 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 7%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									<div class="box-loot"></div>
+								
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1731" class="slider-link">
+										<img alt="Acquesi Brachetto купить в магазинах Алкомаркет Алматы" src="allitem/1731-x.png">
+										<div class="slider2-type">Игристые вина</div>
+										<div class="slider2-name">Acquesi Brachetto</div>
+										<span class="slider2-old"><span class="strikethrough2">5500тг</span></span>
+										<span class="slider2-price">4500 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 18%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1732" class="slider-link">
+										<img alt="Acquesi Brachetto купить в магазинах Алкомаркет Алматы" src="allitem/1732-x.png">
+										<div class="slider2-type">Шампанское</div>
+										<div class="slider2-name">Acquesi Brachetto</div>
+										<span class="slider2-old"><span class="strikethrough2">5500тг</span></span>
+										<span class="slider2-price">4500 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 18%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="http://alcomarket.kz/item/?lang=ru&amp;id=1733" class="slider-link">
+										<img alt="Acquesi Rosato купить в магазинах Алкомаркет Алматы" src="allitem/1733-x.png">
+										<div class="slider2-type">Игристые вина</div>
+										<div class="slider2-name">Acquesi Rosato</div>
+										<span class="slider2-old"><span class="strikethrough2">5500тг</span></span>
+										<span class="slider2-price">4500 <span class="slider2-tg">тг</span></span><br>
+										<span class="slider2-old"></span><span class="slider2-price">Скидка - 18%</span>
+										<div style="position: absolute; bottom: -4px;margin-left: 8px; margin-top: -12px;" class="raiting">
+											<!--<div class="raiting_blank"></div>
+											<div class="raiting_votes" style='width:0px'></div>-->
+											
+										</div>
+										
+									</a>
+								</li>
+											</ul>
+			</div>
+			<div class="footer">
+				Данный сайт несет информативный характер и не является рекламой				<h3>УПОТРЕБЛЕНИЕ АЛКОГОЛЯ ВРЕДИТ ВАШЕМУ ЗДОРОВЬЮ</h3>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="data/jquery-1.10.2.min.js"></script>
+<script>
+	// $( document ).ready(function() {
+		// $('#all').css('display','none');
+		// $('#age').animate({opacity: 1,marginTop: '-130px'},1700);
+	// });
+	$( document ).ready(function() {
+		if(getCookie()){
+		}
+		else {
+						$('#all').css('display','none');
+			$('#age2').animate({opacity: 1,marginTop: '-130px'},1700);
+					}
+	});
+	function showall(){
+		var date = new Date( new Date().getTime() + 999999999999 );
+		//set_cookie ( "age", "21", 2016, 01, 15, "","alcomarket.kz" );
+		ajax_cookie();
+		$('#age2').animate({opacity: 0,marginTop: '-250px'},1700, function(){
+			$('#all').css('display','block');
+			$('#age2').css('display','none');
+			$('#listnav').css('top','133px;');
+		});
+	}
+	function getCookie(name) {
+		var str = document.cookie;
+		if(str.indexOf('age=21') + 1) {
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
+	function not21(){
+		document.location.href = "not21.php";
+	}
+	function set_cookie ( name, value, exp_y, exp_m, exp_d, path, domain, secure ){
+		var cookie_string = name + "=" + escape ( value );
+		if ( exp_y ){
+			var expires = new Date ( exp_y, exp_m, exp_d );
+			cookie_string += "; expires=" + expires.toGMTString();
+		}
+		if ( path )
+			cookie_string += "; path=" + escape ( path );
+		if ( domain )
+			cookie_string += "; domain=" + escape ( domain );
+		if ( secure )
+			cookie_string += "; secure";
+		document.cookie = cookie_string;
+	}
+	function ajax_cookie(){
+		$.ajax({
+			type: "GET",
+			url: "include/ajax_cookie.php",
+			dataType: "script"
+		});
+	}
+</script>
+<div id="age">
+	<img src="data/logo.png" alt="Алкомаркет, официальный логотип">
+	<div id="age-bar">
+		<span>На сайте ведутся технические работы до 23.02.15</span>
+		<!--<div class='age-btn' onclick='showall()'>Мне уже исполнилось 21 год</div>-->
+	</div>
+</div>
+<div id="age2" style="opacity: 1; margin-top: -130px;">
+	<img src="data/logo.png" alt="Алкомаркет, официальный логотип">
+	<div id="age2-bar">
+		<span>Данный сайт предназначен для лиц достигших 21 года. Производя вход на сайт, Вы подтверждаете что Вам есть 21 год или более.</span>
+		<div class="age-btn" onclick="showall()">Мне уже исполнилось 21 год</div>
+		<div class="age-btn2" onclick="not21()">Мне нет 21</div>
+	</div>
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter27452112 = new Ya.Metrika({id:27452112, webvisor:false, clickmap:false, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/27452112" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+	var total2 = 20;
+	var width2 = 214;
+	var margin2 = 0;
+	var max2 = -1*(total2 - 4)*width2;
+	var sec2 = 4200;
+	var timer2;
+	function step2(){
+		if(margin2 != max2){
+			timer2 = setTimeout("margin2 = margin2-width2;anim2(margin2);step2();", sec2);
+		}
+		else {
+			timer2 = setTimeout("margin2 = 0;anim2(margin2);step2();", sec2);
+		}
+	}
+	function left2(){
+		if(margin2 != 0){
+			clearTimeout(timer2);
+			margin2 = margin2+width2;
+			anim2(margin2);
+			timer2 = setTimeout("step2();", sec2);
+		}
+		else {
+			clearTimeout(timer2);
+			margin2 = max2;
+			anim2(margin2);
+			timer2 = setTimeout("step2();", sec2);
+		}
+	}
+	function right2(){
+		if(margin2 == max2){
+			clearTimeout(timer2);
+			margin2 = 0;
+			anim2(margin2);
+			timer2 = setTimeout("step2();", sec2);
+		}
+		else {
+			clearTimeout(timer2);
+			margin2 = margin2-width2;
+			anim2(margin2);
+			timer2 = setTimeout("step2();", sec2);
+		}
+	}
+	function anim2(e){
+		var s2 = $("#slider2-box");
+		s2.animate({marginLeft: e},400);
+	}
+	function offsetPosition(e) {
+		var offsetTop = -16;
+		do {offsetTop  += e.offsetTop;} while (e = e.offsetParent);
+		return offsetTop;
+	}
+	var aside = document.querySelector('#listnav'),
+	OP = offsetPosition(aside);
+	window.onscroll = function() { 
+		// window.pageYOffset - прокрутка;
+		// document.documentElement.scrollHeight - высота всего документа;
+		// aside.offsetHeight - высота элемента
+		if (window.pageYOffset > document.documentElement.scrollHeight - 16 - aside.offsetHeight) {
+			aside.className = 'stop';
+			aside.style.top = (document.documentElement.scrollHeight - 16 - aside.offsetHeight - OP) + 'px';
+		} else {
+			//aside.style.top = '136px';
+			aside.className = (OP < window.pageYOffset ? 'prilip' : '');
+		}
+	}
+</script>
+
+</body></html>

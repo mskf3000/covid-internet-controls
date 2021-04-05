@@ -1,0 +1,1180 @@
+<html lang="ru-KZ"><head>
+    <meta charset="utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/06a84ed778?a=142917363&amp;v=1208.49599aa&amp;to=ZQdaMBRYX0FTWxJYDVxNeQcSUF5cHVEIVQdK&amp;rst=3305&amp;ck=1&amp;ref=https://365info.kz/&amp;ap=56&amp;be=614&amp;fe=3240&amp;dc=948&amp;perf=%7B%22timing%22:%7B%22of%22:1617538653451,%22n%22:0,%22f%22:204,%22dn%22:210,%22dne%22:212,%22c%22:212,%22s%22:225,%22ce%22:333,%22rq%22:333,%22rp%22:589,%22rpe%22:589,%22dl%22:603,%22di%22:943,%22ds%22:947,%22de%22:988,%22dc%22:3239,%22l%22:3239,%22le%22:3248%7D,%22navigation%22:%7B%7D%7D&amp;fcp=765&amp;at=SUBZRlxCTE8%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1208.min.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script type="text/javascript" async="" id="topmailru-code" src="https://top-fwz1.mail.ru/js/code.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KWHLLS"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"06a84ed778",applicationID:"142917363"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="google-site-verification" content="D7OtYzCjhOBZiGEbhQYRdgAsFv9bwAvnCwiMEJn8pto">
+    <meta name="yandex-verification" content="7bf558c95ed30ee1">
+    <script>
+        window.config = {
+            imgDir: 'https://365info.kz/build/img/',
+            pathSymbolSvg: 'https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181',
+            getSVGString(name) {
+                return '<svg class="icon icon-' + name + '"><use xlink:href="' + this.pathSymbolSvg + '#icon-' + name + '"></use></svg>'
+            },
+            ajax: 'https://365info.kz/wp-admin/admin-ajax.php',
+            nonce: 'e96fd0c822',
+            post: {
+				            },
+            googleCSE: '006469268318888433850:2uuvdl5ce7w'
+        }
+    </script>
+
+    <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  const dfp = {target: {}};
+  dfp.target.websites = ['365info.kz'];
+  dfp.target.page= ['default'];
+</script>
+<script type="text/javascript" src="https://365info.kz/build/js/admanager.js?id=5edf1ec09177fc457991"></script><!--LiveInternet counter--><script type="text/javascript">
+    new Image().src = "//counter.yadro.ru/hit?r"+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+        ";h"+escape(document.title.substring(0,150))+
+        ";"+Math.random();</script><!--/LiveInternet--><title>365info.kz - Аналитика. Расследования. Новости - 365info.kz</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://365info.kz/">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://365info.kz/#website","url":"https://365info.kz/","name":"365info.kz","description":"\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430. \u0420\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f. \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430.","potentialAction":{"@type":"SearchAction","target":"https://365info.kz/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://365info.kz/#webpage","url":"https://365info.kz/","inLanguage":"ru-RU","name":"365info.kz - \u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430. \u0420\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 - 365info.kz","isPartOf":{"@id":"https://365info.kz/#website"},"datePublished":"2017-08-17T11:42:57+00:00","dateModified":"2018-03-24T04:19:44+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="stylesheet" id="app-css" href="https://365info.kz/build/css/app.css?id=1708e9820a4bff0a8648" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://365info.kz/wp-json/">
+<link rel="shortlink" href="https://365info.kz/">
+<link rel="alternate" type="application/json+oembed" href="https://365info.kz/wp-json/oembed/1.0/embed?url=https%3A%2F%2F365info.kz%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://365info.kz/wp-json/oembed/1.0/embed?url=https%3A%2F%2F365info.kz%2F&amp;format=xml">
+<meta name="csrf-token" content="e96fd0c822">
+<meta name="ajaxurl" content="https://365info.kz/wp-admin/admin-ajax.php">
+<meta property="fb:app_id" content="189619138225322">
+<meta property="og:url" content="https://365info.kz/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="365info.kz - Аналитика. Расследования. Новости">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://static.365info.kz/uploads/2015/12/365info_facebook_600.jpg">
+<meta property="og:locale" content="ru_KZ">
+<meta property="fb:admins" content="832869710095130">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KWHLLS');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021032901.js?31060640" async=""></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=365info.kz" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=365info.kz"></script><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="prefetch" href="https://609082ec27b27faf3b2920264a92a5ee.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html"><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html"></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWHLLS"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="wrap">
+<div class="layout-header">
+    <div class="row no-gutters">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+            <div class="row no-gutters d-none d-sm-block">
+                <div class="col-12 mb-2">
+                    <div class="project-links">
+    <a class="project-links__link" href="https://kaz.365info.kz/" target="_blank">Қазақ редакциясы</a>
+    <svg class="project-links__link-icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-open_in_new"></use></svg>
+</div>                </div>
+            </div>
+            <div class="row no-gutters">
+                <div class="col-3 col-sm-2 col-md-2 col-lg-3 col-xl-3">
+                    <style>
+    @media (max-width: 575.98px) {
+        .brand-logo__img {
+            display: block;
+            background: url("/build/img/365info.kz_logo_short.png?2") no-repeat;
+            background-size: contain;
+            width: 70px;
+            height: 24px;
+        }
+    }
+
+    @media (min-width: 575.98px) {
+        .brand-logo__img {
+            display: block;
+            background: url("/build/img/365info.kz_logo.png?2") no-repeat;
+            background-size: contain;
+            width: 64px;
+            height: 76px;
+        }
+    }
+</style>
+<div class="brand-logo d-none d-sm-block">
+    <a href="https://365info.kz" class="brand-logo__link" title="365info.kz">
+        <span class="brand-logo__img"></span>
+    </a>
+</div>                </div>
+                <div class="d-none d-sm-block col-sm-1 col-md-1 d-lg-none d-xl-block col-xl-1">
+                    <div class="age-rating">
+    <span class="age-rating__img" title="Запрещено для детей"></span>
+</div>                </div>
+                <div class="d-none d-sm-block col-sm-3 col-md-2 col-lg-4 col-xl-3 mx-sm-3 mx-md-2 mx-xl-3">
+                    
+	    <div class="weather">	                 
+            <div class="weather__location">
+                <div class="weather__city">Нур-Султан</div>
+            </div>	            
+            <div class="weather__item">
+                <div class="weather__day">Сейчас</div>
+                <div class="weather__icon"><img src="/build/img/skc_d.svg" alt=""></div>
+                <div class="weather__gradus">4</div>
+            </div>  
+            <div class="weather__item">
+                <div class="weather__day">Завтра</div>
+                <div class="weather__icon"><img src="/build/img/ovc.svg" alt=""></div>
+                <div class="weather__gradus">0</div>
+            </div>  
+	    </div>	
+		                </div>
+                <div class="d-none d-sm-block col-sm-3 col-md-2 col-lg-4 col-xl-3">
+                    <div class="exchange" title="Национальный банк Казахстана">
+            <div class="exchange__item">
+                <div class="exchange__currency">USD</div>
+                <div class="exchange__cost">427</div>
+                <div class="exchange__variation">
+                    <span class="exchange__count exchange__count_">0.00</span>
+                </div>
+            </div>                               
+        
+            <div class="exchange__item">
+                <div class="exchange__currency">EUR</div>
+                <div class="exchange__cost">503</div>
+                <div class="exchange__variation">
+                    <span class="exchange__count exchange__count_">0.00</span>
+                </div>
+            </div>                               
+        
+            <div class="exchange__item">
+                <div class="exchange__currency">RUB</div>
+                <div class="exchange__cost">5.6</div>
+                <div class="exchange__variation">
+                    <span class="exchange__count exchange__count_">0.00</span>
+                </div>
+            </div>                               
+        </div>                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 mt-md-3">
+            
+        <div class="banner banner_APOSITION d-flex justify-content-center">
+            <div id="APOSITION" data-google-query-id="CPah8I7J5O8CFZDBswodm7ALqw">
+                
+            <div id="google_ads_iframe_/35375867/APOSITION_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/35375867/APOSITION_0" title="3rd party ad content" name="google_ads_iframe_/35375867/APOSITION_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="1" data-load-complete="true" width="728" height="90" frameborder="0"></iframe></div></div>
+        </div>        
+                </div>
+    </div>
+    <div class="row mt-md-2">
+        <div class="col-3 col-sm-10">
+    <nav class="js-navbar navbar navbar-expand-lg navbar-light">
+        <button class="navbar-toggler" type="button">
+            <svg class="navbar-toggler__icon">
+                <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-reorder"></use>
+            </svg> Рубрики
+        </button>
+
+        <div class="navbar-collapse d-none">
+            <a class="navbar-brand" href="https://365info.kz">Главная</a>
+            <div class="navbar-nav mr-auto"><div class="nav-item "><a class="nav-link " href="https://365info.kz/tag/volontery">Герои наших дней</a></div>
+<div class="nav-item "><a class="nav-link " href="https://365info.kz/tag/lechenie-covid-19-doma">Лечение COVID-19 дома</a></div>
+<div class="nav-item "><a class="nav-link " href="https://365info.kz/tag/karantin">Карантин в мире</a></div>
+<div class="nav-item "><a class="nav-link " href="https://365info.kz/tag/kurs-tenge">Курс тенге</a></div>
+<div class="nav-item "><a class="nav-link " href="https://365info.kz/tag/obzor-kazaxskoj-pressy/">Обзор казахской прессы</a></div>
+<div class="nav-item dropdown"><a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">Еще</a>
+<div class="dropdown-menu">
+<a class="dropdown-item " href="https://365info.kz/category/poslednie-novosti">Новости</a><a class="dropdown-item " href="https://365info.kz/category/analytics">Аналитика</a><a class="dropdown-item " href="https://365info.kz/category/politics">Политика</a><a class="dropdown-item " href="https://365info.kz/category/economics">Экономика</a><a class="dropdown-item " href="https://365info.kz/category/life">Общество</a><a class="dropdown-item " href="https://365info.kz/category/video">Видео</a><a class="dropdown-item " href="https://365info.kz/category/galleries">Галерея</a><a class="dropdown-item " href="https://365info.kz/category/tv">TV</a><a class="dropdown-item " href="https://365info.kz/category/snoby">Обыватели и снобы</a><a class="dropdown-item " href="/category/health-club/">Клуб Здоровья</a></div>
+</div>
+</div>        </div>
+    </nav>
+</div>
+<div class="col-6 d-block d-sm-none d-flex align-items-center justify-content-center">
+    <div class="brand-logo">
+        <a href="https://365info.kz" class="brand-logo__link" title="365info.kz">
+            <span class="brand-logo__img"></span>
+        </a>
+    </div>
+</div>
+<div class="col-3  col-sm-2 d-flex align-items-center justify-content-end">
+    <div class="navbar-search justify-content-end">
+        <div class="navbar-search__item">
+            <a class="navbar-search__link js-navbar-search" href="#">
+                <svg class="navbar-search__icon">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-search"></use>
+                </svg>
+                Поиск
+            </a>
+        </div>
+    </div>
+</div>    </div>
+</div><div class="layout-body">
+    <div class="layout-dashboard">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 layout-dashboard-main">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 layout-dashboard-main-left">
+                        
+        <div class="slider">    
+            <div class="slider__widget-title col-12 d-md-none d-lg-none d-xl-none">Главные события</div>    
+            <div class="slider__slide carousel slide">
+                <div class="slide__items carousel-inner">
+                
+        <div class="slide__item carousel-item active" data-slide-number="0">
+            <a href="https://365info.kz/2021/04/mogut-li-vaktsinirovannye-rasprostranyat-virus-uchenye-molchat-obzor-inosmi" class="slide__link slide__link_wrap"></a>
+            <div class="slide__wrap">
+                <div class="slide__title">Могут ли вакцинированные распространять вирус? Ученые молчат – обзор иноСМИ</div>
+            </div>
+            <div class="slide__thumbnail_lg"><img loading="lazy" class="slide__img_lg d-block w-100" src="https://static.365info.kz/uploads/2021/02/9b14f76abb2b212c539e071897ad3132-600x400.jpg" alt=""></div>
+        </div>	        	
+		
+        <div class="slide__item carousel-item" data-slide-number="1">
+            <a href="https://365info.kz/2021/04/nalichnyh-deneg-ne-hvataet-pochemu-molchit-natsbank" class="slide__link slide__link_wrap"></a>
+            <div class="slide__wrap">
+                <div class="slide__title">Наличных денег не хватает - почему молчит Нацбанк?</div>
+            </div>
+            <div class="slide__thumbnail_lg"><img loading="lazy" class="slide__img_lg d-block w-100" src="https://static.365info.kz/uploads/2018/10/3a66fd2e44848ba102bbb6f0b768cfde-600x400.jpg" alt=""></div>
+        </div>	        	
+		
+        <div class="slide__item carousel-item" data-slide-number="2">
+            <a href="https://365info.kz/2021/04/kak-kazahi-na-svidaniya-hodili-vsya-pravda-o-natsionalnyh-traditsiyah" class="slide__link slide__link_wrap"></a>
+            <div class="slide__wrap">
+                <div class="slide__title">Как казахи на свидания ходили - вся правда о национальных традициях</div>
+            </div>
+            <div class="slide__thumbnail_lg"><img loading="lazy" class="slide__img_lg d-block w-100" src="https://static.365info.kz/uploads/2021/03/6e9e8b319ec276ee10a2c023e1fb6efb-600x400.jpg" alt=""></div>
+        </div>	        	
+		
+        <div class="slide__item carousel-item" data-slide-number="3">
+            <a href="https://365info.kz/2021/04/globalnaya-inflyatsiya-nastupaet-natsbanku-ne-izbezhat-peremen-eksperty" class="slide__link slide__link_wrap"></a>
+            <div class="slide__wrap">
+                <div class="slide__title">Глобальная инфляция наступает: Нацбанку не избежать перемен - эксперты</div>
+            </div>
+            <div class="slide__thumbnail_lg"><img loading="lazy" class="slide__img_lg d-block w-100" src="https://static.365info.kz/uploads/2021/04/bec6cf3c3b9763a97df5c8ffb8b31acc-600x400.jpg" alt=""></div>
+        </div>	        	
+		  
+                </div>
+                <a class="slider__control_left carousel-control carousel-control-prev ga-carousel-angle" href="#" role="button" data-slide="prev">
+                    <i class="fa fa-angle-left fa-3x ga-carousel-angle" aria-hidden="true"></i>
+                    <svg class="icon-keyboard_arrow_slider_left icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>                
+                </a>
+                <a class="slider__control_right carousel-control carousel-control-next ga-carousel-angle" href="#" role="button" data-slide="next">
+                    <svg class="icon-keyboard_arrow_slider_right icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>  
+                </a> 	            
+            </div>
+            <div class="slider__thumbnails d-none d-md-block" id="slider-thumbs">
+            
+			<div class="slide__thumbnail_sm" data-carousel-selector="0"><img loading="lazy" class="slide__img_sm" src="https://static.365info.kz/uploads/2021/02/9b14f76abb2b212c539e071897ad3132-100x100.jpg" alt=""></div>		
+		
+			<div class="slide__thumbnail_sm" data-carousel-selector="1"><img loading="lazy" class="slide__img_sm" src="https://static.365info.kz/uploads/2018/10/3a66fd2e44848ba102bbb6f0b768cfde-100x100.jpg" alt=""></div>		
+		
+			<div class="slide__thumbnail_sm" data-carousel-selector="2"><img loading="lazy" class="slide__img_sm" src="https://static.365info.kz/uploads/2021/03/6e9e8b319ec276ee10a2c023e1fb6efb-100x100.jpg" alt=""></div>		
+		
+			<div class="slide__thumbnail_sm" data-carousel-selector="3"><img loading="lazy" class="slide__img_sm" src="https://static.365info.kz/uploads/2021/04/bec6cf3c3b9763a97df5c8ffb8b31acc-100x100.jpg" alt=""></div>		
+		    
+            </div>     
+        </div>             	   	
+		                </div>
+                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 layout-dashboard-main-right">
+                    		
+            <div class="editor-choose">		
+                
+			<div class="editor-choose__item col-12 col-sm-12">
+				<a href="https://365info.kz/2021/04/skolko-budet-stoit-ai-92-zavtra-obzor-kazsmi" class="editor-choose__item-link">
+				<div class="editor-choose__item-body row">
+                    <div class="editor-choose__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="editor-choose__item-img">                    
+                            <img loading="lazy" src="https://static.365info.kz/uploads/2019/01/0eb46c59359227c90c5ba6158c3f7fdf-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="editor-choose__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="editor-choose__widget-title">Выбор редакции</div> 
+                        <div class="editor-choose__item-title">Сколько будет стоить Аи-92 завтра? – обзор казСМИ</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="editor-choose__item-line"></div>                
+			</div>                                       						
+		                
+            </div>		
+		                    <div class="w-100"></div>
+                    	
+            <div class="video-day">		
+                
+			<div class="video-day__item col-12 col-sm-12">
+				<a href="https://365info.kz/2021/04/neveroyatnye-pejzazhi-urochishha-bozzhyra-snyali-s-drona" class="video-day__item-link">
+				<div class="video-day__item-body row">
+                    <div class="video-day__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="video-day__item-img">                    
+                            <img loading="lazy" src="https://static.365info.kz/uploads/2021/04/0f849bf20b11c4ad2e70b5f4d21a6566-600x400.jpg" alt="">
+                            <div class="video-day__item-icon-wrap">
+                                <svg class="video-day__item-icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>                           
+                        </div>
+                    </div>
+                    <div class="video-day__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="video-day__widget-title">Видео дня</div> 
+                        <div class="video-day__item-title">Невероятные пейзажи урочища Бозжыра сняли с дрона</div>
+                    </div>				
+                </div>
+                </a>               
+			</div>  			                        						
+		                
+            </div>	            	
+		                </div>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 d-md-none d-lg-block col-lg-4 col-xl-4 layout-dashboard-side">
+            
+        <div class="banner banner_BPOSITION d-flex justify-content-center">
+            <div id="BPOSITION" data-google-query-id="CKm88I7J5O8CFZTqswodfUELAQ" style="display: none;">
+                <script>
+                    googletag.cmd.push(function() { googletag.display("BPOSITION"); });
+                </script>
+            <div id="google_ads_iframe_/35375867/BPOSITION_0__container__" style="border: 0pt none; width: 320px; height: 100px;"></div></div>
+        </div>        
+                    <div class="w-100"></div>
+                    </div>
+    </div>
+
+    <div class="layout-home">
+        <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 layout-home-side">
+            
+		    <div class="lastnews">
+                <div class="lastnews__items lastnews-js">
+                    <div class="lastnews__widget-title">
+                        <a class="lastnews__widget-title-link" href="https://365info.kz/category/poslednie-novosti/">
+                            Последние новости
+                            <svg class="lastnews__widget-title-icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>                        
+                        </a>                                               
+                    </div>
+                    	
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/kazahstan-i-turtsiya-snimut-istoricheskij-serial" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Казахстан и Турция снимут исторический сериал</div>
+                <div class="lastnews__item-datetime">Сегодня, 18:05</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/neveroyatnye-pejzazhi-urochishha-bozzhyra-snyali-s-drona" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Невероятные пейзажи урочища Бозжыра сняли с дрона</div>
+                <div class="lastnews__item-datetime">Сегодня, 17:22</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/almaty-gotov-k-massovoj-vaktsinatsii-glava-gorzdrava" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Алматы готов к массовой вакцинации - глава горздрава</div>
+                <div class="lastnews__item-datetime">Сегодня, 16:38</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/vezzhayushhie-v-kazahstan-budut-zapolnyat-onlajn-anketu" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Въезжающие в Казахстан будут заполнять онлайн-анкету</div>
+                <div class="lastnews__item-datetime">Сегодня, 16:13</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/v-almaty-sgorel-dvuhetazhnyj-dom" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">В Алматы сгорел двухэтажный дом</div>
+                <div class="lastnews__item-datetime">Сегодня, 15:53</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/v-kostanaiskoy-oblasti-rezko-vyroslo-kolichestvo-kiber-prestuplenij" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">В Костанайской области резко выросло количество кибер-преступлений</div>
+                <div class="lastnews__item-datetime">Сегодня, 14:45</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/priletayushhih-bez-ptsr-spravok-kazahstantsev-stalo-menshe" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Прилетающих без ПЦР-справок казахстанцев стало меньше</div>
+                <div class="lastnews__item-datetime">Сегодня, 13:46</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/muzhchina-v-aktau-izbil-devushku-na-glazah-prohozhih" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Мужчина в Актау избил девушку на глазах прохожих</div>
+                <div class="lastnews__item-datetime">Сегодня, 13:23</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/pochemu-ya-privilas-rasskaz-infektsionista-modulnogo-gospitalya-v-pavlodare" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Почему я привилась? - рассказ инфекциониста модульного госпиталя в Павлодаре</div>
+                <div class="lastnews__item-datetime">Сегодня, 12:47</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/dorogu-na-bolshoe-almatinskoe-ozero-planiruyut-zakroyut-na-tri-goda" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Дорогу на Большое Алматинское озеро планируют закроют на три года</div>
+                <div class="lastnews__item-datetime">Сегодня, 12:21</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/podrostok-iz-vko-ne-mozhet-vernutsya-domoj-iz-egipta-iz-za-koronavirusa" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Подросток из ВКО не может вернуться домой из Египта из-за коронавируса</div>
+                <div class="lastnews__item-datetime">Сегодня, 11:42</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/kazahstanskaya-opernaya-pevitsa-poluchila-muzykalnuyu-premiyu-bravo" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Казахстанская оперная певица получила музыкальную премию "BraVo"</div>
+                <div class="lastnews__item-datetime">Сегодня, 11:07</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/v-egipte-proshel-parad-faraonov" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">В Египте прошел парад фараонов</div>
+                <div class="lastnews__item-datetime">Сегодня, 10:33</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/zhitelnitsa-aksu-vylovila-na-rybalke-chelovecheskuyu-chelyust" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Жительница Аксу выловила на рыбалке человеческую челюсть</div>
+                <div class="lastnews__item-datetime">Сегодня, 10:24</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/10-tysyach-chelovek-provaktsinirovali-za-den-v-almaty" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">10 тысяч человек провакцинировали за день в Алматы</div>
+                <div class="lastnews__item-datetime">Сегодня, 10:01</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/dannye-553-mln-polzovatelej-facebook-popali-v-otkrytyj-dostup" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Данные 553 млн пользователей Facebook попали в открытый доступ</div>
+                <div class="lastnews__item-datetime">Сегодня, 9:39</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/za-sutki-v-kazahstane-2054-cheloveka-zaboleli-kvi" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">За сутки в Казахстане 2054 человека заболели КВИ</div>
+                <div class="lastnews__item-datetime">Сегодня, 9:00</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/shtormovoe-preduprezhdenie-obyavleno-v-devyati-regionah-kazahstana" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Штормовое предупреждение объявлено в девяти регионах Казахстана</div>
+                <div class="lastnews__item-datetime">3 апреля, 20:57</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/v-kazahstane-eshhe-mnogo-nefti-zolota-i-gaza-mirzagaliev" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">В Казахстане еще много нефти, золота и газа - Мирзагалиев</div>
+                <div class="lastnews__item-datetime">3 апреля, 20:09</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/vzryv-mnogoetazhki-v-lione-snyali-na-video" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Взрыв многоэтажки в Лионе сняли на видео</div>
+                <div class="lastnews__item-datetime">3 апреля, 19:13</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/v-zhambylskoj-oblasti-podrostok-pogib-ot-udara-tokom" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">В Жамбылской области подросток погиб от удара током</div>
+                <div class="lastnews__item-datetime">3 апреля, 18:21</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/tugzhanov-provel-vtoroe-zasedanie-komissii-po-zemelnoj-reforme" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Тугжанов провел второе заседание Комиссии по земельной реформе</div>
+                <div class="lastnews__item-datetime">3 апреля, 17:37</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+			
+            <div class="lastnews__item d-block">
+                <a href="https://365info.kz/2021/04/zhitelnitsa-aktau-zavela-v-kvartire-indeek-i-vozmutila-sosedej" class="lastnews__item-link"></a>
+                <div class="lastnews__item-title">Жительница Актау завела в квартире индеек и возмутила соседей</div>
+                <div class="lastnews__item-datetime">3 апреля, 16:51</div>
+                <div class="lastnews__item-line-bottom"></div>
+            </div>							
+		
+                    <div class="lastnews__item-more d-md-none d-lg-none d-xl-none">
+                        <a href="#" class="lastnews__item-link show-more"></a>
+                        <div class="lastnews__more-title">Показать еще</div>
+                        <svg class="lastnews__more-icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>
+                     </div>                     
+                </div>	
+		    </div>	
+		        </div>
+        <div class="col-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 layout-home-main">
+            <div class="row">
+                <div class="col-12 widget-row">
+                    		
+        <div class="mainnews row">
+            <div class="col-12"> 
+                <div class="row">
+                    <div class="col-12 d-md-none d-lg-none d-xl-none"><div class="mainnews__widget-title">Подробно</div></div>
+                    	
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/kazahstantsam-nuzhny-horoshie-zarplaty-i-razvitaya-sotsialnaya-infrastruktura-eksperty" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2016/05/Zarplata-e1464085339368-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Иммунитет от потрясений: хорошие зарплаты и социальная инфраструктура для всех</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/tyurkskij-mir-na-poroge-eshhe-bolee-glubokoj-integratsii-politolog" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2017/11/Ajdos-Sarym-1-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Тюркский мир на пороге еще более глубокой интеграции - политолог</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/initsiativy-kazahstana-edinyj-golos-tyurkskogo-mira" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2021/03/ef66dfd745baa80315fa23b5c29940bc-e1617098494409-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Инициативы Казахстана: единый голос тюркского мира</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/suetskij-kanal-uroki-ekonomiki-i-logistiki" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2021/03/b748901058676c4dd7ad757308886b6e-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Суэцкий канал: уроки экономики и логистики</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/naskolko-ustojchiv-qazvac-k-novym-shtammam-koronavirusa-obzor-kazsmi" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2021/04/832968c5aa05b1efd88aa4222203a5c6-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Насколько устойчив QazVac к новым штаммам коронавируса? - обзор казСМИ</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/chastnaya-sudebnaya-ekspertiza-blago-ili-zlo" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2021/03/5ed3c7e97239db89c0c899b449813a01-e1617189599124-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Частная судебная экспертиза: благо или зло?</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/na-banki-i-finansovuyu-stabilnost-bolshe-rasschityvat-nelzya-eksperty" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2021/03/436c61e633793b7541d87a6e8a493dfc-600x400.png" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">На банки и финансовую стабильность больше рассчитывать нельзя - эксперты</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 ">
+				<a href="https://365info.kz/2021/04/poruchenie-prezidenta-ne-vypolnyaetsya-pozitivnyj-opyt-ne-tirazhiruetsya-obzor-kazsmi" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2021/03/dcb8783afdb8673ad79054e8a68e71f9-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Поручение президента не выполняется, позитивный опыт не тиражируется – обзор казСМИ</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+			
+			<div class="mainnews__item col-12 col-sm-12 col-md-6 col-lg-4 d-md-none d-lg-block">
+				<a href="https://365info.kz/2021/03/nuzhna-li-kazahstanu-aes-eksperty" class="mainnews__item-link">
+				<div class="mainnews__item-body row">
+                    <div class="mainnews__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="mainnews__item-placeholder">
+                            <img loading="lazy" class="mainnews__item-img" src="https://static.365info.kz/uploads/2019/11/a6da36f1f41fde4310a36c295294bbda-600x400.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mainnews__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="mainnews__item-title">Нужна ли Казахстану АЭС? - эксперты</div>
+                    </div>				
+                </div>
+                </a>
+                <div class="mainnews__item-line"></div>                
+			</div>				
+		                  
+                </div>           
+            </div> 
+        </div>		
+		                </div>
+                <div class="col-12 widget-row">
+                    		
+        <div class="newsplot row">
+            <div class="col-12">
+                <div class="row newsplot__widget-title">
+                    <div class="col-12">                    
+                        <a class="newsplot__widget-title-link" href="https://365info.kz/tag/karantin-v-almaty-i-nur-sultane">Карантин в Алматы и Нур-Султане
+                        <svg class="newsplot__widget-title-icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>                        
+                        </a>   
+                    </div>          
+                </div>
+    
+                <div class="row newsplot__items">
+                    <div class="col-12">
+                        <div class="row">        
+                            <div class="newsplot__col col-lg-8 order-last order-lg-first">                
+                                	
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2021/03/koronavirus-obosnovalsya-v-megapolisah"><div class="newsplot__item-title">Коронавирус обосновался в мегаполисах</div></a>
+            </div>				
+			
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2021/01/koronavirus-nastupaet-v-nur-sultane-rezko-uhudshilas-situatsiya"><div class="newsplot__item-title">Коронавирус наступает: В Нур-Султане резко ухудшилась ситуация</div></a>
+            </div>				
+			
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2020/12/dazhe-v-karantin-biznes-mozhet-rabotat-sovety-bekshinu-ot-biznesmenov"><div class="newsplot__item-title">Даже в карантин бизнес может работать — советы Бекшину от бизнесменов</div></a>
+            </div>				
+			
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2020/11/v-seti-obsuzhdayut-banket-kotoryj-proshel-s-razresheniya-bekshina"><div class="newsplot__item-title">В Сети обсуждают банкет, который "прошел с разрешения Бекшина"</div></a>
+            </div>				
+		 
+                            </div>
+                            <div class="newsplot__col col-lg-4 order-first order-lg-last">
+                                <a href="https://365info.kz/tag/karantin-v-almaty-i-nur-sultane"><img loading="lazy" src="https://static.365info.kz/uploads/2020/04/0864609be9beda56fda206a3bebef499-600x400.jpg" alt=""></a>
+                            </div>                        
+                        </div>    
+                    </div>
+                </div>  
+            </div>         
+        </div>		
+		                </div>
+                <div class="col-12 widget-row">
+                    
+        <div class="banner banner_APOSITION d-flex justify-content-center">
+            <div id="APOSITION">
+                <script>
+                    googletag.cmd.push(function() { googletag.display("APOSITION"); });
+                </script>
+            </div>
+        </div>        
+                        </div>
+                <div class="col-12 widget-row">
+                    		
+        <div class="newsplot row">
+            <div class="col-12">
+                <div class="row newsplot__widget-title">
+                    <div class="col-12">                    
+                        <a class="newsplot__widget-title-link" href="https://365info.kz/tag/nichego-sereznogo">Ничего серьезного
+                        <svg class="newsplot__widget-title-icon"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>                        
+                        </a>   
+                    </div>          
+                </div>
+    
+                <div class="row newsplot__items">
+                    <div class="col-12">
+                        <div class="row">        
+                            <div class="newsplot__col col-lg-8 order-last order-lg-first">                
+                                	
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2021/04/dimash-kudajbergen-predstavil-novyj-singl"><div class="newsplot__item-title">Димаш Кудайберген представил новый сингл</div></a>
+            </div>				
+			
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2021/04/erke-esmahan-i-ee-vozlyublennyj-planiruyut-kupit-dom-v-turtsii"><div class="newsplot__item-title">Ерке Есмахан и ее возлюбленный планируют купить дом в Турции</div></a>
+            </div>				
+			
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2021/04/pohudevshij-imanbek-pohvastalsya-dorogim-rolls-royce"><div class="newsplot__item-title">Похудевший Иманбек похвастался дорогим Rolls-Royce</div></a>
+            </div>				
+			
+			<div class="newsplot__item">
+			    <a class="newsplot__item-link" href="https://365info.kz/2021/04/madina-sadvakasova-v-otchayanii-lyudi-menya-ne-uznayut"><div class="newsplot__item-title">Мадина Садвакасова в отчаянии: "Люди меня не узнают"</div></a>
+            </div>				
+		 
+                            </div>
+                            <div class="newsplot__col col-lg-4 order-first order-lg-last">
+                                <a href="https://365info.kz/tag/nichego-sereznogo"><img loading="lazy" src="https://static.365info.kz/uploads/2021/03/66a252eeb646b640c52a8bdd6e02ee9c-600x400.jpg" alt=""></a>
+                            </div>                        
+                        </div>    
+                    </div>
+                </div>  
+            </div>         
+        </div>		
+		                </div>
+                <div class="col-12 widget-row">
+                    
+			<div class="galleryplot row no-gutters">			
+                <div class="col-12 col-md-12 col-lg-12 col-xl-6">
+                    <div class="galleryplot__main">
+                        	            
+            <div class="galleryplot__item">
+				<a href="https://365info.kz/2021/03/samye-neveroyatnye-stantsii-metro" class="galleryplot__item-link">
+				<div class="galleryplot__item-body row">
+                    <div class="galleryplot__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="galleryplot__item-placeholder">
+                            <img loading="lazy" class="galleryplot__item-img" src="https://static.365info.kz/uploads/2021/03/2f20a1107a51e028cebdda99d73d4455-600x400.png" alt="">                        
+                        </div>
+                    </div>
+                    <div class="galleryplot__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="galleryplot__item-title">Самые невероятные станции метро</div>
+                    </div>				
+                </div>
+                </a> 
+                <div class="galleryplot__item-line"></div>         
+            </div>           							
+		
+                    </div>                    
+                </div>
+                <div class="col-12 col-md-12 col-lg-12 col-xl-6">
+                   <div class="row no-gutters">	
+                        <div class="col-12 col-md-6 galleryplot__slave">	            
+            <div class="galleryplot__item">
+				<a href="https://365info.kz/2021/03/shutki-pro-samuyu-doroguyu-probku-v-suetskom-kanale" class="galleryplot__item-link">
+				<div class="galleryplot__item-body row">
+                    <div class="galleryplot__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="galleryplot__item-placeholder">
+                            <img loading="lazy" class="galleryplot__item-img" src="https://static.365info.kz/uploads/2021/03/02d7366ea40130f91e78c41b3ecba6ac-600x400.png" alt="">                        
+                        </div>
+                    </div>
+                    <div class="galleryplot__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="galleryplot__item-title">Шутки про "самую дорогую пробку" в Суэцком канале</div>
+                    </div>				
+                </div>
+                </a> 
+                <div class="galleryplot__item-line"></div>         
+            </div>           							
+			            
+            <div class="galleryplot__item">
+				<a href="https://365info.kz/2021/03/est-ili-lyubovatsya-neveroyatnye-torty-skulptury" class="galleryplot__item-link">
+				<div class="galleryplot__item-body row">
+                    <div class="galleryplot__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="galleryplot__item-placeholder">
+                            <img loading="lazy" class="galleryplot__item-img" src="https://static.365info.kz/uploads/2021/03/193b7eb2dca6460d2939bbfa76841dd2-500x400.jpg" alt="">                        
+                        </div>
+                    </div>
+                    <div class="galleryplot__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="galleryplot__item-title">Есть или любоваться? Невероятные торты-скульптуры</div>
+                    </div>				
+                </div>
+                </a> 
+                <div class="galleryplot__item-line"></div>         
+            </div>           							
+		</div><div class="col-12 col-md-6 galleryplot__slave">	            
+            <div class="galleryplot__item">
+				<a href="https://365info.kz/2021/03/kak-izmeryayut-sugroby-na-severe-kazahstana" class="galleryplot__item-link">
+				<div class="galleryplot__item-body row">
+                    <div class="galleryplot__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="galleryplot__item-placeholder">
+                            <img loading="lazy" class="galleryplot__item-img" src="https://static.365info.kz/uploads/2021/03/9d9795aea866c1349066bf4466051e6e-e1615784802234-600x400.jpg" alt="">                        
+                        </div>
+                    </div>
+                    <div class="galleryplot__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="galleryplot__item-title">Как измеряют сугробы на севере Казахстана</div>
+                    </div>				
+                </div>
+                </a> 
+                <div class="galleryplot__item-line"></div>         
+            </div>           							
+			            
+            <div class="galleryplot__item">
+				<a href="https://365info.kz/2021/03/prekrasnye-sportsmenki-v-nizhnem-bele" class="galleryplot__item-link">
+				<div class="galleryplot__item-body row">
+                    <div class="galleryplot__item-thumb col-5 col-sm-5 col-md-12">
+                        <div class="galleryplot__item-placeholder">
+                            <img loading="lazy" class="galleryplot__item-img" src="https://static.365info.kz/uploads/2021/03/d430621973ccbc31c98db789a9913618-600x400.png" alt="">                        
+                        </div>
+                    </div>
+                    <div class="galleryplot__item-wrap col-7 col-sm-7 col-md-12">
+                        <div class="galleryplot__item-title">Прекрасные спортсменки в нижнем белье</div>
+                    </div>				
+                </div>
+                </a> 
+                <div class="galleryplot__item-line"></div>         
+            </div>           							
+		</div> 
+                   </div>
+                </div>
+			</div>		    	
+		                </div>
+                <div class="col-12 widget-row">
+                            <div class="production-playlist row">
+            <div class="col-12">
+                <div class="row pp__widget-title">
+                    <div class="col-12">
+                        <a class="pp__widget-title-link" href="/category/tv">365info.tv
+                            <svg class="pp__widget-title-icon"><use xlink:href="/build/img/symbol-defs.svg#icon-keyboard_arrow_down"></use></svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="row" id="pp__plot">
+                    <div class="col-12">
+                        <div class="pp__list"><div class="pp__item pp__item-active" data-priority="0" data-id="4Qi37aZWDr4"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="4Qi37aZWDr4"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/fe6f6e18f0aa30d31e61457457a1f349-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">Как складывается жизнь телеведущего Алексея Шахматова после эмиграции?</div>
+                        </div>
+                    </div></div><div class="pp__item" data-priority="1" data-id="a7D0WNkOyiE"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="a7D0WNkOyiE"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/c9c4fc171c2014f21a0067cbd8bac321-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">"Как выглядеть на миллион!" - стилист Евгения Тян</div>
+                        </div>
+                    </div></div><div class="pp__item" data-priority="2" data-id="5ctf840L7GQ"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="5ctf840L7GQ"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/61a5c5be29b00fa5266e022b91603ba6-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">Идея сохранения молодости и красоты будоражила умы людей во все времена</div>
+                        </div>
+                    </div></div><div class="pp__item" data-priority="3" data-id="JiGUvEf6SN4"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="JiGUvEf6SN4"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/ac1f22f6bdd7ebe81d2485be3110f00f-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">Фильм о подвиге Рахимжана Кошкарбаева: зачем он нужен сегодня?</div>
+                        </div>
+                    </div></div></div>
+                        <div class="pp__showroom"><div class="pp__item" data-priority="0" data-id="4Qi37aZWDr4"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="4Qi37aZWDr4"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/fe6f6e18f0aa30d31e61457457a1f349-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">Как складывается жизнь телеведущего Алексея Шахматова после эмиграции?</div>
+                        </div>
+                    </div></div></div>
+                        <div class="pp__list"><div class="pp__item" data-priority="4" data-id="GoCFZ4aJuXQ"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="GoCFZ4aJuXQ"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/ef730d4ed1104b300d4ab4daa884cd16-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">«Министерство культуры поступило со мной некультурно» — Ая Калиева</div>
+                        </div>
+                    </div></div><div class="pp__item" data-priority="5" data-id="KHdUQWEKU5s"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="KHdUQWEKU5s"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/13fee1e7d465c1a4cd0c805928acb469-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">"Я не приверженец масс-культур" - Фархат Шарипов</div>
+                        </div>
+                    </div></div><div class="pp__item" data-priority="6" data-id="f50fMGZPkM8"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="f50fMGZPkM8"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/03/36932e3c5d793ab358f5fe965579e5e6-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">Мужская красота и здоровье — советы фитнес-эксперта</div>
+                        </div>
+                    </div></div><div class="pp__item" data-priority="7" data-id="vNSSZVWA8Zo"><div class="pp__content">
+                        <a href="#" class="pp__item-link" data-pp-id="vNSSZVWA8Zo"></a>
+                        <div class="pp__item-body">
+                            <img src="https://static.365info.kz/uploads/2021/02/3332e00b4d0ab28ce4d0b57eda3b0167-700x394.jpg" class="pp__item-thumbnail">
+                            <div class="pp__item-icon">
+                                <svg class="pp__item-svg"><use xlink:href="/build/img/symbol-defs.svg#icon-live_tv"></use></svg>
+                            </div>
+                        </div>
+                        <div class="pp__item-footer">
+                            <div class="pp__item-title">"В Алматинской области уничтожают уникальные наскальные изображения" - Ольга Гумирова</div>
+                        </div>
+                    </div></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+          document.addEventListener('DOMContentLoaded', () =>
+            new YouTubePlayList({ el: '#pp__plot', data: [{"id":"4Qi37aZWDr4","title":"\u041a\u0430\u043a \u0441\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0436\u0438\u0437\u043d\u044c \u0442\u0435\u043b\u0435\u0432\u0435\u0434\u0443\u0449\u0435\u0433\u043e \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u0428\u0430\u0445\u043c\u0430\u0442\u043e\u0432\u0430 \u043f\u043e\u0441\u043b\u0435 \u044d\u043c\u0438\u0433\u0440\u0430\u0446\u0438\u0438?","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/fe6f6e18f0aa30d31e61457457a1f349-700x394.jpg","priority":"0"},{"id":"a7D0WNkOyiE","title":"\"\u041a\u0430\u043a \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u0442\u044c \u043d\u0430 \u043c\u0438\u043b\u043b\u0438\u043e\u043d!\" - \u0441\u0442\u0438\u043b\u0438\u0441\u0442 \u0415\u0432\u0433\u0435\u043d\u0438\u044f \u0422\u044f\u043d","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/c9c4fc171c2014f21a0067cbd8bac321-700x394.jpg","priority":"1"},{"id":"5ctf840L7GQ","title":"\u0418\u0434\u0435\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0441\u0442\u0438 \u0438 \u043a\u0440\u0430\u0441\u043e\u0442\u044b \u0431\u0443\u0434\u043e\u0440\u0430\u0436\u0438\u043b\u0430 \u0443\u043c\u044b \u043b\u044e\u0434\u0435\u0439 \u0432\u043e \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/61a5c5be29b00fa5266e022b91603ba6-700x394.jpg","priority":"2"},{"id":"JiGUvEf6SN4","title":"\u0424\u0438\u043b\u044c\u043c \u043e \u043f\u043e\u0434\u0432\u0438\u0433\u0435 \u0420\u0430\u0445\u0438\u043c\u0436\u0430\u043d\u0430 \u041a\u043e\u0448\u043a\u0430\u0440\u0431\u0430\u0435\u0432\u0430: \u0437\u0430\u0447\u0435\u043c \u043e\u043d \u043d\u0443\u0436\u0435\u043d \u0441\u0435\u0433\u043e\u0434\u043d\u044f?","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/ac1f22f6bdd7ebe81d2485be3110f00f-700x394.jpg","priority":"3"},{"id":"GoCFZ4aJuXQ","title":"\u00ab\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u043f\u043e\u0441\u0442\u0443\u043f\u0438\u043b\u043e \u0441\u043e \u043c\u043d\u043e\u0439 \u043d\u0435\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u00bb \u2014 \u0410\u044f \u041a\u0430\u043b\u0438\u0435\u0432\u0430","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/ef730d4ed1104b300d4ab4daa884cd16-700x394.jpg","priority":"4"},{"id":"KHdUQWEKU5s","title":"\"\u042f \u043d\u0435 \u043f\u0440\u0438\u0432\u0435\u0440\u0436\u0435\u043d\u0435\u0446 \u043c\u0430\u0441\u0441-\u043a\u0443\u043b\u044c\u0442\u0443\u0440\" - \u0424\u0430\u0440\u0445\u0430\u0442 \u0428\u0430\u0440\u0438\u043f\u043e\u0432","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/13fee1e7d465c1a4cd0c805928acb469-700x394.jpg","priority":"5"},{"id":"f50fMGZPkM8","title":"\u041c\u0443\u0436\u0441\u043a\u0430\u044f \u043a\u0440\u0430\u0441\u043e\u0442\u0430 \u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u2014 \u0441\u043e\u0432\u0435\u0442\u044b \u0444\u0438\u0442\u043d\u0435\u0441-\u044d\u043a\u0441\u043f\u0435\u0440\u0442\u0430","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/03\/36932e3c5d793ab358f5fe965579e5e6-700x394.jpg","priority":"6"},{"id":"vNSSZVWA8Zo","title":"\"\u0412 \u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u044e\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u0441\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f\" - \u041e\u043b\u044c\u0433\u0430 \u0413\u0443\u043c\u0438\u0440\u043e\u0432\u0430","thumbnail":"https:\/\/static.365info.kz\/uploads\/2021\/02\/3332e00b4d0ab28ce4d0b57eda3b0167-700x394.jpg","priority":"7"}]})
+          )
+        </script>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div><div class="layout-basement">
+        <div class="row">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+            <div class="basement__nav"><div class="nav-item _type"><a class="nav-link " title="/advertising" href="https://365info.kz/advertising">Размещение рекламы</a></div>
+<div class="nav-item _type"><a class="nav-link " title="/info" href="https://365info.kz/info">Редакция</a></div>
+<div class="nav-item "><a class="nav-link " href="/privacy">Правила использования материалов</a></div>
+</div>        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+            <div class="basement__subscribe">
+    <div class="basement__item-line"></div>
+        <div class="email-subscribe-widget">
+            <a href="#" class="subscribe__link js-email-subscribe-link" data-toggle="modal" data-target="es-email-subscribe">
+                <svg class="icon icon-mail_outline">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-mail_outline"></use>
+                </svg>                
+                <div class="subscribe__text">Подписывайтесь на email рассылку еженедельного обзора</div>
+            </a>
+        </div>
+        <script>
+          config.es = {
+            csrf: '38d05f89a3',
+            mainContentClass: 'es-email-subscribe',
+            ajax: config.ajax,
+            action: 'es-email-subscribe'
+          }
+          document.addEventListener('DOMContentLoaded', () => {
+            new EmailSubscribe()
+          })
+        </script>
+            <div class="basement__item-line"></div>
+</div>
+            <div class="w-100"></div>
+            <div class="basement__subscribe">
+            <script>
+          const notificationConfig = {
+            csrf: '4c9cd34f12',
+            ajaxUrl: '/wp-admin/admin-ajax.php',
+            action: 'firebase-notifications',
+            projectId: "info-fdeb3",
+            messagingSenderId: "124903732134",
+            publicVapidKey: "BAr4vJHJphGC2opBQnLrhbmwL70TAL0A3mtgWTS43IZIvIm4NTMwBPULTYAExjc5SOigC0lP_o-b45-ZLAVW3zI",
+            topic: "breaking-news-ru-kz"
+          }
+        </script>
+        <script type="text/javascript" src="https://www.gstatic.com/firebasejs/6.5.0/firebase-app.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/firebasejs/6.5.0/firebase-messaging.js"></script>
+        <script type="text/javascript" src="https://365info.kz/build/js/notification.js?id=216b39da5a184e951c56"></script>
+        <div class="firebase-subscribe-widget">
+            <a href="#" onclick="showNotificationModal(); return false;" class="subscribe__link js-firebase-notifications-link" data-toggle="modal">
+                <svg class="icon icon-notifications_outline">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg#icon-notifications_none"></use>
+                </svg>
+                <div class="subscribe__text">Подписывайтесь на оповещения о важных событиях</div>
+            </a>
+        </div>
+            <div class="basement__item-line"></div>
+</div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+            <div class="basement__whatsapp">
+    <a href="https://web.whatsapp.com/" class="whatsapp__link" target="_blank">
+        <svg class="icon icon-whatsapp">
+            <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-whatsapp"></use>
+        </svg>
+        <div class="whatsapp__text">WhatsApp +7 771 228 04 01</div>
+    </a>
+    <div class="basement__item-line"></div>
+</div>
+            <div class="basement__telegram">
+    <a href="https://t.me/kz365info" class="telegram__link" target="_blank">
+        <svg class="icon icon-telegram">
+            <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-telegram"></use>
+        </svg>
+        <div class="telegram__text">Канал в Telegram @kz365info</div>
+    </a>
+    <div class="basement__item-line"></div>
+</div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+            <div class="basement__social ga-social">
+    <div class="social-title">
+        Мы в соцсетях:    </div>
+    <div class="social__items">
+        <div class="social__item">
+            <a href="https://www.facebook.com/https365infokz/" target="_blank" class="ga-social-fb">
+                <svg class="icon icon-facebook">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-facebook-official"></use></svg></a></div>
+        <div class="social__item">
+            <a href="https://www.facebook.com/https365infokz/" target="_blank" class="ga-social-vk">
+                <svg class="icon icon-vk">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-vk"></use></svg></a></div>
+        <div class="social__item">
+            <a href="https://www.youtube.com/channel/UCTsZcenX0GTTbji-2hHnR0w" target="_blank" class="ga-social-yt">
+                <svg class="icon icon-youtube">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-youtube"></use></svg></a></div>
+        <div class="social__item">
+            <a href="https://www.instagram.com/365infokz/" target="_blank" class="ga-social-in">
+                <svg class="icon icon-instagram">
+                    <use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-instagram"></use></svg></a></div>
+    </div>
+    <div class="basement__item-line"></div>
+</div>
+            <div class="w-100"></div>
+            <div class="basement__app-links ga-app-links">
+    <div class="app-links-title">
+        Мобильные приложения:    </div>
+    <div class="app-links__items">
+        <div class="app-links__item">
+            <a href="http://bit.ly/2ZZ9dwH" target="_blank" class="ga-app-links-android">
+                <svg class="icon icon-android"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-android"></use></svg>
+            </a>
+        </div>
+        <div class="app-links__item">
+            <a href="https://apple.co/2GZeZpC" target="_blank" class="ga-app-links-apple">
+                <svg class="icon icon-apple"><use xlink:href="https://365info.kz/build/img/symbol-defs.svg?id=dd98171f62bdc7c3d181#icon-apple"></use></svg>
+            </a>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+            <div class="basement__copy-right">
+    © «365 Info», 2014–2021    info@365info.kz, +7 (727) 350-61-36 <br>
+050013, Республика Казахстан г. Алматы, мкр. Керемет, дом 7, корпус 39, оф.
+472    <div class="basement__item-line"></div>
+</div>        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3"></div>
+        <div class="d-none d-lg-block col-lg-3 col-xl-3">
+                    <div class="basement__spell">
+            Заметили ошибку в тексте? Выделите ее и нажмите Ctrl+Enter            <div class="basement__item-line"></div>
+        </div>
+        <script>
+          document.addEventListener('DOMContentLoaded', () =>
+            new SpellCheck({
+              csrfToken: 'f7914814a6',
+              postID: config.post.id || 0
+            })
+          )
+        </script>
+                </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+            <!--LiveInternet logo--><a href="https://www.liveinternet.ru/stat/365info.kz/" target="_blank"><img src="//counter.yadro.ru/logo?14.1" title="LiveInternet: количество просмотров за 24 часа, посетителей за 24 часа и за сегодня." alt="" width="88" height="31" border="0"></a><!--/LiveInternet-->
+
+        </div>
+    </div>
+</div></div><!-- end wrap -->
+
+
+        <div class="banner banner_HBRANDING d-flex justify-content-center">
+            <div id="HBRANDING" data-google-query-id="COnE8I7J5O8CFdj8swodR0wOaw" style="display: none;">
+                <script>
+                    googletag.cmd.push(function() { googletag.display("HBRANDING"); });
+                </script>
+            <div id="google_ads_iframe_/35375867/HBRANDING_0__container__" style="border: 0pt none; width: 1px; height: 1px;"></div></div>
+        </div>        
+        
+        <div class="banner banner_GPOSITION d-flex justify-content-center">
+            <div id="GPOSITION" data-google-query-id="CMDB8I7J5O8CFU_SswodnwACBA">
+                
+            <div id="google_ads_iframe_/35375867/GPOSITION_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/35375867/GPOSITION_0" title="3rd party ad content" name="google_ads_iframe_/35375867/GPOSITION_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="4" data-load-complete="true" width="728" height="90" frameborder="0"></iframe></div></div>
+        </div>        
+        
+<script type="text/javascript" src="https://365info.kz/build/js/app.js?id=40774cfbfa3f3f641c25"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"06a84ed778","applicationID":"142917363","transactionName":"ZQdaMBRYX0FTWxJYDVxNeQcSUF5cHVEIVQdK","queueTime":0,"applicationTime":56,"atts":"SUBZRlxCTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div>
+        <div class="updown hidden">
+            <div class="updown__wrap ga-updown"></div>
+            <div class="updown__icon"></div>
+        </div>      
+    </div>
+<script type="text/javascript" id="">(function(d,b,a){(b[a]=b[a]||[]).push(function(){try{b.yaCounter47902091=new Ya.Metrika({id:47902091,clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0})}catch(f){}});var e=d.getElementsByTagName("script")[0],c=d.createElement("script");a=function(){e.parentNode.insertBefore(c,e)};c.type="text/javascript";c.async=!0;c.src="https://mc.yandex.ru/metrika/watch.js";"[object Opera]"==b.opera?d.addEventListener("DOMContentLoaded",a,!1):a()})(document,window,"yandex_metrika_callbacks");</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47902091" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+
+
+
+<script type="text/javascript" id="">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3189665",type:"pageView",start:(new Date).getTime()});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"topmailru-code");</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3189665;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru">
+</div></noscript>
+<script type="text/javascript" id="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><iframe id="google_osd_static_frame_8994766285327" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>

@@ -1,0 +1,1318 @@
+<html dir="ltr" prefix="og: https://ogp.me/ns#" class=" js" lang="hu"><head>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<script async="async" defer="defer" src="https://gahu.hit.gemius.pl/xgemius.js"></script><script src="https://pagead2.googlesyndication.com/pagead/js/r20210331/r20190131/show_ads_impl_fy2019.js" id="google_shimpl"></script><script src="https://connect.facebook.net/signals/config/217285803268827?v=2.9.33&amp;r=stable" async=""></script><script src="https://connect.facebook.net/hu_HU/sdk.js?hash=13f7e993d77b222361ac021668b194d3" async="" crossorigin="anonymous"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WLSD58"></script><script src="https://rules.quantcount.com/rules-p-TyJ764TdaxCes.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><noscript><div><img src="//pixel.quantserve.com/pixel/p-TyJ764TdaxCes.gif" alt="Quantcast" width="1" height="1" border="0"></div></noscript><script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/tcfv2/6/cmp2.js"></script><script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/choice/TyJ764TdaxCes/alfahir.hu/choice.js"></script><script type="text/javascript" async="true">
+    (function() {
+      var host = window.location.hostname;
+      var element = document.createElement('script');
+      var firstScript = document.getElementsByTagName('script')[0];
+      var url = 'https://quantcast.mgr.consensu.org'
+        .concat('/choice/', 'TyJ764TdaxCes', '/', host, '/choice.js')
+      var uspTries = 0;
+      var uspTriesLimit = 3;
+      element.async = true;
+      element.type = 'text/javascript';
+      element.src = url;
+
+      firstScript.parentNode.insertBefore(element, firstScript);
+
+      function makeStub() {
+        var TCF_LOCATOR_NAME = '__tcfapiLocator';
+        var queue = [];
+        var win = window;
+        var cmpFrame;
+
+        function addFrame() {
+          var doc = win.document;
+          var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+          if (!otherCMP) {
+            if (doc.body) {
+              var iframe = doc.createElement('iframe');
+
+              iframe.style.cssText = 'display:none';
+              iframe.name = TCF_LOCATOR_NAME;
+              doc.body.appendChild(iframe);
+            } else {
+              setTimeout(addFrame, 5);
+            }
+          }
+          return !otherCMP;
+        }
+
+        function tcfAPIHandler() {
+          var gdprApplies;
+          var args = arguments;
+
+          if (!args.length) {
+            return queue;
+          } else if (args[0] === 'setGdprApplies') {
+            if (
+              args.length > 3 &&
+              args[2] === 2 &&
+              typeof args[3] === 'boolean'
+            ) {
+              gdprApplies = args[3];
+              if (typeof args[2] === 'function') {
+                args[2]('set', true);
+              }
+            }
+          } else if (args[0] === 'ping') {
+            var retr = {
+              gdprApplies: gdprApplies,
+              cmpLoaded: false,
+              cmpStatus: 'stub'
+            };
+
+            if (typeof args[2] === 'function') {
+              args[2](retr);
+            }
+          } else {
+            queue.push(args);
+          }
+        }
+
+        function postMessageEventHandler(event) {
+          var msgIsString = typeof event.data === 'string';
+          var json = {};
+
+          try {
+            if (msgIsString) {
+              json = JSON.parse(event.data);
+            } else {
+              json = event.data;
+            }
+          } catch (ignore) {}
+
+          var payload = json.__tcfapiCall;
+
+          if (payload) {
+            window.__tcfapi(
+              payload.command,
+              payload.version,
+              function(retValue, success) {
+                var returnMsg = {
+                  __tcfapiReturn: {
+                    returnValue: retValue,
+                    success: success,
+                    callId: payload.callId
+                  }
+                };
+                if (msgIsString) {
+                  returnMsg = JSON.stringify(returnMsg);
+                }
+                event.source.postMessage(returnMsg, '*');
+              },
+              payload.parameter
+            );
+          }
+        }
+
+        while (win) {
+          try {
+            if (win.frames[TCF_LOCATOR_NAME]) {
+              cmpFrame = win;
+              break;
+            }
+          } catch (ignore) {}
+
+          if (win === window.top) {
+            break;
+          }
+          win = win.parent;
+        }
+        if (!cmpFrame) {
+          addFrame();
+          win.__tcfapi = tcfAPIHandler;
+          win.addEventListener('message', postMessageEventHandler, false);
+        }
+      };
+
+      makeStub();
+
+      var uspStubFunction = function() {
+        var arg = arguments;
+        if (typeof window.__uspapi !== uspStubFunction) {
+          setTimeout(function() {
+            if (typeof window.__uspapi !== 'undefined') {
+              window.__uspapi.apply(window.__uspapi, arg);
+            }
+          }, 500);
+        }
+      };
+
+      var checkIfUspIsReady = function() {
+        uspTries++;
+        if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+          console.warn('USP is not accessible');
+        } else {
+          clearInterval(uspInterval);
+        }
+      };
+
+      if (typeof window.__uspapi === 'undefined') {
+        window.__uspapi = uspStubFunction;
+        var uspInterval = setInterval(checkIfUspIsReady, 6000);
+      }
+    })();
+    </script>
+
+<meta charset="utf-8">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1507745-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-1507745-1", {"groups":"default","anonymize_ip":true});</script>
+<link rel="canonical" href="https://alfahir.hu/">
+<link rel="shortlink" href="https://alfahir.hu/">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/themes/alfahir/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Főoldal | Alfahír</title>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_pi3KMrclRWtpRj-r6R9-9GGsbN-_GEQCtxo7Lrz7Jds.css">
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.0/dist/css/bootstrap.min.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_47OhQsHDoKh_M7zUrLdXfOQPEQHb_GwmarEp0D_IaNo.css">
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_QHqjxhGPGgZFwOfW92tmrVpssmC1sbO0zDG4TgLmaEI.js"></script><style type="text/css"> .qc-cmp-button {    background-color: #fcba26 !important;    border-color: #fcba26 !important;  }  .qc-cmp-button:hover {    border-color: #fcba26 !important;  }  .qc-cmp-alt-action,  .qc-cmp-link {    color: #fcba26 !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    background-color: #fcba26 !important;    border-color: #fcba26 !important;  }  .qc-cmp-button {    color: #000000 !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    color: #000000 !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    color: #000000 !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    background-color: #fcba26 !important;    border-color: transparent !important;  }  .qc-cmp-ui {    background-color: #fff !important;  } </style>
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021033001.js?31060641" id="gpt-impl-0.6487303111605938" nonce=""></script><style data-styled="" data-styled-version="4.4.0"></style>
+<script src="https://server.infinety.hu/files/infinety.js"></script>
+<script src="https://server.infinety.hu/files/infinety_hb_alfahir_hu.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WLSD58');
+    </script>
+
+<script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '217285803268827');
+        fbq('track', 'PageView');
+        </script>
+<noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=217285803268827&ev=PageView&noscript=1"
+        /></noscript>
+
+
+<script data-ad-client="ca-pub-2207827746295662" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-checked-head="true"></script>
+<script async="" src="/cdn-cgi/bm/cv/669835187/api.js"></script><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#mc_embed_signup input.mce_inline_error { border-color:#6B0505; } #mc_embed_signup div.mce_inline_error { margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff; }</style><style type="text/css" data-fbcssmodules="css:fb.css.basecss:fb.css.dialog css:fb.css.iframewidget">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body class="path-frontpage has-glyphicons">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLSD58"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script async="" defer="" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v3.2&amp;appId=581227225377082&amp;autoLogAppEvents=1"></script>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+<a href="#main-content" class="visually-hidden focusable skip-link">
+Ugrás a tartalomra
+</a>
+<div class="page-wrapper">
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<div class="header-wrapper">
+<div class="header-inner" role="heading">
+<div class="region region-header">
+<div class="logo-bg">
+<a class="logo navbar-btn pull-left" href="/" title="Címlap" rel="home">
+<img src="/themes/alfahir/logo.svg" alt="Címlap">
+</a>
+</div>
+<section id="block-keresoikon" class="block block-simple-block block-simple-blocksearch-icon clearfix">
+<span class="keresoikon">Keresés</span>
+</section>
+<nav role="navigation" aria-labelledby="block-fomenu-menu" id="block-fomenu" class="fomenu">
+<h2 class="sr-only" id="block-fomenu-menu">Főmenü</h2>
+<ul class="menu menu--main nav navbar-nav">
+<li class="first">
+<a href="/friss-hirek" data-drupal-link-system-path="friss-hirek">Friss hírek</a>
+</li>
+<li>
+<a href="/kereso?kereses=koronav%C3%ADrus" data-drupal-link-query="{&quot;kereses&quot;:&quot;koronav\u00edrus&quot;}" data-drupal-link-system-path="kereso">koronavírus</a>
+</li>
+<li>
+<a href="/cimkek/interju" title="Interjúink" data-drupal-link-system-path="taxonomy/term/1758">Interjúk</a>
+</li>
+<li>
+<a href="/kereso?kereses=&amp;from=&amp;to=&amp;field_authors=&amp;field_tags=Komment-t%C3%A1r" data-drupal-link-query="{&quot;field_authors&quot;:&quot;&quot;,&quot;field_tags&quot;:&quot;Komment-t\u00e1r&quot;,&quot;from&quot;:&quot;&quot;,&quot;kereses&quot;:&quot;&quot;,&quot;to&quot;:&quot;&quot;}" data-drupal-link-system-path="kereso">Komment-tár</a>
+</li>
+<li>
+<a href="/impresszum" title="Impresszum" data-drupal-link-system-path="impresszum">Impresszum</a>
+</li>
+<li class="last">
+<a href="/vendegszoba" data-drupal-link-system-path="vendegszoba">Vendégszoba</a>
+</li>
+</ul>
+</nav>
+<section id="block-sidrtriggerbuttonblock" class="block block-sidr block-sidr-trigger clearfix">
+<button data-sidr-options="{&quot;source&quot;:&quot;.region-mobile-menu\r\n&quot;,&quot;side&quot;:&quot;left&quot;,&quot;method&quot;:&quot;toggle&quot;,&quot;renaming&quot;:false,&quot;displace&quot;:false,&quot;nocopy&quot;:true}" class="sidr-trigger js-sidr-trigger has-text" aria-controls="sidr" aria-expanded="false">
+<span class="sidr-trigger__text">Menu</span></button>
+</section>
+</div>
+</div>
+<div class="header-bottom-wrapper">
+<div class="header-bottom-empty">
+</div>
+</div>
+</div>
+<div class="mobile-menu " style="display: none;">
+
+</div>
+<div role="main" class="main-container  js-quickedit-main-content">
+<div class="main-inner">
+<section>
+<div class="highlighted"> <div class="region region-highlighted">
+<div data-drupal-messages-fallback="" class="hidden"></div>
+</div>
+</div>
+<a id="main-content"></a>
+<div class="region region-content">
+<div class="ds-2col-stacked clearfix">
+<div class="group-header">
+<div class="block-region-header">
+<section class="views-element-container block block-views block-views-blocksticky-content-mobile-block-1 clearfix">
+<div class="form-group"><div class="view view-sticky-content-mobile view-id-sticky_content_mobile view-display-id-block_1 js-view-dom-id-69943a675025c361bc156afb2bedaf37bd3719e01ff52500b766feafdc4cb771">
+</div>
+</div>
+</section>
+<section class="views-element-container block block-views block-views-blocksticky-content-block-1 clearfix">
+<div class="form-group"><div class="view view-sticky-content view-id-sticky_content view-display-id-block_1 js-view-dom-id-17aad329f577a6c3cd9ca6c127548fcbdeb874ea87b3788ae8f06f2b476da21c">
+</div>
+</div>
+</section>
+<section class="block block-alfahir-advert block-advert-mobile-block-300x50-320x50-300x50-1 clearfix">
+<div class="advert_block advert_wrapper advert_mobile"><div id="alfahir.hu_mobile_300x50_320x50_300x250"></div></div>
+</section>
+<section class="block block-alfahir-advert block-advert-desktop-block-728x90-970x90-970x250 clearfix">
+<div class="advert_block advert_wrapper advert_dektop"><div id="alfahir.hu_728x90_970x90_970x250"></div></div>
+</section>
+<section class="views-element-container block block-views block-views-blockmain-page-mobile-news-block-1 clearfix">
+<h2 class="block-title">Friss</h2>
+<div class="form-group">
+<div class="view view-main-page-mobile-news view-id-main_page_mobile_news view-display-id-block_1 js-view-dom-id-abe1c6422d327541b158291d2d16153e847bfe67b66f9ab2d72916dfc80fad05">
+<div class="view-content">
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix form-group"> <div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/oltas_lelkesz_pap_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2020-12/oltas.jpeg?itok=rkD7_A2Q" alt="oltás" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 20:14</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/oltas_lelkesz_pap_koronavirus" hreflang="hu">Nem veszik előre a lelkészeket az oltási rendben</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="field field--name-field-own-article field--type-list-string field--label-hidden field--item">1</div>
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/romania_koronavirus_gyerekek"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-04/stethoscope-840125_1920.jpg?itok=OUOqVo85" alt="kórház, egészségügy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 19:03</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/romania_koronavirus_gyerekek" hreflang="hu">A nálunk jobban álló Romániában aggódnak a kórházban fekvő gyerekek száma miatt</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-mobile-block-300x50-320x50-300x50-2 clearfix">
+<div class="advert_block advert_wrapper advert_mobile"><div id="alfahir.hu_mobile_300x50_320x50_300x250_1"></div></div>
+</section>
+<div class="views-row"><div class="n1tv node node--type-video node--view-mode-teaser ds-1col clearfix">
+<div class="field field--name-field-own-article field--type-list-string field--label-hidden field--item">1</div>
+<div class="field field--name-field-video-hozzaadasa field--type-video-embed-field field--label-hidden field--item"><div data-video-embed-field-lazy="<div class=&quot;video-embed-field-provider-youtube video-embed-field-responsive-video form-group&quot;><iframe width=&quot;854&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; src=&quot;https://www.youtube.com/embed/dqy9vYPXRxs?autoplay=1&amp;amp;start=0&amp;amp;rel=0&quot;></iframe>
+</div>
+" class="video-embed-field-lazy form-group"><img src="/sites/default/files/styles/video_thumb/public/video_thumbnails/dqy9vYPXRxs.jpg?itok=UReHnA3G" alt="" class="img-responsive" width="440" height="250">
+<div class="video-embed-field-lazy-play"></div>
+</div>
+</div>
+<div class="video-footer">
+<div class="field field--name-node-post-date field--type-ds field--label-hidden field--item">2021. április 04. | 18:22</div>
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/puder_es_puskapor_onodymolnar_dora_sapszky_dora_wichmann_anna" hreflang="hu">PÚDER ÉS PUSKAPOR - Az alkohol és az édesség elhagyása is húsvéti böjtnek számít?</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="field field--name-field-own-article field--type-list-string field--label-hidden field--item">1</div>
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/karacsony_gergely_oltas_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-04/karacsony.jpg?itok=8pydNPPl" alt="Karácsony Gergely, oltás" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 17:39</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/karacsony_gergely_oltas_koronavirus" hreflang="hu">„Azzal, ami jutott” – beoltották Karácsony Gergelyt, majd rögtön felidegesítették Orbán oltásellenes hazugságai</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-mobile-block-300x50-320x50-300x250-3 clearfix">
+<div class="advert_block advert_wrapper advert_mobile"><div id="alfahir.hu_mobile_300x50_320x50_300x250_2"></div></div>
+</section>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/idojarasjelentes_havazas"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-01/havazas.jpg?itok=W9Gsxehs" alt="havazás, tél, fagy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 16:30</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/idojarasjelentes_havazas" hreflang="hu">Fagyok jönnek, keddtől havat is mondanak</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/verekedes_bunugy"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-04/rage-1564031_1920.jpg?itok=ULjvKt7-" alt="verekedés, ütés" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 15:53</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/verekedes_bunugy" hreflang="hu">Egy 36 éves férfinek és 18, 17, valamint 15 éves fiainak sikerült félholtra verniük egy 16 éves gyereket</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="field field--name-field-own-article field--type-list-string field--label-hidden field--item">1</div>
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/hatvan_tuz_korhaz_albert_schweitzer_korhaz_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-04/d_kom20151020008.jpg?itok=Smp1ARAH" alt="Albert Schweitzer Kórház" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 15:32</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/hatvan_tuz_korhaz_albert_schweitzer_korhaz_koronavirus" hreflang="hu">Tűz volt a hatvani kórház Covid-osztályán</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/nemetorszag_vakcina_karanten_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-03/vakcina_7.jpg?itok=SmUtXRNV" alt="koronavírus, oltás, vakcina, Pfizer" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 14:45</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/nemetorszag_vakcina_karanten_koronavirus" hreflang="hu">Németországban felmenthetik a karantén szabályok alól az oltottakat</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="n1tv node node--type-video node--view-mode-teaser ds-1col clearfix">
+<div class="field field--name-field-own-article field--type-list-string field--label-hidden field--item">1</div>
+<div class="field field--name-field-video-hozzaadasa field--type-video-embed-field field--label-hidden field--item"><div data-video-embed-field-lazy="<div class=&quot;video-embed-field-provider-youtube video-embed-field-responsive-video form-group&quot;><iframe width=&quot;854&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; src=&quot;https://www.youtube.com/embed/75hHMBkv_0U?autoplay=1&amp;amp;start=0&amp;amp;rel=0&quot;></iframe>
+</div>
+" class="video-embed-field-lazy form-group"><img src="/sites/default/files/styles/video_thumb/public/video_thumbnails/75hHMBkv_0U.jpg?itok=wqMZTQn3" alt="" class="img-responsive" width="440" height="250">
+<div class="video-embed-field-lazy-play"></div>
+</div>
+</div>
+<div class="video-footer">
+<div class="field field--name-node-post-date field--type-ds field--label-hidden field--item">2021. április 04. | 14:30</div>
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/n1tv_havas_henrik_havas_a_hazban" hreflang="hu">HAVAS MEGMONDJA - Puczi Béla emlékére közteret neveznek el Budapesten!</a>
+</h2>
+</div>
+<div class="field field--name-field-lead field--type-text-long field--label-hidden field--item"><p>Miért fontos, hogy emlékezzünk a hőseinkre? Mit tanulhatunk a múltunk hibáiból?</p>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"> <div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/ferenc_papa_urbi_et_orbi_koronavirus_husvet_vatikan"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/myarticle/public/2021-04/k_ap20210404010.jpg?itok=SPZa_fLg" alt="Ferenc pápa" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="420" height="240">
+</div>
+</a>
+</div>
+<div class="teaser-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 13:45</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div>
+<div class="teaser-inner">
+<div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/ferenc_papa_urbi_et_orbi_koronavirus_husvet_vatikan" hreflang="hu">Ferenc pápa méltányos vakcinaelosztást kért a nemzetközi közösségtől</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-mobile-block-300x50-320x50-300x250-4 clearfix">
+<div class="advert_block advert_wrapper advert_mobile"><div id="alfahir.hu_mobile_300x50_320x50_300x250_3"></div></div>
+</section>
+<ul class="js-pager__items pager" data-drupal-views-infinite-scroll-pager="">
+<li class="pager__item">
+<a class="button" href="/fooldal?page=1%2C0%2C0" rel="next">Még több hír</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="ds2col-middle">
+<div class="group-left">
+<div class="block-region-left">
+<section class="views-element-container block block-views block-views-blockarticles-block-1 clearfix">
+<div class="form-group">
+<div class="sajat-hirek view view-articles view-id-articles view-display-id-block_1 js-view-dom-id-a9d83bd4478f51159ecb775b312104cd63ce01eb2edbfff2a33a7950842dffe8">
+<div class="view-content">
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix form-group"> <div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/romania_koronavirus_gyerekek"> <div class="media media--blazy  media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive b-loaded" alt="kórház, egészségügy" src="/sites/default/files/styles/front_display/public/2021-04/stethoscope-840125_1920.jpg?itok=Vo4--33x" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 19:03</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/romania_koronavirus_gyerekek" hreflang="hu">A nálunk jobban álló Romániában aggódnak a kórházban fekvő gyerekek száma miatt</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="n1tv node node--type-video node--view-mode-front-display ds-1col clearfix">
+<div class="field field-name-field-video-hozzaadasa">
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/dqy9vYPXRxs?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div>
+<div class="video-footer">
+<div class="article-dates">
+<div class="field field--name-node-post-date field--type-ds field--label-hidden field--item">2021. április 04. | 18:22</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/puder_es_puskapor_onodymolnar_dora_sapszky_dora_wichmann_anna" hreflang="hu">PÚDER ÉS PUSKAPOR - Az alkohol és az édesség elhagyása is húsvéti böjtnek számít?</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-desktop-block-468x60-468x120-640x360 clearfix">
+<div class="advert_block advert_wrapper advert_dektop"><div id="alfahir.hu_468x60_468x120_640x360"></div></div>
+</section>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/karacsony_gergely_oltas_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-04/karacsony.jpg?itok=xFE8qHGx" alt="Karácsony Gergely, oltás" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 17:39</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/karacsony_gergely_oltas_koronavirus" hreflang="hu">„Azzal, ami jutott” – beoltották Karácsony Gergelyt, majd rögtön felidegesítették Orbán oltásellenes hazugságai</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/hatvan_tuz_korhaz_albert_schweitzer_korhaz_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+ <img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-04/d_kom20151020008.jpg?itok=06S8bM4F" alt="Albert Schweitzer Kórház" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 15:32</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/hatvan_tuz_korhaz_albert_schweitzer_korhaz_koronavirus" hreflang="hu">Tűz volt a hatvani kórház Covid-osztályán</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-desktop-block-468x60-468x120-640x360-1 clearfix">
+<div class="advert_block advert_wrapper advert_dektop"><div id="alfahir.hu_468x60_468x120_640x360_1"></div></div>
+</section>
+<div class="views-row"><div class="n1tv node node--type-video node--view-mode-front-display ds-1col clearfix">
+<div class="field field-name-field-video-hozzaadasa">
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/75hHMBkv_0U?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div>
+<div class="video-footer">
+<div class="article-dates">
+<div class="field field--name-node-post-date field--type-ds field--label-hidden field--item">2021. április 04. | 14:30</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/n1tv_havas_henrik_havas_a_hazban" hreflang="hu">HAVAS MEGMONDJA - Puczi Béla emlékére közteret neveznek el Budapesten!</a>
+</h2>
+</div>
+<div class="field field--name-field-lead field--type-text-long field--label-hidden field--item"><p>Miért fontos, hogy emlékezzünk a hőseinkre? Mit tanulhatunk a múltunk hibáiból?</p>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/koronavirus_orszagos_roma_onkormanyzat_biro_laszlo_jobbik_vakcina_oltasi_kampany"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-04/tiszavasvaribeli.jpg?itok=4l7AoxuO" alt="Tiszavasvári" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 13:33</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/koronavirus_orszagos_roma_onkormanyzat_biro_laszlo_jobbik_vakcina_oltasi_kampany" hreflang="hu">Az ORÖ eddig észre sem vette a járványt? Propagandacélból, de legalább elindul egy oltási kampány a roma közösségek számára</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/republikon_intezet_jakab_peter_kozvelemenykutatas_jobbik_ellenzek"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-01/bb_l2505.jpg?itok=s2FLFKnJ" alt="Jakab Péter, Jobbik," src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 10:59</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/republikon_intezet_jakab_peter_kozvelemenykutatas_jobbik_ellenzek" hreflang="hu">A Fidesz és a DK gyengült, a Jobbik erősödött - a Republikon szerint Jakab Péter uralja a folyamatokat</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/vakcina_nemzeti_nepegeszsegugyi_kozpont_koronavirus_vilagjarvany"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-02/oltas_10.jpg?itok=JVwyUnPg" alt="koronavírus, oltás, vakcina" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 09:45</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/vakcina_nemzeti_nepegeszsegugyi_kozpont_koronavirus_vilagjarvany" hreflang="hu">Itthon még mindig majdnem négyszer annyian lesznek betegek, mint amennyien meggyógyulnak</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/nyul_orban_viktor_hajnal_husvet_vakcina_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-04/orbanraktar1.png?itok=H-ir9NDr" alt="Orbán Viktor" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 08:40</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/nyul_orban_viktor_hajnal_husvet_vakcina_koronavirus" hreflang="hu">Orbán Viktor a nyulakkal kelt, nem kellett neki sofőr, és 2 perc alatt átnézte a vakcinaraktárt</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-front-display ds-1col clearfix">
+<div class="article-inner">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/husvet_jarvany_paul_virilio_turelem"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/front_display/public/2021-04/feltamadas_2.jpg?itok=oOSaDzA8" alt="húsvét, feltámadás, kereszt" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1050" height="570">
+</div>
+</a>
+</div>
+<div class="front-article-head">
+<div class="head-inner">
+<div class="article-dates">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/9289"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-11/dz_sajto_2019nov.jpg?itok=460w_yfd" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 08:00</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/9289">Dobos Zoltán</a></span>
+</div>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/husvet_jarvany_paul_virilio_turelem" hreflang="hu">Isteni türelem</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="advert_and_pager">
+<section class="block block-alfahir-advert block-advert-desktop-block-728x90-970x90-970x250-1 clearfix">
+<div class="advert_block advert_wrapper advert_dektop"><div id="alfahir.hu_728x90_970x90_970x250_1"></div></div>
+</section>
+<ul class="js-pager__items pager" data-drupal-views-infinite-scroll-pager="">
+<li class="pager__item">
+<a class="button" href="/fooldal?page=0%2C1%2C0" rel="next">Még több hír</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="group-right">
+<div class="block-region-right">
+<section class="views-element-container block block-views block-views-blockhirfolyam-block-1 clearfix">
+<div class="form-group"><div class="view view-hirfolyam view-id-hirfolyam view-display-id-block_1 js-view-dom-id-b295812c12e1f29ecae6c3e3cb33c52291f173f61577da2126e04ecaff5fa788">
+<div class="view-content">
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix form-group"> <div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/oltas_lelkesz_pap_koronavirus"> <div class="media media--blazy  media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive b-loaded" alt="oltás" src="/sites/default/files/styles/hirfolyam/public/2020-12/oltas.jpeg?itok=GjvLRJ_P" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 20:14</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/oltas_lelkesz_pap_koronavirus" hreflang="hu">Nem veszik előre a lelkészeket az oltási rendben</a>
+</h2>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/idojarasjelentes_havazas"> <div class="media media--blazy  media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive b-loaded" alt="havazás, tél, fagy" src="/sites/default/files/styles/hirfolyam/public/2021-01/havazas.jpg?itok=JsTMeFzS" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 16:30</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/idojarasjelentes_havazas" hreflang="hu">Fagyok jönnek, keddtől havat is mondanak</a>
+</h2>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-desktop-block-250x250-300x250-300x600 clearfix">
+<div class="advert_block advert_wrapper advert_dektop"><div id="alfahir.hu_250x250_300x250_300x600"></div></div>
+</section>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/verekedes_bunugy"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/hirfolyam/public/2021-04/rage-1564031_1920.jpg?itok=WFYdu5kK" alt="verekedés, ütés" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/330"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/profil.jpg?itok=qOznJJeT" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 15:53</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/330">Harmati András</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/verekedes_bunugy" hreflang="hu">Egy 36 éves férfinek és 18, 17, valamint 15 éves fiainak sikerült félholtra verniük egy 16 éves gyereket</a>
+</h2>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/nemetorszag_vakcina_karanten_koronavirus"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/hirfolyam/public/2021-03/vakcina_7.jpg?itok=VCNuADy-" alt="koronavírus, oltás, vakcina, Pfizer" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 14:45</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/nemetorszag_vakcina_karanten_koronavirus" hreflang="hu">Németországban felmenthetik a karantén szabályok alól az oltottakat</a>
+</h2>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/ferenc_papa_urbi_et_orbi_koronavirus_husvet_vatikan"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/hirfolyam/public/2021-04/k_ap20210404010.jpg?itok=4bL8Wwn3" alt="Ferenc pápa" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 13:45</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/ferenc_papa_urbi_et_orbi_koronavirus_husvet_vatikan" hreflang="hu">Ferenc pápa méltányos vakcinaelosztást kért a nemzetközi közösségtől</a>
+</h2>
+</div>
+</div>
+</div>
+<section class="block block-alfahir-advert block-advert-desktop-block-250x250-300x250-300x600-1 clearfix">
+<div class="advert_block advert_wrapper advert_dektop"><div id="alfahir.hu_250x250_300x250_300x600_1"></div></div>
+</section>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/vakcinautlevel_futball_koronavirus_anglia_nagybritanni"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/hirfolyam/public/2021-03/vakcinautlevel3.jpg?itok=mFbULlM7" alt="vakcinaútlevél" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 11:57</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/vakcinautlevel_futball_koronavirus_anglia_nagybritanni" hreflang="hu">Jöhet a Covid-útlevél? 8 ezer néző előtt rendeznek foci meccset április végén Londonban</a>
+</h2>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/internet_hekker_facebook"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/hirfolyam/public/2021-01/facebook_0.jpg?itok=mh2Dz4F_" alt="facebook" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 11:33</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/internet_hekker_facebook" hreflang="hu">533 millió Facebook-felhasználó személyes adatait szerezhették meg illetéktelenek</a>
+</h2>
+</div>
+</div>
+</div>
+<div class="views-row"><div class="node node--type-article node--view-mode-hirfolyam ds-1col clearfix">
+<div class="blazy field field-name-field-media-index-foto-video blazy--on" data-blazy="" data-content-gallery="">
+<a href="https://alfahir.hu/2021/04/04/johns_hopkins_egyetem_koronavirus_vilagjarvany"> <div class="media media--blazy media--loading media--switch media--switch--content media--image">
+<img class="b-lazy media__image media__element img-responsive" data-src="/sites/default/files/styles/hirfolyam/public/2021-04/d_ati20210402008.jpg?itok=WGShSGsF" alt="koronavírus" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="720" height="405">
+</div>
+</a>
+</div>
+<div class="hirfolyam-authors">
+<div class="field field-name-field-authors authorscount-1">
+<span class="userpicture"><a href="/user/331"><img class="swiper-image img-responsive" src="/sites/default/files/styles/profil/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=2cdfmKJH" alt="sss" width="56" height="56">
+</a></span>
+<div class="cteated_time">2021. április 04. | 09:17</div>
+<div class="authorname-wrapper">
+<span class="authorname"><a href="/user/331">Sarkadi-Illyés Csaba</a></span>
+</div>
+</div>
+</div><div class="field field-name-node-title">
+<h2>
+<a href="/2021/04/04/johns_hopkins_egyetem_koronavirus_vilagjarvany" hreflang="hu">A legfrissebb napi globális összesítés szerint a koronavírus-áldozatok közül minden 35. magyar volt</a>
+</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="js-pager__items pager visually-hidden" data-drupal-views-infinite-scroll-pager="automatic">
+<li class="pager__item">
+<a class="button" href="/fooldal?page=0%2C0%2C1" rel="next">Load More</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="group-footer">
+<div class="block-region-footer">
+<section class="views-element-container block block-views block-views-blockauthors-list-block-1 clearfix">
+<div class="form-group"><div class="view view-authors-list view-id-authors_list view-display-id-block_1 js-view-dom-id-fcb8599fd685bf6c6b9aef4bed7db4b9ce9edbe34d96bbcc2843d03c6f74618d">
+<div class="view-content">
+<div id="slick-views-authors-list-block-1-1" class="slick slick--view--authors-list slick--view--authors-list--block-1 slick--skin--default slick--optionset--sticky-videos slick--multiple-view slick--initialized"><div id="slick-views-authors-list-block-1-1-slider" data-slick="{&quot;slidesToShow&quot;:5,&quot;swipeToSlide&quot;:true,&quot;responsive&quot;:[{&quot;breakpoint&quot;:1919,&quot;settings&quot;:{&quot;slidesToShow&quot;:5}},{&quot;breakpoint&quot;:1299,&quot;settings&quot;:{&quot;slidesToShow&quot;:4}},{&quot;breakpoint&quot;:999,&quot;settings&quot;:{&quot;centerMode&quot;:true,&quot;centerPadding&quot;:&quot;10px&quot;,&quot;focusOnSelect&quot;:true,&quot;slidesToShow&quot;:3,&quot;touchThreshold&quot;:3}},{&quot;breakpoint&quot;:768,&quot;settings&quot;:{&quot;draggable&quot;:false,&quot;focusOnSelect&quot;:true,&quot;slidesToShow&quot;:2,&quot;swipeToSlide&quot;:true,&quot;touchThreshold&quot;:2}},{&quot;breakpoint&quot;:480,&quot;settings&quot;:{&quot;centerMode&quot;:true,&quot;centerPadding&quot;:&quot;10px&quot;,&quot;draggable&quot;:false,&quot;focusOnSelect&quot;:true,&quot;swipeToSlide&quot;:true,&quot;touchThreshold&quot;:1}}]}" class="slick__slider slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 7130px; transform: translate3d(-1150px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-5" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--8" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/treso_t_tibor" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/Tres%C3%B3%20T%20Tibor%20-%20szerkeszt%C5%91-riporter.jpg?itok=odgTBA_h" alt="Tresó T. Tibor" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/treso_t_tibor" hreflang="hu" tabindex="-1">Tresó T. Tibor</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV szerkesztő-riporter</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--9" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/laszkacs_denise" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-07/img_20200716_192510.jpg?itok=AUE5zJ2j" alt="Laszkács Denise" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/laszkacs_denise" hreflang="hu" tabindex="-1">Laszkács Denise</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--10" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/verebes_karoly" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-03/verebeskaroly.jpg?itok=eqxjIxxB" alt="Verebes Károly" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/verebes_karoly" hreflang="hu" tabindex="-1">Verebes Károly</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--11" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/beli_balazs" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/BB_L2713.jpg?itok=WEp3_vZ8" alt="Béli Balázs" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/beli_balazs" hreflang="hu" tabindex="-1">Béli Balázs</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Fotóriporter</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--12" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/lanczi_richard" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/L%C3%A1nczi%20Rich%C3%A1rd_1.JPG?itok=MF_1SR_R" alt="Lánczi Richárd" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/lanczi_richard" hreflang="hu" tabindex="-1">Lánczi Richárd</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV főszerkesztő</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 230px;"><div><div class="slick__slide slide slide--0" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/koller_kristof" hreflang="hu" tabindex="0"><img src="/sites/default/files/styles/user_caru/public/2020-08/118487679_1021869864949736_5383649387401610299_n.jpg?itok=Wt93o0Br" alt="profil" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/koller_kristof" hreflang="hu" tabindex="0">Köller Kristóf</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 230px;"><div><div class="slick__slide slide slide--1" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/sarkadi_illyes_csaba" hreflang="hu" tabindex="0"><img src="/sites/default/files/styles/user_caru/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=5QqyUohD" alt="Sarkadi-Illyés Csaba" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/sarkadi_illyes_csaba" hreflang="hu" tabindex="0">Sarkadi-Illyés Csaba</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Főszerkesztő</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 230px;"><div><div class="slick__slide slide slide--2" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/dobos_zoltan" hreflang="hu" tabindex="0"><img src="/sites/default/files/styles/user_caru/public/2019-11/dz_sajto_2019nov.jpg?itok=MlkbnGQD" alt="Dobos Zoltán" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/dobos_zoltan" hreflang="hu" tabindex="0">Dobos Zoltán</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 230px;"><div><div class="slick__slide slide slide--3" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/harmati_andras" hreflang="hu" tabindex="0"><img src="/sites/default/files/styles/user_caru/public/2019-03/profil.jpg?itok=T5aoBOiy" alt="Harmati András" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/harmati_andras" hreflang="hu" tabindex="0">Harmati András</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Szerkesztő</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 230px;"><div><div class="slick__slide slide slide--4" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/zimon_andras" hreflang="hu" tabindex="0"><img src="/sites/default/files/styles/user_caru/public/2019-03/Zimon%20Andr%C3%A1s%20-%20szerkeszt%C5%91%2C%20m%C5%B1sorvezet%C5%91_1.jpg?itok=3zVHkMU7" alt="Zimon András" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/zimon_andras" hreflang="hu" tabindex="0">Zimon András</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV főszerkesztő-helyettes</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--5" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/nagy_bela_adam" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-09/71027187_1481153868691871_1892658672778084352_o_0.jpg?itok=jPoP8M4D" alt="." class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/nagy_bela_adam" hreflang="hu" tabindex="-1">Nagy Béla Ádám</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--6" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/sandor_zoltan" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2021-02/sandorzoltan.jpg?itok=MY9N_Hv1" alt="Sándor Zoltán" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/sandor_zoltan" hreflang="hu" tabindex="-1">Sándor Zoltán</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--7" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/karpati_lorant_mate" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-08/img_20200730_204615.jpg?itok=iAIlDhkJ" alt="Kárpáti Lóránt Máté" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/karpati_lorant_mate" hreflang="hu" tabindex="-1">Kárpáti Lóránt Máté</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--8" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/treso_t_tibor" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/Tres%C3%B3%20T%20Tibor%20-%20szerkeszt%C5%91-riporter.jpg?itok=odgTBA_h" alt="Tresó T. Tibor" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/treso_t_tibor" hreflang="hu" tabindex="-1">Tresó T. Tibor</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV szerkesztő-riporter</div></div></div></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--9" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/laszkacs_denise" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-07/img_20200716_192510.jpg?itok=AUE5zJ2j" alt="Laszkács Denise" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/laszkacs_denise" hreflang="hu" tabindex="-1">Laszkács Denise</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide" data-slick-index="10" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--10" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/verebes_karoly" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-03/verebeskaroly.jpg?itok=eqxjIxxB" alt="Verebes Károly" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/verebes_karoly" hreflang="hu" tabindex="-1">Verebes Károly</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide" data-slick-index="11" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--11" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/beli_balazs" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/BB_L2713.jpg?itok=WEp3_vZ8" alt="Béli Balázs" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/beli_balazs" hreflang="hu" tabindex="-1">Béli Balázs</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Fotóriporter</div></div></div></div></div><div class="slick-slide" data-slick-index="12" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--12" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/lanczi_richard" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/L%C3%A1nczi%20Rich%C3%A1rd_1.JPG?itok=MF_1SR_R" alt="Lánczi Richárd" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/lanczi_richard" hreflang="hu" tabindex="-1">Lánczi Richárd</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV főszerkesztő</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--0" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/koller_kristof" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-08/118487679_1021869864949736_5383649387401610299_n.jpg?itok=Wt93o0Br" alt="profil" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/koller_kristof" hreflang="hu" tabindex="-1">Köller Kristóf</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--1" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/sarkadi_illyes_csaba" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/Sarkadi-Illy%C3%A9s%20Csaba_0.jpg?itok=5QqyUohD" alt="Sarkadi-Illyés Csaba" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/sarkadi_illyes_csaba" hreflang="hu" tabindex="-1">Sarkadi-Illyés Csaba</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Főszerkesztő</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--2" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/dobos_zoltan" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-11/dz_sajto_2019nov.jpg?itok=MlkbnGQD" alt="Dobos Zoltán" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/dobos_zoltan" hreflang="hu" tabindex="-1">Dobos Zoltán</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--3" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/harmati_andras" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/profil.jpg?itok=T5aoBOiy" alt="Harmati András" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/harmati_andras" hreflang="hu" tabindex="-1">Harmati András</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Szerkesztő</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--4" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/zimon_andras" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/Zimon%20Andr%C3%A1s%20-%20szerkeszt%C5%91%2C%20m%C5%B1sorvezet%C5%91_1.jpg?itok=3zVHkMU7" alt="Zimon András" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/zimon_andras" hreflang="hu" tabindex="-1">Zimon András</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV főszerkesztő-helyettes</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="18" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--5" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/nagy_bela_adam" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-09/71027187_1481153868691871_1892658672778084352_o_0.jpg?itok=jPoP8M4D" alt="." class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/nagy_bela_adam" hreflang="hu" tabindex="-1">Nagy Béla Ádám</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="19" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--6" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/sandor_zoltan" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2021-02/sandorzoltan.jpg?itok=MY9N_Hv1" alt="Sándor Zoltán" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/sandor_zoltan" hreflang="hu" tabindex="-1">Sándor Zoltán</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="20" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--7" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/karpati_lorant_mate" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-08/img_20200730_204615.jpg?itok=iAIlDhkJ" alt="Kárpáti Lóránt Máté" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/karpati_lorant_mate" hreflang="hu" tabindex="-1">Kárpáti Lóránt Máté</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="21" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--8" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/treso_t_tibor" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/Tres%C3%B3%20T%20Tibor%20-%20szerkeszt%C5%91-riporter.jpg?itok=odgTBA_h" alt="Tresó T. Tibor" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/treso_t_tibor" hreflang="hu" tabindex="-1">Tresó T. Tibor</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV szerkesztő-riporter</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="22" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--9" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/laszkacs_denise" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-07/img_20200716_192510.jpg?itok=AUE5zJ2j" alt="Laszkács Denise" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/laszkacs_denise" hreflang="hu" tabindex="-1">Laszkács Denise</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="23" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--10" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/verebes_karoly" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2020-03/verebeskaroly.jpg?itok=eqxjIxxB" alt="Verebes Károly" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/verebes_karoly" hreflang="hu" tabindex="-1">Verebes Károly</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Újságíró</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="24" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--11" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/beli_balazs" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/BB_L2713.jpg?itok=WEp3_vZ8" alt="Béli Balázs" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/beli_balazs" hreflang="hu" tabindex="-1">Béli Balázs</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">Fotóriporter</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="25" id="" aria-hidden="true" style="width: 230px;" tabindex="-1"><div><div class="slick__slide slide slide--12" style="width: 100%; display: inline-block;"><div class="user user--type-user user--view-mode-compact ds-1col clearfix"><div class="field field-name-field-picture"><a href="/impresszum/lanczi_richard" hreflang="hu" tabindex="-1"><img src="/sites/default/files/styles/user_caru/public/2019-03/L%C3%A1nczi%20Rich%C3%A1rd_1.JPG?itok=MF_1SR_R" alt="Lánczi Richárd" class="img-responsive" width="160" height="160"></a></div><div class="field field-name-username"><h4><a href="/impresszum/lanczi_richard" hreflang="hu" tabindex="-1">Lánczi Richárd</a></h4></div><div class="field field--name-field-user-titulus field--type-list-string field--label-hidden field--item">N1TV főszerkesztő</div></div></div></div></div></div></div></div><nav class="slick__arrow"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="">Previous</button><button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="">Next</button></nav></div>
+</div>
+</div>
+</div>
+</section>
+<section class="views-element-container block block-views block-views-blockn1tv-csatorna-block-1 clearfix">
+<h2 class="block-title">N1 TV</h2>
+<div class="form-group"><div class="view view-n1tv-csatorna view-id-n1tv_csatorna view-display-id-block_1 js-view-dom-id-2c008ce86c058fec589e99c355d8035dd9e96fcbef622d15e06942a59c857025">
+<div class="view-content">
+<div class="quicktabs-wrapper form-group" id="quicktabs-n1tv-csatorna">
+<ul class="quicktabs-tabs"><li class="active"><a href="/fooldal" class="loaded">Friss</a></li><li><a href="/fooldal" class="loaded">Mai hírek</a></li><li><a href="/fooldal" class="loaded">Napi téma</a></li><li><a href="/fooldal" class="loaded">Felderítő</a></li><li><a href="/fooldal" class="loaded">Képviselő vágta</a></li><li><a href="/fooldal" class="loaded">Exkluzív</a></li><li><a href="/fooldal" class="loaded">Exit poll</a></li><li><a href="/fooldal" class="loaded">Saller</a></li><li><a href="/fooldal" class="loaded">Havas megmondja</a></li><li><a href="/fooldal" class="loaded">Kultpolis</a></li><li><a href="/fooldal" class="loaded">Púder és puskapor</a></li><li><a href="/fooldal" class="loaded">Szabadsajtó klub</a></li></ul>
+<div class="quicktabs-main" id="quicktabs-container-n1tv-csatorna">
+<div class="quicktabs-tabpage" id="quicktabs-tabpage-n1tv-csatorna-0"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=UUOzZn5enxZDEXonT6tBKBYA" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/channel/UCOzZn5enxZDEXonT6tBKBYA" target="_blank" rel="noopener noreferrer">További friss videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-1"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu4EXugw7dXLkPVY05gLOhMt" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://youtube.com/playlist?list=PLQ65E_a2xYu4EXugw7dXLkPVY05gLOhMt" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-2"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu6I8bs1yT07ZvucQEs2P0zc" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu6I8bs1yT07ZvucQEs2P0zc" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-3"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu4N07iouSZr8Ib54QPbhj35" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu4N07iouSZr8Ib54QPbhj35" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-4"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu7upWhI2tpEpupqlIcOywIp" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu7upWhI2tpEpupqlIcOywIp" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-5"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu523iGXfl2clzsXTwB94EC_" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu523iGXfl2clzsXTwB94EC_" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-6"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu5wl6CZzUi7jdBQc9ndCzCr" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu5wl6CZzUi7jdBQc9ndCzCr" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-7"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu7AcVBv2PMZzfqoqrQTQgvv" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu7AcVBv2PMZzfqoqrQTQgvv" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-8"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu4C6BUjPJhstL_rsz-qERko" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu4C6BUjPJhstL_rsz-qERko" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-9"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu5xmG3VH1kA7SfjKLqTPasr" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu5xmG3VH1kA7SfjKLqTPasr" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-10"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu7kMA3gClKtLqStTIl7a0hM" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://youtube.com/playlist?list=PLQ65E_a2xYu7kMA3gClKtLqStTIl7a0hM" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+<div class="quicktabs-tabpage quicktabs-hide" id="quicktabs-tabpage-n1tv-csatorna-11"> 
+<div class="views-row form-group"><div class="views-field views-field-field-channel-playing-list"><div class="field-content"><div class="video-embed-field-provider-youtube-playlist video-embed-field-responsive-video form-group"><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/videoseries?list=PLQ65E_a2xYu5YqX8ry26DyyNqIeucYf5e" width="854" height="480" frameborder="0"></iframe>
+</div>
+</div></div><div class="views-field views-field-field-youtubechannel-url"><div class="field-content"><a href="https://www.youtube.com/playlist?list=PLQ65E_a2xYu5YqX8ry26DyyNqIeucYf5e" target="_blank" rel="noopener noreferrer">További videók</a></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="content-bottom-inner">
+<div class="region region-content-bottom">
+<section id="block-hirlevelblokk" class="block block-simple-block block-simple-blockhirlevel-blokk clearfix">
+<div class="hirlevel-slogen">A VILÁG<br> FOLYAMATOSAN<br> VÁLTOZIK,<br> NE MARADJ LE<br> SEMMIRŐL!</div>
+<div class="feliratkozo-form">
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup">
+<form action="https://alfahir.us20.list-manage.com/subscribe/post?u=957153abfd6c0a6e44600280f&amp;id=174af5a4af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+<div id="mc_embed_signup_scroll">
+<h2>Iratkozz fel!</h2>
+<div class="indicates-required"><span class="asterisk">*</span>kötelező</div>
+<div class="mc-field-group email-group">
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true">
+</div>
+<div class="mc-field-group input-group gdpr-group">
+<ul><li><input type="checkbox" value="1" name="group[507][1]" id="mce-group[507]-507-0" class="required" aria-required="true"><label for="mce-group[507]-507-0">Elolvastam és elfogadom az <a href="/node/237312">adatvédelmi nyilatkozatot</a>.</label></li>
+</ul>
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_957153abfd6c0a6e44600280f_174af5a4af" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Feliratkozom!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+</div>
+</section>
+<section id="block-kovessminketinstagramoldalunkon" class="block block-block-content block-block-content0b194901-07c4-4a04-bfe6-5b0ab3f5919d clearfix">
+<h2 class="block-title">Kövess minket Instagram oldalunkon!</h2>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/cd32276721605df5b413b904ffe26e4a.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0px none; overflow: hidden; height: 678px;"></iframe></div>
+</section>
+</div>
+</div>
+<footer class="footer " role="contentinfo">
+<div class="region region-footer">
+<section id="block-footerlogo" class="block block-simple-block block-simple-blockfooter-logo clearfix">
+<a href="/" class="f-logo">Alfahir.hu</a>
+</section>
+<nav role="navigation" aria-labelledby="block-lablec-menu" id="block-lablec">
+<h2 class="visually-hidden" id="block-lablec-menu">Lábléc</h2>
+<ul class="menu menu--footer nav">
+<li class="first">
+<a href="/adatvedelem" title="Adatkezelési és adatvédelmi szabályzat" data-drupal-link-system-path="node/237312">Adatvédelem</a>
+</li>
+<li class="last">
+<a href="mailto:szerk@alfahir.hu" title="Írj nekünk!">Kapcsolat</a>
+</li>
+</ul>
+</nav>
+<section id="block-copyright" class="block block-simple-block block-simple-blockcopyright clearfix">
+<p>ALFAHÍR | 2021 | Minden jog fenntartva!</p>
+</section>
+</div>
+</footer>
+<section class="block block-alfahir-advert block-advert-mobile-block-sticky clearfix">
+<div class="advert_block advert_wrapper advert_mobile"><div class="advert_close">X</div><div id="alfahir.hu_mobile_320x50_4"></div></div>
+</section>
+</div>
+</div><ins class="adsbygoogle adsbygoogle-noablate" style="display: none !important;" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"></ins></ins></ins>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"fooldal","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"hu"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"alfahir_advert\/alfahir_advert,alfahir_advert\/alfahir_advert_mod,blazy\/load,bootstrap\/popover,bootstrap\/tooltip,core\/html5shiv,ds\/ds_2col_stacked,extlink\/drupal.extlink,google_analytics\/google_analytics,layout_discovery\/onecol,poll\/drupal.poll-links,quicktabs\/quicktabs,responsive_table_filter\/responsive-table,sidr\/behaviors,sidr\/sidr.bare,slick\/slick.css,slick\/slick.main.default,slick\/slick.theme,system\/base,video_embed_field\/lazy-load,views\/views.ajax,views\/views.module,views_infinite_scroll\/views-infinite-scroll","theme":"alfahir","theme_token":null},"ajaxTrustedUrl":[],"google_analytics":{"account":"UA-1507745-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":".article-content-elements .field--name-body a","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)"}},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"quicktabs":{"qt_n1tv-csatorna":{"tabs":[{"tab_page":0,"title":"Friss"},{"tab_page":1,"title":"Mai h\u00edrek"},{"tab_page":2,"title":"Napi t\u00e9ma"},{"tab_page":3,"title":"Felder\u00edt\u0151"},{"tab_page":4,"title":"K\u00e9pvisel\u0151 v\u00e1gta"},{"tab_page":5,"title":"Exkluz\u00edv"},{"tab_page":6,"title":"Exit poll"},{"tab_page":7,"title":"Saller"},{"tab_page":8,"title":"Havas megmondja"},{"tab_page":9,"title":"Kultpolis"},{"tab_page":10,"title":"P\u00fader \u00e9s puskapor"},{"tab_page":11,"title":"Szabadsajt\u00f3 klub"}]}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25},"blazyIo":{"enabled":false,"disconnect":false,"rootMargin":"0px","threshold":[0]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b295812c12e1f29ecae6c3e3cb33c52291f173f61577da2126e04ecaff5fa788":{"view_name":"hirfolyam","view_display_id":"block_1","view_args":"","view_path":"\/fooldal","view_base_path":null,"view_dom_id":"b295812c12e1f29ecae6c3e3cb33c52291f173f61577da2126e04ecaff5fa788","pager_element":2},"views_dom_id:a9d83bd4478f51159ecb775b312104cd63ce01eb2edbfff2a33a7950842dffe8":{"view_name":"articles","view_display_id":"block_1","view_args":"","view_path":"\/fooldal","view_base_path":null,"view_dom_id":"a9d83bd4478f51159ecb775b312104cd63ce01eb2edbfff2a33a7950842dffe8","pager_element":1},"views_dom_id:abe1c6422d327541b158291d2d16153e847bfe67b66f9ab2d72916dfc80fad05":{"view_name":"main_page_mobile_news","view_display_id":"block_1","view_args":"","view_path":"\/fooldal","view_base_path":null,"view_dom_id":"abe1c6422d327541b158291d2d16153e847bfe67b66f9ab2d72916dfc80fad05","pager_element":0}}},"field_group":{"html_element":{"mode":"teaser","context":"view","settings":{"id":"","classes":"teaser-authors","element":"div","show_label":false,"label_element":"h3","attributes":"","effect":"none","speed":"fast","label":"teaser authors"}}},"user":{"uid":0,"permissionsHash":"e71a4d4f171c4e0711181ecda91f12014d46a1625e474935a2e8de54e399a3dd"}}</script>
+<!--[if lte IE 9]>
+<script src="/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_-LSdDfOUDc0uqSbIRIexZPcHc923mIqcwnPp-tjSW0U.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.0/dist/js/bootstrap.min.js"></script>
+<script src="/sites/default/files/js/js_KcPbl9vXvd0cutHKX6cYOQxk0f4Qc8sB4fYxbRO0fUE.js"></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'63acfed1bb234bbe',m:'2868953ba02f64973814b78f19836cc8c240d206-1617565089-1800-Ab7WNgHatcKeaOp+XE9xKinzHPjpKfW/gRE/bgM6EUBrpSfpPx1Y3roViL4vxu+kOPVtu9akn9SfxsOTtNPTGSBkvmoD66rXlMAIYCuJgt/Pdme8emus0jKU/B2MTNwpTQ==',s:[0xe049a6a4b0,0xc6e31769fb],}})();</script>
+
+<div id="sidr" style="transition: left 0.2s ease 0s;" class="sidr left" aria-hidden="true"><div class="sidr-inner"><div class="region region-mobile-menu">
+<section id="block-menuheader" class="block block-simple-block block-simple-blockmenuheader clearfix">
+<a href="/" class="mobile-logo">Logo</a><span class="mobile-back">back</span>
+</section>
+<nav role="navigation" aria-labelledby="block-fomenu-2-menu" id="block-fomenu-2">
+<h2 class="sr-only" id="block-fomenu-2-menu">Főmenü</h2>
+<ul class="menu menu--main nav navbar-nav">
+<li class="first">
+<a href="/friss-hirek" data-drupal-link-system-path="friss-hirek">Friss hírek</a>
+</li>
+<li>
+<a href="/kereso?kereses=koronav%C3%ADrus" data-drupal-link-query="{&quot;kereses&quot;:&quot;koronav\u00edrus&quot;}" data-drupal-link-system-path="kereso">koronavírus</a>
+</li>
+<li>
+<a href="/cimkek/interju" title="Interjúink" data-drupal-link-system-path="taxonomy/term/1758">Interjúk</a>
+</li>
+<li>
+<a href="/kereso?kereses=&amp;from=&amp;to=&amp;field_authors=&amp;field_tags=Komment-t%C3%A1r" data-drupal-link-query="{&quot;field_authors&quot;:&quot;&quot;,&quot;field_tags&quot;:&quot;Komment-t\u00e1r&quot;,&quot;from&quot;:&quot;&quot;,&quot;kereses&quot;:&quot;&quot;,&quot;to&quot;:&quot;&quot;}" data-drupal-link-system-path="kereso">Komment-tár</a>
+</li>
+<li>
+<a href="/impresszum" title="Impresszum" data-drupal-link-system-path="impresszum">Impresszum</a>
+</li>
+<li class="last">
+<a href="/vendegszoba" data-drupal-link-system-path="vendegszoba">Vendégszoba</a>
+</li>
+</ul>
+</nav>
+<nav role="navigation" aria-labelledby="block-lablec-2-menu" id="block-lablec-2">
+<h2 class="visually-hidden" id="block-lablec-2-menu">Lábléc</h2>
+<ul class="menu menu--footer nav">
+<li class="first">
+<a href="/adatvedelem" title="Adatkezelési és adatvédelmi szabályzat" data-drupal-link-system-path="node/237312">Adatvédelem</a>
+</li>
+<li class="last">
+<a href="mailto:szerk@alfahir.hu" title="Írj nekünk!">Kapcsolat</a>
+</li>
+</ul>
+</nav>
+<section id="block-copyright-2" class="block block-simple-block block-simple-blockcopyright clearfix">
+<p>ALFAHÍR | 2021 | Minden jog fenntartva!</p>
+</section>
+</div></div></div><iframe style="display: none;" name="__tcfapiLocator"></iframe><div style="display: none; visibility: hidden;"><script type="text/javascript">var pp_gemius_identifier="bQ07Agt.u.et1z3f_IuLyNTJ7zDNcE9b7O2oIHkzaGr.M7";function gemius_pending(a){window[a]=window[a]||function(){var b=window[a+"_pdata"]=window[a+"_pdata"]||[];b[b.length]=arguments}}gemius_pending("gemius_hit");gemius_pending("gemius_event");gemius_pending("pp_gemius_hit");gemius_pending("pp_gemius_event");
+(function(a,b){try{var c=a.createElement(b),d=a.getElementsByTagName(b)[0],e="http"+("https:"==location.protocol?"s":"");c.setAttribute("async","async");c.setAttribute("defer","defer");c.src=e+"://gahu.hit.gemius.pl/xgemius.js";d.parentNode.insertBefore(c,d)}catch(f){}})(document,"script");</script></div><div style="display: none; visibility: hidden;"><script type="text/javascript">(function(a){a.src="//dmp.adform.net/dmp/profile/?pid\x3d10631\x26sg\x3dINFAGE5"})(document.createElement("img"));</script>
+<noscript></noscript></div><div style="display: none; visibility: hidden;"><script type="text/javascript">(function(a){a.src="//dmp.adform.net/dmp/profile/?pid\x3d10631\x26sg\x3dINFTMP"})(document.createElement("img"));</script>
+<noscript></noscript></div><div style="display: none; visibility: hidden;"><script type="text/javascript">(function(a){a.src="//dmp.adform.net/dmp/profile/?pid\x3d10631\x26sg\x3dINFTMP10\x26sg\x3dINFTMP9\x26sg\x3dINFTMP8\x26sg\x3dINFTMP7\x26sg\x3dINFTMP6\x26sg\x3dINFTMP5\x26sg\x3dINFTMP4\x26sg\x3dINFTMP3\x26sg\x3dINFTMP2\x26sg\x3dINFTMP1\x26sg\x3dINFTMPEX\x26sg\x3dINFTMP"})(document.createElement("img"));</script>
+<noscript></noscript></div><div style="display: none; visibility: hidden;"><script type="text/javascript">(function(a){a.src="//dmp.adform.net/dmp/profile/?pid\x3d10631\x26sg\x3dINFFIN"})(document.createElement("img"));</script>
+<noscript></noscript></div><iframe id="gemius_hcconn_1617565077198_28947387" name="lsgetframe" scrolling="no" sandbox="allow-scripts allow-same-origin" style="display: none; visibility: hidden;" src="https://ls.hit.gemius.pl/lsget.html" width="0" height="0"></iframe><iframe id="gemius_hcconn_1617565080380_15926473" name="lssetframe" scrolling="no" sandbox="allow-scripts allow-same-origin" style="display: none; visibility: hidden;" src="https://ls.hit.gemius.pl/lsset.html" width="0" height="0"></iframe></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20210331/r20190131/zrt_lookup.html#" style="display: none;" data-ad-client="ca-pub-2207827746295662"></iframe></html>
