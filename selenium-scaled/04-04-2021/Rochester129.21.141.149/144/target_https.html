@@ -1,0 +1,513 @@
+<html lang="ja"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>５ちゃんねる</title>
+<link rel="stylesheet" href="//5ch.net/css/css/font-awesome.min.css">
+<link href="//5ch.net/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="//5ch.net/css/5ch.css" rel="stylesheet">
+<link rel="icon" href="favicon.ico">
+<script type="text/javascript" src="//i2ad.jp/i/iVCCp0kwKCl4/sync"></script>
+</head>
+<body class="ch5-body " style="position: relative; width: 100%;">
+<nav class="navbar navbar-expand-lg navbar-dark bg-light fixed-top">
+<div class="container">
+<a class="navbar-brand" href="/"><img id="rabbit-img1" src="//5ch.net/images/rabbit.png"><img id="ch_logo" src="//5ch.net/images/5ch_logo.png" alt="５ちゃんねる" border="0" align="middle"></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarResponsive">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item">
+<div class="form-group has-search">
+<span class="fa fa-search form-control-feedback"></span>
+<input id="search_input" type="text" class="form-control" placeholder="スレッドタイトル検索">
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link" href="/_login" title="" data-toggle="popover" data-placement="bottom" data-content="ここからBEアカウントでログインすると、フロントページのすべての機能を楽しめます! 詳細については<a href='https://5ch.net/faq.html'>FAQ</a>をご覧ください。" data-original-title="" aria-describedby="popover494888"><i class="fa fa-sign-in"></i> ログイン</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="//www2.5ch.net/5ch.html">掲示板</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="//itest.5ch.net/">スマホ版</a>
+</li>
+<li>
+<a href="https://5ch.net/susu/susucoin_ja.html"><img id="susu_logo" src="//5ch.net/images/bitcoin16-30x30.png"></a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div id="sub-nav">
+<div class="container">
+<div id="under_header">
+<span class="public_nav">
+<span class="menu_item"><a href="/" title="ホーム">[ホーム]</a></span>
+<span class="menu_item"><a href="/faq.html" title="新フロントページについてのよくある質問">[FAQ]</a></span>
+<span class="menu_item"><a href="https://bintan.me/">[びんたん]</a></span>
+<span class="menu_item"><a href="javascript:void(0)" id="clear_hide_posts" title="Clear hidden posts">[クリア]</a></span>
+<span class="menu_item"><a href="javascript:void(0)" id="filter_posts" title="Filter posts">[フィルタ]</a></span>
+</span>
+<div class="btn-group sortby-dropdown">
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div id="myModal" class="modal">
+<div class="modal-content">
+<p>
+<span class="close">×</span>
+キーワードを入れる: <input type="text" id="filter_keyword" name="fkeyword" minlength="3" maxlength="32" class="form-control" placeholder="キーワード"></p>
+<input class="btn btn-lg btn-primary btn-block" id="filter_add" type="button" value="追加">
+<div class="filter_keywords_list_box" align="center">
+<span class="filter_keywords_item">
+<a href="javascript:void(0)" class="filter_keywords_list_button">[リスト表示]</a>
+<a href="javascript:void(0)" class="filter_keywords_clear_all_button">[フィルタをクリア]</a>
+<a href="javascript:void(0)" class="filter_keywords_refresh_page_button">[ページの更新]</a>
+</span>
+<span class="filter_keywords_item" id="filter_keywords_list"></span>
+</div>
+</div>
+</div>
+</div>
+<div id="main-content-box">
+<div class="container">
+<div class="row">
+<div class="col-lg-8">
+<div class="leader hidden" id="js-to-itest">
+<div class="post-item-box text-center">
+<a href="https://itest.5ch.net/">[5ちゃんねる スマートフォン版はこちら]</a>
+</div>
+</div>
+<div class="post-item-box">
+<div class="thread-main-box">
+<ul class="threadlist" id="thread_list_posts">
+<li class="newsplus-20210404205711079 thread " data-board="newsplus" data-board-threadid="newsplus-20210404205711079">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<img class="thread_box_wrap_thumbnail" src="./images/boards/newsplus.jpg">
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617537431" rel="nofollow noopener" target="_blank">【動物愛護】「動物虐待」生きた馬の日本への空輸、輸出国で反対の声　馬は友達、日本の馬肉文化にも厳しい目　英ガーディアン紙 ★2 [樽悶★]</a>
+</div>
+<div class="thread-content fade-buttom-thread-content"><p title="クリックして展開する" class="full-content"> 　食肉用として日本に輸出される馬の輸送環境が劣悪だと、海外から批判が出ている。狭いクレートに餌も水もなく十数時間馬を閉じ込めるのは非人道的で、輸出を止めるべきだと指摘されている。馬肉は世界で広く食べられているが、馬を愛護動物とする人々のなかからは、馬肉を食べること自体を禁止するよう求める声もある。 <br> <br> ◆馬肉ビジネス好調　馬の輸入増加 <br> <br> 　英ガーディアン紙によれば、日本の馬肉の25〜40％は、輸入した馬からのものだ。飼育コストが高いことが理由の一つと見られており、2019年では、純血種の繁殖用馬を除くと、カナダからの輸入が71％、フランスからが21％となっている。 <br> <br> 　カナダ政府の統計によれば、食肉用の生きた馬の日本への輸出は96頭を送った2000年から増加。23万1000カナダドル（約2000万円）だった売上高は、2013年から2020年の間は毎年1000万カナダドル（約8億8000万円）を超え、ピークの2014年には7111頭が輸出された。フランスからの輸出も2017年には80頭だったが、2019年までに959頭に増加している。 <br> <br> ◆「虐待レベル」危険な空輸に批判 <br> <br> 　そのようななか、最近活動家が撮影したビデオなどにより、空輸時の劣悪な馬の扱いが一般の目にさらされることになった。実際の現場を確認したジュディス・サムソン・フレンチ獣医師によれば、馬たちは数頭のグループにされ、木製のクレートに詰め込まれる。横になるのも困難な狭いクレートからは、馬たちの蹴り音が聞こえるという。重心の高い馬をクレートに入れて航空機で輸送するのは危険な行為だと同氏は指摘している。これまでに、動揺した馬の脚がクレートを越え機内の壁を蹴って穴をあけ、航空機が緊急着陸する事件が起こっているという。また、日本到着時に激しく衰弱したり、死亡したりしている馬が発見されている。（ガーディアン紙） <br> <br> 　動物愛護団体「Canadian Horse Defence Coalition（CHDC）」の関係者は、動物の輸送に関する規則があるにもかかわらず、それが守られていないと断じる。競走馬なら輸送の際に丁重に扱われるのに、食肉用の馬が劣悪な扱いを受けるのは問題だとしている。屠殺される予定で輸出された馬の多くは食肉用として飼育されているが、農場などから食肉用に回されてきた馬もいる。人間とともに暮らし、伴侶となってきた彼らの人生が外国の屠殺場で終わるのは、悲劇であり心が痛むことだと述べている（カナダのニュースサイト『Daily Hives』）。 <br> <br> 　前出のサムソン・フレンチ氏は、馬は輸送のための訓練や調整を受けておらず、危険を察知すれば駆け出し逃げようとする動物で、家畜のようには扱えないとする。人道的、生態的観点から馬は輸送に適していないという見解だ。動物は育った場所で屠殺されるべきで、悲惨な輸送を経て海の向こうで殺される存在ではないとしている。（カナダのテレビ局CTV） <br> <br> ◆馬は友達　日本の馬肉文化に厳しい視線 <br> <br> 　カナダでは、CHDCなどの団体が何年も前から食肉用の生きた馬の輸出に対する反対運動を行っているが、同時にカナダ国内での食肉用の馬の屠殺の禁止も求めている（ガーディアン紙）。もともと馬肉は世界各地で食べられているが、馬は賢く美しい動物、人間のために働く良き仲間というイメージが強いのか、馬肉を食べること自体を快く思わない人も多いようだ。ビジネスインサイダー誌によれば、イギリス、アメリカでも馬肉を食べることへの抵抗は強いという。 <br> <br> 　いまのところ、食肉用の馬の輸出に関しては、輸出国の対応のまずさを批判する報道がメインだ。しかし、記事には「日本は『馬刺し』のような珍味の人気に応えるため、輸入した馬を屠殺するまで1年肥育する」（ガーディアン紙）、「最も物議を醸すのは、（カナダの）業界がアジアの新鮮な生の馬肉への欲求を満たしていることだ」（CTVニュース）、「輸出された馬が屠殺され寿司になっている」（Daily Hives）などといった記述もあり、日本の食文化への不満が読み取れる。日本は鯨肉でも大きく批判されてきただけに、動物愛護の視点が馬肉に飛び火する可能性もある。 <br> <br> NewSphere Mar 31 2021 <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://newsphere.jp/national/20210331-2/" target="_blank">https://newsphere.jp/national/20210331-2/</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://d3vyoh8eiqw5uv.cloudfront.net/wp-content/uploads/2021/03/31164356/horses.jpg" target="_blank">https://d3vyoh8eiqw5uv.cloudfront.net/wp-content/uploads/2021/03/31164356/horses.jpg</a> <br> <br> ★1：2021/04/04(日) 18:55:40.16 <br> <a rel="nofollow noopener" href="https://asahi.5ch.net/test/read.cgi/newsplus/1617530140/" target="_blank">https://asahi.5ch.net/test/read.cgi/newsplus/1617530140/</a> </p></div>
+<div class="poster_info">
+<span class="name">樽悶 ★</span> <span class="date">2021/04/04(日) 20:57:11.07 ID:JgrotnFw9</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617537431"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">29</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">4506</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="ads_conten_main" style="padding-top:15px"><iframe scrolling="no" marginwidth="0" marginheight="0" allowfullscreen="true" allowtransparency="true" border="0" style="border: 0px none; visibility: visible;" onload="this.style.visibility = 'visible';" class="ads_pc_iframe" src="/_ads/pc/first_content" width="300px" height="250p" frameborder="0"></iframe></li><li></li><li class="newsplus-202104042049276279 thread " data-board="newsplus" data-board-threadid="newsplus-202104042049276279">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<a rel="nofollow" href="https://i.imgur.com/zeZ1kWB.jpg" target="_self"><img class="thread_box_wrap_thumbnail" src="https://i.imgur.com/zeZ1kWB.jpg"></a>
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617536967" rel="nofollow noopener" target="_blank">【偶然】車イス乗車拒否の女性、１０年前にもやっぱり拒否されてメディアに取材させてた [和三盆★]</a>
+</div>
+<div class="thread-content "><p title="クリックして展開する" class="full-content"> プロ🤔 <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/zeZ1kWB.jpg" target="_blank">https://i.imgur.com/zeZ1kWB.jpg</a> </p></div>
+<div class="poster_info">
+<span class="name">和三盆 ★</span> <span class="date">2021/04/04(日) 20:49:27.62 ID:+cchXw7Z9</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617536967"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">16</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">8484</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="newsplus-202104042051502279 thread " data-board="newsplus" data-board-threadid="newsplus-202104042051502279">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<img class="thread_box_wrap_thumbnail" src="./images/boards/newsplus.jpg">
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617537110" rel="nofollow noopener" target="_blank">【コロナ】大阪の重症者向け病床使用率８３．３％ [和三盆★]</a>
+</div>
+<div class="thread-content "><p title="クリックして展開する" class="full-content"> 4月04日　20時12分 <br> <br> 大阪府内のすぐに入院できる病床の数とそれがどれだけ埋まっているかを示す「病床運用率」は次のとおりです。 <br> ４日の時点で、重症患者用の病床は、実際に運用されている病床が１６２床、患者が１３５人で、「病床運用率」が８３.３％となっています。 <br> また、軽症・中等症の患者用の病床は、実際に運用されている病床が１４３０床、患者が８１２人で、運用率は５６.８％。 <br> 無症状の人などが療養するために利用するホテルなどの宿泊療養施設の部屋は、実際に運用されている部屋が１８９８室、宿泊療養者が９１７人で、運用率は４８.３％となっています <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://www3.nhk.or.jp/kansai-news/20210404/2000043477.html" target="_blank">https://www3.nhk.or.jp/kansai-news/20210404/2000043477.html</a> </p></div>
+<div class="poster_info">
+<span class="name">和三盆 ★</span> <span class="date">2021/04/04(日) 20:51:50.22 ID:+cchXw7Z9</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617537110"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">10</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">18223</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="newsplus-2021040420420987469 thread " data-board="newsplus" data-board-threadid="newsplus-2021040420420987469">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<img class="thread_box_wrap_thumbnail" src="./images/boards/newsplus.jpg">
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617536529" rel="nofollow noopener" target="_blank">【速報】車イス女性「JRで駅員4人集め階段運んでと言ったら乗車拒否。せっかくの旅行を壊された」 ★4 [TOTTO★]</a>
+</div>
+<div class="thread-content fade-buttom-thread-content"><p title="クリックして展開する" class="full-content"> <a rel="nofollow noopener" href="http://jump.5ch.net/?http://blog.livedoor.jp/natirou/archives/52316146.html" target="_blank">http://blog.livedoor.jp/natirou/archives/52316146.html</a> <br> JRで車いすは乗車拒否されました <br> 2021/04/04 11:12 <br> <br> 久々の電車の乗車拒否にあいました。 <br> 本当に大変でした。クタクタでした。 <br> 長いですが、一人でも多くの人が読んでくれ、シェアしてくれると嬉しいです。 <br> ちなみたまたま拒否にあったわけでなく、車いすユーザーだと今の時代にもよくあることです。 <br> だから変えていくために、読んでもらえると嬉しいです。 <br> <br> 4月1日、2日の一泊二日、ヘルパーさん、友だち、子ども２人、私の合わせて5人で、熱海の来宮に旅行に行きました。 <br> 本当は沖縄に行く予定が、感染者増加で泣く泣く諦め、代わりにどこか行きたいな、と思いました。 <br> 条件は、電車で行ける、移動距離が少ない、宿は駅から歩ける範囲で子どもが過ごしやすい。 <br> そこで思いついたのが来宮、来宮神社！ <br> 事前にインターネットで、来宮駅の構内図を確認し、１Fの図の表示しかなく、上りホーム側に階段が。 <br> 下りなら階段なしなのかな、と思い、行ってから考えようとなりました。 <br> <br> 小田原駅→熱海駅→来宮駅のルートで行く予定が、JRは車いす対応に時間がかかることが多いので、余裕をもって、乗りたい時刻の３0分前に小田原駅に到着。 <br> <br> 小田原駅の改札で <br> <br> 「来宮までお願いします」と伝えると <br> <br> 駅員Aに「案内は15分前にするので、そのころにいらしてください」と言われる。 <br> <br> 小田原かまぼこやお菓子を買って、再度窓口へ。 <br> <br> 「お願いします」と伝えると <br> <br> 駅員Aに「来宮駅は階段しかないのでご案内ができません。熱海まででいいですか？」 <br> <br> と言われる。 <br> <br> 私「いや、来宮までお願いします」 <br> <br> 駅員A、どこかに問い合わせている模様。 <br> <br> 駅員Bが出てきて「熱海まででいいでしょうか？」 <br> <br> 私「いや、来宮までお願いします」 <br> <br> 駅員B「階段しかないので、ご案内できません。熱海まででいいですか？」 <br> <br> 私「いえ、私は30分前には来ていて、どうしてもこの電車に乗っていきたいです。駅員さん3，4人集めてもらい、階段を持ち上げてください」 <br> <br> 駅員B「熱海駅はそのような対応はしていません」 <br> <br> 私「どうにかお願いします。レストランもホテルももう予約しているので、この電車で行きたいです」 <br> <br> 駅員B「少々お待ちください」 <br> <br> すでに乗りたい電車が行ってしまう。30分前には来ていたのに、、、 <br> <br> 駅員C「来宮駅はお使いいただけませんので、熱海駅までで。その後はご自身でお考えになってください。」 <br> <br> 私「どうやって？」 <br> <br> 駅員C「タクシーなど」 <br> <br> 私「ではタクシーを調べてください。車いすごと乗れるタクシーはだいたい1か月前の予約なので厳しいと思いますが」 <br> <br> 駅員C「そうですか。では一応調べますが、代金はお客様負担で」 <br> <br> 私「駅は公共交通機関です。駅員さんを3，4人、集めてくれませんか？」 <br> <br> 駅員C「熱海駅は一切そのような手配は行っておりません」 <br> <br> 私「ではCさん、一緒にお願いします。」 <br> <br> 駅員「管轄外です。できません」 <br> <br> 私「バリアフリー法がありますよね。車いす対応をお願いします」 <br> <br> 駅員C「利用者3000人以下の駅は対象ではありません」 <br> <br> 私「障害者差別解消法があり、エレベーターがない駅は、合理的配慮としてほかの手段で対応していただく法律があります。エレベーターを作ってほしいと言っているわけではなく、エレベーターがないならば、それ以外方法で対応する義務があります」 <br> <br> 駅員C「現状としてできかねます」 <br> <br> このやり取りを、合計1時間繰り返しました。 <br> この間、子どもたちがずっと、一緒に立って、待っていてくれたことがありがたい。 <br> 改札に座る場所はなかったし、まさかこんなにも難航するとは。 <br> 買ったばかりのかまぼこ、お菓子が役に立ちました。 <br> ちなみにこのやりとりは記録のため携帯で撮影しました。 <br> タクシー会社の電話番号をもらいましたが、対応できるかは、わかりませんとのこと。 <br> とにかく熱海駅まではいくしかないと、予定よりも1時間遅れて電車に乗せてもらう。 <br> <br> 前スレ <br> <a rel="nofollow noopener" href="https://asahi.5ch.net/test/read.cgi/newsplus/1617535018/" target="_blank">https://asahi.5ch.net/test/read.cgi/newsplus/1617535018/</a> </p></div>
+<div class="poster_info">
+<span class="name">TOTTO ★</span> <span class="date">2021/04/04(日) 20:42:09.87 ID:SVgB4lc69</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617536529"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">55</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">14523</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="newsplus-202104042037507529 thread " data-board="newsplus" data-board-threadid="newsplus-202104042037507529">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<img class="thread_box_wrap_thumbnail" src="./images/boards/newsplus.jpg">
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617536270" rel="nofollow noopener" target="_blank">「女性はおしるこ作り、男性は力仕事」保護者に参加呼びかけ　抗議で学校側訂正(清瀬市) ★9 [蚤の市★]</a>
+</div>
+<div class="thread-content fade-buttom-thread-content"><p title="クリックして展開する" class="full-content"> 「女性はおしるこ作り、男性は力仕事」で参加呼びかけ　保護者抗議で学校側訂正 <br> <br> 　女性保護者は「おしるこ作り隊」に、男性保護者は力仕事をする「おやじお助け隊」にご参加ください—。小学校を通じて地域行事への参加を呼びかける文書を受け取った保護者から「教育現場では今も性別による役割分担の押しつけがある」という声が本紙に届けられた。学校側は当時「（押しつける）意図はなかった」としながらも文書を訂正。ジェンダー（社会的性差）平等が求められる今、この保護者は「多くの差別は無意識に行われる」と語った。（林朋実） <br> <br> 　文書は、東京都清瀬市の小学校で昨年１月におこなわれた地域行事に先だって児童に配られた。学校を支援する地域組織名義の文書には「『おやじお助け隊』募集！」のタイトルで、やぐらの組み立て、お汁粉用かまどの設置といった準備・片付けに男性保護者の参加を募った。もう１枚は「『おしるこ作り隊』募集！」と題し、お汁粉作り、配膳に女性保護者の協力を求めた。 <br> 　これに対し、保護者だった中央大准教授（倫理学）の横山陸さん（３７）＝新宿区＝は「男女で分けないような文章にすべきだった」と問題視。「なぜ力仕事が得意な母親がやぐらを組み、料理好きな父親がお汁粉を作ってはいけないのか」と抗議した。 <br> 　学校はその日のうちに校長名で訂正文書を児童に配布。「おやじお助け隊」を「腕自慢力仕事隊」に変更し、おしるこ作り隊も合わせて「男女に関係なく募集する」と修正した。 <br> 　横山さんは「性別による役割分担意識は差別であり、違法だと司法の場で認めてもらいたい」との思いから昨年９月、市に損害賠償を求めて、東京地裁立川支部に提訴。問題提起が目的なので請求額は１円。市教育委員会は本紙の取材に「裁判に影響するかもしれないので回答を控える」としている。 <br> <br> 東京新聞　2021年4月3日 18時00分 <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://www.tokyo-np.co.jp/article/95647" target="_blank">https://www.tokyo-np.co.jp/article/95647</a> <br> ★1　2021/04/04(日) 08:25:18.43 <br> ※前スレ <br> <a rel="nofollow noopener" href="https://asahi.5ch.net/test/read.cgi/newsplus/1617530103/" target="_blank">https://asahi.5ch.net/test/read.cgi/newsplus/1617530103/</a> </p></div>
+<div class="poster_info">
+<span class="name">蚤の市 ★</span> <span class="date">2021/04/04(日) 20:37:50.75 ID:UiyvJ2Ny9</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617536270"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">24</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">4495</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="newsplus-20210404202826832779 thread " data-board="newsplus" data-board-threadid="newsplus-20210404202826832779">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<img class="thread_box_wrap_thumbnail" src="./images/boards/newsplus.jpg">
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617535706" rel="nofollow noopener" target="_blank">【速報】車イス女性「JR無人駅で男駅員４人集め階段運んでと言ったら乗車拒否。マスコミに連絡、子を待たせたりと旅行台無しに」★５ [スタス★]</a>
+</div>
+<div class="thread-content fade-buttom-thread-content"><p title="クリックして展開する" class="full-content"> JRで車いすは乗車拒否されました <br> 2021/04/04 11:12 <br> <br> 久々の電車の乗車拒否にあいました。 <br> 本当に大変でした。クタクタでした。 <br> 長いですが、一人でも多くの人が読んでくれ、シェアしてくれると嬉しいです。 <br> ちなみたまたま拒否にあったわけでなく、車いすユーザーだと今の時代にもよくあることです。 <br> だから変えていくために、読んでもらえると嬉しいです。 <br> <br> 4月1日、2日の一泊二日、ヘルパーさん、友だち、子ども２人、私の合わせて5人で、熱海の来宮に旅行に行きました。 <br> 本当は沖縄に行く予定が、感染者増加で泣く泣く諦め、代わりにどこか行きたいな、と思いました。 <br> 条件は、電車で行ける、移動距離が少ない、宿は駅から歩ける範囲で子どもが過ごしやすい。 <br> そこで思いついたのが来宮、来宮神社！ <br> 事前にインターネットで、来宮駅の構内図を確認し、１Fの図の表示しかなく、上りホーム側に階段が。 <br> 下りなら階段なしなのかな、と思い、行ってから考えようとなりました。 <br> <br> 小田原駅→熱海駅→来宮駅のルートで行く予定が、JRは車いす対応に時間がかかることが多いので、余裕をもって、乗りたい時刻の３0分前に小田原駅に到着。 <br> <br> 小田原駅の改札で <br> <br> 「来宮までお願いします」と伝えると <br> <br> 駅員Aに「案内は15分前にするので、そのころにいらしてください」と言われる。 <br> <br> 小田原かまぼこやお菓子を買って、再度窓口へ。 <br> <br> 「お願いします」と伝えると <br> <br> 駅員Aに「来宮駅は階段しかないのでご案内ができません。熱海まででいいですか？」 <br> <br> と言われる。 <br> <br> 私「いや、来宮までお願いします」 <br> <br> 駅員A、どこかに問い合わせている模様。 <br> <br> 駅員Bが出てきて「熱海まででいいでしょうか？」 <br> <br> 私「いや、来宮までお願いします」 <br> <br> 駅員B「階段しかないので、ご案内できません。熱海まででいいですか？」 <br> <br> 私「いえ、私は30分前には来ていて、どうしてもこの電車に乗っていきたいです。駅員さん3，4人集めてもらい、階段を持ち上げてください」 <br> <br> 駅員B「熱海駅はそのような対応はしていません」 <br> <br> 私「どうにかお願いします。レストランもホテルももう予約しているので、この電車で行きたいです」 <br> <br> 駅員B「少々お待ちください」 <br> <br> すでに乗りたい電車が行ってしまう。30分前には来ていたのに、、、 <br> <br> 駅員C「来宮駅はお使いいただけませんので、熱海駅までで。その後はご自身でお考えになってください。」 <br> <br> 私「どうやって？」 <br> <br> 駅員C「タクシーなど」 <br> <br> 私「ではタクシーを調べてください。車いすごと乗れるタクシーはだいたい1か月前の予約なので厳しいと思いますが」 <br> <br> 駅員C「そうですか。では一応調べますが、代金はお客様負担で」 <br> <br> 私「駅は公共交通機関です。駅員さんを3，4人、集めてくれませんか？」 <br> <br> 中略 <br> <br> このやり取りを、合計1時間繰り返しました。 <br> この間、子どもたちがずっと、一緒に立って、待っていてくれたことがありがたい。 <br> 改札に座る場所はなかったし、まさかこんなにも難航するとは。 <br> 買ったばかりのかまぼこ、お菓子が役に立ちました。 <br> ちなみにこのやりとりは記録のため携帯で撮影しました。 <br> <br> 中略 <br> <br> 正直、ここまでの乗車拒否は初めてでした。 <br> <br> 階段しかない駅では、時間はかかっても、駅員を集めてくれ、持ってくれるからです。 <br> 車いすユーザーが利用者として想定されていないと、改めて痛感したし、これをもっと可視化していかないといけませんね。 <br> <br> 正直、私もここまでしたくありません。 <br> <br> 交渉したり、記録を撮ったり、メディアに連絡したり。 <br> せっかくの旅行がクタクタでした。 <br> 本当に疲れました。 <br> <br> 画像 <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://livedoor.blogimg.jp/natirou/imgs/f/5/f5cb167d.jpg" target="_blank">https://livedoor.blogimg.jp/natirou/imgs/f/5/f5cb167d.jpg</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://livedoor.blogimg.jp/natirou/imgs/2/3/232626af.jpg" target="_blank">https://livedoor.blogimg.jp/natirou/imgs/2/3/232626af.jpg</a> <br> <br> ソース <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?http://blog.livedoor.jp/natirou/archives/52316146.html" target="_blank">http://blog.livedoor.jp/natirou/archives/52316146.html</a> </p></div>
+<div class="poster_info">
+<span class="name">スタス ★</span> <span class="date">2021/04/04(日) 20:28:26.83 ID:IID2w7/79</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617535706"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">21</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">3167</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="newsplus-2021040420254286089 thread " data-board="newsplus" data-board-threadid="newsplus-2021040420254286089">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<a rel="nofollow" href="https://i.imgur.com/rILGFpn.jpg" target="_self"><img class="thread_box_wrap_thumbnail" src="https://i.imgur.com/rILGFpn.jpg"></a>
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617535542" rel="nofollow noopener" target="_blank">【静岡県】「日本一映える女子高生」が最高にエモい、静岡の“田舎”撮り続けるカメラマンの思い「地域の活性化につなげたい」 [砂漠のマスカレード★]</a>
+</div>
+<div class="thread-content fade-buttom-thread-content"><p title="クリックして展開する" class="full-content"> 「三保の女子高生は日本一映える日常を送っていた」という一文とともにTwitterに投稿された写真が、19.6万件ものいいねを集めて話題に。大きく美しい富士山を背景に、楽しそうに通学する2人の女子高生を撮った作品で、「青春が詰まってる」「最高にエモい」「いろんなストーリーを妄想できそう」など、多くのコメントも寄せられている。投稿者のうちだしんのすけさん（@SinPictures）は、『夏色フォトグラフィー』という田舎の夏と女子高生をテーマにした作品も撮っている地元・静岡のカメラマン。こうした作品を撮影する思いを聞いた。 <br> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/rILGFpn.jpg" target="_blank">https://i.imgur.com/rILGFpn.jpg</a> <br> <br> ■富士山見える町景色と女子高生、人の心動かす写真に大きな反響 <br> <br> ——今回のツイートには、とても大きな反響が寄せられています。 <br> <br> 【うちださん】モデルさんのしぐさ・表情・信号機の色・富士山の見え方など、すべてが狙い通りだったので、手応えはありました。ただ、ここまで反響をいただけるとは思っておらず、通知が鳴り止まなかった2日間は仕事に集中できなくなるほどソワソワしました（笑）。7年間コツコツとTwitterに投稿し続けてきて、本当に良かったと感じましたね。 <br> <br> ——どんな反響が印象に残っていますか？ <br> <br> 【うちださん】現在この地域に住んでいる人や過去に住んでいた人、また同じような故郷を持つ多くの人たちから、共感を得ることができたのかなと思いました。ただ、「富士宮の方がすごい」とか「富士山合成？(合成ではなくカメラのレンズによる圧縮効果です)」といったコメントもあり、良くも悪くも、人の心が動く要素がたくさんあったからバズったのかなとも感じましたね。 <br> <br> ——あの場所はどのようにして選んだのでしょうか？ <br> <br> 【うちださん】「三保街道」の富士山が見える町景色は、カメラ好きな人たちには実はお馴染みのアングルです。場所としてはベタなのですが、この風景に地元の女子高生を掛け合わせた写真はまだ見たことがないなと思い、ここで撮影することにしました。 <br> <br> ——この女子高生は、お知り合いの方ですか？ <br> <br> 【うちださん】僕は2015年から『夏色フォトグラフィー』という田舎の夏と女子高生をテーマにした作品撮りを行なっていて、2019年から春に卒業する3年生も撮るようになったんです。昨年、成人式の前撮りをする機会があり、主役の子の妹さんが一緒について来ていて、その子が高校3年生だったためスカウトしました（笑）。 <br> <br> ■儚さと尊さの掛け合わせ、共感を生むことで「景観を守ろうという気持ちにつながれば」 <br> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/RGHNIS6.jpg" target="_blank">https://i.imgur.com/RGHNIS6.jpg</a> <br> <br> <br> ——その『夏色フォトグラフィー』ですが、夏の田舎の風景と女子高生というテーマに行きついた経緯は？ <br> <br> 【うちださん】「仕事以外の写真で自分の好きな世界を表現したい」と漠然と感じていたとき、知人に誘われて富士宮市の山奥へ行ったんです。その途中で出会った柚野（ゆの）という田舎の村に広がる田園風景に目を奪われ、思わず車を停めて見入ってしまいました。30年以上も静岡県に住んでいて、こんなに素敵な地域があるなんて誰も教えてくれませんでしたし、身近な静岡市民にも知っている人はほとんどいませんでした。だから、「みんなに知ってほしい」と思ったことが最初のきっかけですね。 <br> <br> 4/3(土) 9:30 <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://headlines.yahoo.co.jp/hl?a=20210403-00000312-oric-life" target="_blank">https://headlines.yahoo.co.jp/hl?a=20210403-00000312-oric-life</a> <br> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/cj8Tx6k.jpg" target="_blank">https://i.imgur.com/cj8Tx6k.jpg</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/jp2hOVm.jpg" target="_blank">https://i.imgur.com/jp2hOVm.jpg</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/HHaGUfM.jpg" target="_blank">https://i.imgur.com/HHaGUfM.jpg</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/MgotsL8.jpg" target="_blank">https://i.imgur.com/MgotsL8.jpg</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/X3e56YQ.jpg" target="_blank">https://i.imgur.com/X3e56YQ.jpg</a> <br> <a rel="nofollow noopener" href="http://jump.5ch.net/?https://i.imgur.com/GAXeBwq.jpg" target="_blank">https://i.imgur.com/GAXeBwq.jpg</a> </p></div>
+<div class="poster_info">
+<span class="name">砂漠のマスカレード ★</span> <span class="date">2021/04/04(日) 20:25:42.86 ID:WL0R8V+T9</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617535542"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">13</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">2492</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="newsplus-202104042017580379 thread " data-board="newsplus" data-board-threadid="newsplus-202104042017580379">
+<div class="thread_link">
+<div class="thread_box thread_box-left text-center">
+</div>
+<div class="thread_box thread_box-right">
+<div class="public_nav" align="right">
+<div class="post_nav_buttons">
+<a title="隠す" class="hide_post" href="javascript:void(0)">[隠す]</a>
+</div>
+</div>
+<div class="thread_box_wrap">
+<img class="thread_box_wrap_thumbnail" src="./images/boards/newsplus.jpg">
+</div>
+<div class="thread_title">
+<a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617535078" rel="nofollow noopener" target="_blank">【速報】車イス女性「JRで駅員4人集め階段運んでと言ったら乗車拒否。せっかくの旅行を壊された」 ★4 [和三盆★]</a>
+</div>
+<div class="thread-content fade-buttom-thread-content"><p title="クリックして展開する" class="full-content"> <a rel="nofollow noopener" href="http://jump.5ch.net/?http://blog.livedoor.jp/natirou/archives/52316146.html" target="_blank">http://blog.livedoor.jp/natirou/archives/52316146.html</a> <br> JRで車いすは乗車拒否されました <br> 2021/04/04 11:12 <br> <br> 久々の電車の乗車拒否にあいました。 <br> 本当に大変でした。クタクタでした。 <br> 長いですが、一人でも多くの人が読んでくれ、シェアしてくれると嬉しいです。 <br> ちなみたまたま拒否にあったわけでなく、車いすユーザーだと今の時代にもよくあることです。 <br> だから変えていくために、読んでもらえると嬉しいです。 <br> <br> 4月1日、2日の一泊二日、ヘルパーさん、友だち、子ども２人、私の合わせて5人で、熱海の来宮に旅行に行きました。 <br> 本当は沖縄に行く予定が、感染者増加で泣く泣く諦め、代わりにどこか行きたいな、と思いました。 <br> 条件は、電車で行ける、移動距離が少ない、宿は駅から歩ける範囲で子どもが過ごしやすい。 <br> そこで思いついたのが来宮、来宮神社！ <br> 事前にインターネットで、来宮駅の構内図を確認し、１Fの図の表示しかなく、上りホーム側に階段が。 <br> 下りなら階段なしなのかな、と思い、行ってから考えようとなりました。 <br> <br> 小田原駅→熱海駅→来宮駅のルートで行く予定が、JRは車いす対応に時間がかかることが多いので、余裕をもって、乗りたい時刻の３0分前に小田原駅に到着。 <br> <br> 小田原駅の改札で <br> <br> 「来宮までお願いします」と伝えると <br> <br> 駅員Aに「案内は15分前にするので、そのころにいらしてください」と言われる。 <br> <br> 小田原かまぼこやお菓子を買って、再度窓口へ。 <br> <br> 「お願いします」と伝えると <br> <br> 駅員Aに「来宮駅は階段しかないのでご案内ができません。熱海まででいいですか？」 <br> <br> と言われる。 <br> <br> 私「いや、来宮までお願いします」 <br> <br> 駅員A、どこかに問い合わせている模様。 <br> <br> 駅員Bが出てきて「熱海まででいいでしょうか？」 <br> <br> 私「いや、来宮までお願いします」 <br> <br> 駅員B「階段しかないので、ご案内できません。熱海まででいいですか？」 <br> <br> 私「いえ、私は30分前には来ていて、どうしてもこの電車に乗っていきたいです。駅員さん3，4人集めてもらい、階段を持ち上げてください」 <br> <br> 駅員B「熱海駅はそのような対応はしていません」 <br> <br> 私「どうにかお願いします。レストランもホテルももう予約しているので、この電車で行きたいです」 <br> <br> 駅員B「少々お待ちください」 <br> <br> すでに乗りたい電車が行ってしまう。30分前には来ていたのに、、、 <br> <br> 駅員C「来宮駅はお使いいただけませんので、熱海駅までで。その後はご自身でお考えになってください。」 <br> <br> 私「どうやって？」 <br> <br> 駅員C「タクシーなど」 <br> <br> 私「ではタクシーを調べてください。車いすごと乗れるタクシーはだいたい1か月前の予約なので厳しいと思いますが」 <br> <br> 駅員C「そうですか。では一応調べますが、代金はお客様負担で」 <br> <br> 私「駅は公共交通機関です。駅員さんを3，4人、集めてくれませんか？」 <br> <br> 駅員C「熱海駅は一切そのような手配は行っておりません」 <br> <br> 私「ではCさん、一緒にお願いします。」 <br> <br> 駅員「管轄外です。できません」 <br> <br> 私「バリアフリー法がありますよね。車いす対応をお願いします」 <br> <br> 駅員C「利用者3000人以下の駅は対象ではありません」 <br> <br> 私「障害者差別解消法があり、エレベーターがない駅は、合理的配慮としてほかの手段で対応していただく法律があります。エレベーターを作ってほしいと言っているわけではなく、エレベーターがないならば、それ以外方法で対応する義務があります」 <br> <br> 駅員C「現状としてできかねます」 <br> <br> このやり取りを、合計1時間繰り返しました。 <br> この間、子どもたちがずっと、一緒に立って、待っていてくれたことがありがたい。 <br> 改札に座る場所はなかったし、まさかこんなにも難航するとは。 <br> 買ったばかりのかまぼこ、お菓子が役に立ちました。 <br> ちなみにこのやりとりは記録のため携帯で撮影しました。 <br> タクシー会社の電話番号をもらいましたが、対応できるかは、わかりませんとのこと。 <br> とにかく熱海駅まではいくしかないと、予定よりも1時間遅れて電車に乗せてもらう。 <br> <br> ※前スレ <br> <a rel="nofollow noopener" href="https://asahi.5ch.net/test/read.cgi/newsplus/1617532371/" target="_blank">https://asahi.5ch.net/test/read.cgi/newsplus/1617532371/</a> <br> <a rel="nofollow noopener" href="https://asahi.5ch.net/test/read.cgi/newsplus/1617532678/" target="_blank">https://asahi.5ch.net/test/read.cgi/newsplus/1617532678/</a> </p></div>
+<div class="poster_info">
+<span class="name">和三盆 ★</span> <span class="date">2021/04/04(日) 20:17:58.03 ID:+cchXw7Z9</span>
+</div>
+<div class="thread_detail text-right">
+<span class="thread_detail_child" title="Comment"><a href="http://asahi.5ch.net/test/read.cgi/newsplus/1617535078"><span class="fa fa-comment"></span> <span class="thread_detail_child_value">33</span></a></span>
+<span class="thread_detail_child"><span class="thread_detail_child_value"><a href="https://asahi.5ch.net/newsplus/">ニュース速報+</a></span></span>
+<span class="thread_detail_child" title="パワ"><span class="fa fa-flash"></span> <span class="thread_detail_child_value">6361</span></span>
+<span class="thread_detail_child" title="板をフォローする"><button data-boardid="newsplus" type="button" class="btn btn-info btn-sm follow-button">フォローする</button></span>
+<span class="thread_detail_child" title="ban be user"></span>
+</div>
+</div>
+</div>
+</li>
+<li class="ads_conten_main" style="padding-top:15px"><iframe scrolling="no" marginwidth="0" marginheight="0" allowfullscreen="true" allowtransparency="true" border="0" style="border: 0px none; visibility: visible;" onload="this.style.visibility = 'visible';" class="ads_pc_iframe" src="/_ads/pc/repeat_content" width="300px" height="250p" frameborder="0"></iframe></li><li> </li></ul>
+</div>
+</div>
+<center>
+<div class="more-posts">
+<a href="javascript:void(0)" id="more_news_index"><h3>もっと見る <span class="glyphicon glyphicon-arrow-down"></span></h3></a>
+<input type="hidden" value="0" id="recent_page">
+<input type="hidden" value="0" id="additional_articles_loaded">
+</div>
+</center>
+</div>
+<div id="content-widget" class="col-md-4">
+<div class="card my-4">
+<div class="card-body">
+<div class="content">
+<div>
+<div class="center-object">
+<a class="navbar-brand" href="/"><img src="//5ch.net/images/5ch_mascot_normal.png" width="150px"></a>
+</div>
+「ハッキング」から「今晩のおかず」までを手広くカバーする巨大掲示板群『５ちゃんねる』へようこそ！ </div>
+</div>
+</div>
+</div>
+<div class="card my-4">
+<div class="card-body">
+<span class="title-widget">インフォメイション</span>
+<hr class="widget-hr">
+<div class="content">
+<ul class="circle-style">
+<li><a href="https://info.5ch.net/">使い方＆注意 </a></li>
+<li><a href="https://premium.5ch.net/">プレミアム浪人 </a></li>
+<li><a href="https://headline.5ch.net/bbynews/">ヘッドライン </a></li>
+<li><a href="https://newsnavi.5ch.net/">ニュース </a></li>
+<li><a href="https://headline.5ch.net/bbynamazu/">地震速報 </a></li>
+<li><a href="https://stat.5ch.net/">投稿数 </a></li>
+<li><a href="https://www.5ch.net/kakolog.html">過去ログ倉庫 </a></li>
+<li><a href="https://qb5.5ch.net/saku2ch/">削除ガイドライン </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sticky_side_point">
+<div class="card my-4">
+<div class="card-body">
+<hr class="widget-hr">
+<div class="content">
+<div class="ads-item">
+<div class="side_ads side-ads-pc">
+<script type="text/javascript"> 
+			var pubId=156180; 
+			var siteId=253824; 
+			var kadId=2619913; 
+			var kadwidth=300; 
+			var kadheight=250; 
+			var kadschain="SUPPLYCHAIN_GOES_HERE"; 
+			var kadUsPrivacy=""; <!-- Insert user CCPA consent string here for CCPA compliant inventory --> 
+			var kadtype=1; 
+			var kadGdpr=""; <!-- set to 1 if inventory is GDPR compliant --> 
+			var kadGdprConsent=""; <!-- Insert user GDPR consent string here for GDPR compliant inventory --> 
+			var kadpageurl= "https%3A%2F%2Fwww.5ch.net%2F"; 
+			</script>
+<script type="text/javascript" src="https://ads.pubmatic.com/AdServer/js/showad.js"></script><script type="text/javascript" src="https://image6.pubmatic.com/AdServer/UCookieSetPug?oid=2&amp;cb=PubMatic._uidCB"></script><script type="text/javascript" src="https://ads.pubmatic.com/AdServer/js/showad.js"></script><iframe allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" hspace="0" vspace="0" style="height:0px;width:0px;display:none;" src="https://ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;p=156180&amp;s=253824&amp;a=2619913&amp;it=0&amp;kdntuid=1&amp;bce=1&amp;gdpr=0&amp;gdpr_consent=&amp;us_privacy=" width="0" height="0" frameborder="0"></iframe><iframe allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" hspace="0" vspace="0" style="height:0px;width:0px;display:none;" src="https://ads.pubmatic.com/AdServer/js/showad.js" onload="PubMatic.ifl(this,0)" width="0" height="0" frameborder="0"></iframe><script type="text/javascript" src="https://sshowads.pubmatic.com/AdServer/AdServerServlet?pubId=156180&amp;siteId=253824&amp;adId=2619913&amp;kadwidth=300&amp;kadheight=250&amp;SAVersion=2&amp;js=1&amp;kdntuid=1&amp;pageURL=https%3A%2F%2F5ch.net%2F&amp;inIframe=0&amp;kadpageurl=https%3A%2F%2Fwww.5ch.net%2F&amp;schain=SUPPLYCHAIN_GOES_HERE&amp;operId=3&amp;sec=1&amp;kltstamp=2021-4-4%208%3A8%3A9&amp;timezone=-4&amp;screenResolution=1366x768&amp;ranreq=0.7241641731896994&amp;pmUniAdId=0&amp;adVisibility=3&amp;adPosition=629x896&amp;pm_uid_bc=C6071E30-6147-4D1A-A41D-5CAB75516DE5&amp;gdpr=0&amp;dspids=%7B%7D" onload="PubMatic.tags[0].jsl();"></script><span class="PubAdAI" id="F53B82E5-4F8F-4C84-9C00-5940BBC2E886"><script type="text/javascript">
+/* <![CDATA[ */
+window.adroute_ad = {
+    mediaId: '93872',
+    type: '1',
+    block: 'adblock_93872_1',
+    size: '300x250',
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://static.pc-adroute.focas.jp/js/adroute_ads.js"></script><div width="300px" height="250px" id="adroute_ads_adblock_93872_1" style="width: 100%; height: 250px; position: relative; left: 0px; right: 0px; margin: auto; padding: 0px; text-align: center; visibility: visible; display: block; opacity: 1;"><iframe name="adroute_ads_frame_adblock_93872_1" id="adroute_ads_frame_adblock_93872_1" src="https://pc-adroute.focas.jp/ads/show_page.html?mid=93872&amp;type=1&amp;block=adblock_93872_1&amp;inner_w=1366&amp;inner_h=694&amp;scr_w=1366&amp;scr_h=768&amp;time=1617538090" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" width="300px" height="250px" frameborder="0"></iframe></div>
+
+<iframe name="pbeacon" allowtransparency="true" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-20000px;" src="https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&amp;pubId=156180&amp;siteId=253824&amp;adId=2619913&amp;adType=3&amp;adServerId=165&amp;kefact=0.090000&amp;kaxefact=0.090000&amp;kadNetFrequecy=0&amp;kadwidth=300&amp;kadheight=250&amp;kadsizeid=0&amp;kltstamp=1617538105&amp;indirectAdId=2314862&amp;adServerOptimizerId=1&amp;ranreq=0.7241641731896994&amp;kpbmtpfact=0.000000&amp;dcId=2&amp;tldId=0&amp;passback=3&amp;svr=ADSVA015&amp;adsver=_2344862218&amp;adsabzcid=0&amp;ekefact=OaxpYLdjAgBqD8N21pD_JXzaV1OtYPwCXrwrXKYloifsMI27&amp;ekaxefact=OaxpYM5jAgDro-yryIQdBY-Wlrx7RU0ky3Yeq2cufQJ1D7ml&amp;ekpbmtpfact=OaxpYOJjAgBU2L_D69pC0YXf-UzOmgbplm5loelaCLe7eUAr&amp;pfi=1&amp;dc=VA1&amp;crID=0&amp;campaignId=0&amp;isRTB=0&amp;imprId=F53B82E5-4F8F-4C84-9C00-5940BBC2E886&amp;oid=F53B82E5-4F8F-4C84-9C00-5940BBC2E886&amp;cntryId=232&amp;domain=5ch.net&amp;pageURL=https%3A%2F%2Fwww.5ch.net%2F&amp;sec=1&amp;pAuSt=2" width="0" height="0" frameborder="0"> </iframe><!-- PubMatic Ad Ends --> </span>
+</div>
+<div class="side_ads side-ads-pc">
+<script type="text/javascript"> 
+			var pubId=156180; 
+			var siteId=253824; 
+			var kadId=2620198; 
+			var kadwidth=300; 
+			var kadheight=250; 
+			var kadschain="SUPPLYCHAIN_GOES_HERE"; 
+			var kadUsPrivacy=""; <!-- Insert user CCPA consent string here for CCPA compliant inventory --> 
+			var kadtype=1; 
+			var kadGdpr=""; <!-- set to 1 if inventory is GDPR compliant --> 
+			var kadGdprConsent=""; <!-- Insert user GDPR consent string here for GDPR compliant inventory --> 
+			var kadpageurl= "https%3A%2F%2Fwww.5ch.net%2F"; 
+			</script>
+<script type="text/javascript" src="https://ads.pubmatic.com/AdServer/js/showad.js"></script><iframe allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" hspace="0" vspace="0" style="height:0px;width:0px;display:none;" src="https://ads.pubmatic.com/AdServer/js/showad.js" onload="PubMatic.ifl(this,1)" width="0" height="0" frameborder="0"></iframe><script type="text/javascript" src="https://sshowads.pubmatic.com/AdServer/AdServerServlet?pubId=156180&amp;siteId=253824&amp;adId=2620198&amp;kadwidth=300&amp;kadheight=250&amp;SAVersion=2&amp;js=1&amp;kdntuid=1&amp;pageURL=https%3A%2F%2F5ch.net%2F&amp;inIframe=0&amp;kadpageurl=https%3A%2F%2Fwww.5ch.net%2F&amp;schain=SUPPLYCHAIN_GOES_HERE&amp;operId=3&amp;sec=1&amp;kltstamp=2021-4-4%208%3A8%3A10&amp;timezone=-4&amp;screenResolution=1366x768&amp;ranreq=0.11761551744952814&amp;pmUniAdId=1&amp;prevkadIds=2619913&amp;adVisibility=2&amp;adPosition=883x896&amp;pm_uid_bc=C6071E30-6147-4D1A-A41D-5CAB75516DE5&amp;gdpr=0&amp;dspids=%7B%7D" onload="PubMatic.tags[1].jsl();"></script><span class="PubAdAI" id="1B1278A9-3F7A-40D4-94C4-762D6CC2BC43"><script type="text/javascript">
+/* <![CDATA[ */
+window.adroute_ad = {
+    mediaId: '93872',
+    type: '1',
+    block: 'adblock_93872_2',
+    size: '300x250',
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://static.pc-adroute.focas.jp/js/adroute_ads.js"></script><div width="300px" height="250px" id="adroute_ads_adblock_93872_2" style="width: 100%; height: 250px; position: relative; left: 0px; right: 0px; margin: auto; padding: 0px; text-align: center; visibility: visible; display: block; opacity: 1;"><iframe name="adroute_ads_frame_adblock_93872_2" id="adroute_ads_frame_adblock_93872_2" src="https://pc-adroute.focas.jp/ads/show_page.html?mid=93872&amp;type=1&amp;block=adblock_93872_2&amp;inner_w=1366&amp;inner_h=694&amp;scr_w=1366&amp;scr_h=768&amp;time=1617538090" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" width="300px" height="250px" frameborder="0"></iframe></div>
+
+<iframe name="pbeacon" allowtransparency="true" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-20000px;" src="https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&amp;pubId=156180&amp;siteId=253824&amp;adId=2620198&amp;adType=3&amp;adServerId=165&amp;kefact=0.090000&amp;kaxefact=0.090000&amp;kadNetFrequecy=0&amp;kadwidth=300&amp;kadheight=250&amp;kadsizeid=0&amp;kltstamp=1617538106&amp;indirectAdId=2314929&amp;adServerOptimizerId=1&amp;ranreq=0.11761551744952814&amp;kpbmtpfact=0.000000&amp;dcId=2&amp;tldId=0&amp;passback=3&amp;svr=ADSVA015&amp;adsver=_2344862218&amp;adsabzcid=0&amp;ekefact=OqxpYLxlBACkm8M76RrFHLXBIBUnXDg2sylXHL8Xe7ad3x7D&amp;ekaxefact=OqxpYNJlBADk31n2_kl7MUwBRtucaxaAHMRLaUDkTKX9Hwq2&amp;ekpbmtpfact=OqxpYOVlBAB4IVqtRvaJNd0zlT16oGqC8iuu-FyOCX00rITm&amp;pfi=1&amp;dc=VA1&amp;crID=0&amp;campaignId=0&amp;isRTB=0&amp;imprId=1B1278A9-3F7A-40D4-94C4-762D6CC2BC43&amp;oid=1B1278A9-3F7A-40D4-94C4-762D6CC2BC43&amp;cntryId=232&amp;domain=5ch.net&amp;pageURL=https%3A%2F%2Fwww.5ch.net%2F&amp;sec=1&amp;pAuSt=2" width="0" height="0" frameborder="0"> </iframe><!-- PubMatic Ad Ends --> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card my-4">
+<div class="card-body">
+<div class="content">
+<center>
+Loki Technology, Inc.
+<br>
+29F Joy Nostalg Center
+<br>
+17 ADB Avenue, Ortigas Center
+<br>
+PASIG 1600
+</center>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="py-5 bg-light">
+<div class="container">
+<p class="m-0 text-center text-dark content">
+５ちゃんねるのご利用は利用者各位のご判断にお任せしています｜<br>
+5ch.netにおけるコンテンツの権利はLoki Tech, Inc. に帰属します。<br><br>
+コンテンツの無断複写、転載を禁じます。
+<br>
+<a href="https://www.5ch.net/matome.html">５ちゃんねるまとめブログ運営者の皆さまへ</a><br>
+<a href="http://zansu.com/">zansu</a>
+</p>
+</div>
+</footer>
+<script src="//5ch.net/vendor/jquery/jquery.min.js"></script>
+<script src="//5ch.net/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="//5ch.net/js/frontpage-min.js"></script>
+<script src="//5ch.net/js/filter-min.js"></script>
+<script>
+  $(document).ready(function () {
+		let showLeader = function(){
+			$('#js-to-itest').removeClass('hidden');
+		}
+  let observeLeader = function(){
+    setInterval(function(){
+			let d = $('#js-to-itest');
+			let top = $(window).scrollTop();
+			if(top > 45){
+				d.addClass('leader-fixed');
+				d.next('.post-item-box').addClass('margin-80px');
+			} else {
+				d.removeClass('leader-fixed');
+				d.next('.post-item-box').removeClass('margin-80px');
+			}
+		}, 50);
+  }
+
+  let getEnv = function(){
+    let ua = navigator.userAgent.toLowerCase();
+    let env = 'SP';
+    if (ua.indexOf("iphone")  === -1 &&
+        ua.indexOf("ipad")    === -1 &&
+        ua.indexOf("ipod")    === -1 &&
+        ua.indexOf("android") === -1) {
+      env = "PC";
+    }
+    return env;
+  }
+  let env = getEnv();
+  let wid = $(document).width();
+  if(env == 'SP' && 976 >= wid) {
+		showLeader();
+    observeLeader();
+  }
+  });
+</script>
+
+
+<div class="popover fade bs-popover-bottom show" role="tooltip" id="popover494888" x-placement="bottom" style="position: absolute; transform: translate3d(1002px, 57px, 0px); top: 0px; left: 0px; will-change: transform;"><div class="arrow" style="left: 124px;"></div><h3 class="popover-header"></h3><div class="popover-body">ここからBEアカウントでログインすると、フロントページのすべての機能を楽しめます! 詳細については<a href="https://5ch.net/faq.html">FAQ</a>をご覧ください。</div></div><img src="https://pixel.tapad.com/idsync/ex/receive?partner_id=2966&amp;partner_device_id=EfbrW6Zqa6Du0QNumAJDWDd7SKgNnJq9WOI3gOcVezK8RiX9" style="display: none;" width="1" height="1"><img src="https://pixel.tapad.com/idsync/ex/receive?partner_id=2966&amp;partner_device_id=MEYpQWPf5sAVDtY3Ox2B41PaXwvtwKyojyZdWwOaq3GuhsCE" style="display: none;" width="1" height="1"></body></html>

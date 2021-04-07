@@ -1,0 +1,672 @@
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
+        
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+
+<title>BikGa - Classifieds</title>
+<meta name="title" content="BikGa - Classifieds">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="Fri, Jan 01 1970 00:00:00 GMT">
+
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<!-- favicon -->
+<link rel="shortcut icon" href="http://www.bikga.com/oc-content/themes/bender/favicon/favicon-48.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.bikga.com/oc-content/themes/bender/favicon/favicon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.bikga.com/oc-content/themes/bender/favicon/favicon-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.bikga.com/oc-content/themes/bender/favicon/favicon-72.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.bikga.com/oc-content/themes/bender/favicon/favicon-57.png">
+<!-- /favicon -->
+
+<link href="http://www.bikga.com/oc-content/themes/bender/js/jquery-ui/jquery-ui-1.10.2.custom.min.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+    var bender = window.bender || {};
+    bender.base_url = 'http://www.bikga.com/index.php';
+    bender.langs = {"delete":"Delete","cancel":"Cancel"};
+    bender.fancybox_prev = 'Previous image';
+    bender.fancybox_next = 'Next image';
+    bender.fancybox_closeBtn = 'Close';
+</script>
+<link href="http://www.bikga.com/oc-content/themes/bender/css/main.css" rel="stylesheet" type="text/css">
+<meta name="generator" content="Osclass 3.8.0"><meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<link href="http://www.bikga.com/oc-content/themes/bender/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css">
+<link href="http://www.bikga.com/oc-content/themes/bender/css/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="http://www.bikga.com/oc-includes/osclass/assets/js/fineuploader/fineuploader.css" rel="stylesheet" type="text/css">
+<link href="http://www.bikga.com/oc-content/themes/bender/css/ajax-uploader.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.bikga.com/oc-includes/osclass/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bikga.com/oc-content/themes/bender/js/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="http://www.bikga.com/oc-includes/osclass/assets/js/date.js"></script>
+<script type="text/javascript" src="http://www.bikga.com/oc-includes/osclass/assets/js/fineuploader/jquery.fineuploader.min.js"></script>
+<script type="text/javascript" src="http://www.bikga.com/oc-includes/osclass/assets/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.bikga.com/oc-content/themes/bender/js/global.js"></script>
+    </head>
+<body class="has-searchbox home">
+<div id="header">
+    <!-- header ad 728x60-->
+    <div class="ads_header">
+        <!-- /header ad 728x60-->
+    </div>
+    <div class="clear"></div>
+    <div class="wrapper">
+        <div id="logo">
+            <a href="http://www.bikga.com/">BikGa - Classifieds</a>            <span id="description"></span>
+        </div>
+        <ul class="nav">
+                                                    <li><a id="login_open" href="http://www.bikga.com/index.php?page=login">Login</a></li>
+                                    <li><a href="http://www.bikga.com/index.php?page=register&amp;action=register">Register for a free account</a></li>
+                                                                <li class="publish"><a href="http://www.bikga.com/index.php?page=item&amp;action=item_add">Publish your ad for free</a></li>
+                    </ul>
+
+    </div>
+        <form action="http://www.bikga.com/index.php" method="get" class="search nocsrf">
+        <input type="hidden" name="page" value="search">
+        <div class="main-search">
+            <div class="cell">
+                <div class="has-placeholder input-text"><label>ie. PHP Programmer</label><input type="text" name="sPattern" id="query" class="input-text" value=""></div>
+            </div>
+                            <div class="cell selector">
+                    <div class="select-box undefined"><select name="sCategory" id="sCategory" style="opacity: 0;"><option value="">Select a category</option><option value="1">For sale</option><option value="9">&nbsp;&nbsp;Animals</option><option value="10">&nbsp;&nbsp;Art - Collectibles</option><option value="11">&nbsp;&nbsp;Barter</option><option value="12">&nbsp;&nbsp;Books - Magazines</option><option value="13">&nbsp;&nbsp;Cameras - Camera Accessories</option><option value="14">&nbsp;&nbsp;CDs - Records</option><option value="15">&nbsp;&nbsp;Cell Phones - Accessories</option><option value="16">&nbsp;&nbsp;Clothing</option><option value="17">&nbsp;&nbsp;Computers - Hardware</option><option value="18">&nbsp;&nbsp;DVD</option><option value="19">&nbsp;&nbsp;Electronics</option><option value="20">&nbsp;&nbsp;For Babies - Infants</option><option value="21">&nbsp;&nbsp;Garage Sale</option><option value="22">&nbsp;&nbsp;Health - Beauty</option><option value="23">&nbsp;&nbsp;Home - Furniture - Garden Supplies</option><option value="24">&nbsp;&nbsp;Jewelry - Watches</option><option value="25">&nbsp;&nbsp;Musical Instruments</option><option value="26">&nbsp;&nbsp;Sporting Goods - Bicycles</option><option value="27">&nbsp;&nbsp;Tickets</option><option value="28">&nbsp;&nbsp;Toys - Games - Hobbies</option><option value="29">&nbsp;&nbsp;Video Games - Consoles</option><option value="30">&nbsp;&nbsp;Everything Else</option><option value="2">Vehicles</option><option value="31">&nbsp;&nbsp;Cars</option><option value="32">&nbsp;&nbsp;Car Parts</option><option value="33">&nbsp;&nbsp;Motorcycles</option><option value="34">&nbsp;&nbsp;Boats - Ships</option><option value="35">&nbsp;&nbsp;RVs - Campers - Caravans</option><option value="36">&nbsp;&nbsp;Trucks - Commercial Vehicles</option><option value="37">&nbsp;&nbsp;Other Vehicles</option><option value="3">Classes</option><option value="38">&nbsp;&nbsp;Computer - Multimedia Classes</option><option value="39">&nbsp;&nbsp;Language Classes</option><option value="40">&nbsp;&nbsp;Music - Theatre - Dance Classes</option><option value="41">&nbsp;&nbsp;Tutoring - Private Lessons</option><option value="42">&nbsp;&nbsp;Other Classes</option><option value="4">Real estate</option><option value="43">&nbsp;&nbsp;Houses - Apartments for Sale</option><option value="44">&nbsp;&nbsp;Houses - Apartments for Rent</option><option value="45">&nbsp;&nbsp;Rooms for Rent - Shared</option><option value="46">&nbsp;&nbsp;Housing Swap</option><option value="47">&nbsp;&nbsp;Vacation Rentals</option><option value="48">&nbsp;&nbsp;Parking Spots</option><option value="49">&nbsp;&nbsp;Land</option><option value="50">&nbsp;&nbsp;Office - Commercial Space</option><option value="51">&nbsp;&nbsp;Shops for Rent - Sale</option><option value="5">Services</option><option value="52">&nbsp;&nbsp;Babysitter - Nanny</option><option value="53">&nbsp;&nbsp;Casting - Auditions</option><option value="54">&nbsp;&nbsp;Computer</option><option value="55">&nbsp;&nbsp;Event Services</option><option value="56">&nbsp;&nbsp;Health - Beauty - Fitness</option><option value="57">&nbsp;&nbsp;Horoscopes - Tarot</option><option value="58">&nbsp;&nbsp;Household - Domestic Help</option><option value="59">&nbsp;&nbsp;Moving - Storage</option><option value="60">&nbsp;&nbsp;Repair</option><option value="61">&nbsp;&nbsp;Writing - Editing - Translating</option><option value="62">&nbsp;&nbsp;Other Services</option><option value="6">Community</option><option value="63">&nbsp;&nbsp;Carpool</option><option value="64">&nbsp;&nbsp;Community Activities</option><option value="65">&nbsp;&nbsp;Events</option><option value="66">&nbsp;&nbsp;Musicians - Artists - Bands</option><option value="67">&nbsp;&nbsp;Volunteers</option><option value="68">&nbsp;&nbsp;Lost And Found</option><option value="7">Personals</option><option value="69">&nbsp;&nbsp;Women looking for Men</option><option value="70">&nbsp;&nbsp;Men looking for Women</option><option value="71">&nbsp;&nbsp;Men looking for Men</option><option value="72">&nbsp;&nbsp;Women looking for Women</option><option value="73">&nbsp;&nbsp;Friendship - Activity Partners</option><option value="74">&nbsp;&nbsp;Missed Connections</option><option value="8">Jobs</option><option value="75">&nbsp;&nbsp;Accounting - Finance</option><option value="76">&nbsp;&nbsp;Advertising - Public Relations</option><option value="77">&nbsp;&nbsp;Arts - Entertainment - Publishing</option><option value="78">&nbsp;&nbsp;Clerical - Administrative</option><option value="79">&nbsp;&nbsp;Customer Service</option><option value="80">&nbsp;&nbsp;Education - Training</option><option value="81">&nbsp;&nbsp;Engineering - Architecture</option><option value="82">&nbsp;&nbsp;Healthcare</option><option value="83">&nbsp;&nbsp;Human Resource</option><option value="84">&nbsp;&nbsp;Internet</option><option value="85">&nbsp;&nbsp;Legal</option><option value="86">&nbsp;&nbsp;Manual Labor</option><option value="87">&nbsp;&nbsp;Manufacturing - Operations</option><option value="88">&nbsp;&nbsp;Marketing</option><option value="89">&nbsp;&nbsp;Non-profit - Volunteer</option><option value="90">&nbsp;&nbsp;Real Estate</option><option value="91">&nbsp;&nbsp;Restaurant - Food Service</option><option value="92">&nbsp;&nbsp;Retail</option><option value="93">&nbsp;&nbsp;Sales</option><option value="94">&nbsp;&nbsp;Technology</option><option value="95">&nbsp;&nbsp;Other Jobs</option></select><a href="#" class="select-box-trigger"><span class="select-box-label">Select a category</span><span class="select-box-icon">0</span></a></div>                </div>
+                <div class="cell reset-padding">
+                            <button class="ui-button ui-button-big js-submit">Search</button>
+            </div>
+        </div>
+        <div id="message-search"></div>
+    </form>
+    </div>
+<div class="wrapper wrapper-flash">
+        </div>
+<div class="wrapper" id="content">
+        <div id="main">
+                                 <div class="cell_3 first_cel">        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category for-sale" href="http://www.bikga.com/index.php?page=search&amp;sCategory=1">For sale</a> <span>(79)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category animals" href="#">Animals</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category art-collectibles" href="#">Art - Collectibles</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category barter" href="http://www.bikga.com/index.php?page=search&amp;sCategory=11">Barter</a> <span>(3)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category books-magazines" href="#">Books - Magazines</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category cameras-camera-accessories" href="#">Cameras - Camera Accessories</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category cds-records" href="#">CDs - Records</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category cell-phones-accessories" href="http://www.bikga.com/index.php?page=search&amp;sCategory=15">Cell Phones - Accessories</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category clothing" href="http://www.bikga.com/index.php?page=search&amp;sCategory=16">Clothing</a> <span>(5)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category computers-hardware" href="#">Computers - Hardware</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category dvd" href="http://www.bikga.com/index.php?page=search&amp;sCategory=18">DVD</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category electronics" href="http://www.bikga.com/index.php?page=search&amp;sCategory=19">Electronics</a> <span>(8)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category for-babies-infants" href="#">For Babies - Infants</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category garage-sale" href="#">Garage Sale</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category health-beauty" href="http://www.bikga.com/index.php?page=search&amp;sCategory=22">Health - Beauty</a> <span>(51)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category home-furniture-garden-supplies" href="http://www.bikga.com/index.php?page=search&amp;sCategory=23">Home - Furniture - Garden Supplies</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category jewelry-watches" href="http://www.bikga.com/index.php?page=search&amp;sCategory=24">Jewelry - Watches</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category musical-instruments" href="http://www.bikga.com/index.php?page=search&amp;sCategory=25">Musical Instruments</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category sporting-goods-bicycles" href="http://www.bikga.com/index.php?page=search&amp;sCategory=26">Sporting Goods - Bicycles</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category tickets" href="#">Tickets</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category toys-games-hobbies" href="#">Toys - Games - Hobbies</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category video-games-consoles" href="#">Video Games - Consoles</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category everything-else" href="http://www.bikga.com/index.php?page=search&amp;sCategory=30">Everything Else</a> <span>(2)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category vehicles" href="#">Vehicles</a> <span>(0)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category cars" href="#">Cars</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category car-parts" href="#">Car Parts</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category motorcycles" href="#">Motorcycles</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category boats-ships" href="#">Boats - Ships</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category rvs-campers-caravans" href="#">RVs - Campers - Caravans</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category trucks-commercial-vehicles" href="#">Trucks - Commercial Vehicles</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category other-vehicles" href="#">Other Vehicles</a> <span>(0)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category classes" href="http://www.bikga.com/index.php?page=search&amp;sCategory=3">Classes</a> <span>(8)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category computer-multimedia-classes" href="#">Computer - Multimedia Classes</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category language-classes" href="http://www.bikga.com/index.php?page=search&amp;sCategory=39">Language Classes</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category music-theatre-dance-classes" href="http://www.bikga.com/index.php?page=search&amp;sCategory=40">Music - Theatre - Dance Classes</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category tutoring-private-lessons" href="http://www.bikga.com/index.php?page=search&amp;sCategory=41">Tutoring - Private Lessons</a> <span>(4)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category other-classes" href="http://www.bikga.com/index.php?page=search&amp;sCategory=42">Other Classes</a> <span>(2)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                </div><div class="cell_3">        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category real-estate" href="http://www.bikga.com/index.php?page=search&amp;sCategory=4">Real estate</a> <span>(1)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category houses-apartments-for-sale" href="#">Houses - Apartments for Sale</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category houses-apartments-for-rent" href="http://www.bikga.com/index.php?page=search&amp;sCategory=44">Houses - Apartments for Rent</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category rooms-for-rent-shared" href="#">Rooms for Rent - Shared</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category housing-swap" href="#">Housing Swap</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category vacation-rentals" href="#">Vacation Rentals</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category parking-spots" href="#">Parking Spots</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category land" href="#">Land</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category office-commercial-space" href="#">Office - Commercial Space</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category shops-for-rent-sale" href="#">Shops for Rent - Sale</a> <span>(0)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category services" href="http://www.bikga.com/index.php?page=search&amp;sCategory=5">Services</a> <span>(5)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category babysitter-nanny" href="#">Babysitter - Nanny</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category casting-auditions" href="#">Casting - Auditions</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category computer" href="#">Computer</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category event-services" href="#">Event Services</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category health-beauty-fitness" href="#">Health - Beauty - Fitness</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category horoscopes-tarot" href="http://www.bikga.com/index.php?page=search&amp;sCategory=57">Horoscopes - Tarot</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category household-domestic-help" href="#">Household - Domestic Help</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category moving-storage" href="#">Moving - Storage</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category repair" href="#">Repair</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category writing-editing-translating" href="#">Writing - Editing - Translating</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category other-services" href="http://www.bikga.com/index.php?page=search&amp;sCategory=62">Other Services</a> <span>(4)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category community" href="#">Community</a> <span>(0)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category carpool" href="#">Carpool</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category community-activities" href="#">Community Activities</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category events" href="#">Events</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category musicians-artists-bands" href="#">Musicians - Artists - Bands</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category volunteers" href="#">Volunteers</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category lost-and-found" href="#">Lost And Found</a> <span>(0)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                </div><div class="cell_3">        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category personals" href="#">Personals</a> <span>(0)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category women-looking-for-men" href="#">Women looking for Men</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category men-looking-for-women" href="#">Men looking for Women</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category men-looking-for-men" href="#">Men looking for Men</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category women-looking-for-women" href="#">Women looking for Women</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category friendship-activity-partners" href="#">Friendship - Activity Partners</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category missed-connections" href="#">Missed Connections</a> <span>(0)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+                        <ul class="r-list">
+             <li>
+                 <h1>
+                                        <span class="collapse resp-toggle"><i class="fa fa-caret-right fa-lg"></i></span>
+                                                            <a class="category jobs" href="http://www.bikga.com/index.php?page=search&amp;sCategory=8">Jobs</a> <span>(26)</span>
+                                     </h1>
+                                    <ul>
+                                                      <li>
+                                                              <a class="category sub-category accounting-finance" href="http://www.bikga.com/index.php?page=search&amp;sCategory=75">Accounting - Finance</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category advertising-public-relations" href="#">Advertising - Public Relations</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category arts-entertainment-publishing" href="http://www.bikga.com/index.php?page=search&amp;sCategory=77">Arts - Entertainment - Publishing</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category clerical-administrative" href="#">Clerical - Administrative</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category customer-service" href="#">Customer Service</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category education-training" href="http://www.bikga.com/index.php?page=search&amp;sCategory=80">Education - Training</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category engineering-architecture" href="#">Engineering - Architecture</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category healthcare" href="#">Healthcare</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category human-resource" href="#">Human Resource</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category internet" href="#">Internet</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category legal" href="http://www.bikga.com/index.php?page=search&amp;sCategory=85">Legal</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category manual-labor" href="#">Manual Labor</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category manufacturing-operations" href="#">Manufacturing - Operations</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category marketing" href="http://www.bikga.com/index.php?page=search&amp;sCategory=88">Marketing</a> <span>(1)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category non-profit-volunteer" href="#">Non-profit - Volunteer</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category real-estate_1" href="#">Real Estate</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category restaurant-food-service" href="http://www.bikga.com/index.php?page=search&amp;sCategory=91">Restaurant - Food Service</a> <span>(2)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category retail" href="#">Retail</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category sales" href="#">Sales</a> <span>(0)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category technology" href="http://www.bikga.com/index.php?page=search&amp;sCategory=94">Technology</a> <span>(15)</span>
+                                                          </li>
+                                                      <li>
+                                                              <a class="category sub-category other-jobs" href="http://www.bikga.com/index.php?page=search&amp;sCategory=95">Other Jobs</a> <span>(2)</span>
+                                                          </li>
+                                            </ul>
+                              </li>
+        </ul>
+        </div>                <div class="clear"></div>
+<div class="latest_ads">
+<h1><strong>Latest Listings</strong></h1>
+     <div class="actions">
+      <span class="doublebutton ">
+           <a href="http://www.bikga.com/index.php?sShowAs=list" class="list-button" data-class-toggle="listing-grid" data-destination="#listing-card-list"><span>List</span></a>
+           <a href="http://www.bikga.com/index.php?sShowAs=gallery" class="grid-button" data-class-toggle="listing-grid" data-destination="#listing-card-list"><span>Grid</span></a>
+      </span>
+    </div>
+    
+<ul class="listing-card-list " id="listing-card-list">
+    
+<li class="listing-card first">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=121" title="Offer > http://fitnessproductcenter.com/keto-slimx/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > http://fitnessproductcenter.com/keto-slimx/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=121" class="title" title="Offer > http://fitnessproductcenter.com/keto-slimx/">Offer &gt; http://fitnessproductcenter.com/keto-slimx/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Keto SlimX &gt;&gt; Keto SlimX Reviews &gt;&gt; Review &gt;&gt; physical exercises in the rec center and doing weight decrease eating less carbs together. Each such development give poor results and can gravely impact your prosperity. You require a p...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=120" title="Offer > https://searchyourway.com/whole-keto-xtreme-australia/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > https://searchyourway.com/whole-keto-xtreme-australia/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=120" class="title" title="Offer > https://searchyourway.com/whole-keto-xtreme-australia/">Offer &gt; https://searchyourway.com/whole-keto-xtreme-australia/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Whole Keto Xtreme Australia &gt;&gt; Whole Keto Xtreme AU &gt;&gt; Review &gt;&gt; fat is in each eat. ly, you can stop checking calories, steps, and rest time. This redesign changes the way by which you get alive and well until the total of time. Fi...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=119" title="Offer > https://www.factforfitness.com/virilyn-male-enhancement/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > https://www.factforfitness.com/virilyn-male-enhancement/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=119" class="title" title="Offer > https://www.factforfitness.com/virilyn-male-enhancement/">Offer &gt; https://www.factforfitness.com/virilyn-male-enhancement/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Virilyn Male Enhancement &gt;&gt; Virilyn Reviews &gt;&gt; Virilyn &gt;&gt; Review &gt;&gt; elderly people alike. It is common to the point that sought after of the arrangement, there are presently endless enhancements accessible for a similar issue....</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card first">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=118" title="Offer > https://supplement24x7.com/testo-support-plus-avis/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > https://supplement24x7.com/testo-support-plus-avis/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=118" class="title" title="Offer > https://supplement24x7.com/testo-support-plus-avis/">Offer &gt; https://supplement24x7.com/testo-support-plus-avis/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Testo Support Plus Avis &gt;&gt; Review &gt;&gt; this male enhancement product. However, before that, you should realize one issue that consuming those tablets to eliminate sexual problems, you need to be geared up to sacrifice some things to put off...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=117" title="Blair Queen Size Bed with 3Storage Drawers"><img src="http://www.bikga.com/oc-content/uploads/1/55_thumbnail.jpg" title="" alt="Blair Queen Size Bed with 3Storage Drawers" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=117" class="title" title="Blair Queen Size Bed with 3Storage Drawers">Blair Queen Size Bed with 3Storage Drawers</a>
+                    <div class="listing-attributes">
+                        <span class="category">Home - Furniture - Garden Supplies</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">25.00 Dollar US$</span>                    </div>
+                    <p>PRODUCT: Blair Bed SIZE: 60X75 Queen size DESCRIPTION: Queen size bed with 3-drawers MATERIAL: Australian Pinewood COLOR: Walnut (Other color by request) PRICE: Php 25,000.00 (Philippine Peso) COMPANY BACKGROUND Homewood Creation Furnishing is a Manu...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=116" title="STREET FOOD DELIVERY"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="STREET FOOD DELIVERY" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=116" class="title" title="STREET FOOD DELIVERY">STREET FOOD DELIVERY</a>
+                    <div class="listing-attributes">
+                        <span class="category">Restaurant - Food Service</span> -
+                        <span class="location">Hyderabad  (Andhra Pradesh)</span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">Check with seller</span>                    </div>
+                    <p>We are a homemade food delivery at mothers Food app. Delivering delicious, hygienic food to your home made by home chefs in their kitchen. https://mothersfood.in/ https://play.google.com/store/apps/details?id=mothers.food.mothersfood/ https://apps.ap...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card first">
+                <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=115" title="Bathroom fittings manufacturers in Delhi NCR"><img src="http://www.bikga.com/oc-content/uploads/1/51_thumbnail.jpg" title="" alt="Bathroom fittings manufacturers in Delhi NCR" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=115" class="title" title="Bathroom fittings manufacturers in Delhi NCR">Bathroom fittings manufacturers in Delhi NCR</a>
+                    <div class="listing-attributes">
+                        <span class="category">Home - Furniture - Garden Supplies</span> -
+                        <span class="location">Delhi  (Delhi)</span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">28.00 Dollar US$</span>                    </div>
+                    <p>Cruzz cp fittings is a renowned manufacturer and supplier of a luxurious designed range of bathroom and kitchen accessories including CP Bath fittings, Stainless Steel Kitchen Sink, PTMT Fittings, SS Sink, All types of Shower, All Single Lever Fittin...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=114" title="hibernate developer"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="hibernate developer" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=114" class="title" title="hibernate developer">hibernate developer</a>
+                    <div class="listing-attributes">
+                        <span class="category">Technology</span> -
+                        <span class="location">chennai  (tamilnadu)</span> <span class="g-hide">-</span> April 3, 2021                        <span class="currency-value">8000.00 Dollar US$</span>                    </div>
+                    <p>Key Responsibilities : - Develop and maintain technical designs based on requirements - Develop application code for programs while following coding standards - Develop and execute unit tests - Complete Analysis &amp; documentation as required by the...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=112" title="Offer > https://www.factforfitness.com/vyprimax-male-enhancement/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > https://www.factforfitness.com/vyprimax-male-enhancement/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=112" class="title" title="Offer > https://www.factforfitness.com/vyprimax-male-enhancement/">Offer &gt; https://www.factforfitness.com/vyprimax-male-enhancement/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 2, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>VyPrimax Male Enhancement &gt;&gt; VyPrimax &gt;&gt; Review &gt;&gt; within minutes This tested recipe does no longer come up with any symptoms It is accessible as an easy to use drugs It is a multi-gainful item for intercourse and bodily wellness It...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card first">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=111" title="Offer > https://www.buyonlinecare.com/whole-keto-extreme-ca/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > https://www.buyonlinecare.com/whole-keto-extreme-ca/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=111" class="title" title="Offer > https://www.buyonlinecare.com/whole-keto-extreme-ca/">Offer &gt; https://www.buyonlinecare.com/whole-keto-extreme-ca/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 2, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Whole Keto Extreme CA &gt;&gt; Whole Keto Extreme CANADA &gt;&gt; Review &gt;&gt; Working Process Of This weight decrease supplement encourages the body to enter in sis process. sis is that procedure in which you don't need to run with eating regimen...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=110" title="Offer > http://fitnessproductcenter.com/whole-keto-extreme-au/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > http://fitnessproductcenter.com/whole-keto-extreme-au/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=110" class="title" title="Offer > http://fitnessproductcenter.com/whole-keto-extreme-au/">Offer &gt; http://fitnessproductcenter.com/whole-keto-extreme-au/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 2, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Whole Keto Extreme AU &gt;&gt; Whole Keto Extreme Australia &gt;&gt; Review &gt;&gt; patient and accept the pills as educated. Above all bear in mind to keep yourself hydrated-drink a ton of water as it extremely essential for your body to tidy up al...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li>
+<li class="listing-card ">
+                        <a class="listing-thumb" href="http://www.bikga.com/index.php?page=item&amp;id=109" title="Offer > https://supplement24x7.com/whole-keto-xtreme/"><img src="http://www.bikga.com/oc-content/themes/bender/images/no_photo.gif" title="" alt="Offer > https://supplement24x7.com/whole-keto-xtreme/" width="240" height="200"></a>
+                <div class="listing-detail">
+        <div class="listing-cell">
+            <div class="listing-data">
+                <div class="listing-basicinfo">
+                    <a href="http://www.bikga.com/index.php?page=item&amp;id=109" class="title" title="Offer > https://supplement24x7.com/whole-keto-xtreme/">Offer &gt; https://supplement24x7.com/whole-keto-xtreme/</a>
+                    <div class="listing-attributes">
+                        <span class="category">Health - Beauty</span> -
+                        <span class="location"> </span> <span class="g-hide">-</span> April 2, 2021                        <span class="currency-value">Free</span>                    </div>
+                    <p>Whole Keto Xtreme &gt;&gt; Review &gt;&gt; sustenance and thoroughly rely upon strong and nutritious sustenance. Where To Buy? The official site of is the place from where you'll purchase the holder of . You need to deal with online demand kind and g...</p>
+                </div>
+                            </div>
+        </div>
+    </div>
+</li></ul>    <div class="clear"></div>
+            <p class="see_more_link"><a href="http://www.bikga.com/index.php?page=search">
+            <strong>See all listings »</strong></a>
+        </p>
+    </div>
+</div><!-- main -->
+<div id="sidebar">
+        <div class="widget-box">
+                <div class="box location">
+            <h3><strong>Location</strong></h3>
+            <ul>
+                            <li><a href="http://www.bikga.com/index.php?page=search&amp;sRegion=782042">Alabama <em>(1)</em></a></li>
+                            <li><a href="http://www.bikga.com/index.php?page=search&amp;sRegion=782054">Idaho <em>(1)</em></a></li>
+                            <li><a href="http://www.bikga.com/index.php?page=search&amp;sRegion=782074">New York <em>(2)</em></a></li>
+                            <li><a href="http://www.bikga.com/index.php?page=search&amp;sRegion=782090">West Virginia <em>(1)</em></a></li>
+                        </ul>
+        </div>
+            </div>
+</div>
+<div class="clear"><!-- do not close, use main clossing tag for this case -->
+</div><!-- content -->
+</div>
+<div id="responsive-trigger"></div>
+<!-- footer -->
+<div class="clear"></div>
+<div id="footer">
+    <div class="wrapper">
+        <ul class="resp-toggle">
+                                        <li><a href="http://www.bikga.com/index.php?page=login">Login</a></li>
+                                    <li>
+                        <a href="http://www.bikga.com/index.php?page=register&amp;action=register">Register for a free account</a>
+                    </li>
+                                                                <li class="publish">
+                <a href="http://www.bikga.com/index.php?page=item&amp;action=item_add">Publish your ad for free</a>
+            </li>
+                    </ul>
+        <ul>
+                    <li>
+                <a href="http://www.bikga.com/index.php?page=contact">Contact</a>
+            </li>
+        </ul>
+        <div>This website is proudly using the <a title="Osclass web" href="http://osclass.org/">classifieds scripts</a> software <strong>Osclass</strong></div>            </div>
+</div>
+
+</body></html>

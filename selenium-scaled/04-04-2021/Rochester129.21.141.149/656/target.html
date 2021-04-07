@@ -1,0 +1,591 @@
+<html><head>
+	<meta charset="utf-8/">
+	<meta name="applicable-device" content="pc">
+	<meta name="viewport" content="width=1280">
+	<meta name="referrer" content="origin">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>站长工具-百度权重排名查询-站长seo查询 - 爱站网</title>
+	<meta name="keywords" content="站长工具,百度权重查询,百度排名">
+	<meta name="description" content="爱站网站长工具提供网站收录查询和站长查询以及百度权重值查询等多个站长工具，免费查询各种工具，包括有关键词排名查询，百度收录查询等。">
+	<link rel="icon" href="//statics.aizhan.com/images/img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="//statics.aizhan.com/images/img/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="//statics.aizhan.com/css/style.css?v=20050811">
+	<script src="https://hm.baidu.com/hm.js?b37205f3f69d03924c5447d020c09192"></script><script src="//statics.aizhan.com/js/jquery-1.9.1.min.js"></script>
+	<script src="//statics.aizhan.com/js/jquery.cookie.js"></script>
+	<script src="//statics.aizhan.com/js/script.js?v=0304"></script>
+	<script src="//statics.aizhan.com/jsa/zone.js"></script>
+</head>
+<body>
+	<div class="main-nav-wrap">
+		<div class="w">
+			<div class="main-nav-logo">
+				<a href="https://www.aizhan.com/"><img src="//statics.aizhan.com/images/img/logo.png" alt="爱站网"></a>
+			</div>
+			<div class="main-nav">
+				<ul>
+					<li class="active"><a href="https://www.aizhan.com/">首页</a></li>
+					<li><a href="https://www.aizhan.com/cha/">SEO查询</a></li>
+					<li><a href="javascript:void(0)">权重查询</a></li>
+					<li><a href="javascript:void(0)">域名/IP查询</a></li>
+					<li><a href="https://tools.aizhan.com/" class="new">其它查询</a></li>
+					<li><a href="https://www.aizhan.com/pccategory/">词库</a></li>
+					<li><a href="https://top.aizhan.com/" target="_blank">排行榜</a></li>
+					<li><a href="https://gongju.aizhan.com/" target="_blank">客户端</a></li>
+					<li><a href="https://www.aizhan.com/apistore/" target="_blank">API接口</a></li>
+					<li><a href="https://www.aizhan.cn/" target="_blank" class="new">商标注册</a></li>
+				</ul>
+			</div>
+			<div class="main-nav-tool">
+				<ul>
+					<li>
+						<i class="ico-nav-mobile"></i>
+						<div class="qrcode slide-content">
+							<a href="https://m.aizhan.com/">
+								<img src="//statics.aizhan.com/images/img/nav-qrcode.png">
+							</a>
+						</div>
+					</li>
+					<li>
+						<i class="login_go" style="display: none;"></i>
+						<i class="ico-nav-user"></i>
+						<div class="nav-user-infos slide-content">
+							<p>
+																<a href="https://www.aizhan.com/login.php">用户登录</a>
+								<a href="https://www.aizhan.com/login.php">快速注册</a>
+															</p>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="main-sub-nav">
+	<div class="w clearfix">
+		<ul class="active">
+			<li>
+				<a href="https://www.aizhan.com/cha/" id="subcha">
+					<i class="ico-nav-cha"></i>
+					<span>综合查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://baidurank.aizhan.com/" id="subbr">
+					<i class="ico-nav-baidurank"></i>
+					<span>百度权重</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://linkche.aizhan.com/" id="sublinkche">
+					<i class="ico-nav-linkche"></i>
+					<span>友链检测</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://link.aizhan.com/" id="sublink">
+					<i class="ico-nav-link new"></i>
+					<span>网站反链</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://ci.aizhan.com/">
+					<i class="ico-nav-ci"></i>
+					<span>关键词挖掘</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://lishi.aizhan.com/" id="sublishi">
+					<i class="ico-nav-lishi"></i>
+					<span>历史数据</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://alexa.aizhan.com/" id="subalexa">
+					<i class="ico-nav-alexa"></i>
+					<span>alexa查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/rb/" id="subrb">
+					<i class="ico-nav-rb"></i>
+					<span>模拟抓取</span>
+				</a>
+			</li>
+			<li class="last">
+				<a href="https://www.aizhan.com/same/">
+					<i class="ico-nav-same new"></i>
+					<span>网站重合</span>
+				</a>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="https://rank.aizhan.com/" id="subcha2">
+					<i class="ico-nav-rank"></i>
+					<span>权重综合</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://baidurank.aizhan.com/" id="subbr2">
+					<i class="ico-nav-xz"></i>
+					<span>搜索权重</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://sogourank.aizhan.com/" id="subsr">
+					<i class="ico-nav-sogourank"></i>
+					<span>搜狗权重</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://sorank.aizhan.com/" id="sub360">
+					<i class="ico-nav-360"></i>
+					<span>360权重</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://smrank.aizhan.com/" id="subsm">
+					<i class="ico-nav-sm"></i>
+					<span>神马权重</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.aizhan.com/xz/">
+					<i class="ico-nav-xz"></i>
+					<span>熊掌查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.aizhan.com/bjh/">
+					<i class="ico-nav-bjh"></i>
+					<span>百家号查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://xcx.aizhan.com/">
+					<i class="ico-nav-xcx"></i>
+					<span>百度小程序</span>
+				</a>
+			</li>
+			<li class="last">
+				<a href="https://pr.aizhan.com/" id="subpr">
+					<i class="ico-nav-pr"></i>
+					<span>PR值查询</span>
+				</a>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="https://icp.aizhan.com/" id="subicp">
+					<i class="ico-nav-icp"></i>
+					<span>备案查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://dns.aizhan.com/" id="subdns">
+					<i class="ico-nav-dns"></i>
+					<span>IP反查域名</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://ping.aizhan.com/" id="subping">
+					<i class="ico-nav-ping"></i>
+					<span>PING检测</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://whois.aizhan.com/" id="subwhois">
+					<i class="ico-nav-whois"></i>
+					<span>Whois查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://whois.aizhan.com/reverse-whois/">
+					<i class="ico-nav-whois"></i>
+					<span>Whois反查</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://domain.aizhan.com/">
+					<i class="ico-nav-del"></i>
+					<span>过期域名抢注</span>
+				</a>
+			</li>
+			<li class="last">
+				<a href="https://domain.aizhan.com/ykj/">
+					<i class="ico-nav-fixed"></i>
+					<span>一口价老域名</span>
+				</a>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="https://tools.aizhan.com/ydpm/">
+					<i class="ico-nav-ydpm"></i>
+					<span>异地排名</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/meta/">
+					<i class="ico-nav-meta"></i>
+					<span>前20名信息</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/fenci/">
+					<i class="ico-nav-fenci"></i>
+					<span>760名查询</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/sl/">
+					<i class="ico-nav-sl"></i>
+					<span>页面相似度</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/webscan/">
+					<i class="ico-nav-webscan"></i>
+					<span>安全检测</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/pk/">
+					<i class="ico-nav-pk"></i>
+					<span>网站PK</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/robots/">
+					<i class="ico-nav-robots"></i>
+					<span>Robots检测</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://tools.aizhan.com/bl/">
+					<i class="ico-nav-bl"></i>
+					<span>死链检测</span>
+				</a>
+			</li>
+			<li class="last">
+				<a href="https://tools.aizhan.com/">
+					<i class="ico-nav-more"></i>
+					<span>更多工具</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+	<div class="top-azone azone">
+		<div class="w">
+			<div class="azone-text" id="all_text_content"><ul class="clearfix"><li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2130850499&amp;site=qq&amp;menu=yes" target="_blank" title="301被墙域名跳转">301被墙域名跳转</a></li><li><a href="https://wpa.qq.com/msgrd?v=3&amp;uin=1285851738&amp;site=qq&amp;menu=yes" target="_blank" title="【单词排名+整站优化,见效扣费】">【单词排名+整站优化,见效扣费】</a></li><li><a href="https://www.520link.com/" target="_blank" title="买卖链接 买卖广告上【爱链网】">买卖链接 买卖广告上【爱链网】</a></li><li><a href="https://yimiyangguang7162.taobao.com/" target="_blank" title="【外链代发 5分一条 网站托管】">【外链代发 5分一条 网站托管】</a></li><li><a href="http://seo.niudunyun.cn/user/user/register?engine=s12K" target="_blank" title="-------▍▍SEO优化1元 ▍▍-------">-------▍▍SEO优化1元 ▍▍-------</a></li><li><a href="http://lmshouliang.xyz/shou.html  " target="_blank" title="【联盟万IP700★提供轮播代码】">【联盟万IP700★提供轮播代码】</a></li><li><a href="https://wpa.qq.com/msgrd?v=3&amp;uin=97608697&amp;site=qq&amp;menu=yes" target="_blank" title="收量.双端.双H5支付.24时稳!">收量.双端.双H5支付.24时稳!</a></li><li><a href="https://www.adsxc.com/?pid=5168" target="_blank" title="—▍▍联盟收量 ▍▍保底日结 ▍▍—">—▍▍联盟收量 ▍▍保底日结 ▍▍—</a></li><li><a href="http://jczf.vip" target="_blank" title="超高转化收CPS量【推荐】">超高转化收CPS量【推荐】</a></li><li><a href="http://seo.xiaseo.com/user/user/register?engine=s12K" target="_blank" title="SEO优化【2元起】无排名可做！">SEO优化【2元起】无排名可做！</a></li><li><a href="https://www.4414.cn/IDCpaihangbang" target="_blank" title="IDC排行榜">IDC排行榜</a></li><li><a href="http://seo.huizhuan.club/customer/#/user/reg/code=q2w054ar" target="_blank" title="SEO排名1元，专做别人不敢做的">SEO排名1元，专做别人不敢做的</a></li><li><a href="https://www.mcasld.com" target="_blank" title="长期高价收量 24H在线">长期高价收量 24H在线</a></li><li><a href="https://url.cn/OCutthF8?_type=wpa&amp;qidian=true" target="_blank" title="----- 外链代发 50元/200条 -----">----- 外链代发 50元/200条 -----</a></li><li><a href="https://wpa.qq.com/msgrd?v=3&amp;uin=402251758&amp;site=qq&amp;menu=yes" target="_blank" title="【友链】--8000个站-权重34----">【友链】--8000个站-权重34----</a></li><li><a href="http://www.7q5.com/xiala/" target="_blank" title="提升排名+权重+IP流量+外链">提升排名+权重+IP流量+外链</a></li><li><a href="https://ym07.me/" target="_blank" title="收收收收收★量量量量量 ">收收收收收★量量量量量 </a></li><li><a href="http://00852wm.net/" target="_blank" title="万PV100/日结网盟/整站流量出租">万PV100/日结网盟/整站流量出租</a></li><li><a href="http://www.jsll.me" target="_blank" title="10000来路IP只需8元">10000来路IP只需8元</a></li><li><a href="https://www.28wangmeng.com/" target="_blank" title="28网盟cpv万480日结零扣量">28网盟cpv万480日结零扣量</a></li><li><a href="http://seo.redianseo.com" target="_blank" title="SEO优化积分平台每天低至0.2元">SEO优化积分平台每天低至0.2元</a></li><li><a href="http://seo3.seoxxxx.com" target="_blank" title="移动SEO突破 PC暴涨 价格便宜">移动SEO突破 PC暴涨 价格便宜</a></li><li><a href="http://hwsms.com/" target="_blank" title="一▍国际短信 ▍不限内容，国家▍一">一▍国际短信 ▍不限内容，国家▍一</a></li><li><a href="https://www.hctxsc.net/?pid=1" target="_blank" title="T99联盟万IP700稳定★单价高">T99联盟万IP700稳定★单价高</a></li></ul></div>
+			<div class="azone-img" id="home_top1_content"><ul class="clearfix"><li><div style="position:relative"><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=5588946&amp;site=qq&amp;menu=yes" target="_blank"><img src="//statics.aizhan.com/imagesa/202103/16147656905063446016.gif" alt="" width="232" height="60" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li><li><div style="position:relative"><a href=" https://www.aqxyun.com/act0721" target="_blank"><img src="//statics.aizhan.com/imagesa/202007/15954039155907872171.jpg" alt="" width="232" height="60" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li><li><div style="position:relative"><a href="https://robotpc.cn" target="_blank"><img src="//statics.aizhan.com/imagesa/202102/16142995882933990118.gif" alt="" width="232" height="60" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li><li><div style="position:relative"><a href="http://ttlm.la/ " target="_blank"><img src="//statics.aizhan.com/imagesa/202103/16163937783355410328.gif" alt="" width="232" height="60" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li><li><div style="position:relative"><a href="https://thhvow.com/" target="_blank"><img src="//statics.aizhan.com/imagesa/202102/16125118436241381015.gif" alt="" width="232" height="60" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li></ul></div>
+		</div>
+	</div>
+	<div class="home-search-wrap search-wrap">
+		<form method="get" class="search-form" onsubmit="return doquery('default');">
+			<input type="text" id="domain" class="search-text" placeholder="请输入您要查询的网站" autocomplete="off">
+			<input type="submit" class="search-button" value="查询">
+			<div class="search-downlist">
+				<i class="ico-nav-arrow"></i>
+				<dl>
+					<dt data-pro="cha" data-index="1">综合查询</dt>
+					<dd data-pro="baidurank" data-index="2">百度权重</dd>
+					<dd data-pro="lishi" data-index="3">历史数据</dd>
+					<dd data-pro="ci" data-index="4">关键词挖掘</dd>
+					<dd data-pro="icp" data-index="5">备案查询</dd>
+					<dd data-pro="linkche" data-index="6">友链检测</dd>
+					<dd data-pro="link" data-index="7">网站反链</dd>
+				</dl>
+			</div>
+			<div class="search-bg"></div>
+		</form>
+		<div class="home-search-history search-history">
+			<ul></ul>
+		</div>
+		<div style="position:absolute;left:674px;top:-24px;width:112px;height:90px;"><a href="https://writer.aizhan.com/?home" target="_blank"><img src="//statics.aizhan.com/images/img/homea.png" alt="代写企业软文"></a></div>
+	</div>
+	<div class="home-search-buttons">
+		<a href="javascript:doquery('cha')"><i class="ico-btn-cha"></i><span>综合查询</span></a>
+		<a href="javascript:doquery('baidurank')"><i class="ico-btn-baidurank"></i><span>百度排名</span></a>
+		<a href="javascript:doquery('rank')"><i class="ico-btn-cjc"></i><span>权重综合</span></a>
+		<a href="javascript:doquery('linkche')"><i class="ico-btn-linkche"></i><span>友链检测</span></a>
+		<a href="javascript:doquery('link')" class="new"><i class="ico-btn-link"></i><span>网站反链</span></a>
+		<a href="javascript:doquery('whois')"><i class="ico-btn-whois"></i><span>Whois查询</span></a>
+		<a href="javascript:doquery('dns')"><i class="ico-btn-dns"></i><span>IP反查域名</span></a>
+		<a href="javascript:doquery('icp')"><i class="ico-btn-icp"></i><span>备案查询</span></a>
+		<a href="https://tools.aizhan.com/" target="_blank"><span>更多</span><i class="ico-btn-more" style="float:right;width:16px;"></i></a>
+	</div>
+	<div class="home-text-link" id="home_text_content"><ul><li><a href="https://wpa.qq.com/msgrd?v=3&amp;uin=2152423&amp;site=www.aizhan.com/&amp;menu=yes" target="_blank" title="【SEO单词排名7天上首页，先上词后付费！QQ:2152423】">【SEO单词排名7天上首页，先上词后付费！QQ:2152423】</a></li></ul></div>
+	<div class="home-banner-shadow azone">
+		<div class="w azone-img" id="home_top2_content"><ul><li><div style="position:relative"><a href="http://dakawm.net:10802/ " target="_blank"><img src="//statics.aizhan.com/imagesa/202005/15887567116030105455.png" alt="" width="393" height="80" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li><li><div style="position:relative"><a href="https://www.jiudu.cc/aizhan" target="_blank"><img src="//statics.aizhan.com/imagesa/202012/16080227406037563421.gif" alt="" width="393" height="80" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li><li><div style="position:relative"><a href="http://todays.fund" target="_blank"><img src="//statics.aizhan.com/imagesa/202102/16130006804139182680.jpg" alt="" width="393" height="80" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li></ul></div>
+		<div class="w">
+			<div class="azone-description">*本站广告为第三方投放，如发生纠纷，请向本站索取第三方联系方式沟通</div>
+		</div>
+	</div>
+	<div class="home-recommend box w">
+		<div class="title"><i class="ico-bar-vertical"></i><h4>推荐功能</h4></div>
+		<div class="home-recommend-list">
+			<ul>
+				<li>
+					<a href="https://www.aizhan.com/bigdata/" target="_blank">
+						<img src="https://statics.aizhan.com/images/img/ico-home1.png">
+						<strong>大数据分析</strong>
+						<p>全网网站涨跌排行榜</p>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.aizhan.cn/" target="_blank" class="new">
+						<img src="https://statics.aizhan.com/images/img/ico-home9.png">
+						<strong>商标注册</strong>
+						<p>专业的企业数字化服务</p>
+					</a>
+				</li>
+				<li>
+					<a href="https://writer.aizhan.com/" target="_blank">
+						<img src="https://statics.aizhan.com/images/img/ico-home4.png">
+						<strong>软文代写</strong>
+						<p>做搜索引擎和用户最需要的文章</p>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.chajiechi.com/" target="_blank">
+						<img src="https://statics.aizhan.com/images/img/ico-home3.png">
+						<strong>劫持检测</strong>
+						<p>检测网站、域名是否被劫持</p>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<script type="text/javascript">
+		if(typeof(all_text_content)=='undefined'){
+			console.log("广告被过滤！");
+			$('.azone').remove();
+		}else{
+			$('#all_text_content').html(all_text_content);
+			$('#home_text_content').html(home_text_content);
+			$('#home_top1_content').html(home_top1_content);
+			$('#home_top2_content').html(home_top2_content);
+			$('#home_text_content li').eq(1).remove();
+			$('#home_text_content li').eq(1).remove();
+			$(function(){
+				$('#wx_btn').hover(function() {
+					$('#wx_img').show();
+				},function(){
+					$('#wx_img').hide();
+				});
+			})
+		}
+	</script>
+	<div class="home-footer-nav">
+		<div class="w">
+			<div class="nav-wrap">
+				<div class="nav">
+					<div class="tit">
+						<i class="ico-bar-vertical"></i>
+						<h4>SEO查询工具</h4>
+					</div>
+					<div class="list">
+						<ul>
+							<li><a href="https://www.aizhan.com/cha/">综合查询</a></li>
+							<li><a href="https://baidurank.aizhan.com/">百度权重</a></li>
+							<li><a href="https://rank.aizhan.com/" class="new">权重综合</a></li>
+							<li><a href="https://ci.aizhan.com/">关键词挖掘</a></li>
+							<li><a href="https://index.aizhan.com/" class="new">关键词指数</a></li>
+							<li><a href="https://alexa.aizhan.com/">alexa查询</a></li>
+							<li><a href="https://sogourank.aizhan.com/">搜狗权重</a></li>
+							<li><a href="https://sorank.aizhan.com/">360权重</a></li>
+							<li><a href="https://smrank.aizhan.com/">神马权重</a></li>
+							<li><a href="https://www.aizhan.com/xz/">熊掌查询</a></li>
+							<li><a href="https://www.aizhan.com/bjh/">百家号查询</a></li>
+							<li><a href="https://lishi.aizhan.com/">历史数据</a></li>
+							<li><a href="https://link.aizhan.com/">网站反链</a></li>
+							<li><a href="https://linkche.aizhan.com/">友链检测</a></li>
+							<li><a href="https://xcx.aizhan.com/">百度小程序</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="nav">
+					<div class="tit">
+						<i class="ico-bar-vertical"></i>
+						<h4>域名 / IP 查询工具</h4>
+					</div>
+					<div class="list">
+						<ul>
+							<li><a href="https://icp.aizhan.com/">备案查询</a></li>
+							<li><a href="https://dns.aizhan.com/">IP反查域名</a></li>
+							<li><a href="https://ping.aizhan.com/">PING检测</a></li>
+							<li><a href="https://whois.aizhan.com/">Whois查询</a></li>
+							<li><a href="https://whois.aizhan.com/reverse-whois/">Whois反查</a></li>
+							<li><a href="https://domain.aizhan.com/">过期域名抢注</a></li>
+							<li><a href="https://domain.aizhan.com/ykj/">一口价老域名</a></li>
+							<li><a href="https://www.tianyancha.com/" target="_blank">天眼查</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="nav last">
+					<div class="tit">
+						<i class="ico-bar-vertical"></i>
+						<h4>其他工具</h4>
+					</div>
+					<div class="list">
+						<ul>
+							<li><a href="https://pr.aizhan.com/">PR值查询</a></li>
+							<li><a href="https://tools.aizhan.com/kw/">关键词密度</a></li>
+							<li><a href="https://tools.aizhan.com/bl/">死链检测工具</a></li>
+							<li><a href="https://www.aizhan.com/same/">网站重合</a></li>
+							<li><a href="https://www.aizhan.com/wordrank/">关键词竞争</a></li>
+							<li><a href="https://tools.aizhan.com/robots/">Robots检测</a></li>
+							<li><a href="https://tools.aizhan.com/rb/">模拟抓取</a></li>
+							<li><a href="https://tools.aizhan.com/pk/">网站PK</a></li>
+							<li><a href="https://tools.aizhan.com/pagestatus/">HTTP状态查询</a></li>
+							<li><a href="https://tools.aizhan.com/ydpm/">异地排名</a></li>
+							<li class="w"><a href="https://tools.aizhan.com/meta/">前20名SEO信息</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="home-footer-nav" style="height:118px;">
+		<div class="w">
+			<div class="azone home-azone" id="home_bot_content"><ul class="img"><li class="active"><div style="position:relative"><a href="http://8181.tv/" target="_blank"><img src="//statics.aizhan.com/imagesa/202011/16060943203278767439.gif" alt="" width="1200" height="80" border="0"></a><span style="position:absolute;right:0;bottom:0;width:26px"><img src="//statics.aizhan.com/images/test/watermark.png"></span></div></li></ul></div>
+			<p class="fl">最新推荐：<a target="_blank" href="http://www.zhongjie.com/">中介网</a>|<a target="_blank" href="https://gj.aizhan.com/">生活工具</a>|<a target="_blank" href="http://www.winbaicai.com/">大白菜</a>|<a target="_blank" href="https://www.west.cn/">西部数码</a>|<a target="_blank" href="https://js.aizhan.com/">技术频道</a>|<a target="_blank" href="https://www.laomaotao.net/">老毛桃</a>|<a target="_blank" href="https://www.yitaifang.com/">以太坊区块</a>|<a target="_blank" href="https://www.jgz.com/">金果子</a></p>
+			<p class="fr">兄弟网站：<a target="_blank" href="https://caipiao.ip138.com/">彩票开奖</a>|<a target="_blank" href="http://www.ttunion.com/">天天联盟</a>|<a target="_blank" href="http://www.62.com/">优名网</a>|<a target="_blank" href="https://www.aqxyun.com/">翔云高防</a>|<a target="_blank" href="http://www.1212.com/">星座乐</a>|<a target="_blank" href="http://www.dns.com/">DNS安全专家</a></p>
+		</div>
+	</div>
+	<div class="main-footer">
+		<div class="w">
+			<a class="logo fl" href="https://www.aizhan.com/"><img src="//statics.aizhan.com/images/img/footer-logo.png" alt="爱站网"></a>
+			<p class="fl">©2009-2021<a href="https://www.aizhan.com/">Aizhan.COM</a><a target="_blank" href="http://beian.miit.gov.cn/" rel="nofollow">粤ICP备13073302号</a></p>
+			<p class="fr">
+				<a href="https://www.aizhan.com/about.html">公司简介</a>|<a href="https://www.aizhan.com/about.html#a1">联系方法</a>|<a href="https://www.aizhan.com/job.html">招聘信息</a>|<a href="https://www.aizhan.com/ad.html">广告服务</a>|<a href="https://www.aizhan.com/flinks.html">友情链接</a>|<a href="https://www.aizhan.com/help.html">帮助中心</a>|<a href="https://post.aizhan.com/">意见反馈</a>
+			</p>
+		</div>
+	</div>
+	<div class="home-main-gotop main-gotop" id="goTop">
+		<ul class="bot">
+			<li><a href="https://post.aizhan.com/"><i class="ico-nav-post"></i></a></li>
+			<li><a href="javascript:void(0)" class="gotop"><i class="ico-nav-gotop"></i></a></li>
+		</ul>
+	</div>
+	<script type="text/javascript">
+		$(function(){
+			if(typeof(all_text_content)=='undefined'){
+				console.log("广告被过滤！");
+				$('.azone').remove();
+				$('.home-footer-nav').height('400px');
+			}else{
+				$('#domain').focus();
+				$('#home_bot_content').html(home_bot_content);
+
+				var len  = 0;
+				$('#home_bot_content li').each(function (i) {
+					if($(this).find('a').length>0){
+						len++;
+					}else{
+						$(this).remove();
+					}
+				});
+				var index = 0;
+				var adTimer;
+
+				$("#home_bot_content .img li").eq(index).addClass("active");
+				 index++;
+				//滑入停止动画，滑出开始动画
+				if(len>1){
+					var ctrl= '<ul class="btn">';
+					for (var i=0; i<len; i++) {
+						if(i==index){ctrl+='<li class="active"></li>'}else{ctrl+='<li></li>'};
+					}
+					$('#home_bot_content').append(ctrl+"</ul>");
+					$('#home_bot_content').hover(function(){
+						clearInterval(adTimer);
+					},function(){
+						adTimer = setInterval(function(){
+						$("#home_bot_content .img li").stop(true,false).animate({opacity : 0},1000).eq(index).stop(true,false).animate({opacity : 1},1000);
+						$("#home_bot_content .img li").removeClass("active").eq(index).addClass("active");
+						$("#home_bot_content .btn li").removeClass("active").eq(index).addClass("active");
+						index++;
+						if(index>=len){index=0;}
+						 } , 8000);
+					}).trigger("mouseleave");
+					//点击切换动画
+					$("#home_bot_content .btn li").click(function(){
+						index=$(this).index();
+						$("#home_bot_content .img li").stop(true,false).animate({opacity : 0},1000).eq(index).stop(true,false).animate({opacity : 1},1000);
+						$("#home_bot_content .img li").removeClass("active").eq(index).addClass("active");
+						$("#home_bot_content .btn li").removeClass("active").eq(index).addClass("active");
+					});
+				}
+			}
+		});
+
+		function doquery(type){
+			var obj = document.getElementById('domain'),
+					query_domain = url2domain(obj.value);
+					ret = true;
+
+			if(type=='default'){
+				ret = false;
+				type = $('.search-downlist dt').attr('data-pro');
+			}
+			if(type=='ci'){
+				if(query_domain=='请输入您要查询的网站' || query_domain==''){
+					alert('请输入要查询的关键词！');
+					obj.focus();
+				}else{
+					AddAllSites('allWords',query_domain);
+					referURL('https://ci.aizhan.com/'+encode_unicode_param(query_domain)+'/');
+				}
+			}else{
+				if(query_domain=='请输入您要查询的网站' || query_domain==''){
+					alert('请输入您要查询的网站！');
+					obj.focus();
+				}else{
+					if(type=='dns'||isDomain(query_domain)){
+						switch(type){
+							case "cha":
+								referURL("https://www.aizhan.com/cha/"+query_domain+"/");
+							break;
+							case "baidurank":
+								referURL("https://baidurank.aizhan.com/baidu/"+query_domain+"/");
+							break;
+							case "rank":
+								referURL("https://rank.aizhan.com/"+query_domain+"/");
+							break;
+							case "sogourank":
+								referURL("https://sogourank.aizhan.com/pc/"+query_domain+"/");
+							break;
+							case "sorank":
+								referURL("https://sorank.aizhan.com/pc/"+query_domain+"/");
+							break;
+							default:
+								referURL("https://"+type+".aizhan.com/"+query_domain+"/");
+							break;
+						}
+						AddAllSites('allSites',query_domain);
+					}else{
+						alert('域名格式错误！');
+					}
+				}
+			}
+			if(!ret){
+				return false;
+			}
+		}
+		function check_form(){
+			var obj = document.getElementById('bottom-search-site'),
+				query_domain = url2domain(obj.value);
+			if(isDomain(query_domain)){
+				AddAllSites('allSites',query_domain);
+				location.href = 'https://www.aizhan.com/cha/'+query_domain+'/';
+			}else{
+				alert('请输入要查询的站点！');
+				obj.focus();
+			}
+			return false;
+		}
+	</script>
+
+</body></html>

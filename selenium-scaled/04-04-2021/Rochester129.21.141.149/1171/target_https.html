@@ -1,0 +1,1573 @@
+<html dir="auto" lang="tr"><head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" src="https://bam.nr-data.net/1/554a87dbfd?a=45386782&amp;v=1208.49599aa&amp;to=YQFRZBMFW0dRAUNeWFhLZkIIS1xaVAdPGUdeFA%3D%3D&amp;rst=2253&amp;ck=1&amp;ref=https://anfturkce.com/&amp;ap=20&amp;be=635&amp;fe=2186&amp;dc=1464&amp;perf=%7B%22timing%22:%7B%22of%22:1617575844851,%22n%22:0,%22f%22:111,%22dn%22:116,%22dne%22:118,%22c%22:122,%22s%22:149,%22ce%22:197,%22rq%22:198,%22rp%22:354,%22rpe%22:356,%22dl%22:388,%22di%22:1263,%22ds%22:1464,%22de%22:1605,%22dc%22:2184,%22l%22:2184,%22le%22:2190%7D,%22navigation%22:%7B%7D%7D&amp;fcp=1358&amp;at=TUZSElsfSEk%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1208.min.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://partner.googleadservices.com/gampad/cookie.js?domain=anfturkce.com&amp;callback=_gfp_s_&amp;client=ca-pub-5766232193552467"></script><script src="https://pagead2.googlesyndication.com/pagead/js/r20210331/r20190131/show_ads_impl_fy2019.js" id="google_shimpl"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/cdn-cgi/apps/head/ykOANVLyXYbfEVPqoHzdgjZsmME.js"></script><script src="https://www.googletagmanager.com/gtag/js?id=UA-149849953-1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"554a87dbfd",applicationID:"45386782"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ANF | Articles</title>
+
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="/build/css/vendors.css?20210105v2">    <link rel="stylesheet" href="/css/style.css?20210105v2">                <script src="/build/js/vendors.min.js?20210105v2"></script>    <script src="/js/app.js?20210105v2"></script>        <link rel="stylesheet" href="https://cdn.plyr.io/3.5.2/plyr.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+        <script data-ad-client="ca-pub-5766232193552467" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-checked-head="true"></script>
+
+<meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=anfturkce.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=anfturkce.com"></script></head><body class="lang_tr "><amp-auto-ads type="adsense" data-ad-client="ca-pub-5766232193552467">
+</amp-auto-ads>    <script async="" src="/cdn-cgi/bm/cv/669835187/api.js"></script>
+
+
+
+    
+
+<div class="homepage homepage-bld container wrapper">
+          <section class="">
+
+          <div id="ticker-latest-news" class="s-marquee-container" dir="ltr">
+    <a class="latest-all" href="/latest-news">Tüm Haberler</a>
+    <div class="marquee"><div style="width: 100000px; margin-left: 1008px; animation: 64.1548s linear 0.2s infinite normal none running marqueeAnimation-7934270;" class="js-marquee-wrapper"><div class="js-marquee" style="margin-right: 0px; float: left;">
+        <ul class="marquee-content-items">
+        	            <li dir="ltr">
+                <span class="latest-news-time">00:03</span> <a href="https://anfturkce.com/dunya/bulgaristan-secimlerinin-galibi-basbakan-borisov-154726" title="">Bulgaristan seçimlerinin galibi başbakan Borisov</a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">00:02</span> <a href="https://anfturkce.com/guncel/27-yilda-halk-icin-degismeyen-tek-sey-yoksulluk-154724" title="">27 yılda halk için değişmeyen tek şey yoksulluk</a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">00:01</span> <a href="https://anfturkce.com/kurdIstan/Senyasar-kardeslerimin-katillerinden-biri-birkac-ay-sonra-cezaevinden-cikabilir-154725" title="">Şenyaşar: Kardeşlerimin katillerinden biri birkaç ay sonra cezaevinden çıkabilir<span class="title-icons"> <i class="fa fa-picture-o"></i> <i class="fa fa-video-camera"></i></span></a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">00:00</span> <a href="https://anfturkce.com/guncel/gUndem-5-nIsan-2021-154729" title="">GÜNDEM 5 NİSAN 2021</a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">23:53</span> <a href="https://anfturkce.com/avrupa/bordeaux-toulouse-bielefeld-hanau-ve-stuttgart-ta-4-nisan-kutlamalari-154730" title="">Bordeaux, Toulouse, Bielefeld, Hanau ve Stuttgart’ta 4 Nisan kutlamaları<span class="title-icons"> <i class="fa fa-picture-o"></i> <i class="fa fa-video-camera"></i></span></a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">22:45</span> <a href="https://anfturkce.com/guncel/Istanbul-da-Ocalan-in-dogum-gunu-kutlandi-154723" title="">İstanbul’da Abdullah Öcalan’ın doğum günü kutlandı </a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">22:40</span> <a href="https://anfturkce.com/avrupa/almanya-ve-Isvec-te-abdullah-Ocalan-in-dogum-gunu-kutladi-154722" title="">Almanya ve İsveç’te Abdullah Öcalan’ın doğum günü kutladı<span class="title-icons"> <i class="fa fa-picture-o"></i></span></a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">21:16</span> <a href="https://anfturkce.com/avrupa/oldenburg-giessen-ve-berlin-de-4-nisan-kutlamalari-154721" title="">Oldenburg, Giessen ve Berlin’de 4 Nisan kutlamaları<span class="title-icons"> <i class="fa fa-picture-o"></i> <i class="fa fa-video-camera"></i></span></a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">21:06</span> <a href="https://anfturkce.com/avrupa/hollanda-ve-danimarka-da-abdullah-Ocalan-in-dogum-gunu-kutlandi-154720" title="">Hollanda, Danimarka ve İsveç'te Abdullah Öcalan’ın doğum günü kutlandı-YENİLENDİ<span class="title-icons"> <i class="fa fa-picture-o"></i> <i class="fa fa-video-camera"></i></span></a>
+            </li>
+	                    <li dir="ltr">
+                <span class="latest-news-time">20:59</span> <a href="https://anfturkce.com/avrupa/lavrio-ve-limassol-da-4-nisan-kutlandi-154719" title="">Lavrio ve Limassol’da 4 Nisan kutlandı<span class="title-icons"> <i class="fa fa-video-camera"></i></span></a>
+            </li>
+	                </ul>
+    </div><style>@-webkit-keyframes marqueeAnimation-7934270  { 100%  {margin-left:-4381px}}</style></div></div>
+</div>
+<script>$(function (){
+    $('.marquee').marquee({
+        duration: 12000,
+        gap: 50,
+        delayBeforeStart: 200,
+        direction: 'left',
+        duplicated: false,
+        pauseOnHover: true
+    });
+});
+</script>
+    
+  </section>
+          <section class="">
+
+          
+<header id="navigation">
+  <div class="navbar" role="banner">
+    <div class="topbar">
+      <div class="">
+        
+        <div id="topbar" class="navbar-header">
+          <a class="navbar-brand" href="/">
+            <img class="main-logo img-responsive" src="/img/logo.png" alt="logo">
+          </a>
+          <a href="https://anfimages.live" target="_blank" class="nav-ext-link">
+            <i class="fa fa-picture-o"></i> Photo gallery          </a>
+          <a href="https://anfimages.live/videos" target="_blank" class="nav-ext-link">
+            <i class="fa fa-play"></i> Video gallery          </a>
+          <div id="topbar-right">
+            <!-- <div class="language-list">
+              <ul>
+                                <li><a href="https://anfenglish.com">English</a></li>
+                                <li><a href="https://anfkurdi.com">Kurmancî</a></li>
+                                <li><a href="https://anfsorani.com">کوردی</a></li>
+                                <li><a href="https://anfkirmancki.com">Kirmanckî</a></li>
+                                <li><a href="https://anfarabic.com">العربية</a></li>
+                                <li><a href="https://anfpersian.com">فارسی</a></li>
+                                <li><a href="https://anfespanol.com">Español</a></li>
+                                <li><a href="https://anfdeutsch.com">Deutsch</a></li>
+                                <li><a href="https://anfrussian.com">Pу́сский</a></li>
+                              </ul>
+            </div>                        -->
+            <div class="dropdown language-dropdown">                        
+              <a data-toggle="dropdown" class="needsclick" href="#"><span class="change-text">Türkçe</span> <i class="fa fa-angle-down"></i></a>
+              <ul class="dropdown-menu language-change">
+                                <li><a href="https://anfturkce.com">Türkçe</a></li>
+                                <li><a href="https://anfenglish.com">English</a></li>
+                                <li><a href="https://anfkurdi.com">Kurmancî</a></li>
+                                <li><a href="https://anfsorani.com">کوردی</a></li>
+                                <li><a href="https://anfkirmancki.com">Kirmanckî</a></li>
+                                <li><a href="https://anfarabic.com">العربية</a></li>
+                                <li><a href="https://anfpersian.com">فارسی</a></li>
+                                <li><a href="https://anfespanol.com">Español</a></li>
+                                <li><a href="https://anfdeutsch.com">Deutsch</a></li>
+                                <li><a href="https://anfrussian.com">Pу́сский</a></li>
+                              </ul>       
+            </div>
+            <div id="date-time">Pazartesi,  5 Nis 2021</div>
+          </div>
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Menüyü gizle</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div> 
+      </div> 
+    </div> 
+    <div id="menubar" class="">    
+      <nav id="mainmenu" class="navbar-left collapse navbar-collapse"> 
+        <ul class="nav navbar-nav">
+          <li>
+	<a href="/kurdIstan">KÜRDİSTAN</a>
+</li>
+<li>
+	<a href="/guncel">GÜNCEL</a>
+</li>
+<li>
+	<a href="/rojava-surIye">ROJAVA-SURİYE</a>
+</li>
+<li>
+	<a href="/kadin">KADIN</a>
+</li>
+<li>
+	<a href="/avrupa">AVRUPA</a>
+</li>
+<li>
+	<a href="/dunya">DÜNYA</a>
+</li>
+<li>
+	<a href="/toplum-ekolojI">TOPLUM-EKOLOJİ</a>
+</li>
+<li>
+	<a href="/kultur">KÜLTÜR</a>
+</li>
+<li>
+	<a href="/analIz">ANALİZ</a>
+</li>
+<li>
+	<a href="/bIlIm-teknIk">BİLİM-TEKNİK</a>
+</li>
+          <li><a href="https://anfimages.live" target="_blank" class="hidden-md hidden-lg">Photo gallery</a></li>
+          <li><a href="https://anfimages.live/videos" target="_blank" class="hidden-md hidden-lg">Video gallery</a></li>
+                    <li class="hidden-lg">
+            <div class="search">
+              <form role="form" lpformnum="1" method="GET" action="/articles/search">
+                <input type="text" name="q" class="search-form" autocomplete="off" placeholder="Yazın ve Enter'a basın">
+              </form>
+            </div> <!--/.search--> 
+            
+          </li>
+        </ul>
+      </nav>
+      <div class="search visible-lg-block">
+        <form role="form" lpformnum="1" method="GET" action="/articles/search">
+          <input type="text" name="q" class="search-form" autocomplete="off" placeholder="Yazın ve Enter'a basın">
+        </form>
+      </div> <!--/.search--> 
+    </div>
+  </div>
+</header>
+    
+  </section>
+          <section class="">
+
+          <div class="row">
+	<div class="col-md-8 col-sm-12">
+				<div id="home-slider" class="home-slider owl-carousel owl-theme owl-loaded owl-drag" dir="ltr">
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+					<!--/post--> 
+				<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3765px, 0px, 0px); transition: all 0s ease 0s; width: 14307px;"><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-dsc5373-3-jpg-webpa46b72-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/avrupa/fransa-dan-abdullah-Ocalan-a-ozgurluk-cagrisi-154702">Fransa’dan Abdullah Öcalan’a özgürlük çağrısı</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-690x390cc-kobane-04-04-2021-4nisan-jpged5e10-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/rojava-surIye/abdullah-ocalan-in-rojava-da-gittigi-ilk-koyde-4-nisan-kutlamasi-154699">Abdullah Öcalan’ın Rojava’da gittiği ilk köyde 4 Nisan kutlaması</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-02-04-2021-ypj-komutanlarindan-sterk-kobane-1-jpg89a2b6-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kadin/sterk-kobane-ypj-bir-intikam-gucudur-154685">Stêrk Kobanê: YPJ bir intikam gücüdür</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-ekran-alintisi-jpg220414-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kadin/Ozgur-Onderlik-ile-yasama-kararliligiyla-ulkemizi-gul-bahcesine-cevirecegiz-154695">YJA Star: Önderlik etrafında kenetlenelim, İmralı duvarlarını yıkalım!</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-dbp-es-genel-baskani-keskin-bayindir1-jpgbcd034-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/guncel/bayindir-kurtler-siyasi-muhatabinin-Ocalan-oldugunu-ortaya-koydu-154683">Bayındır: Kürtler muhatabın Abdullah Öcalan olduğunu ortaya koydu</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item active" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-ferit-senyasar-3-jpg1b4401-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kurdIstan/Senyasar-kardeslerimin-katillerinden-biri-birkac-ay-sonra-cezaevinden-cikabilir-154725">Şenyaşar: Kardeşlerimin katillerinden biri birkaç ay sonra cezaevinden çıkabilir</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-205738-onder-abdullah-ocalan-zilan-onderlik-gercegine-cevap-olmayi-gorev-bildi-jpg4f615d-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/guncel/kurdistan-baris-kampanyasi-ndan-abdullah-Ocalan-a-mektup-154705">Kürdistan Barış Kampanyası'ndan Abdullah Öcalan’a mektup</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-srnk-04-04-2021-rojbuna-ocalan-hat-pirozkirin2-jpg6414c6-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kurdIstan/kurt-halk-Onderi-nin-dogum-gununde-kuzey-kurdistan-da-fidanlar-dikildi-154704">Kürt Halk Önderi'nin doğum gününde Kuzey Kürdistan'da fidanlar dikildi</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-115435-112241-100434-2021-04-04-drk-rojbuna-r-apo-e280ab283833907329e280ac-e280abe280ac-jpg2ec181-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/rojava-surIye/halep-ten-derik-e-4-nisan-etkinlikleri-154703">Halep’ten Dêrik’e 4 Nisan etkinlikleri</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-dsc5373-3-jpg-webpa46b72-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/avrupa/fransa-dan-abdullah-Ocalan-a-ozgurluk-cagrisi-154702">Fransa’dan Abdullah Öcalan’a özgürlük çağrısı</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-690x390cc-kobane-04-04-2021-4nisan-jpged5e10-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/rojava-surIye/abdullah-ocalan-in-rojava-da-gittigi-ilk-koyde-4-nisan-kutlamasi-154699">Abdullah Öcalan’ın Rojava’da gittiği ilk köyde 4 Nisan kutlaması</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-02-04-2021-ypj-komutanlarindan-sterk-kobane-1-jpg89a2b6-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kadin/sterk-kobane-ypj-bir-intikam-gucudur-154685">Stêrk Kobanê: YPJ bir intikam gücüdür</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-ekran-alintisi-jpg220414-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kadin/Ozgur-Onderlik-ile-yasama-kararliligiyla-ulkemizi-gul-bahcesine-cevirecegiz-154695">YJA Star: Önderlik etrafında kenetlenelim, İmralı duvarlarını yıkalım!</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-dbp-es-genel-baskani-keskin-bayindir1-jpgbcd034-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/guncel/bayindir-kurtler-siyasi-muhatabinin-Ocalan-oldugunu-ortaya-koydu-154683">Bayındır: Kürtler muhatabın Abdullah Öcalan olduğunu ortaya koydu</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-ferit-senyasar-3-jpg1b4401-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kurdIstan/Senyasar-kardeslerimin-katillerinden-biri-birkac-ay-sonra-cezaevinden-cikabilir-154725">Şenyaşar: Kardeşlerimin katillerinden biri birkaç ay sonra cezaevinden çıkabilir</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-205738-onder-abdullah-ocalan-zilan-onderlik-gercegine-cevap-olmayi-gorev-bildi-jpg4f615d-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/guncel/kurdistan-baris-kampanyasi-ndan-abdullah-Ocalan-a-mektup-154705">Kürdistan Barış Kampanyası'ndan Abdullah Öcalan’a mektup</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-srnk-04-04-2021-rojbuna-ocalan-hat-pirozkirin2-jpg6414c6-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/kurdIstan/kurt-halk-Onderi-nin-dogum-gununde-kuzey-kurdistan-da-fidanlar-dikildi-154704">Kürt Halk Önderi'nin doğum gününde Kuzey Kürdistan'da fidanlar dikildi</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-115435-112241-100434-2021-04-04-drk-rojbuna-r-apo-e280ab283833907329e280ac-e280abe280ac-jpg2ec181-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/rojava-surIye/halep-ten-derik-e-4-nisan-etkinlikleri-154703">Halep’ten Dêrik’e 4 Nisan etkinlikleri</a>
+					</h2>
+															
+										
+									</div>
+			</div></div><div class="owl-item cloned" style="width: 753px;"><div class="post feature-post post-title-over-pic">
+				<div class="entry-header">
+					<div class="entry-thumbnail">
+						<img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-dsc5373-3-jpg-webpa46b72-image.jpg" alt="">
+					</div>
+				</div>
+				<div class="post-content">
+					<h2 class="entry-title">
+						<a href="https://anfturkce.com/avrupa/fransa-dan-abdullah-Ocalan-a-ozgurluk-cagrisi-154702">Fransa’dan Abdullah Öcalan’a özgürlük çağrısı</a>
+					</h2>
+															
+										
+									</div>
+			</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+			</div>
+	<div class="col-md-4 col-sm-12">
+		<div class="row">
+						<div class="col-md-12 col-xs-6">
+				<div class="post main-article simulated-link small-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-a-jpg393a3c-image-jpg587dc4-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-a-jpg393a3c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/guncel/27-yilda-halk-icin-degismeyen-tek-sey-yoksulluk-154724">27 yılda halk için değişmeyen tek şey yoksulluk</a>
+    </h3>
+  </div>
+</div>			</div>
+						<div class="col-md-12 col-xs-6">
+				<div class="post main-article simulated-link small-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-bulgaristan-secimler-jpg81a2cf-image-jpgc62329-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-bulgaristan-secimler-jpg81a2cf-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/dunya/bulgaristan-secimlerinin-galibi-basbakan-borisov-154726">Bulgaristan seçimlerinin galibi başbakan Borisov</a>
+    </h3>
+  </div>
+</div>			</div>
+					</div>
+	</div>
+</div>
+    
+  </section>
+          <section class="">
+
+          <div id="manual-pick" class="row">
+		<div class="col-sm-3 col-xs-12">
+		<div class="post main-article simulated-link small-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-155735-153645-135848-kobane-minbic-4-nisan-28529-jpg71631c-image-jpge330f9-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-155735-153645-135848-kobane-minbic-4-nisan-28529-jpg71631c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/rojava-surIye/kuzey-ve-dogu-suriye-nin-onlarca-kentinde-4-nisan-kutlamalari-154718">Kuzey ve Doğu Suriye’nin onlarca kentinde 4 Nisan kutlamaları</a>
+    </h3>
+  </div>
+</div>	</div>
+		<div class="col-sm-3 col-xs-12">
+		<div class="post main-article simulated-link small-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-1452-jpg5c3e0d-image-jpg1cf5ac-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-1452-jpg5c3e0d-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/kadin/plaza-de-mayo-nun-kurucularindan-carmen-cobo-yasamini-yitirdi-154707">Plaza de Mayo’nun kurucularından Carmen Cobo yaşamını yitirdi</a>
+    </h3>
+  </div>
+</div>	</div>
+		<div class="col-sm-3 col-xs-12">
+		<div class="post main-article simulated-link small-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-image00003-jpeg57cf49-image-jpg275fb9-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-image00003-jpeg57cf49-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/avrupa/lyon-daki-fasist-saldiriyi-protesto-eylemine-polis-saldirdi-154712">Lyon’daki faşist saldırıyı protesto eylemine polis saldırdı</a>
+    </h3>
+  </div>
+</div>	</div>
+		<div class="col-sm-3 col-xs-12">
+		<div class="post main-article simulated-link small-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-04-04-2021-anf-mexmuri-bi-cosa-4-e-nisane-silav-dan-roje-aa0cc4pre-jpgcdc320-image-jpge4fed8-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-04-04-2021-anf-mexmuri-bi-cosa-4-e-nisane-silav-dan-roje-aa0cc4pre-jpgcdc320-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/kurdIstan/maxmurlular-4-nisan-coskusuyla-gunesi-selamladi-154710">Maxmurlular 4 Nisan coşkusuyla güneşi selamladı</a>
+    </h3>
+  </div>
+</div>	</div>
+	</div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing guncel-section">
+	<h2 class="section-title">GÜNCEL</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/guncel">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-4">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-gunluk-gundem-jpg20e0f9-image-jpgf69c92-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-gunluk-gundem-jpg20e0f9-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/guncel/gUndem-5-nIsan-2021-154729">GÜNDEM 5 NİSAN 2021</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-whatsapp-image-2021-04-04-at-22-46-14-jpeg7db6a9-image-jpg516593-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-whatsapp-image-2021-04-04-at-22-46-14-jpeg7db6a9-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/guncel/Istanbul-da-Ocalan-in-dogum-gunu-kutlandi-154723">İstanbul’da Abdullah Öcalan’ın doğum günü kutlandı </a>
+        </h2>
+    </div>
+</div></div>    <div class="col-sm-4 post small-post post-titles-list">
+        <div class="post-content">
+                            <h3 class="entry-title">
+                <a href="https://anfturkce.com/guncel/tja-dogum-gunun-kutlu-olsun-bilge-insan-154701">TJA: Doğum günün kutlu olsun bilge insan</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/guncel/eylemler-154698">Kürt Halk Önderi'nin doğum gününde 4 kentte eylemler </a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/guncel/amara-da-abluka-heyetin-gecisi-engellendi-154700">Amara’da abluka: Heyetin geçişi engellendi</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/guncel/Ohd-gergerlioglu-nun-ozgurlugu-ve-yasamina-kastediliyor-154696">ÖHD: Gergerlioğlu’nun özgürlüğü ve yaşamına kastediliyor</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/guncel/kcdk-e-paskayla-bayrami-ni-kutladi-154687">KCDK-E Paskayla Bayramı'nı kutladı</a>
+            </h3>
+                </div>
+    </div>
+</div></div>
+    
+  </section>
+          <section class="">
+
+          <div class="row">
+  <div class="col-sm-8">
+    <section class="left-tall-spot tall-spot">
+      <h3 class="section-title hidden-xs">
+        <a>&nbsp;</a>
+      </h3>
+      <div class="post simulated-link">
+        <div class="entry-header">
+          <div class="entry-thumbnail bg-image" style="background-image: url(https://anfturkce.com/uploads/tr/articles/2021/04/20210403-24-03-2021-behdinan-hpg-fedai-sehitleri-saygiyla-aniyoruz-72359cpre-jpg0aa9da-image.jpg)">
+          </div>
+        </div>
+        <div class="post-content">
+          <h3 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/kamil-devrimci-savas-yoldas-154673">Kamil devrimci Savaş yoldaş</a>
+          </h3>
+                                          </div>	
+      </div>
+    </section>
+  </div>
+  <div class="col-sm-4">
+    
+<h3 class="section-title">
+	<a href="https://www.anfimages.live/videos">ANF Videos <small><i class="fa fa-external-link"></i></small></a>
+</h3>
+<section id="youtube-videos">
+	<div class="post medium-post big-video">
+		<a data-toggle="modal" data-target="#previewModal" data-id="0" data-type="direct" data-url="https://1649452211.rsc.cdn77.org/vod/2021-04-03-Behdinan-Sozdar-Avesta-4-nisan-kutlama_1.mp4">
+			<div class="entry-header">
+				<!-- <span></span> -->
+				<img class="img-responsive" src="https://anfturkce.com/uploads/tr/videoth/85f8fec9be2aa723949e90dad00a72b2.jpg" alt="">
+			</div>
+			<div class="post-content">								
+				<h3 class="entry-title">
+					Avesta: Önder Apo'nun özgürlüğü için mücadeleyi daha da büyüteceğiz				</h3>
+			</div>	
+		</a>
+	</div>
+
+	<div class="widget">
+		<div class="post-list">
+											<div class="post small-post ">
+					<a data-toggle="modal" data-target="#previewModal" data-id="0" data-type="direct" data-url="https://1649452211.rsc.cdn77.org/vod/2021-04-04-amed-keskin-bayindir-dbp-es-genel-baskani-hdp-tecrit-newroz-1.mp4">
+						<div class="post-content">								
+							<span class="entry-title">
+								Bayındır: Kürtler muhatabın Abdullah Öcalan olduğunu ortaya koydu							</span>
+						</div>	
+					</a>
+				</div>
+											<div class="post small-post ">
+					<a data-toggle="modal" data-target="#previewModal" data-id="0" data-type="direct" data-url="https://1649452211.rsc.cdn77.org/vod/2021-04-04-Heseke-Sterk-Kobane-YPJ-komutani-ypj-intikam-gucudur_1.mp4">
+						<div class="post-content">								
+							<span class="entry-title">
+								Stêrk Kobanê: YPJ bir intikam gücüdür							</span>
+						</div>	
+					</a>
+				</div>
+											<div class="post small-post ">
+					<a data-toggle="modal" data-target="#previewModal" data-id="0" data-type="direct" data-url="https://1649452211.rsc.cdn77.org/vod/2021-04-02-Urfa-Mehmet-Ocalan-4-nisan_1.mp4">
+						<div class="post-content">								
+							<span class="entry-title">
+								Güneş'e yolculuk yürüyüşü...							</span>
+						</div>	
+					</a>
+				</div>
+											<div class="post small-post hidden-xs">
+					<a data-toggle="modal" data-target="#previewModal" data-id="0" data-type="direct" data-url="https://1649452211.rsc.cdn77.org/vod/02-04-21-amed-av-muhittin-muguc-sehit-gerillalarin-ailelerine-kesilen-maddi-cezalar-1.mp4">
+						<div class="post-content">								
+							<span class="entry-title">
+								Gerilla ailelerine tazminat davaları açılıyor							</span>
+						</div>	
+					</a>
+				</div>
+											<div class="post small-post hidden-xs">
+					<a data-toggle="modal" data-target="#previewModal" data-id="0" data-type="direct" data-url="https://1649452211.rsc.cdn77.org/vod/29.03.2021-ankara-omer-faruk-gergerlioglu-1.mp4">
+						<div class="post-content">								
+							<span class="entry-title">
+								Gergerlioğlu: Geri adım atmıyorum							</span>
+						</div>	
+					</a>
+				</div>
+					</div>
+	</div>
+
+</section>
+
+<div class="modal fade" id="previewModal" tabindex="-1" data-type="video" role="dialog" aria-labelledby="modalTitle">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-body clearfix">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+				<!-- <div id="player" data-plyr-provider="vimeo" data-plyr-embed-id="76979871_______">
+
+				</div> -->
+<!-- 				<div id="videoPreviewYt" class="video-container plyr__video-embed" style="display:none">
+					<iframe class="elm" frameborder="0">
+					</iframe>
+				</div> -->
+				<video id="videoPreviewMan" class="video-container" playsinline="" controls="" style="display: none">
+				</video>
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+</div>
+    
+  </section>
+          <section class=" hidden-md hidden-lg">
+
+          <div class="section category-listing kurdIstan-section">
+	<h2 class="section-title">KÜRDİSTAN</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/kurdIstan">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-dsc0080-jpg3d1a1c-image-jpg0d5b28-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-dsc0080-jpg3d1a1c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/hsm-4-nisan-i-kutladi-Onderligimizin-tutumu-mesajdir-154690">HSM: Önder Apo'nun fiziken özgür olma zamanı geldi</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-20210311-20201020-sozdar-avesta-1-jpg9400c7-image-jpg7b52df-image-jpg2b039c-image-jpgb882ed-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210311-20201020-sozdar-avesta-1-jpg9400c7-image-jpg7b52df-image-jpg2b039c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/avesta-Onder-apo-nun-ozgurlugu-icin-mucadeleyi-daha-da-buyutecegiz-154682">Avesta: Önder Apo'nun özgürlüğü için mücadeleyi daha da büyüteceğiz</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-14523-jpegb92901-image-jpga93ce6-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-14523-jpegb92901-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/mus-ta-15-gunluk-yasak-154672">Muş’ta 15 günlük yasak</a>
+        </h2>
+    </div>
+</div></div></div>
+<div class="row">
+     <div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-03-04-2021-mexmur-mihricana-4-e-nisane-ya-li-mexmure-di-roja-duyemin-de-didome-dc1d96full-jpg9f3150-image-jpgc30512-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-03-04-2021-mexmur-mihricana-4-e-nisane-ya-li-mexmure-di-roja-duyemin-de-didome-dc1d96full-jpg9f3150-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/maxmur-da-4-nisan-festivali-2-gununde-154653">Maxmûr’da 4 Nisan Festivali 2. gününde</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-wan-baris-parki-jpgdf6443-image-jpgbeb541-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-wan-baris-parki-jpgdf6443-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/kayyum-baris-parki-na-tahammul-edemedi-154649">Kayyum Barış Parkı’na tahammül edemedi</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-hdp-jpgb5fa98-image-jpg1fe8d8-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-hdp-jpgb5fa98-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/hdp-Senyasarlar-i-katledenler-korunuyor-154651"> HDP: Şenyaşarlar'ı katledenler korunuyor </a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-download-jpg13258a-image-jpg85902d-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-download-jpg13258a-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/Izmir-de-7-gozalti-154648">İzmir'de 7 gözaltı</a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+          <section class=" visible-md-block visible-lg-block">
+
+          <div class="section category-listing kurdIstan-section">
+	<h2 class="section-title">KÜRDİSTAN</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/kurdIstan">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-6">
+<div class="post simulated-link medium-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-dsc0080-jpg3d1a1c-image-jpg0d5b28-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-dsc0080-jpg3d1a1c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/hsm-4-nisan-i-kutladi-Onderligimizin-tutumu-mesajdir-154690">HSM: Önder Apo'nun fiziken özgür olma zamanı geldi</a>
+        </h2>
+    </div>
+</div></div>    <div class="col-sm-6">
+                    <div class="row">
+                        <div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-20210311-20201020-sozdar-avesta-1-jpg9400c7-image-jpg7b52df-image-jpg2b039c-image-jpgb882ed-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210311-20201020-sozdar-avesta-1-jpg9400c7-image-jpg7b52df-image-jpg2b039c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/avesta-Onder-apo-nun-ozgurlugu-icin-mucadeleyi-daha-da-buyutecegiz-154682">Avesta: Önder Apo'nun özgürlüğü için mücadeleyi daha da büyüteceğiz</a>
+        </h2>
+    </div>
+</div></div><div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-14523-jpegb92901-image-jpga93ce6-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-14523-jpegb92901-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/mus-ta-15-gunluk-yasak-154672">Muş’ta 15 günlük yasak</a>
+        </h2>
+    </div>
+</div></div>        </div>
+                    <div class="row">
+                        <div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-03-04-2021-mexmur-mihricana-4-e-nisane-ya-li-mexmure-di-roja-duyemin-de-didome-dc1d96full-jpg9f3150-image-jpgc30512-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-03-04-2021-mexmur-mihricana-4-e-nisane-ya-li-mexmure-di-roja-duyemin-de-didome-dc1d96full-jpg9f3150-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/maxmur-da-4-nisan-festivali-2-gununde-154653">Maxmûr’da 4 Nisan Festivali 2. gününde</a>
+        </h2>
+    </div>
+</div></div><div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-wan-baris-parki-jpgdf6443-image-jpgbeb541-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-wan-baris-parki-jpgdf6443-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kurdIstan/kayyum-baris-parki-na-tahammul-edemedi-154649">Kayyum Barış Parkı’na tahammül edemedi</a>
+        </h2>
+    </div>
+</div></div>        </div>
+            </div>
+</div></div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing rojava-surIye-section">
+	<h2 class="section-title">ROJAVA-SURİYE</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/rojava-surIye">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-072314-kongira-star-620x364-jpg44aa64-image-jpgfc8fd2-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-072314-kongira-star-620x364-jpg44aa64-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/kongreya-star-4-nisan-kadin-ozgurluk-mucadelesinin-dayandigi-temel-koktur-154694">Kongreya Star: 4 Nisan kadın özgürlük mücadelesinin dayandığı temel köktür</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-20210404-015542-jpgf9f0ab-image-jpg494466-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-015542-jpgf9f0ab-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/hol-de-9-daIS-cetesi-daha-yakalandi-154688">Hol'de 9 DAİŞ çetesi daha yakalandı</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-1212-jpgbeff65-image-jpg1a51ca-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-1212-jpgbeff65-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/qerecox-dagi-nda-4-nisan-yuruyusu-154677">Qereçox Dağı’nda 4 Nisan yürüyüşü</a>
+        </h2>
+    </div>
+</div></div></div>
+<div class="row">
+     <div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-171427-rojbuna-serok-2-jpgb195b0-image-jpg899b20-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-171427-rojbuna-serok-2-jpgb195b0-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/kuzey-ve-dogu-suriye-de-4-nisan-vesilesiyle-fidanlar-dikildi-154671">Kuzey ve Doğu Suriye’de 4 Nisan vesilesiyle fidanlar dikildi</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-whatsapp-image-2021-04-03-at-19-14-12-jpegbb4e2a-image-jpgfee8a2-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-whatsapp-image-2021-04-03-at-19-14-12-jpegbb4e2a-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/hol-de-cinayetlerden-sorumlu-4-cete-daha-yakalandi-154669">Hol Kampı’nda 4 çete yakalandı-YENİLENDİ</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-14523-jpga38210-image-jpgbfbe59-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-14523-jpga38210-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/ronahi-tv-calisani-ehmed-esad-yasamini-yitirdi-154665">Ronahi TV çalışanı Ehmed Esad yaşamını yitirdi</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-2a9a1956-jpgbc5e1d-image-jpg3d810c-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-2a9a1956-jpgbc5e1d-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/rojava-surIye/turkmen-aile-hol-operasyonuyla-disari-cikip-rahat-bir-nefes-aldik-154635">Türkmen aile: Hol operasyonuyla rahat bir nefes aldık</a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+          <section class=" visible-md-block visible-lg-block">
+
+          <div class="section category-listing kadin-section">
+	<h2 class="section-title">KADIN</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/kadin">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-6">
+<div class="post simulated-link medium-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-20190725-2017-08-23-bese-hozat-1200thumb-jpgdc1122-image-jpg-opdownload7b600b-image-jpg34b2ca-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20190725-2017-08-23-bese-hozat-1200thumb-jpgdc1122-image-jpg-opdownload7b600b-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/hozat-Ozgur-kadin-ruhu-evrensellik-kazaniyor-154674">Hozat: Özgür kadın ruhu evrensellik kazanıyor</a>
+        </h2>
+    </div>
+</div></div>    <div class="col-sm-6">
+                    <div class="row">
+                        <div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-whatsapp-image-2021-04-03-at-21-03-24-jpeg84fa14-image-jpg933540-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-whatsapp-image-2021-04-03-at-21-03-24-jpeg84fa14-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/turkiye-nin-Istanbul-sozlesmesi-nden-cekilmesi-protestolari-suruyor-154675">Türkiye’nin İstanbul Sözleşmesi’nden çekilmesi protestoları sürüyor</a>
+        </h2>
+    </div>
+</div></div><div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-65-jpg44bc18-image-jpg7b39cb-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-65-jpg44bc18-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/freiburg-ta-bm-ye-mektup-gonderildi-154667">Freiburg'ta BM’ye mektup gönderildi</a>
+        </h2>
+    </div>
+</div></div>        </div>
+                    <div class="row">
+                        <div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-her1-kopya-jpgaaa8e0-image-jpg0478b3-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-her1-kopya-jpgaaa8e0-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/kayseri-de-bir-kadin-cenazesi-bulundu-154660">Kayseri’de bir kadın cenazesi bulundu</a>
+        </h2>
+    </div>
+</div></div><div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-dsc-6917-jpg0040a3-image-jpg953265-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-dsc-6917-jpg0040a3-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/Istanbul-sozlesmesi-nden-cekilen-erdogan-stockholm-de-protesto-edildi-154658">İstanbul Sözleşmesi'nden çekilen Erdoğan Stockholm'de protesto edildi</a>
+        </h2>
+    </div>
+</div></div>        </div>
+            </div>
+</div></div>
+    
+  </section>
+          <section class=" hidden-md hidden-lg">
+
+          <div class="section category-listing kadin-section">
+	<h2 class="section-title">KADIN</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/kadin">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-20190725-2017-08-23-bese-hozat-1200thumb-jpgdc1122-image-jpg-opdownload7b600b-image-jpg34b2ca-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20190725-2017-08-23-bese-hozat-1200thumb-jpgdc1122-image-jpg-opdownload7b600b-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/hozat-Ozgur-kadin-ruhu-evrensellik-kazaniyor-154674">Hozat: Özgür kadın ruhu evrensellik kazanıyor</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-whatsapp-image-2021-04-03-at-21-03-24-jpeg84fa14-image-jpg933540-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-whatsapp-image-2021-04-03-at-21-03-24-jpeg84fa14-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/turkiye-nin-Istanbul-sozlesmesi-nden-cekilmesi-protestolari-suruyor-154675">Türkiye’nin İstanbul Sözleşmesi’nden çekilmesi protestoları sürüyor</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-65-jpg44bc18-image-jpg7b39cb-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-65-jpg44bc18-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/freiburg-ta-bm-ye-mektup-gonderildi-154667">Freiburg'ta BM’ye mektup gönderildi</a>
+        </h2>
+    </div>
+</div></div></div>
+<div class="row">
+     <div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-her1-kopya-jpgaaa8e0-image-jpg0478b3-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-her1-kopya-jpgaaa8e0-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/kayseri-de-bir-kadin-cenazesi-bulundu-154660">Kayseri’de bir kadın cenazesi bulundu</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-dsc-6917-jpg0040a3-image-jpg953265-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-dsc-6917-jpg0040a3-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/Istanbul-sozlesmesi-nden-cekilen-erdogan-stockholm-de-protesto-edildi-154658">İstanbul Sözleşmesi'nden çekilen Erdoğan Stockholm'de protesto edildi</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-tjk-e-jpgc18303-image-jpg258d04-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-tjk-e-jpgc18303-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/tjk-e-4-nisan-hepimizin-dogus-gunudur-154632">TJK-E: 4 Nisan hepimizin doğuş günüdür!</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210402-20210402-54-jpg9aa42c-image-jpgdd20e9-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210402-54-jpg9aa42c-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kadin/kadinlar-mucadelede-kararli-154623">Kadınlar mücadelede kararlı </a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing dunya-section">
+	<h2 class="section-title">DÜNYA</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/dunya">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+     <div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-mozambik-jpga547e8-image-jpgacbada-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-mozambik-jpga547e8-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/dunya/Cetelerin-isgal-ettigi-palma-da-insanlar-goc-etmek-zorunda-kaliyor-154679">Çetelerin işgal ettiği Palma’da insanlar göç etmek zorunda kalıyor</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-myanmar-jpgf9b0fc-image-jpga55e7a-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-myanmar-jpgf9b0fc-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/dunya/myanmar-da-catismalar-suruyor-bm-sivil-savas-uyarisi-yapti-154680">Myanmar’da çatışmalar sürüyor, BM ‘sivil savaş’ uyarısı yaptı</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-5fd07ec2d4d9fa80d5b45864eb8f8356-jpgf7e4b4-image-jpg92c1ed-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-5fd07ec2d4d9fa80d5b45864eb8f8356-jpgf7e4b4-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/dunya/somali-de-el-Sebap-ceteleri-askeri-uslere-saldirdi-154659">Somali’de El Şebap çeteleri askeri üslere saldırdı</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-download-jpg61c730-image-jpg160aa3-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-download-jpg61c730-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/dunya/abd-yonetimi-ucm-ye-yaptirimlari-kaldirdi-154628">ABD yönetimi UCM’ye yaptırımları kaldırdı </a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+          <section class="">
+
+          <div id="manual-pick" class="row">
+		<div class="col-sm-12 col-xs-6">
+		<div class="post main-article simulated-link large-post post-title-over-pic">
+  <div class="entry-header">
+    <div class="entry-thumbnail">
+      <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-32-jpg4b8413-image-jpg0ede80-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-32-jpg4b8413-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+    </div>
+  </div>
+  <div class="post-content">
+    <h3 class="entry-title">
+      <a href="https://anfturkce.com/guncel/Imrali-sureci-ucuncu-dogustur-154684">‘İmralı süreci üçüncü doğuştur’ </a>
+    </h3>
+  </div>
+</div>	</div>
+	</div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing avrupa-section">
+	<h2 class="section-title">AVRUPA</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/avrupa">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-8">
+<div class="post simulated-link medium-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-hanau-1-jpgca1909-image-jpga14fa2-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-hanau-1-jpgca1909-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/avrupa/bordeaux-toulouse-bielefeld-hanau-ve-stuttgart-ta-4-nisan-kutlamalari-154730">Bordeaux, Toulouse, Bielefeld, Hanau ve Stuttgart’ta 4 Nisan kutlamaları</a>
+        </h2>
+    </div>
+</div></div>    <div class="col-sm-4 post small-post post-titles-list">
+        <div class="post-content">
+                            <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/almanya-ve-Isvec-te-abdullah-Ocalan-in-dogum-gunu-kutladi-154722">Almanya ve İsveç’te Abdullah Öcalan’ın doğum günü kutladı</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/oldenburg-giessen-ve-berlin-de-4-nisan-kutlamalari-154721">Oldenburg, Giessen ve Berlin’de 4 Nisan kutlamaları</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/hollanda-ve-danimarka-da-abdullah-Ocalan-in-dogum-gunu-kutlandi-154720">Hollanda, Danimarka ve İsveç'te Abdullah Öcalan’ın doğum günü kutlandı-YENİLENDİ</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/lavrio-ve-limassol-da-4-nisan-kutlandi-154719">Lavrio ve Limassol’da 4 Nisan kutlandı</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/viyana-ve-paris-te-4-nisan-kutlandi-154717">Viyana ve Paris’te 4 Nisan kutlandı</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/Isvicre-de-kurdistanlilar-Onder-apo-nun-dogum-gununu-kutladi-154716">İsviçre'de Kürdistanlılar Önder Apo'nun doğum gününü kutladı</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/kiel-mannheim-antwerpen-ve-helsinki-de-abdullah-Ocalan-in-dogum-gunu-kutlandi-154715">Kiel, Mannheim, Antwerpen ve Helsinki’de Abdullah Öcalan’ın doğum günü kutlandı</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/hamburg-da-uc-etkinlikle-abdullah-Ocalan-in-dogum-gunu-kutlandi-154714">Hamburg’da üç etkinlikle Abdullah Öcalan’ın doğum günü kutlandı</a>
+            </h3>
+                    <h3 class="entry-title">
+                <a href="https://anfturkce.com/avrupa/montpellier-strasbourg-ve-mulhouse-da-4-nisan-kutlamalari-154713">Montpellier, Strasbourg ve Mulhouse’da 4 Nisan kutlamaları</a>
+            </h3>
+                </div>
+    </div>
+</div></div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing analIz-section">
+	<h2 class="section-title">ANALİZ</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/analIz">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-selahattin-erdem-yazisi-jpgdd7f2d-image-jpg276636-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-selahattIn-erdem-yazisi-jpgdd7f2d-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/analIz/Ihbar-kdp-den-infaz-mIt-ten-154631">İhbar KDP’den infaz MİT’ten</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/02/20210214-20210214-20210211-ocalan-in-imrali-jpgad82b4-image-jpg4dfea3-image-jpg1a91db-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/02/20210214-20210211-ocalan-in-imrali-jpgad82b4-image-jpg4dfea3-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/analIz/Imrali-iskence-ve-tecrit-sisteminde-zihniyet-devrimi-152258">'İmralı işkence ve tecrit sisteminde zihniyet devrimi'</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-4">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/02/20210213-20210213-1027394344-0-0-1200-675-1200x0-80-0-1-b8764ce50a17f2e2bfb37cd01a9219bd-jpg135f31-image-jpgadf5f6-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/02/20210213-1027394344-0-0-1200-675-1200x0-80-0-1-b8764ce50a17f2e2bfb37cd01a9219bd-jpg135f31-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/analIz/siyam-ikizleri-akp-ve-kdp-152165">Siyam ikizleri AKP ve KDP</a>
+        </h2>
+    </div>
+</div></div></div>
+</div>
+    
+  </section>
+          <section class=" visible-md-block visible-lg-block">
+
+          <div class="section category-listing bIlIm-teknIk-section">
+	<h2 class="section-title">BİLİM-TEKNİK</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/bIlIm-teknIk">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-6">
+<div class="post simulated-link medium-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-requin-marcheur-002-780x520-jpg68162d-image-jpg1942f6-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-requin-marcheur-002-780x520-jpg68162d-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/4-yeni-yuruyen-kopekbaligi-turu-kesfedildi-154629">4 yeni yürüyen köpekbalığı türü keşfedildi </a>
+        </h2>
+    </div>
+</div></div>    <div class="col-sm-6">
+                    <div class="row">
+                        <div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210323-20210323-54-jpg02fbcb-image-jpg6dec84-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210323-54-jpg02fbcb-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/mars-taki-sular-kabugunda-saklanmis-olabilir-154142">Mars’taki sular kabuğunda saklanmış olabilir! </a>
+        </h2>
+    </div>
+</div></div><div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210321-20210321-5a0cd89d61361f20c4c20644-jpg199da4-image-jpge7ac95-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210321-5a0cd89d61361f20c4c20644-jpg199da4-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/kopan-buzdaginin-altindan-oldukca-cesitli-eko-sistem-cikti-153952">Kopan buzdağının altından oldukça çeşitli eko-sistem çıktı </a>
+        </h2>
+    </div>
+</div></div>        </div>
+                    <div class="row">
+                        <div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210317-20210317-65-jpg7a1c61-image-jpg53488b-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210317-65-jpg7a1c61-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/iss-de-bulunan-bakteri-dunya-disinda-bitki-yetistirilebilir-mi-153662">ISS’de bulunan bakteri: Dünya dışında bitki yetiştirilebilir mi? </a>
+        </h2>
+    </div>
+</div></div><div class="col-xs-6">
+<div class="post simulated-link small-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210316-20210316-image-jpg6e5ec8-image-jpgcd6b40-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210316-image-jpg6e5ec8-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/bugune-kadarki-en-eski-goktasi-tespit-edildi-153657">Bugüne kadarki en eski göktaşı tespit edildi </a>
+        </h2>
+    </div>
+</div></div>        </div>
+            </div>
+</div></div>
+    
+  </section>
+          <section class=" hidden-md hidden-lg">
+
+          <div class="section category-listing bIlIm-teknIk-section">
+	<h2 class="section-title">BİLİM-TEKNİK</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/bIlIm-teknIk">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+     <div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-20210403-requin-marcheur-002-780x520-jpg68162d-image-jpg1942f6-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210403-requin-marcheur-002-780x520-jpg68162d-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/4-yeni-yuruyen-kopekbaligi-turu-kesfedildi-154629">4 yeni yürüyen köpekbalığı türü keşfedildi </a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210323-20210323-54-jpg02fbcb-image-jpg6dec84-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210323-54-jpg02fbcb-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/mars-taki-sular-kabugunda-saklanmis-olabilir-154142">Mars’taki sular kabuğunda saklanmış olabilir! </a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210321-20210321-5a0cd89d61361f20c4c20644-jpg199da4-image-jpge7ac95-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210321-5a0cd89d61361f20c4c20644-jpg199da4-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/kopan-buzdaginin-altindan-oldukca-cesitli-eko-sistem-cikti-153952">Kopan buzdağının altından oldukça çeşitli eko-sistem çıktı </a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210317-20210317-65-jpg7a1c61-image-jpg53488b-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210317-65-jpg7a1c61-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/bIlIm-teknIk/iss-de-bulunan-bakteri-dunya-disinda-bitki-yetistirilebilir-mi-153662">ISS’de bulunan bakteri: Dünya dışında bitki yetiştirilebilir mi? </a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing toplum-ekolojI-section">
+	<h2 class="section-title">TOPLUM-EKOLOJİ</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/toplum-ekolojI">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+     <div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210402-20210402-14-jpg10ef55-image-jpg6da668-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210402-14-jpg10ef55-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/toplum-ekolojI/deniz-suyu-seviyesi-kuzey-yarimkure-deki-erimeyle-yukseldi-154624">Deniz suyu seviyesi Kuzey Yarımküre’deki erimeyle yükseldi </a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210401-20210401-79dedf9149629b3030cb5e2262b36bbc-webpbe72dd-image-jpg5b6259-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210401-79dedf9149629b3030cb5e2262b36bbc-webpbe72dd-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/toplum-ekolojI/Istilaci-canli-turleri-biyo-cesitlilik-icin-en-buyuk-tehdit-154581">‘İstilacı canlı türleri biyo çeşitlilik için en büyük tehdit!’</a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210401-20210401-1-webpaa9b85-image-jpg23ca40-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210401-1-webpaa9b85-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/toplum-ekolojI/2020-de-tropikal-ormanlardaki-yikim-daha-da-artti-154536">2020’de tropikal ormanlardaki yıkım daha da arttı </a>
+        </h2>
+    </div>
+</div></div><div class="col-sm-3">
+<div class="post simulated-link medium-post">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/03/20210331-20210331-stabiliser-le-rechauffement-jpgc11144-image-jpgb34086-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/03/20210331-stabiliser-le-rechauffement-jpgc11144-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/toplum-ekolojI/kuresel-isinma-yaz-mevsimi-giderek-uzuyor-154484">Küresel ısınma: Yaz mevsimi giderek uzuyor </a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+          <section class="">
+
+          <div class="section category-listing kultur-section">
+	<h2 class="section-title">KÜLTÜR</h2>
+	<div class="cat-menu">         
+			<a href="https://anfturkce.com/kultur">Tümünü göster</a>                   
+	</div>
+	<div class="row">
+    <div class="col-sm-12">
+<div class="post simulated-link medium-post post-title-over-pic">
+    <div class="entry-header">
+        <div class="entry-thumbnail">
+                        <img class="img-responsive" src="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-20210404-momies-png-jpeg6b88ce-image-jpgbcc198-thumb.jpg" srcset="https://anfturkce.com/uploads/tr/articles/2021/04/20210404-momies-png-jpeg6b88ce-image.jpg 350w" sizes="(min-width: 768px) 30vw, 100vw" alt="">
+                    </div>
+    </div>
+    <div class="post-content">                              
+        <h2 class="entry-title">
+            <a href="https://anfturkce.com/kultur/kahire-sokaklarinda-mumya-defilesi-154691">Kahire sokaklarında ‘mumya’ defilesi</a>
+        </h2>
+    </div>
+</div></div></div></div>
+    
+  </section>
+  
+  </div>
+
+  <footer>
+  <div class="footer-wrapper">
+    <div class="container">
+      <p>
+        <a href="/">Anasayfa</a> | 
+        <a href="/contact">Künye &amp; İletişim</a> | 
+        <a href="/feed.rss">RSS Feed</a> | 
+        <span>Copyright © Ajansa Nûçeyan a Firatê 2021. All Rights Reserved</span>
+      </p>
+    </div>
+  </div>
+</footer>    <script src="https://cdn.plyr.io/3.5.2/plyr.polyfilled.js"></script>
+    <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"554a87dbfd","applicationID":"45386782","transactionName":"YQFRZBMFW0dRAUNeWFhLZkIIS1xaVAdPGUdeFA==","queueTime":0,"applicationTime":20,"atts":"TUZSElsfSEk=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'63ae05c8995f4bbf',m:'a5874962ba235823dbf7188591bc4f9c0df770e4-1617575860-1800-AQcBgKrWIQO/6DKpqGsYUIMH5AwQUg1JT1+bMb+WOooxswA6QDvmkFt/5cFpG4diag1F+wdjrI9cexexiko+owi7Ouzmz3sAEsuf8u2vMIghaGPzeOSvUvAG1NoiMGvQyQ==',s:[0x47f70c9c22,0x0e4b6e1a58],}})();</script>
+
+<ins class="adsbygoogle adsbygoogle-noablate" style="display: none !important;" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;" tabindex="0" title="Advertisement" aria-label="Advertisement"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5766232193552467&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1617575846&amp;plat=1%3A1081352%2C2%3A1081352%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fanfturkce.com%2F&amp;ea=0&amp;flash=0&amp;pra=5&amp;wgl=1&amp;dt=1617575846281&amp;bpp=11&amp;bdt=1041&amp;idt=289&amp;shv=r20210331&amp;cbv=r20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;nras=1&amp;correlator=4094466904240&amp;frm=20&amp;pv=2&amp;ga_vid=607779968.1617575846&amp;ga_sid=1617575847&amp;ga_hid=801737368&amp;ga_fc=0&amp;u_tz=-240&amp;u_his=1&amp;u_java=0&amp;u_h=768&amp;u_w=1366&amp;u_ah=768&amp;u_aw=1366&amp;u_cd=24&amp;u_nplug=0&amp;u_nmime=0&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1356&amp;bih=694&amp;scr_x=0&amp;scr_y=0&amp;eid=44739391%2C44740079%2C44739387&amp;oid=3&amp;pvsid=4258987346731325&amp;pem=340&amp;rx=0&amp;eae=2&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C768%2C1366%2C694&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=8192&amp;bc=31&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=591" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true" frameborder="0"></iframe></ins></ins></ins><iframe id="google_osd_static_frame_4518060518449" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20210331/r20190131/zrt_lookup.html#" style="display: none;" data-ad-client="ca-pub-5766232193552467"></iframe></html>

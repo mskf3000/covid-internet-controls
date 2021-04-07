@@ -1,0 +1,590 @@
+<html><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+    <link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+    <link rel="preconnect" href="https://d5nxst8fruw4z.cloudfront.net">
+    <iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px none; display: none;"></iframe><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://connect.facebook.net/signals/config/948327898593359?v=2.9.33&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/2048643798712666?v=2.9.33&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/273445970234960?v=2.9.33&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NGNJXMW"></script><script type="text/javascript" src="https://static.criteo.net/js/ld/ld.js" defer=""></script>
+<script defer="">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGNJXMW');</script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <title>Alodokter - Info Kesehatan, Booking dan Chat Dokter</title>
+    <meta http-equiv="Pragma" content="public">
+    <meta http-equiv="Cache-Control" content="public">
+
+    <!-- CSS -->
+    <style>
+    @font-face {
+        font-family: 'LatoWeb';
+        src: url("/assets/cms_engine/lato/Lato-Regular-e735410675eacc363b257112f39eb819a854b03077d7b1f0caa6e7660ffbd8b3.eot");
+        /* IE9 Compat Modes */
+        src: url("/assets/cms_engine/lato/Lato-Regular-e735410675eacc363b257112f39eb819a854b03077d7b1f0caa6e7660ffbd8b3.eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+        url("/assets/cms_engine/lato/Lato-Regular-983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f.woff2") format('woff2'), /* Modern Browsers */
+        url("/assets/cms_engine/lato/Lato-Regular-5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e.woff") format('woff'), /* Modern Browsers */
+        url("/assets/cms_engine/lato/Lato-Regular-089ab6d4a57e0e6c4dd3b681b6fd50a5184f1b902429d35e1227e52d6ccad1bd.ttf") format('truetype');
+        font-style: normal;
+        font-display: swap;
+        font-weight: 400;
+        text-rendering: optimizeLegibility;
+    }
+
+    @font-face {
+        font-family: 'LatoWeb';
+        src: url("/assets/cms_engine/lato/Lato-Semibold-9b2fcdcc1c750abe4dc0ae674f83ab8d3aa7b08b38fe3a0e8dd3edf45ee137e4.eot");
+        /* IE9 Compat Modes */
+        src: url("/assets/cms_engine/lato/Lato-Semibold-9b2fcdcc1c750abe4dc0ae674f83ab8d3aa7b08b38fe3a0e8dd3edf45ee137e4.eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+        url("/assets/cms_engine/lato/Lato-Semibold-30f77a5ff0bcba46d4e760b0c939a5ff112da0d3ddd13a261834134e00cc21c7.woff2") format('woff2'), /* Modern Browsers */
+        url("/assets/cms_engine/lato/Lato-Semibold-d7e887f5ff038daf96c38a10a671409836af9511895da989931aaaa3c18e274f.woff") format('woff'), /* Modern Browsers */
+        url("/assets/cms_engine/lato/Lato-Semibold-ec99896795389d4288aa0dc8657f77f19d0832c3b714b67bc61ce8695e05b1d9.ttf") format('truetype');
+        font-style: normal;
+        font-display: swap;
+        font-weight: 600;
+        text-rendering: optimizeLegibility;
+    }
+
+    @font-face {
+        font-family: 'LatoWeb';
+        src: url("/assets/cms_engine/lato/Lato-Bold-b91fc1ca55df440dc11354b32a39b45db663d24bb17b16dcb2e706330955b0d1.eot");
+        /* IE9 Compat Modes */
+        src: url("/assets/cms_engine/lato/Lato-Bold-b91fc1ca55df440dc11354b32a39b45db663d24bb17b16dcb2e706330955b0d1.eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+        url("/assets/cms_engine/lato/Lato-Bold-ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6.woff2") format('woff2'), /* Modern Browsers */
+        url("/assets/cms_engine/lato/Lato-Bold-0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e.woff") format('woff'), /* Modern Browsers */
+        url("/assets/cms_engine/lato/Lato-Bold-f71f833c099f450606f8107b83ef208ae918c0ea00779466d45e9be96b0bc7cc.ttf") format('truetype');
+        font-style: normal;
+        font-display: swap;
+        font-weight: 700;
+        text-rendering: optimizeLegibility;
+    }
+
+    html, body {
+        margin: 0 auto;
+        font-family: "LatoWeb", sans-serif;
+        font-size: 16px;
+        color: #3b3738;
+        line-height: 1.44;
+        font-weight: 400;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+        -moz-font-feature-settings: "liga" on;
+      }
+
+    input{
+       font-family: "LatoWeb", sans-serif !important;
+    }
+
+      ::placeholder {
+        color: #dadee4;
+      }
+
+      /* GLOBAL CSS */
+      .container-fluid {
+        width: 1340px;
+        margin: 0 auto;
+        padding: 0;
+      }
+
+      .container {
+        width: 1000px;
+        margin: 0 auto;
+        padding: 0;
+        display:flex;
+        justify-content: space-between;
+      }
+
+      blockquote {
+        box-sizing: border-box;
+        margin: 1.5em 0px;
+        padding: 0 8px;
+        border-left: 4px solid #3570d2;
+        font-weight: bold;
+      }
+
+      .main-container {
+        width: 667px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        padding-top: 45px;
+      }
+
+      .side-container {
+        width: 300px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        padding-top: 45px;
+      }
+
+      .dfp-container {
+        margin-bottom: 20px;
+      }
+
+      .post-index-title{color:#000;}
+
+      .post-content {
+        line-height: 1.7;
+      }
+
+      .post-content a {
+          color: #3570d2;
+        }
+
+      .search-tag-container{
+        margin: 20px 0px;
+      }
+      .adunit {
+        margin-bottom: 20px;
+      }
+      .search-result-view {
+        font-size: 22px;
+        font-weight: bold;
+        line-height: 1.55;
+        margin: 45px 0 -35px 0;
+      }
+      .h2-related{
+        font-size: 24px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.42;
+        letter-spacing: normal;
+        color: #000000;
+        margin-top: 20px;
+        margin-bottom: 12px;
+      }
+      .h2-related-article{
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.32;
+        letter-spacing: -0.3px;
+        margin: 0;
+        margin-bottom: 20px;
+        color: #000;
+      }
+      .post-index-inner {
+          display: flex;
+          padding: 16px 0px 8px;
+      }
+      .post-index-image-container {
+          width: 300px;
+          margin-right: 25px;
+          height: 155px;
+          border-radius: 3px;
+      }
+      .loading {
+        position: relative;
+        background-color: #E2E2E2;
+      }
+      .post-index-content-container {
+          width: calc(100% - 92px);
+          height: 155px;
+          border-radius: 3px;
+      }
+
+      .trending-now-main-container{
+          width: 1000px;
+          margin: 0 auto;
+          padding: 0;
+          display: flex;
+          justify-content: space-between;
+      }
+
+      .trending-now-inner-container{
+          width: 667px;
+      }
+
+      .trending-now-image-container{
+        width: 667px;
+        margin: 70px 0 5px;
+        height: 336px;
+        border-radius: 3px;
+      }
+      .trending-now-content-container{
+        width: 667px;
+        margin: 20px 0 0 0;
+        height: 99px;
+        border-radius: 3px;
+      }
+
+      .hero-container{
+        height: 552px;
+        border-radius: 3px;
+        background-color: #E2E2E2;
+      }
+
+      .hero-content-inner {
+        height: 450px;
+        width: 1000px;
+        border-radius: 3px;
+      }
+
+      .hero-content-list {
+        display: flex;
+        background-color: #ffffff;
+        margin : 0 auto
+      }
+      .hero-content-list-inner{
+        width: 1000px;
+        display: flex;
+        margin: 10px auto;
+      }
+
+      .hero-content-icon {
+        width: 211px;
+        height: 80px;
+        background-color: #e2e2e2;
+        margin: 0 auto;
+      }
+
+      @media only screen and (max-width: 1340px) {
+          .content-inner {
+            width: 1340px;
+          }
+        }
+</style>
+
+    <!-- CSS -->
+
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5">
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="/assets/cms_engine/favicon-ceb59d400927f792b36ef791c3c2b8ce7a5e62df114a75d95b6b75d58076c6bc.ico">
+<link rel="icon" type="image/png" href="/assets/cms_engine/favicon-16x16-46bf9957223d4c890754803399233819115dce25e4c76f81a09c6d53651821ca.png">
+<link rel="icon" type="image/png" href="/assets/cms_engine/favicon-32x32-ebd4fc63e86204c7e18caff7fb3fc1d929253daca92d814d64f52df111e6344f.png">
+<link rel="icon" type="image/png" href="/assets/cms_engine/android-chrome-192x192-fbe9a22f2fc74b52818c962ab91b40031f1e6dd2d614f376eb1efcc03c5bba0b.png" sizes="192x192">
+<link rel="apple-touch-icon" type="image/png" href="/assets/cms_engine/apple-touch-icon-49502c5cda884df7e0a5765fcabe5d5d7fa3082a528f70bc094eae17c0bbbbc0.png" sizes="180x180">
+<link rel="manifest" href="/assets/cms_engine/webmanifest-6fd6d99ef66b541c48449962afdb8342cacc00c296fa27e6d9c20dcbcd94036e.json">
+
+<meta name="apple-mobile-web-app-title" content="Alodokter">
+<meta name="application-name" content="Alodokter">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="apple-mobile-web-app-status-bar-style" content="#3973cf">
+<meta name="theme-color" content="#3973cf">
+
+<meta name="alexaVerifyID" content="n_Kykr_OZlOYYRDisl_bHGZYccc">
+<meta name="google-site-verification" content="j8xshrH7uBo3AEjk-HfjufpapvzwkNHw57NXFN3G07Y">
+<meta name="msvalidate.01" content="C233DAA628883F2DD70CD54C789D0494">
+<meta name="criteo_account" content="62444">
+<meta name="description" content="App Kesehatan No.1 Di Indonesia. Dapatkan Info Kesehatan Terkini &amp;amp; Terlengkap, Fasilitas Online Booking Rumah Sakit &amp;amp; Dokter, Chat Bersama Dokter, Gratis!">
+<meta name="keywords" content="alodokter, kesehatan, medis, penyakit, komunitas kesehatan, dokter, konsultasi kesehatan, informasi kesehatan, komunitas, diskusi kesehatan">
+
+<meta property="fb:app_id" content="331705120345014">
+<meta property="og:site_name" content="Alodokter">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Alodokter - Info Kesehatan, Booking dan Chat Dokter">
+<meta property="og:url" content="https://www.alodokter.com">
+<meta property="og:description" content="App Kesehatan No.1 Di Indonesia. Dapatkan Info Kesehatan Terkini &amp;amp; Terlengkap, Fasilitas Online Booking Rumah Sakit &amp;amp; Dokter, Chat Bersama Dokter, Gratis!">
+
+<meta property="og:locale" content="en_US">
+<meta property="og:image" itemprop="image" content="https://www.alodokter.com/wp-content/uploads/2014/07/dokter-indonesia-alodokter.jpg">
+
+<meta property="og:image:width" content="650">
+<meta property="og:image:height" content="433">
+<meta property="og:image:type" content="image/jpeg">
+
+<link rel="canonical" href="https://www.alodokter.com">
+<meta name="referer" content="http://www.google.com">
+<meta name="platform" content="Desktop">
+
+    <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Alodokter",
+  "url": "https://www.alodokter.com",
+  "logo": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1532655371/3669156ccbf6b6fa159776f00e2dca9432c0f183_kdsyjs.png",
+  "sameAs": [
+    "https://www.facebook.com/alodokter",
+    "https://www.instagram.com/alodokter_id",
+    "https://www.youtube.com/channel/UCVlQXBPDCbz5YES_gBpC1rg",
+    "https://www.twitter.com/alodokter",
+    "https://plus.google.com/+Alodokter-com",
+    "https://www.linkedin.com/company/alodokter"
+  ]
+}
+</script>
+
+
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="x0Su9OqMXRBqibNr578eZ6nMEy0N3Tbpf65x8LbPETN3d4zD6NDJfyojTZe5NyJpm6xWwA28FkC7MndkEmRpYg==">
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    setTimeout(function(){
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+        (window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '948327898593359');
+        fbq('track', "PageView");
+    }, 3500);
+    </script>
+    <!-- <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=948327898593359&ev=PageView&noscript=1"/></noscript> -->
+    <!-- End Facebook Pixel Code -->
+
+    <!-- GA -->
+    <script type="text/javascript">
+        function initExperiment(ExperimentID, callback){if (!ExperimentID){return callback(null);}var r=false; var s=document.createElement('script'); s.type='text/javascript'; s.src='//www.google-analytics.com/cx/api.js?experiment='+ExperimentID; s.onload=function(){if (!r && (!this.readyState || this.readyState=='complete')){r=true; callback(cxApi.chooseVariation());}else{callback(null)}}; s.onerror=function(){callback(null)}; var t=document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);}
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-52179504-1', 'alodokter.com');
+        ga('require', 'displayfeatures');
+
+        window.GAPageType = 'General';
+        
+        initExperiment(window.ExperimentID, function(variation) {
+            if (variation !== null) {
+                window.ExperimentReady = true;
+                window.ExperimentVariation = variation;
+                ga('set', 'expId', window.ExperimentID);
+                ga('set', 'expVar', window.ExperimentVariation);
+            }
+            ga('send', 'pageview');
+            ga('send', 'event', 'Scroll Depth', GAPageType, '0%');
+        });
+    </script>
+    <!-- GA -->
+
+    <!-- Google Optimize A/B Test -->
+    <script async="" src="https://www.googleoptimize.com/optimize.js?id=OPT-PNHP4ZZ"></script>
+
+    <!-- Google Tag -->
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <!-- Google Tag -->
+
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct:"2x5el1aUUYj05T", domain:"alodokter.com",dynamic: true};(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <!--<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=2x5el1aUUYj05T" style="display:none" height="1" width="1" alt="" /></noscript>-->
+
+    <script src="/assets/cms_engine/custom-elements-es5-adapter-8c38dd9f2e16de3af85d83b3567ad32138ea58f33ec1412f607f10acf62ae652.js" defer="defer"></script>
+
+                          <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="XTSQY-XVW4X-ECLU2-K473Q-M3X9N",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"XTSQY-XVW4X-ECLU2-K473Q-M3X9N",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="qeky3fixbzljeydkfexa-f-9f1c0e3ca-clientnsv4-s.akamaihd.net",i={"ak.v":"31","ak.cp":"959896","ak.ai":parseInt("615235",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"h2","ak.rid":"1381e87c","ak.r":38086,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"129.21.141.0","ak.cport":33140,"ak.gh":"23.14.86.142","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1617570094","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==YEMDsQ5EYgJ78YMOIegJLwdUAGdFrCMpl7FD6T/MFuoolySOWqU1lnm+OH096ZZwd6L49RgZIbPrRI2CG2leSPDm1lSG7ReQuNMhcEfSctd5tNRCq5UjcxiUKnnMJvvUEFn02WjGluKxsSx4ACNG/yvfAhcrCYvjiKRnDvVJ+04Iik/9qQ7Tp7fCE8QP1YApNLOQEuIIEthrofdGTnExE+3vH+3G9+TZVm+WPApO889Lj9Srp1PEKv9qZ2K/J1wGXRBOr+o2ZWHiePSt/s3MV2lYMioJ2mVRn1xI+oAigMxLPHlR583euvVsAlWEFVbXr/ahCtZ0GACBG87xK5U7ScbminSfttDqVL07qJorX4YPKmVxVn449F1myE9o53aFnhgwsigPn4RSlKr5lqMdy+4N5HQHKE5bsLSuMCcamYM=","ak.pv":"10","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021032202.js" async=""></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.alodokter.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.alodokter.com"></script></head>
+<body>
+    <!-- <message-bar id="messageBar"></message-bar> -->
+    <!-- HEADER -->
+    
+
+
+    <top-navbar-view id="top-navbar-view" user-photo="" is-show-kemenkes="{&quot;kemenkes_partnership&quot;:true,&quot;kemenkes_top_bar_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586845718/kemenkes.png&quot;,&quot;kemenkes_bottom_banner_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404769/dev/kemenkes/1586404767.png&quot;,&quot;kemenkes_top_bar_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586845764/kemenkes_mobile_top_bar.png&quot;,&quot;kemenkes_bottom_banner_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404887/dev/kemenkes/1586404881.png&quot;}" user-login="" user-fullname="" total-notif="0" doctor-editor-link="" user-link=""></top-navbar-view>
+
+
+    <!-- HEADER -->
+    
+    <div class="content" id="content">
+            
+            <script src="/packs/home-page-1c2d39e18555af1a06f0.js" defer="defer"></script>
+            <hero-view is-display-insurance-link="true">
+            </hero-view>
+            <sub-navbar></sub-navbar>
+        <div class="content-inner">
+            <div class="container" id="container">
+                <script type="text/javascript">
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/38162042/d_home_sidebar_300x600', [300, 600], 'div-gpt-ad-1428907644705-3').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_home_sidebar_below_300x600', [300, 600], 'div-gpt-ad-1448859288233-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_home_sidebar_third_300x600', [300, 600], 'div-gpt-ad-1461741108478-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_home_sidebar_middle_300x250', [300, 250], 'div-gpt-ad-1442888492994-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_homepage_html_video_sidebar_above', [300, 250], 'div-gpt-ad-1483519785947-0').addService(googletag.pubads());
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });    
+</script>
+<div class="main-container" style="padding: 0 0 0 0;">
+<link-button-corona href="https://corona.alodokter.com/cek-risiko-tertular-virus-corona-gratis" widget-image="https://res.cloudinary.com/dk0z4ums3/image/upload/v1616244824/aloweb_assets/alodokter-cek-risiko-corona.png" type="link-corona" image-background="icon_doctor" value="">
+</link-button-corona>
+    
+        <!-- TRENDING NOW -->
+        <trending-now url-path="/ternyata-tidak-sulit-mengatasi-stres" title="Jangan Biarkan Berlarut-Larut, Inilah 6 Cara Mudah Mengatasi Stres" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_667,h_336,c_fill/v1617156408/attached_image/ternyata-tidak-sulit-mengatasi-stres.jpg" category="Hidup Sehat " category-label="hidup-sehat" short-description="Hampir setiap orang pernah mengalami stres. Namun, kondisi ini tidak boleh dibiarkan berlarut-larut. Agar stres tidak terus berlanjut sampai menimbulkan..."></trending-now>
+        <!-- TRENDING NOW -->
+
+    <!-- LAST POST -->
+    
+        <card-post-index url-path="/elektromiografi-ini-yang-harus-anda-ketahui" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1617510651/attached_image/elektromiografi-ini-yang-harus-anda-ketahui.jpg" category="Kesehatan" label="kesehatan" title="Elektromiografi, Ini yang Harus Anda Ketahui" short-description="Elektromiografi (EMG) atau elektromiogram adalah prosedur pemeriksaan untuk mengukur atau merekam aktivitas listrik otot dan..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/penggunaan-obat-avifavir-untuk-covid-19" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1617169012/attached_image/penggunaan-obat-avifavir-untuk-covid-19.jpg" category="Kesehatan" label="kesehatan" title="Penggunaan Obat Avifavir untuk COVID-19" short-description="Badan Pengawas Obat dan Makanan (BPOM) telah menerbitkan izin penggunaan darurat atau emergency use of..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/bunda-ketahui-sederet-makanan-yang-mengandung-nutrisi-alami-untuk-si-kecil-di-sini" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616992987/attached_image/bunda-ketahui-sederet-makanan-yang-mengandung-nutrisi-alami-untuk-si-kecil-di-sini.jpg" category="Keluarga" label="keluarga" title="Bunda, Ketahui Sederet Makanan yang Mengandung Nutrisi Alami untuk Si Kecil di Sini" short-description="Memberikan makanan yang mengandung nutrisi alami kepada anak sangatlah penting, karena nutrisi ini memiliki peranan..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/ayah-lakukan-hal-ini-bila-bunda-mengalami-baby-blues" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616995423/attached_image/ayah-lakukan-hal-ini-bila-bunda-mengalami-baby-blues.jpg" category="Keluarga" label="keluarga" title="Ayah, Lakukan Hal Ini Bila Bunda Mengalami Baby Blues" short-description="Peran Ayah saat Bunda mengalami baby blues sangatlah penting. Sebagai seorang suami dan orang terdekat..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/pilihan-makanan-tinggi-kalsium-untuk-anak" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616994476/attached_image/pilihan-makanan-tinggi-kalsium-untuk-anak.jpg" category="Keluarga" label="keluarga" title="Pilihan Makanan Tinggi Kalsium untuk Anak" short-description="Kalsium merupakan salah satu nutrisi penting bagi tumbuh kembang dan kesehatan anak. Agar kebutuhan kalsium..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/diabetes-gestasional-apa-bahayanya-bagi-ibu-hamil-dan-bayi" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616993638/attached_image/diabetes-gestasional-apa-bahayanya-bagi-ibu-hamil-dan-bayi.jpg" category="Kesehatan" label="kesehatan" title="Diabetes Gestasional, Apa Bahayanya bagi Ibu Hamil dan Bayi?" short-description="Ibu hamil yang gemar mengonsumsi makanan dan minuman manis harus waspada dengan penyakit diabetes gestasional...." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/8-manfaat-buah-raspberry-untuk-kesehatan" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616992049/attached_image/8-manfaat-buah-raspberry-untuk-kesehatan.jpg" category="Hidup Sehat" label="hidup-sehat" title="8 Manfaat Buah Raspberry untuk Kesehatan" short-description="Pernahkah kamu mencicipi buah raspberry? Buah dengan rasa manis dan asam yang menyegarkan ini menyimpan..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/berenang-saat-pandemi-covid-19-amankah" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616993100/attached_image/berenang-saat-pandemi-covid-19-amankah.jpg" category="Kesehatan" label="kesehatan" title="Berenang Saat Pandemi COVID-19, Amankah?" short-description="Berenang bisa menjadi salah satu kegiatan untuk relaksasi di tengah padatnya aktivitas. Namun, selama pandemi..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/ct-scan-kepala-ini-yang-harus-anda-ketahui" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616987325/attached_image/ct-scan-kepala-ini-yang-harus-anda-ketahui.jpg" category="Kesehatan" label="kesehatan" title="CT Scan Kepala, Ini yang Harus Anda Ketahui" short-description="CT scan kepala adalah pemeriksaan medis yang menggabungkan teknologi sinar-X dengan sistem komputer untuk menghasilkan..." ga-home="true">
+        </card-post-index>
+        <card-post-index url-path="/ct-scan-kontras-dan-nonkontras-ketahui-perbedaannya" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1616988470/attached_image/ct-scan-kontras-dan-nonkontras-ketahui-perbedaannya.jpg" category="Kesehatan" label="kesehatan" title="CT Scan Kontras dan Nonkontras, Ketahui Perbedaannya" short-description="Perbedaan CT scan kontras dan nonkontras paling mudah dikenali dari persiapan yang dilakukan sebelum menjalani..." ga-home="true" show-article="true">
+        </card-post-index>
+    <!-- LAST POST -->
+
+    <paginate-button next-page="2" prev-page="0" page-url="page/" base-url="/">
+    </paginate-button>
+</div>
+<!-- DFP -->
+<div class="side-container" style="padding: 0 0 0 0;">
+        <div class="dfp-container">
+
+            <!-- /38162042/d_homepage_html_video_sidebar_above -->
+            <div id="div-gpt-ad-1483519785947-0" style="height: 250px; width: 300px; display: none;" class="adunit" data-google-query-id="CJOS1Ji-5e8CFT4IiAkdNlEBXw">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483519785947-0'); });
+                </script>
+            <div id="google_ads_iframe_/38162042/d_homepage_html_video_sidebar_above_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+
+            <!-- /38162042/d_home_sidebar_middle_300x250 -->
+            <div id="div-gpt-ad-1442888492994-0" style="height: 250px; width: 300px; display: none;" class="adunit" data-google-query-id="CJnA1Ji-5e8CFdfZswodC3ULiw">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442888492994-0'); });
+                </script>
+            <div id="google_ads_iframe_/38162042/d_home_sidebar_middle_300x250_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+
+            <!-- /38162042/d_home_sidebar_300x600 -->
+            <div id="div-gpt-ad-1428907644705-3" style="height:600px; width:300px;" class="adunit" data-google-query-id="CNDH1Ji-5e8CFZnIswoddH4BLw">
+                
+            <div id="google_ads_iframe_/38162042/d_home_sidebar_300x600_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/38162042/d_home_sidebar_300x600_0" title="3rd party ad content" name="google_ads_iframe_/38162042/d_home_sidebar_300x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="3" data-load-complete="true" width="300" height="600" frameborder="0"></iframe></div></div>
+
+            <!-- /38162042/d_home_sidebar_below_300x600 -->
+            <div id="div-gpt-ad-1448859288233-0" style="height:600px; width:300px;" class="adunit" data-google-query-id="CPzS1Ji-5e8CFVoGiAkdtVANTw">
+                
+            <div id="google_ads_iframe_/38162042/d_home_sidebar_below_300x600_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/38162042/d_home_sidebar_below_300x600_0" title="3rd party ad content" name="google_ads_iframe_/38162042/d_home_sidebar_below_300x600_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="4" data-load-complete="true" width="300" height="600" frameborder="0"></iframe></div></div>
+            <!-- /38162042/d_home_sidebar_third_300x600 -->
+            <div id="div-gpt-ad-1461741108478-0" style="height: 600px; width: 300px; display: none;" class="adunit" data-google-query-id="CNL_1Ji-5e8CFYMHiAkdDK0ALQ">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461741108478-0'); });
+                </script>
+            <div id="google_ads_iframe_/38162042/d_home_sidebar_third_300x600_0__container__" style="border: 0pt none; width: 300px; height: 600px;"></div></div>
+
+        </div>
+</div>
+<!-- End Center Post Content -->
+
+            </div>
+        </div>
+
+    </div>
+
+     <!-- HEADER -->
+    
+<footer-view is-show-kemenkes="{&quot;kemenkes_partnership&quot;:true,&quot;kemenkes_top_bar_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586845718/kemenkes.png&quot;,&quot;kemenkes_bottom_banner_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404769/dev/kemenkes/1586404767.png&quot;,&quot;kemenkes_top_bar_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586845764/kemenkes_mobile_top_bar.png&quot;,&quot;kemenkes_bottom_banner_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404887/dev/kemenkes/1586404881.png&quot;}"></footer-view>
+    <!-- HEADER -->
+
+    <!-- IRON AJAX -->
+    <!-- IRON AJAX -->
+
+    <script type="text/javascript">
+        document.onreadystatechange = function () {
+            if (document.readyState == "complete"){
+                console.log("ready!");
+                // create cookies previous_url
+                document.cookie = "previous_url=" + window.location.pathname+";path=/";
+            }
+
+            /**
+             * Track depth scroll
+             */
+            var currentDepthScroll = 0;
+
+            function trackDepthScroll() {
+
+                var bottom  = window.pageYOffset + window.innerHeight;
+                var height  = document.body.clientHeight;
+                var percent = (bottom/height)*100;
+                var done25 = false;
+                var done50 = false;
+                var done75 = false;
+                var done100 = false;
+
+                if (percent >= 25 && currentDepthScroll < 25 && done25 == false) {
+                    done25 = true;
+                    currentDepthScroll = 25;
+                    console.log("GA Type : "+ window.GAPageType);
+                    console.log('Scroll Depth 25%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '25%');
+                }
+
+                if (percent >= 50 && currentDepthScroll < 50 && done50 == false) {
+                    done50 = true;
+                    currentDepthScroll = 50;
+                    console.log('Scroll Depth 50%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '50%');
+                }
+
+                if (percent >= 75 && currentDepthScroll < 75 && done75 == false) {
+                    done75 = true;
+                    currentDepthScroll = 75;
+                    console.log('Scroll Depth 75%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '75%');
+                }
+
+                if (percent >= 100 && currentDepthScroll < 99 && done100 == false) {
+                    done100 = true;
+                    currentDepthScroll = 100;
+                    console.log('Scroll Depth 100%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '100%');
+                }
+
+            }
+
+            window.onscroll = function() {
+                trackDepthScroll();
+            }
+        };
+    </script>
+    <script type="text/javascript">
+        (function() {
+            function getScript(url,success){
+                var script=document.createElement('script');
+                script.src=url;
+                var head=document.getElementsByTagName('head')[0],
+                    done=false;
+                script.onload=script.onreadystatechange = function(){
+                    if ( !done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') ) {
+                        done=true;
+                        success();
+                        script.onload = script.onreadystatechange = null;
+                        head.removeChild(script);
+                    }
+                };
+                head.appendChild(script);
+              }
+            // getScript('/assets/cms_engine/application-742159561c00b2c12595557c1de5e10934f0a649281ed00085fb9aa3ae64ead7.js',function(){});
+        })();
+        var page = "";
+        if (page !== ""){
+            document.getElementById("container").style.paddingTop = "45px";
+        }
+    </script>
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGNJXMW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="criteo-tags-div" style="display: none;"><iframe src="https://gum.criteo.com/syncframe?topUrl=www.alodokter.com#{&quot;bundle&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;cw&quot;:true,&quot;lwid&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;optout&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;origin&quot;:&quot;onetag&quot;,&quot;pm&quot;:0,&quot;sid&quot;:{&quot;origin&quot;:0,&quot;value&quot;:null},&quot;tld&quot;:&quot;alodokter.com&quot;,&quot;topUrl&quot;:&quot;www.alodokter.com&quot;,&quot;uid&quot;:null,&quot;version&quot;:&quot;5_6_2&quot;}" id="criteo-syncframe" style="border-width:0px; margin:0px; display:none" title="Criteo GUM iframe" width="0" height="0" frameborder="0"></iframe><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=62444&amp;v=5.6.2&amp;p0=e%3Dce%26m%3D%255B%255D&amp;p1=e%3Dexd%26site_type%3Dd&amp;p2=e%3Dvh&amp;p3=e%3Ddis&amp;adce=1&amp;bundle=Lth8KV9iNzJJUW4zSGFhVThweURJRGxlQ1RzM3ZWc2pCdHYydHJxMDJlSlZGVWdrJTJGa0dOdSUyQm9pMnByUk55TW9xaVNpRENtYm9TdGRHSiUyRnYyaTFlNks1V2VkaXdDM0kwd3IlMkZzZGFHcE02bDFQTVh6eFJiZVhTeVAzNiUyQjlSNUdnJTJCY0Z4Wg&amp;tld=alodokter.com&amp;dtycbr=93617"></script></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","273445970234960");fbq("set","agent","tmgoogletagmanager","273445970234960");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=273445970234960&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2048643798712666");fbq("set","agent","tmgoogletagmanager","2048643798712666");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2048643798712666&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe style="display: none;" title="Criteo DIS iframe" width="0" height="0"></iframe><iframe id="google_osd_static_frame_3693924492190" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>

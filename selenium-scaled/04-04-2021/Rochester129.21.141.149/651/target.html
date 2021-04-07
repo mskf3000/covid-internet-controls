@@ -1,0 +1,493 @@
+<html lang="kr"><head>
+<title>태아어린이보험 비교사이트</title>
+		<meta name="viewport" content="width=360, user-scalable=no">
+		<meta charset="UTF-8">
+		<meta name="format-detection" content="telephone=no">
+		
+		
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.serializeObject/2.0.3/jquery.serializeObject.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+  <script type="text/javascript">
+    jQuery(function($) {
+      $form = $('.pure-form');
+      $form.submit(function(e) {
+        var $this = $(this);
+
+		var f = this;
+
+		if (f.agree.checked == false)
+			{
+				alert('개인정보취급방침에 동의해 주세요.');
+				f.agree.focus();
+				return false;
+			}
+
+			
+				if (f.customer_name.value == "")
+			{
+				alert('이름을 입력해 주세요.');
+				f.customer_name.focus();
+				return false;
+			}
+
+  				if (f.customer_birth.value == "")
+			{
+				alert('생년월일을 입력해 주세요.');
+				f.customer_birth.focus();
+				return false;
+			}
+
+			if (f.mobile23.value.length < 7)
+			{
+				alert('전화번호를 입력해 주세요.');
+				f.mobile23.focus();
+				return false;
+			}
+
+      	var fo_obj = $('.pure-form').get(0);
+		var tel_matches = /^([0-9]{3,4})-?([0-9]{4,4})$/.exec($('#mobile23').val())
+		$('[name=mobile2]').val(tel_matches[1]);
+		fo_obj.mobile3.value = tel_matches[2];
+
+        e.preventDefault();
+
+		$.ajax({
+			type:'get',
+			url:'/wrequest.php',
+		    dataType: 'jsonp',
+			jsonp : 'rich',
+			data : $this.serialize() + '&referer=' + encodeURIComponent(document.referrer),
+			success:function(json){
+				alert('신청 완료되었습니다.') ;
+//				$('#result_encode').html(json.member_id) ;
+            // 여기부터 시작
+
+               reportLog($this.serialize(), status, json.rule_seqno);
+            },
+            error: function(jqXHR, status, errorThrown) {
+                reportLog($this.serialize(), errorThrown, '');
+            }
+        });
+      })
+
+    function reportLog(qs, status, resp) {
+        $.ajax({
+            url: '/log_r.php',
+            type: 'post',
+            data: { qs: qs, status: status, resp: resp }
+        })
+    }
+
+    })
+  </script>
+ 
+<script>
+function na_open_window(name, url, left, top, width, height, toolbar, menubar, statusbar, scrollbar, resizable)
+{
+  toolbar_str = toolbar ? 'yes' : 'no';
+  menubar_str = menubar ? 'yes' : 'no';
+  statusbar_str = statusbar ? 'yes' : 'no';
+  scrollbar_str = scrollbar ? 'yes' : 'no';
+  resizable_str = resizable ? 'yes' : 'no';
+  window.open(url, name, 'left='+left+',top='+top+',width='+width+',height='+height+',toolbar='+toolbar_str+',menubar='+menubar_str+',status='+statusbar_str+',scrollbars='+scrollbar_str+',resizable='+resizable_str);
+}
+
+$(function(){
+	$(".alert").click(function(){
+		alert("왼쪽의 입력창을 입력해주세요.");
+		$("html, body").animate({scrollTop:0},500);
+	});
+});
+
+$(function(){
+	$(".alert2").click(function(){
+		alert("상단의 입력창을 입력해주세요.");
+		$("html, body").animate({scrollTop:0},500);
+		$('#ip_name').focus();
+	});
+});
+</script>
+<script src="/frame/wchild/bxslider.js" type="text/javascript"></script>
+
+<script>
+$(window).load(function(){
+	$('.rolling').bxSlider({
+    slideWidth: $('.rolling li').width(),
+		startSlide:1,
+    mode: 'vertical',
+    pager: false,
+    controls:false,
+    auto: true,
+    minSlides:5,
+    maxSlides:5,
+    moveSlides:1,
+    infiniteLoop: true,
+    autoHover: false,
+    speed: 200,
+    pause: 500,
+    tickerHover:false,
+    touchEnabled:false
+	
+  });
+});
+
+</script>
+
+<script>
+$(document).ready(function() {
+	$('.rolling2').bxSlider({
+    slideWidth: $('.rolling2 li').width(),
+		startSlide:1,
+    pager: false,
+    controls:true,
+    auto: true,
+    minSlides:5,
+    maxSlides:5,
+	slideMargin: 12,
+    moveSlides:1,
+    infiniteLoop: true,
+    autoHover: false,
+    pause: 500,
+    tickerHover:false,
+    touchEnabled:false
+  });
+});
+
+</script>
+
+<script> 
+$(document).ready(function() { 
+	$("input:checkbox").on('click', function() { 
+		if ( $(this).prop('checked') ) { 
+			$(this).parent().addClass("selected"); 
+			$('.labelAfterCheckBox').css('background','#df0615');
+			$('.labelAfterCheckBox').css('color','#fff');
+		} else { 
+			$(this).parent().removeClass("selected"); 
+			$('.labelAfterCheckBox').css('background','#fff');
+			$('.labelAfterCheckBox').css('color','#000');
+			} 
+		}); 
+	}); 
+</script>
+
+		<link rel="stylesheet" href="/frame/wchild/Img/reset.css">
+		<link rel="stylesheet" href="/frame/wchild/Img/main.css">
+
+
+
+	</head>
+	<body>
+		<div id="wrap">
+			
+			<div class="header" style="">
+				<div class="con">
+					<div class="logo"><a href="./"><img src="/frame/wchild/Img/logo.png" alt="" style=""></a></div>
+					<div class="topImg"><img src="/frame/wchild/Img/topImg.png" alt=""></div>
+				</div>
+			</div>
+
+			<div class="main_content">
+
+				<div class="form_wrap">
+					<div class="con main_top">
+ 
+<div class="alert"></div>						
+<div class="alert2"></div>	
+						<!--//  폼 시작 -->
+	<div class="form_box">
+		<form action="" class="pure-form" method="post" target="actionFrame" name="consult_frm">
+			<input type="hidden" name="mobile2" id="mobile2" value="">
+			<input type="hidden" name="mobile3" id="mobile3" value="">
+			<table class="tbl_form">
+								<colgroup>
+									<col style="width:75px;">
+									<col style="">
+									<col style="width:75px;">
+									<col style="">
+								</colgroup>
+								<tbody>
+						
+								<tr style="">
+									<th style="">이 름</th>
+									<td>
+										<input type="text" class="ip_base" id="ip_name" name="customer_name" value="" placeholder="이름" maxlength="4">
+									</td>
+
+									<th style="width: 104px; padding-left: 22px;">생년월일</th>
+									<td>
+										<input type="tel" class="ip_base" name="customer_birth" value="" placeholder="예) 19870523" checked="checked" maxlength="8">
+									</td>
+								</tr>
+								<tr>
+									<th style="">연락처</th>
+									<td>
+										<div>
+											<span>
+												<select name="mobile1" class="ip_base" style="width:81px; margin-right: 2px;">
+													<option value="010">010</option>
+													<option value="011">011</option>
+													<option value="016">016</option>
+													<option value="017">017</option>
+													<option value="018">018</option>
+													<option value="019">019</option>
+												</select>
+											</span>
+											<span>
+												<input type="tel" class="ip_base" id="mobile23" name="mobile23" value="" placeholder="'-' 제외" maxlength="8" style="width:127px;">
+											</span>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2" style="padding-top: 2px;">
+										<div class="privacy">
+											<input type="checkbox" name="agree" id="aa" checked="checked">
+											<label for="aa" style="cursor:pointer">
+												개인정보수집 및 이용
+											</label>
+											<label class="labelAfterCheckBox" for="aa">동의</label><a style="background: #eeeeed;" href="javascript:na_open_window('win', '/frame/wchild/privacy.php', 0, 0, 780, 600, 0, 0, 0, 1, 1);">보기</a>
+										</div><!-- privacy -->
+									</td>
+								</tr>
+			</tbody></table>
+
+<button type="submit" class="btn_sub" style="width: 244px; height: 117px; display: inline-block; top: 31px; left: 686px;"></button>
+		</form>
+
+	<!-- 가입리스트 -->
+	<div class="real_insu_wrap">
+		<div class="insu_list_area">
+			<div id="realtime_calculation_list">
+				<div class="bx-wrapper" style="max-width: 620px; margin: 0px auto;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 195px;"><ul class="rolling" style="width: auto; position: relative; transition-duration: 0.2s; transform: translate3d(0px, -473px, 0px);"><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">신**</span>
+						<span class="sex">010-OOOO-5009</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">연**</span>
+						<span class="sex">010-OOOO-9921</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">강**</span>
+						<span class="sex">010-OOOO-7822</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">공**</span>
+						<span class="sex">010-OOOO-5473</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">염**</span>
+						<span class="sex">010-OOOO-1549</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+
+					<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">김**</span>
+						<span class="sex">010-OOOO-4292</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">박**</span>
+						<span class="sex">010-OOOO-1564</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">권**</span>
+						<span class="sex">010-OOOO-7668</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">신**</span>
+						<span class="sex">010-OOOO-1292</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">구**</span>
+						<span class="sex">010-OOOO-7232</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">광**</span>
+						<span class="sex">010-OOOO-8786</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">이**</span>
+						<span class="sex">010-OOOO-5450</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">성**</span>
+						<span class="sex">010-OOOO-7547</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">김**</span>
+						<span class="sex">010-OOOO-8824</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">반**</span>
+						<span class="sex">010-OOOO-4541</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">이**</span>
+						<span class="sex">010-OOOO-2256</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">진**</span>
+						<span class="sex">010-OOOO-3302</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">송**</span>
+						<span class="sex">010-OOOO-9084</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">신**</span>
+						<span class="sex">010-OOOO-5009</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">연**</span>
+						<span class="sex">010-OOOO-9921</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">강**</span>
+						<span class="sex">010-OOOO-7822</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">공**</span>
+						<span class="sex">010-OOOO-5473</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						<li style="float: none; list-style: outside none none; position: relative; width: 620px;">
+						<span class="name_new">염**</span>
+						<span class="sex">010-OOOO-1549</span>
+						<span class="age"><i>접수완료</i></span>
+						</li>
+						
+
+					<li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">김**</span>
+						<span class="sex">010-OOOO-4292</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">박**</span>
+						<span class="sex">010-OOOO-1564</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">권**</span>
+						<span class="sex">010-OOOO-7668</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">신**</span>
+						<span class="sex">010-OOOO-1292</span>
+						<span class="age"><i>접수완료</i></span>
+						</li><li style="float: none; list-style: outside none none; position: relative; width: 620px;" class="bx-clone">
+						<span class="name_new">구**</span>
+						<span class="sex">010-OOOO-7232</span>
+						<span class="age"><i>접수완료</i></span>
+						</li></ul></div></div></div>
+		</div>
+	</div>
+	<!--//실시간보험료현황--> 
+
+	<!-- 가입리스트 -->
+	<div class="real_insu_wrap real_insu_wrap2">
+		<div class="insu_list_area">
+			<div id="realtime_calculation_list">
+				<div class="bx-wrapper" style="max-width: 6548px; margin: 0px auto;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 129px;"><ul class="rolling2" style="width: 1215%; position: relative; transition-duration: 0.5s; transform: translate3d(-2028px, 0px, 0px);"><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/6.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/7.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/8.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/9.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/10.png" alt="">
+					</li>
+
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/1.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/2.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/3.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/4.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/5.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/6.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/7.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/8.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/9.png" alt="">
+					</li>
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;">
+						<img src="/frame/wchild/Img/10.png" alt="">
+					</li>
+
+					<li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/1.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/2.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/3.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/4.png" alt="">
+					</li><li style="float: left; list-style: outside none none; position: relative; width: 190.8px; margin-right: 12px;" class="bx-clone">
+						<img src="/frame/wchild/Img/5.png" alt="">
+					</li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div></div>
+		</div>
+	</div>
+	<!--//실시간보험료현황--> 
+
+	</div>
+	<!--//  폼 끝 -->
+
+					</div>
+				</div>
+
+			</div><!-- main_content -->
+
+
+
+			<div class="footer-bg">
+			</div>
+
+			<div class="footer">
+				<div class="con">
+					
+					<span class="copy_s" style="padding:15px 0;"> 
+						<p><b>상호명</b> : 방씨기획 | <b>담당자</b> : 김진호 | <b>사업자등록번호</b> : 188-28-01114 </p>
+						<p><b>주소지</b> :  인천광역시 연수구 송도국제대로 157, 15층 1522호</p>
+						<p>Copyright (c) 2020 방씨기획 All rights reserved.<a style="color:#999; font-weight: 700;" href="javascript:na_open_window('win', '/frame/wchild/privacy2.php', 0, 0, 780, 600, 0, 0, 0, 1, 1);">&nbsp;&nbsp;&nbsp;[개인정보처리방침]</a></p>
+					</span>
+						<div class="flogo" style=""><img src="/frame/wchild/Img/flogo.png" alt=""></div>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+</body></html>

@@ -1,0 +1,349 @@
+<html><head>
+
+    <title>What is your age and gender?</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet" media="screen">
+    <style>
+    	.container { padding-left: 3px; padding-right: 3px; }
+	.footer { color: #777; }
+    	.panel { margin-top: 0px; margin-left: auto; margin-right: auto; max-width: 450px; }
+    	.panel-body { padding: 5px; }
+    	.panel-footer { padding: 10px 0px; }
+    	.exit { margin-top: 0px; margin-right: 0px; }
+    	.option { font-size: 1.4em; font-weight: bold; color: #888888; }
+    	.btn { width: 8.5%; white-space: normal; font-size: 1.2em; line-height: 2em; padding: 0; margin-top: 5px; }
+    	.answer_i_0 { width: 36.5% }
+    	.answer_i_72 { width: 45.9% }
+    	.bth-lg { padding: 0; }
+
+        .btn-survey {
+            color: #fff;
+            background-color: #4899af;
+            border-color: #3fa3bf;
+        }
+        .btn-survey:focus,
+        .btn-survey.focus {
+            color: #fff;
+            background-color: #25849e;
+            border-color: #16586b;
+        }
+        .btn-survey:hover {
+            color: #fff;
+            background-color: #25849e;
+            border-color: #1e7a91;
+        }
+        .btn-survey:active,
+        .btn-survey.active,
+        .open > .dropdown-toggle.btn-survey {
+            color: #fff;
+            background-color: #25849e;
+            border-color: #1e7a91;
+        }
+        .btn-survey:active:hover,
+        .btn-survey.active:hover,
+        .open > .dropdown-toggle.btn-survey:hover,
+        .btn-survey:active:focus,
+        .btn-survey.active:focus,
+        .open > .dropdown-toggle.btn-survey:focus,
+        .btn-survey:active.focus,
+        .btn-survey.active.focus,
+        .open > .dropdown-toggle.btn-survey.focus {
+            color: #fff;
+            background-color: #1e7a91;
+            border-color: #16586b;
+        }
+        .btn-survey:active,
+        .btn-survey.active,
+        .open > .dropdown-toggle.btn-survey {
+            background-image: none;
+        }
+        .btn-survey.disabled:hover,
+        .btn-survey[disabled]:hover,
+        fieldset[disabled] .btn-survey:hover,
+        .btn-survey.disabled:focus,
+        .btn-survey[disabled]:focus,
+        fieldset[disabled] .btn-survey:focus,
+        .btn-survey.disabled.focus,
+        .btn-survey[disabled].focus,
+        fieldset[disabled] .btn-survey.focus {
+            background-color: #4899af;
+            border-color: #3fa3bf;
+        }
+        .btn-survey .badge {
+            color: #4899af;
+            background-color: #fff;
+        }
+        
+        .btn-survey
+        .btn-survey:active
+        .btn-survey.active
+        .btn-survey.disabled
+        .btn-survey[disabled]
+        fieldset[disabled] .btn-survey
+        .btn-survey .badge
+        .btn-survey {
+            background-image: -webkit-linear-gradient(top, #4899af  0%, #1f829e 100%);
+            background-image:      -o-linear-gradient(top, #4899af 0%, #1f829e 100%);
+            background-image: -webkit-gradient(linear, left top, left bottom, from(#4899af), to(#1f829e));
+            background-image:         linear-gradient(to bottom, #4899af 0%, #1f829e 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff4899af', endColorstr='#ff1f829e', GradientType=0);
+            filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+            background-repeat: repeat-x;
+            border-color: #1d7891;
+        }
+        .btn-survey:hover,
+        .btn-survey:focus {
+            background-color: #1f829e;
+            background-position: 0 -15px;
+        }
+        .btn-survey:active,
+        .btn-survey.active {
+            background-color: #1f829e;
+            border-color: #1d7891;
+        }
+        .btn-survey.disabled,
+        .btn-survey[disabled],
+        fieldset[disabled] .btn-survey,
+        .btn-survey.disabled:hover,
+        .btn-survey[disabled]:hover,
+        fieldset[disabled] .btn-survey:hover,
+        .btn-survey.disabled:focus,
+        .btn-survey[disabled]:focus,
+        fieldset[disabled] .btn-survey:focus,
+        .btn-survey.disabled.focus,
+        .btn-survey[disabled].focus,
+        fieldset[disabled] .btn-survey.focus,
+        .btn-survey.disabled:active,
+        .btn-survey[disabled]:active,
+        fieldset[disabled] .btn-survey:active,
+        .btn-survey.disabled.active,
+        .btn-survey[disabled].active,
+        fieldset[disabled] .btn-survey.active {
+            background-color: #1f829e;
+            background-image: none;
+        }
+        
+        .alert-info {
+            color: #2d6782;
+            background-image: -webkit-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
+            background-image:      -o-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
+            background-image: -webkit-gradient(linear, left top, left bottom, from(#d9edf7), to(#b9def0));
+            background-image:         linear-gradient(to bottom, #d9edf7 0%, #b9def0 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9edf7', endColorstr='#ffb9def0', GradientType=0);
+            background-repeat: repeat-x;
+            border-color: #9acfea;
+        }
+
+    	
+        .answer_i_52 { width: 45.9%; }
+        .country_KZ .question_text, .country_BE .question_text {font-size: 1.3em;}
+        .country_LK .question_text {font-size: 1.4em;}
+        
+    </style>
+    <style media="only screen and (min-width: 40em)">
+    	.container { padding-left: 15px; padding-right: 15px; }
+    	.panel { margin-top: 30px; }
+    	.panel-left { float: left; }
+    	.panel-right { float: right; }
+    	.option { font-size: 2em; }
+    	.container { width: 960px; }
+    	
+        .country_KZ .question_text, .country_BE .question_text {font-size: 1.9em;}
+        .country_LK .question_text {font-size: 1.8em;}
+        
+	</style>
+
+	<link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/static/favicon.ico" type="image/x-icon">
+	
+    <!--[if lt IE 9]>
+          <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+  </head>
+  <body dir="ltr" class="country_US tag_1">
+    
+    
+    <div class="container">
+		<a class="exit pull-right" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=thank&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=0_1&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1';return false;">
+			<span class="glyphicon glyphicon-remove"></span>
+		</a><h2 class="question_text text-center">What is your age and gender?</h2><div class="alert alert-info fade in text-center" style="margin: 10px 0 -5px 0;"><a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>Your opinion is important to us. Thank you for your participation.</div>
+	</div>
+    <div class="container">
+	    <div class="panel panel-default panel-left">
+		        <div class="panel-body">
+			        <div class="option option_0 option_first option_i_0 text-center">Male</div>
+		        </div> 
+		        <div class="panel-footer clearfix">
+		            <div class="text-center">
+				    		<a class="answer answer_0 answer_first  answer_i_0 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=under_14&amp;o=male';return false;">&lt; 14</a>
+				    		<a class="answer answer_1   answer_i_1 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=14&amp;o=male';return false;">14</a>
+				    		<a class="answer answer_2   answer_i_2 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=15&amp;o=male';return false;">15</a>
+				    		<a class="answer answer_3   answer_i_3 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=16&amp;o=male';return false;">16</a>
+				    		<a class="answer answer_4   answer_i_4 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=17&amp;o=male';return false;">17</a>
+				    		<a class="answer answer_5   answer_i_5 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=18&amp;o=male';return false;">18</a>
+				    		<a class="answer answer_6   answer_i_6 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=19&amp;o=male';return false;">19</a>
+				    		<a class="answer answer_7   answer_i_7 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=20&amp;o=male';return false;">20</a>
+				    		<a class="answer answer_8   answer_i_8 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=21&amp;o=male';return false;">21</a>
+				    		<a class="answer answer_9   answer_i_9 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=22&amp;o=male';return false;">22</a>
+				    		<a class="answer answer_10   answer_i_10 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=23&amp;o=male';return false;">23</a>
+				    		<a class="answer answer_11   answer_i_11 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=24&amp;o=male';return false;">24</a>
+				    		<a class="answer answer_12   answer_i_12 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=25&amp;o=male';return false;">25</a>
+				    		<a class="answer answer_13   answer_i_13 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=26&amp;o=male';return false;">26</a>
+				    		<a class="answer answer_14   answer_i_14 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=27&amp;o=male';return false;">27</a>
+				    		<a class="answer answer_15   answer_i_15 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=28&amp;o=male';return false;">28</a>
+				    		<a class="answer answer_16   answer_i_16 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=29&amp;o=male';return false;">29</a>
+				    		<a class="answer answer_17   answer_i_17 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=30&amp;o=male';return false;">30</a>
+				    		<a class="answer answer_18   answer_i_18 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=31&amp;o=male';return false;">31</a>
+				    		<a class="answer answer_19   answer_i_19 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=32&amp;o=male';return false;">32</a>
+				    		<a class="answer answer_20   answer_i_20 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=33&amp;o=male';return false;">33</a>
+				    		<a class="answer answer_21   answer_i_21 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=34&amp;o=male';return false;">34</a>
+				    		<a class="answer answer_22   answer_i_22 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=35&amp;o=male';return false;">35</a>
+				    		<a class="answer answer_23   answer_i_23 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=36&amp;o=male';return false;">36</a>
+				    		<a class="answer answer_24   answer_i_24 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=37&amp;o=male';return false;">37</a>
+				    		<a class="answer answer_25   answer_i_25 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=38&amp;o=male';return false;">38</a>
+				    		<a class="answer answer_26   answer_i_26 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=39&amp;o=male';return false;">39</a>
+				    		<a class="answer answer_27   answer_i_27 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=40&amp;o=male';return false;">40</a>
+				    		<a class="answer answer_28   answer_i_28 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=41&amp;o=male';return false;">41</a>
+				    		<a class="answer answer_29   answer_i_29 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=42&amp;o=male';return false;">42</a>
+				    		<a class="answer answer_30   answer_i_30 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=43&amp;o=male';return false;">43</a>
+				    		<a class="answer answer_31   answer_i_31 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=44&amp;o=male';return false;">44</a>
+				    		<a class="answer answer_32   answer_i_32 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=45&amp;o=male';return false;">45</a>
+				    		<a class="answer answer_33   answer_i_33 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=46&amp;o=male';return false;">46</a>
+				    		<a class="answer answer_34   answer_i_34 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=47&amp;o=male';return false;">47</a>
+				    		<a class="answer answer_35   answer_i_35 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=48&amp;o=male';return false;">48</a>
+				    		<a class="answer answer_36   answer_i_36 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=49&amp;o=male';return false;">49</a>
+				    		<a class="answer answer_37   answer_i_37 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=50&amp;o=male';return false;">50</a>
+				    		<a class="answer answer_38   answer_i_38 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=51&amp;o=male';return false;">51</a>
+				    		<a class="answer answer_39   answer_i_39 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=52&amp;o=male';return false;">52</a>
+				    		<a class="answer answer_40   answer_i_40 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=53&amp;o=male';return false;">53</a>
+				    		<a class="answer answer_41   answer_i_41 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=54&amp;o=male';return false;">54</a>
+				    		<a class="answer answer_42   answer_i_42 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=55&amp;o=male';return false;">55</a>
+				    		<a class="answer answer_43   answer_i_43 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=56&amp;o=male';return false;">56</a>
+				    		<a class="answer answer_44   answer_i_44 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=57&amp;o=male';return false;">57</a>
+				    		<a class="answer answer_45   answer_i_45 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=58&amp;o=male';return false;">58</a>
+				    		<a class="answer answer_46   answer_i_46 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=59&amp;o=male';return false;">59</a>
+				    		<a class="answer answer_47   answer_i_47 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=60&amp;o=male';return false;">60</a>
+				    		<a class="answer answer_48   answer_i_48 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=61&amp;o=male';return false;">61</a>
+				    		<a class="answer answer_49   answer_i_49 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=62&amp;o=male';return false;">62</a>
+				    		<a class="answer answer_50   answer_i_50 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=63&amp;o=male';return false;">63</a>
+				    		<a class="answer answer_51   answer_i_51 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=64&amp;o=male';return false;">64</a>
+				    		<a class="answer answer_52  answer_last answer_i_52 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=65_and_over&amp;o=male';return false;">65+</a>
+		            </div>
+		        </div>
+	    </div>
+	    <div class="panel panel-default panel-right">
+		        <div class="panel-body">
+			        <div class="option option_1 option_last option_i_1 text-center">Female</div>
+		        </div> 
+		        <div class="panel-footer clearfix">
+		            <div class="text-center">
+				    		<a class="answer answer_0 answer_first  answer_i_0 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=under_14&amp;o=female';return false;">&lt; 14</a>
+				    		<a class="answer answer_1   answer_i_1 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=14&amp;o=female';return false;">14</a>
+				    		<a class="answer answer_2   answer_i_2 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=15&amp;o=female';return false;">15</a>
+				    		<a class="answer answer_3   answer_i_3 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=16&amp;o=female';return false;">16</a>
+				    		<a class="answer answer_4   answer_i_4 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=17&amp;o=female';return false;">17</a>
+				    		<a class="answer answer_5   answer_i_5 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=18&amp;o=female';return false;">18</a>
+				    		<a class="answer answer_6   answer_i_6 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=19&amp;o=female';return false;">19</a>
+				    		<a class="answer answer_7   answer_i_7 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=20&amp;o=female';return false;">20</a>
+				    		<a class="answer answer_8   answer_i_8 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=21&amp;o=female';return false;">21</a>
+				    		<a class="answer answer_9   answer_i_9 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=22&amp;o=female';return false;">22</a>
+				    		<a class="answer answer_10   answer_i_10 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=23&amp;o=female';return false;">23</a>
+				    		<a class="answer answer_11   answer_i_11 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=24&amp;o=female';return false;">24</a>
+				    		<a class="answer answer_12   answer_i_12 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=25&amp;o=female';return false;">25</a>
+				    		<a class="answer answer_13   answer_i_13 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=26&amp;o=female';return false;">26</a>
+				    		<a class="answer answer_14   answer_i_14 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=27&amp;o=female';return false;">27</a>
+				    		<a class="answer answer_15   answer_i_15 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=28&amp;o=female';return false;">28</a>
+				    		<a class="answer answer_16   answer_i_16 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=29&amp;o=female';return false;">29</a>
+				    		<a class="answer answer_17   answer_i_17 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=30&amp;o=female';return false;">30</a>
+				    		<a class="answer answer_18   answer_i_18 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=31&amp;o=female';return false;">31</a>
+				    		<a class="answer answer_19   answer_i_19 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=32&amp;o=female';return false;">32</a>
+				    		<a class="answer answer_20   answer_i_20 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=33&amp;o=female';return false;">33</a>
+				    		<a class="answer answer_21   answer_i_21 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=34&amp;o=female';return false;">34</a>
+				    		<a class="answer answer_22   answer_i_22 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=35&amp;o=female';return false;">35</a>
+				    		<a class="answer answer_23   answer_i_23 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=36&amp;o=female';return false;">36</a>
+				    		<a class="answer answer_24   answer_i_24 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=37&amp;o=female';return false;">37</a>
+				    		<a class="answer answer_25   answer_i_25 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=38&amp;o=female';return false;">38</a>
+				    		<a class="answer answer_26   answer_i_26 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=39&amp;o=female';return false;">39</a>
+				    		<a class="answer answer_27   answer_i_27 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=40&amp;o=female';return false;">40</a>
+				    		<a class="answer answer_28   answer_i_28 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=41&amp;o=female';return false;">41</a>
+				    		<a class="answer answer_29   answer_i_29 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=42&amp;o=female';return false;">42</a>
+				    		<a class="answer answer_30   answer_i_30 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=43&amp;o=female';return false;">43</a>
+				    		<a class="answer answer_31   answer_i_31 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=44&amp;o=female';return false;">44</a>
+				    		<a class="answer answer_32   answer_i_32 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=45&amp;o=female';return false;">45</a>
+				    		<a class="answer answer_33   answer_i_33 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=46&amp;o=female';return false;">46</a>
+				    		<a class="answer answer_34   answer_i_34 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=47&amp;o=female';return false;">47</a>
+				    		<a class="answer answer_35   answer_i_35 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=48&amp;o=female';return false;">48</a>
+				    		<a class="answer answer_36   answer_i_36 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=49&amp;o=female';return false;">49</a>
+				    		<a class="answer answer_37   answer_i_37 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=50&amp;o=female';return false;">50</a>
+				    		<a class="answer answer_38   answer_i_38 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=51&amp;o=female';return false;">51</a>
+				    		<a class="answer answer_39   answer_i_39 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=52&amp;o=female';return false;">52</a>
+				    		<a class="answer answer_40   answer_i_40 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=53&amp;o=female';return false;">53</a>
+				    		<a class="answer answer_41   answer_i_41 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=54&amp;o=female';return false;">54</a>
+				    		<a class="answer answer_42   answer_i_42 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=55&amp;o=female';return false;">55</a>
+				    		<a class="answer answer_43   answer_i_43 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=56&amp;o=female';return false;">56</a>
+				    		<a class="answer answer_44   answer_i_44 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=57&amp;o=female';return false;">57</a>
+				    		<a class="answer answer_45   answer_i_45 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=58&amp;o=female';return false;">58</a>
+				    		<a class="answer answer_46   answer_i_46 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=59&amp;o=female';return false;">59</a>
+				    		<a class="answer answer_47   answer_i_47 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=60&amp;o=female';return false;">60</a>
+				    		<a class="answer answer_48   answer_i_48 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=61&amp;o=female';return false;">61</a>
+				    		<a class="answer answer_49   answer_i_49 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=62&amp;o=female';return false;">62</a>
+				    		<a class="answer answer_50   answer_i_50 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=63&amp;o=female';return false;">63</a>
+				    		<a class="answer answer_51   answer_i_51 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=64&amp;o=female';return false;">64</a>
+				    		<a class="answer answer_52  answer_last answer_i_52 btn btn-survey btn-lg" href="javascript:void(0);" onclick="javascript:window.location.href='/v3/s?q=raas.econ.q00_age_gender&amp;t=1&amp;c=US&amp;pl=&amp;al=&amp;ab=&amp;ol=&amp;ob=&amp;s=it-1500&amp;d=altadefinizione01.cool&amp;k=raas.econ&amp;r=&amp;u=&amp;v=&amp;x=&amp;y=&amp;z=&amp;pz=&amp;f=1&amp;a=65_and_over&amp;o=female';return false;">65+</a>
+		            </div>
+		        </div>
+	    </div>
+    </div>
+    <div class="container">
+        <div style="text-align:center">
+            <a class="privacy_link">Privacy Policy</a>
+        </div>
+        <div class="privacy_content">
+        </div>
+    </div>
+
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+            
+                        <script type="text/javascript">
+                        $( document ).ready(function() {
+                               $('.question_text').after('<div class="alert alert-info fade in text-center" style="margin: 10px 0 -5px 0;"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>Your opinion is important to us. Thank you for your participation.</div>')
+                        });
+                    </script>    
+                        
+    
+    <script type="text/javascript">
+       $("a.privacy_link").click(function(){
+           $.get('/get_privacy_policy?c=US',function(data){
+               $('.privacy_content').replaceWith(data);
+           });
+       });
+    </script>
+    <script type="text/javascript">
+        $('.panel-left').mouseover(function() {
+            $(this).find('.option').css('font-weight','bold').css('color','black');
+        }).mouseout(function(){
+            $(this).find('.option').css('font-weight','bold').css('color','#888888');
+        });
+        $('.panel-right').mouseover(function() {
+            $(this).find('.option').css('font-weight','bold').css('color','black');
+        }).mouseout(function(){
+            $(this).find('.option').css('font-weight','bold').css('color','#888888');
+        });
+    </script>
+
+  
+
+</body></html>

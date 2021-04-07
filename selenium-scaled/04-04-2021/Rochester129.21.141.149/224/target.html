@@ -1,0 +1,242 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="renderer" content="webkit"><title>首页</title><script>var ROOT_URL="", OF_URL="/include/of", VIEW_URL="/view";</script><script src="/include/of/att/shortcuts/jquery.js"></script><script src="/include/of/att/shortcuts/L.js"></script><style> .water_mark {background-image: url('/common/lib/image.php') !important;}</style><script path="/data/language/zh_CN" debug="" init="1" src="/include/of/att/language/language.js"></script><script>window.L.getText.init({"class":"index","action":"indexDefault"});</script><link type="text/css" rel="stylesheet" href="/view/style/login_style.css?663ff16"><link type="text/css" rel="stylesheet" href="/view/style/login_reset.css?663ff16"></head><body class="bg"><script language="javascript" charset="UTF-8" src="/common/keepOnline/injectLogin.js"></script>
+<!-- login部分 -->
+ <form id="formfocus" onsubmit="indexLogin.submit();return false;">
+<div class="log">
+<div class="wrapper">
+<div class="login_bg_ots" style="height:300px;background-size: 100% 100%;">
+    <div class="login corner" id="logins">
+       <noscript class="l_wrong"><font>当前浏览器禁用了JavaScript脚本</font></noscript>
+       <div class="login_title">
+            <h3 class="login_title_1">登&nbsp;录</h3>
+       </div>
+       <div class="loginbox">
+		  
+          <div class="conbox">
+              <span class="boxname">账号</span>
+              <div class="l_username corner">
+                   <input id="username" onmouseover="setFocus()" type="text" placeholder="请输入账号">
+              </div>
+          </div>
+          <div class="conbox">
+              <span class="boxname">密码</span>
+              <div class="l_password corner">
+                   <input id="password" type="password" name="textfield" placeholder="请输入密码" readonly="" onfocus="this.removeAttribute('readonly')" value="" autocomplete="off">
+              </div>
+          </div>
+          <div></div>
+		  <div id="captchaDl" class="conbox" style="display: ">
+              <span class="boxname">验证码</span>
+              <div class="captchaDl">
+                  <div class="captchabox corner"><input id="captcha" type="text" placeholder="验证码"></div>
+                  <img id="captchaImg" src="/include/of/index.php?a=captcha&amp;c=of_base_com_common&amp;bgColor=EDF5FF" title="点击刷新" style="cursor:pointer; border:1px solid #EEE;" onclick="this.src = (this.backupSrc || (this.backupSrc = this.src)) + '&amp;t=' + new Date().getTime()">
+              <span id="capital" style="float: right;margin-top: 7px;margin-right: 11px;color: #d9534f;display:none;">大写锁定已开启
+              </span></div>
+          </div>
+          <div class="conbox_autoLogin">
+              <div class="boxname l_language">
+                  <span id="language" class="language"><div class="choose-language"><span class="normal">简体中文</span><div class="bgLayer"></div><ul class="open"><li key="en"><a href="#" onclick="return false">English</a></li><li key="zh_CN"><a href="#" onclick="return false">简体中文</a></li><li key="zh_TW"><a href="#" onclick="return false">繁體中文</a></li></ul><a class="language-btn" href="javascript:" __del="href"></a></div><script>$(".choose-language").hover(function () {
+                        $(".open, .bgLayer").show();
+                    }, function () {
+                        $(".open, .bgLayer").hide();
+                    });
+                    $(".open li").click(function(){
+                        $(".language-btn").click();
+                        window.L.cookie({"of_base_language" : {"name" : $(this).attr("key")}});
+                        window.location.reload();
+                    });</script></span>
+              </div>
+              <div class="l_autoLogin">
+                   <input id="autoLogin" type="checkbox" name="checkbox" value="">
+                   <span class="autoLogin">自动登录</span>
+              </div>
+              <a href="/index.php?a=retrievePassword" class="l_forgotPassword">找回密码</a>
+                             <a href="/index.php?a=registrationUsers" class="l_forgotPassword">注册</a>
+                      </div>
+          <div class="conbox">
+              <div class="boxname"></div>
+              <a href="#" id="login" class="l_enter corner" alt="登录按钮">登&nbsp;&nbsp;录</a>
+          </div>
+          <div></div>
+          <div class="l_hint">
+             <div id="error" class="l_wrong" style="display:;"></div>
+          </div>
+       </div>
+       <input type="submit" onclick="indexLogin.submit(); return false;" style=" position:absolute; left:-1000px; width:0px;">
+    </div>
+</div>
+</div>
+</div>
+       </form>
+
+
+<script>
+    function setFocus(){
+        document.getElementById('username').focus();
+    }
+    //文本框获得焦点
+    setTimeout( function(){
+  try{
+    var t = document.getElementById('username');
+    t.focus();
+    t.select();
+  } catch(e){}
+}, 200);
+var  cookieEnabled=(navigator.cookieEnabled)?  true  :  false;
+if(!cookieEnabled){
+    $('#error').html(L.getText('cookie已被禁用,请开启cookie')).show();
+
+}
+$(function(){
+    $("#loginType").click(function(){
+        $(".login-method").toggle();
+    });
+    $("#login").click(function(){ indexLogin.submit() });
+})
+var indexLogin = {
+    'submit' : function(){
+        var postData = {
+            'loginType' : $('#loginType').attr('type'),
+            'username'  : $.trim($('#username').val()),
+            'password'  : $('#password').val(),
+            'autoLogin' : $('#autoLogin:checked').val() || '',
+            'captcha'   : $.trim($('#captcha').val()) || ''
+        };
+        // var reg1 = /[!@#$%^&*()_?<>{}]{1}/;
+        // var reg2 = /([a-zA-Z0-9!@#$%^&*()_?<>{}]){6,18}/;
+        // var reg3 = /[a-zA-Z]+/;
+        // var reg4 = /[0-9]+/;
+        var password = document.getElementById("password").value;
+        // if (!reg1.test(password) || !reg2.test(password) || !reg3.test(password) || !reg4.test(password)) {
+        //     alert("密码6-18位，需包含一个特殊字符（!@#$%^&*()_?<>{}），数字和字母组合！请及时修改！");
+        //     document.getElementById("password").focus();
+        // }
+        if(postData.username && postData.password)
+        {
+            $("#login").unbind("click");
+            $("#login").html(L.getText('正  在  登  录...'));
+            $.post(window.ROOT_URL + '/index.php?a=requestLogin', postData, function(response){
+                switch(response)
+                {
+                    case '1' :    //成功
+                        window.location.href = window.ROOT_URL + '/index.php?a=indexDefault';
+                        break;
+                    case '1.1' :    //登入成功,跳转到密码修改
+                        window.location.href = window.ROOT_URL + '/user.php?a=changePassword';
+                        break;
+                    case '2' :    //用户名或密码错误
+                        $('#error').html("用户名或密码错误").show();
+                        break;
+                    case '3' :    //需要验证码
+                        $('#captchaDl').show().find('.popup:eq(0)').show();
+                        $('#error').html("请输入验证码").show();
+                        break;
+                    case '4' :    //其他人使用此账号登入
+                        $('#error').html("该账号已在另一台设备上登录").show();
+                        break;
+                    case '5' :    //达到最大登入人数
+                        $('#error').html("当前登录人数已超过系统许可证限定范围，请稍候再试").show();
+                        break;
+                    case '6' :    //用户禁用
+                        $('#error').html("您的用户状态异常，无法正常登陆").show();
+                        break;
+                    case '7':    //用户未审核
+                        $('#error').html("用户未审核").show();
+                        break;
+                    case '8':    //用户名不存在
+                        $('#error').html("用户名不存在").show();
+                        break;
+                    case '9':    //验证码错误
+                        $("#captcha").val('');
+                        $('#error').html("验证码错误,请重新输入！").show();
+                        break;
+                    default  :
+                        window.L.open('tip')("登入发生错误,请联系管理员");
+                }
+                $('#captchaImg').click();
+                $("#login").html(L.getText('登  录'));
+                $("#login").click(function(){ indexLogin.submit() });
+            });
+        } else {
+            $('#error').html("账户密码不能为空").show();
+        }
+    },
+
+    'closeError' : function(thisObj){
+        $(thisObj.parentNode.parentNode.parentNode).hide();
+    },
+    'logintype' :function(thisObj){
+        var type=$(thisObj).attr('type');
+        if(type==="userName"){
+            $('#loginType').attr('type',"userName");
+            $('#loginType').attr('class',"icon");
+        }else if(type==="examCard"){
+            $('#loginType').attr('type',"examCard");
+            $('#loginType').attr('class',"idPort");
+        }
+        $(".login-method").toggle();
+    }
+}
+$('#formfocus input:first').focus();    //第一文本框获得焦点
+// $('#password').keypress(function (event){
+//         var e = event;
+//         var capsLockKey = e.keyCode ? e.keyCode : e.which;
+//         var shifKey = e.shiftKey ? e.shiftKey:((capsLockKey == 16) ? true : false);
+//         if(((capsLockKey >= 65 && capsLockKey <= 90) && !shifKey)||((capsLockKey >= 97 && capsLockKey <= 122) && shifKey)){
+//             document.getElementById('tip').innerHTML = '大写锁定已打开';
+//         }else{
+//             document.getElementById('tip').innerHTML = '';
+//         }
+// })
+    /* 检测输入框的大小写是否开启 lzr */
+    window.onload=function(){
+        function isIE(){
+            if(!!window.ActiveXObject || "ActiveXObject" in window){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+        (function(){
+            var inputPWD=document.getElementById('password');
+            var capital=false;
+            var capitalTip={
+                elem:document.getElementById('capital'),
+                toggle:function(s){
+                    var sy=this.elem.style;
+                    var d=sy.display;
+                    if(s){
+                        sy.display = s;
+                    }
+                    else{
+                        sy.display=d=='none'?'':'none';
+                    }
+                }
+            }
+            var detectCapsLock=function(event){
+                if(capital){return};
+                var e = event||window.event;
+                var keyCode = e.keyCode||e.which;
+                var isShift = e.shiftKey ||(keyCode == 16 ) || false ;
+                if(((keyCode>=65&&keyCode<=90 )&&!isShift)||((keyCode>=97&&keyCode<=122 )&&isShift)){
+                    capitalTip.toggle('block');
+                    capital=true
+                }
+                else{
+                    capitalTip.toggle('none');
+                }
+            }
+            if(!isIE()){
+                inputPWD.onkeypress=detectCapsLock;
+                inputPWD.onkeyup=function(event){
+                    var e = event||window.event;
+                    if(e.keyCode == 20 && capital){
+                        capitalTip.toggle();
+                        return false;
+                    }
+                }
+            }
+        })()
+    }
+</script>
+<script src="/view/js/index/browserCheck.js?663ff16"></script></body></html>
