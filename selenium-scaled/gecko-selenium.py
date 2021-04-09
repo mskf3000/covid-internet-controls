@@ -11,7 +11,8 @@ import errno
 import time
 
 #python get 
-import urllib.request,urllib.error,urllib.parse
+#import urllib.request,urllib.error,urllib.parse
+import requests
 
 #wget get
 import subprocess
@@ -107,7 +108,9 @@ for i in file.readlines():
     try:
         with open(d1+"/"+VPSfolder+"/"+str(targetNum)+"/"+'python_target.html','w') as f:
             url = "http://"+i
-            f.write(urllib.request.urlopen(url).read().decode("utf8"))
+            #f.write(urllib.request.urlopen(url).read().decode("utf8"))
+            #f.write(requests.get(url,verify=False).decode("utf8"))
+            f.write(requests.get(url).text)
     except Exception as a:
         print("(python)Error getting page:"+i+":"+str(a))
         pass
@@ -115,7 +118,9 @@ for i in file.readlines():
     try:
         with open(d1+"/"+VPSfolder+"/"+str(targetNum)+"/"+'python_target_https.html','w') as f:
             url = "https://"+i 
-            f.write(urllib.request.urlopen(url).read().decode("utf8"))
+            #f.write(urllib.request.urlopen(url).read().decode("utf8"))
+            #f.write(requests.get(url,verify=False).decode("utf8"))
+            f.write(requests.get(url).text)
     except Exception as a:
         print("(python)Error getting page:"+i+":"+str(a))
         pass
